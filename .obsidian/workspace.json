@@ -1,64 +1,42 @@
 {
   "main": {
-    "id": "45c2e5ebe070453a",
+    "id": "0198aee8b3d80709",
     "type": "split",
     "children": [
       {
-        "id": "18c2295909f9031c",
+        "id": "5828c64cdd54961d",
         "type": "tabs",
         "children": [
           {
-            "id": "462549e09fd5880c",
+            "id": "e77fc4c87f9ea74c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Obsidian/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffdc142ab034b7e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32d2f4cbe257523e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MM202/MM202 06-03-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 1102.5677195323992,
+                  "y": 338.1563763023568,
+                  "zoom": -1.6031738429283906
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "52d4c12591619ab8",
+    "id": "0a1241aa328ee606",
     "type": "split",
     "children": [
       {
-        "id": "820dcdb27227fe19",
+        "id": "1cbc1f5567623a36",
         "type": "tabs",
         "children": [
           {
-            "id": "eef46d6ccc471343",
+            "id": "a2f278d17f51aefd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +46,7 @@
             }
           },
           {
-            "id": "24d2ff2f8d582834",
+            "id": "c4cb660087fcbbda",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +61,7 @@
             }
           },
           {
-            "id": "5dbb1445e4b8eeb2",
+            "id": "ca02e9b0dfec5a7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +75,20 @@
     "width": 300
   },
   "right": {
-    "id": "b2fe8ed797588f02",
+    "id": "c7877b5943467435",
     "type": "split",
     "children": [
       {
-        "id": "30f2851530ff3e86",
+        "id": "018693256e05570f",
         "type": "tabs",
         "children": [
           {
-            "id": "8c02059030f85a57",
+            "id": "241a2f320eef03a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MM202/MM202 06-03-2024.md",
+                "file": "Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +100,19 @@
             }
           },
           {
-            "id": "609746f36cc6f0a7",
+            "id": "3a59b20e73774583",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MM202/MM202 06-03-2024.md",
+                "file": "Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b80c22f72a70d083",
+            "id": "51be4d47c9db64f1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,21 +123,21 @@
             }
           },
           {
-            "id": "7670a084d6294c36",
+            "id": "cc24b75e9a88c026",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MM202/MM202 06-03-2024.md"
+                "file": "Solitare/Solitare UML.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,25 +146,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "32d2f4cbe257523e",
+  "active": "e77fc4c87f9ea74c",
   "lastOpenFiles": [
-    "Obsidian/TEST 2.md",
-    "Study notes! UwU/Study - Line Integrals.md",
-    "Study notes! UwU",
-    "Solitare/Solitare UML.canvas",
+    "Obsidian",
     "Solitare/Database for solitare.md",
-    "Solitare",
+    "conflict-files-obsidian-git.md",
+    "Obsidian/README.md",
     "MM202/MM202 06-03-2024.md",
+    "Solitare/Solitare UML.canvas",
+    "README.md",
+    "LICENSE",
+    "GIT REPO/Obsidian/README.md",
+    "GIT REPO/Obsidian/LICENSE",
+    "GIT REPO/Obsidian",
+    "GIT REPO",
+    "New folder",
+    "202403251650.md",
+    "202403251651.md",
     "MM202/MM202 19-03-2024.md",
     "MM202",
-    "Obsidian/README.md",
-    "TEST TEST.md",
-    "README.md",
-    "Obsidian",
-    "Welcome.md",
-    "create a link.md"
+    "Untitled.md",
+    "Solitare",
+    "Excalidraw/Drawing 2024-03-25 13.16.15.excalidraw.md",
+    "Excalidraw",
+    "Study notes! UwU/Study - Line Integrals.md",
+    "Mermaid Test.md",
+    "Study notes! UwU",
+    "MM202 - Convergence.md",
+    "2024-03-20.md"
   ]
 }
