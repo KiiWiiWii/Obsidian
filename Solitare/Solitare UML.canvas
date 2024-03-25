@@ -7,7 +7,7 @@
 		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":422,"y":205,"width":1640,"height":330,"color":"3"},
 		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-322,"y":-160,"width":405,"height":190},
 		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-332,"y":-800,"width":426,"height":500},
-		{"id":"a0e882c170147905","type":"text","text":"notes\n----\n\nfor dealing:\n\tloop 7 times\n\tshow first\n\thide rest\n```java\n\nfor (int i = 0; i < 7; i++){\ni=k\nboolean show = true;\nfor (int j = k; j < 7; j++){\ncolumn.key(j).add(deck.poll);\ncolumn.key(j).element(i).show(show)\nshow = false;\n}}\n```\n\n\n---\n```java\n// Assuming 'columns' is a HashMap that associates each column number with a Queue of cards\nfor (int i = 0; i < 7; i++){ // Klondike Solitaire has 7 columns\n    for (int j = i; j < 7; j++){\n        Card cardToDeal = deck.poll(); // Retrieve and remove the card from the deck\n        if (cardToDeal != null) {\n            columns.get(j).add(cardToDeal); // Add the card to the appropriate column queue\n            if (j == i) {\n                cardToDeal.show(true); // Only the last card dealt in the column is shown\n            }\n        }\n    }\n}\n```\n\n","x":1040,"y":-1548,"width":1282,"height":1496,"color":"5"}
+		{"id":"2a84806c51593e34","x":1040,"y":-1720,"width":1222,"height":1560,"type":"file","file":"Solitare/Additional Notes for Solitaire.md"}
 	],
 	"edges":[
 		{"id":"fa6cc3986b6e7619","fromNode":"157a83cdfe99a4bf","fromSide":"top","toNode":"3b8c9b31c8fdd7f3","toSide":"bottom"},
