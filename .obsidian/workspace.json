@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "0198aee8b3d80709",
+    "type": "split",
+    "children": [
+      {
+        "id": "5828c64cdd54961d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77fc4c87f9ea74c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a1241aa328ee606",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cbc1f5567623a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f278d17f51aefd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4cb660087fcbbda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca02e9b0dfec5a7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7877b5943467435",
+    "type": "split",
+    "children": [
+      {
+        "id": "018693256e05570f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241a2f320eef03a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MM202/MM202 06-03-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a59b20e73774583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MM202/MM202 06-03-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51be4d47c9db64f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc24b75e9a88c026",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MM202/MM202 06-03-2024.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "a2f278d17f51aefd",
+  "lastOpenFiles": [
+    "Solutare/Solitare UML.canvas",
+    "README.md",
+    "LICENSE",
+    "GIT REPO/Obsidian/README.md",
+    "GIT REPO/Obsidian/LICENSE",
+    "GIT REPO/Obsidian",
+    "GIT REPO",
+    "New folder",
+    "202403251650.md",
+    "202403251651.md",
+    "MM202/MM202 06-03-2024.md",
+    "MM202/MM202 19-03-2024.md",
+    "MM202",
+    "Solutare/Database for solitare.md",
+    "Untitled.md",
+    "Solutare",
+    "Excalidraw/Drawing 2024-03-25 13.16.15.excalidraw.md",
+    "Excalidraw",
+    "Study notes! UwU/Study - Line Integrals.md",
+    "Mermaid Test.md",
+    "Study notes! UwU",
+    "MM202 - Convergence.md",
+    "2024-03-20.md"
+  ]
+}

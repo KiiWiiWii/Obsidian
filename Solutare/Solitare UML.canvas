@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a733c6d9f0c4445b","type":"text","text":"### Driver\n\n---\nplayerChoice(String)\n\n---\ndisplayChipdeck();\n\t_diff methods for diff games_\ncancelGame();\nupdatePlayer();\n\n","x":-480,"y":-460,"width":680,"height":500},
+		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-312,"y":-720,"width":405,"height":190},
+		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":141,"y":1400,"width":281,"height":480,"color":"1"},
+		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-259,"y":1460,"width":300,"height":360},
+		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-389,"y":680,"width":561,"height":635},
+		{"id":"a72c2eaab2c79615","type":"file","file":"Solutare/Database for solitare.md","x":422,"y":-460,"width":1640,"height":330,"color":"3"},
+		{"id":"a0e882c170147905","type":"text","text":"notes\n----\n\nfor dealing:\n\tloop 7 times\n\tshow first\n\thide rest\n```java\n\nfor (int i = 0; i < 7; i++){\ni=k\nboolean show = true;\nfor (int j = k; j < 7; j++){\ncolumn.key(j).add(deck.poll);\ncolumn.key(j).element(i).show(show)\nshow = false;\n}}\n```\n\n\n---\n```java\n// Assuming 'columns' is a HashMap that associates each column number with a Queue of cards\nfor (int i = 0; i < 7; i++){ // Klondike Solitaire has 7 columns\n    for (int j = i; j < 7; j++){\n        Card cardToDeal = deck.poll(); // Retrieve and remove the card from the deck\n        if (cardToDeal != null) {\n            columns.get(j).add(cardToDeal); // Add the card to the appropriate column queue\n            if (j == i) {\n                cardToDeal.show(true); // Only the last card dealt in the column is shown\n            }\n        }\n    }\n}\n```\n\n","x":2600,"y":-460,"width":1282,"height":1496,"color":"5"},
+		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-322,"y":-1380,"width":426,"height":500}
+	],
+	"edges":[
+		{"id":"fa6cc3986b6e7619","fromNode":"157a83cdfe99a4bf","fromSide":"top","toNode":"3b8c9b31c8fdd7f3","toSide":"bottom"},
+		{"id":"d6c5cb0a7aa2269a","fromNode":"3b8c9b31c8fdd7f3","fromSide":"top","toNode":"a733c6d9f0c4445b","toSide":"bottom"},
+		{"id":"e490a28afb874022","fromNode":"7e145790d178765a","fromSide":"bottom","toNode":"f2becc0066475a4d","toSide":"top"},
+		{"id":"0185ec5dc7631c5e","fromNode":"5fb9cb5b56609d9c","fromSide":"left","toNode":"157a83cdfe99a4bf","toSide":"right"},
+		{"id":"75da64060ccf9f27","fromNode":"f2becc0066475a4d","fromSide":"bottom","toNode":"a733c6d9f0c4445b","toSide":"top"},
+		{"id":"52451c22bf67463b","fromNode":"a733c6d9f0c4445b","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left"},
+		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"top"}
+	]
+}
