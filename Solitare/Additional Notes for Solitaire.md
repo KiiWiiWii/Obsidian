@@ -12,7 +12,7 @@ column.key(j).element(i).show(show)
 show = false;
 }}
 ```
-	^probably wont work, see below solution for more functional code.
+	^probably won't work, see below solution for more functional code.
 Or alternatively:
 
 ```java

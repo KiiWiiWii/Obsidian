@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":141,"y":1400,"width":419,"height":600,"color":"1"},
-		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-389,"y":1460,"width":430,"height":380},
-		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-389,"y":680,"width":561,"height":635},
+		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-389,"y":680,"width":561,"height":720},
 		{"id":"a733c6d9f0c4445b","type":"text","text":"### Driver\n\n---\nplayerChoice(String)\n\n---\ndisplayChipdeck();\n\t_diff methods for diff games_\ncancelGame();\nupdatePlayer();\n\n","x":-449,"y":120,"width":680,"height":500},
-		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":422,"y":205,"width":1640,"height":330,"color":"3"},
-		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-322,"y":-160,"width":405,"height":190},
-		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-332,"y":-800,"width":426,"height":500},
-		{"id":"2a84806c51593e34","x":1040,"y":-1720,"width":1222,"height":1560,"type":"file","file":"Solitare/Additional Notes for Solitaire.md"}
+		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-324,"y":1460,"width":430,"height":380},
+		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-311,"y":-160,"width":405,"height":220},
+		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-322,"y":-760,"width":426,"height":500},
+		{"id":"2a84806c51593e34","type":"file","file":"Solitare/Additional Notes for Solitaire.md","x":2280,"y":-575,"width":1222,"height":1560,"color":"5"},
+		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":320,"y":-240,"width":1640,"height":330,"color":"3"},
+		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":231,"y":1460,"width":419,"height":580,"color":"1"}
 	],
 	"edges":[
 		{"id":"fa6cc3986b6e7619","fromNode":"157a83cdfe99a4bf","fromSide":"top","toNode":"3b8c9b31c8fdd7f3","toSide":"bottom"},
@@ -16,6 +16,6 @@
 		{"id":"0185ec5dc7631c5e","fromNode":"5fb9cb5b56609d9c","fromSide":"left","toNode":"157a83cdfe99a4bf","toSide":"right"},
 		{"id":"75da64060ccf9f27","fromNode":"f2becc0066475a4d","fromSide":"bottom","toNode":"a733c6d9f0c4445b","toSide":"top"},
 		{"id":"52451c22bf67463b","fromNode":"a733c6d9f0c4445b","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left"},
-		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"top"}
+		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left"}
 	]
 }

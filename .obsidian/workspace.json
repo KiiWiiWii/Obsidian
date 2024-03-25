@@ -15,9 +15,9 @@
               "state": {
                 "file": "Solitare/Solitare UML.canvas",
                 "viewState": {
-                  "x": 716.9205986377343,
-                  "y": -132.4884688541912,
-                  "zoom": -1.6869341622308711
+                  "x": 647.3272233377086,
+                  "y": 1891.3274546981174,
+                  "zoom": -1.3426226326222066
                 }
               }
             }
@@ -26,19 +26,15 @@
             "id": "8c5bdce230af877f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Solitare/Solitare UML.canvas",
-                "viewState": {
-                  "x": 1258.4247829414385,
-                  "y": -605.2166906812477,
-                  "zoom": -1.3630934921234854
-                }
+                "file": "Solitare/Additional Notes for Solitaire.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
+                "file": "Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
+                "file": "Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md"
+                "file": "Solitare/Solitare UML.canvas"
               }
             }
           }
@@ -168,11 +164,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8c5bdce230af877f",
+  "active": "e77fc4c87f9ea74c",
   "lastOpenFiles": [
-    "Solitare/Database for solitare.md",
     "Solitare/Additional Notes for Solitaire.md",
     "Solitare/Solitare UML.canvas",
+    "Solitare/Database for solitare.md",
     "Obsidian",
     "conflict-files-obsidian-git.md",
     "Obsidian/README.md",
