@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":141,"y":1400,"width":281,"height":480,"color":"1"},
-		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-259,"y":1460,"width":300,"height":360},
+		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":141,"y":1400,"width":419,"height":600,"color":"1"},
+		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-389,"y":1460,"width":430,"height":380},
 		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-389,"y":680,"width":561,"height":635},
 		{"id":"a733c6d9f0c4445b","type":"text","text":"### Driver\n\n---\nplayerChoice(String)\n\n---\ndisplayChipdeck();\n\t_diff methods for diff games_\ncancelGame();\nupdatePlayer();\n\n","x":-449,"y":120,"width":680,"height":500},
 		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":422,"y":205,"width":1640,"height":330,"color":"3"},
