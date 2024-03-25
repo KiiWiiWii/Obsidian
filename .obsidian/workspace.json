@@ -16,7 +16,7 @@
                 "file": "Solitare/Solitare UML.canvas",
                 "viewState": {
                   "x": 915.5196246927997,
-                  "y": -113.1860836296914,
+                  "y": -606.0261414001376,
                   "zoom": -1.37019299119868
                 }
               }
@@ -149,11 +149,10 @@
       "command-palette:Open command palette": false,
       "copilot:Copilot Chat": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false,
-      "zk-prefixer:Create new unique note": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "e77fc4c87f9ea74c",
+  "active": "cc24b75e9a88c026",
   "lastOpenFiles": [
     "Obsidian",
     "Solitare/Database for solitare.md",

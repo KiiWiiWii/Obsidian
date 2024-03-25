@@ -17,11 +17,7 @@
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
-<<<<<<< HEAD
-  "zk-prefixer": true,
-=======
   "zk-prefixer": false,
->>>>>>> origin/main
   "random-note": false,
   "outline": true,
   "word-count": true,
@@ -29,11 +25,6 @@
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
-<<<<<<< HEAD
   "publish": true,
-  "sync": true
-=======
-  "publish": false,
   "sync": false
->>>>>>> origin/main
 }
