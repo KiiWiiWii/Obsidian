@@ -11,11 +11,28 @@
             "id": "e77fc4c87f9ea74c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Solittare/Database for solitare.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb1c985d27830276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MM202/MM202 06-03-2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MM202/MM202 06-03-2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MM202/MM202 06-03-2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,7 +165,11 @@
   },
   "active": "a2f278d17f51aefd",
   "lastOpenFiles": [
-    "Solutare/Solitare UML.canvas",
+    "Solittare/Database for solitare.md",
+    "conflict-files-obsidian-git.md",
+    "Obsidian/README.md",
+    "MM202/MM202 06-03-2024.md",
+    "Solittare/Solitare UML.canvas",
     "README.md",
     "LICENSE",
     "GIT REPO/Obsidian/README.md",
@@ -158,12 +179,10 @@
     "New folder",
     "202403251650.md",
     "202403251651.md",
-    "MM202/MM202 06-03-2024.md",
     "MM202/MM202 19-03-2024.md",
     "MM202",
-    "Solutare/Database for solitare.md",
     "Untitled.md",
-    "Solutare",
+    "Solittare",
     "Excalidraw/Drawing 2024-03-25 13.16.15.excalidraw.md",
     "Excalidraw",
     "Study notes! UwU/Study - Line Integrals.md",

@@ -14,10 +14,16 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+<<<<<<< HEAD
   "zk-prefixer",
   "outline",
   "word-count",
   "file-recovery",
   "publish",
   "sync"
+=======
+  "outline",
+  "word-count",
+  "file-recovery"
+>>>>>>> origin/main
 ]
