@@ -1,4 +1,5 @@
 {
   "textFontFamily": "Cascadia Code",
-  "baseFontSize": 26
+  "baseFontSize": 26,
+  "accentColor": ""
 }
