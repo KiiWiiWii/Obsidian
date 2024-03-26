@@ -21,8 +21,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "456319ce7f15ac14",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Personal/Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 1206.3659143883715,
+                  "y": 697.3365866174954,
+                  "zoom": -1.3326835799343508
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +176,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a2f278d17f51aefd",
+  "active": "456319ce7f15ac14",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Personal/Solitare/Solitare UML.canvas",
+    "CompSci/Logic/Prop. Logic/Valuations.md",
+    "CompSci/Logic/Prop. Logic/Truth Tables.md",
+    "CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
+    "CompSci/Logic/Prop. Logic/Entailment.md",
+    "CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
+    "CompSci/Logic/Logical Modelling/SAT Solving.md",
+    "CompSci/Logic/Logical Modelling/Package Installations.md",
+    "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
+    "CompSci/Logic/Logical Modelling/Logical Modelling.md",
+    "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
+    "CompSci/Logic/Prop. Logic",
+    "CompSci/Logic/Logical Modelling",
+    "CompSci/Logic",
+    "CompSci/Algorithms/tldr.md",
+    "CompSci/Algorithms/Examples.md",
+    "CompSci/Algorithms/CS208 Algorithms.md",
+    "CompSci/Algorithms",
     "Personal/Solitare/Additional Notes for Solitaire.md",
     "CompSci/CS208 Notes/CS208 Algorithms.md",
     "CompSci/CS208 Notes/Examples.md",
-    "conflict-files-obsidian-git.md",
     "CompSci/CS208 Notes/tldr.md",
     "CompSci/CS208 Notes",
     "Solitare/Additional Notes for Solitaire.md",
@@ -179,24 +212,8 @@
     "Math/MM202/MM202 19-03-2024.md",
     "Math/MM202/MM202 06-03-2024.md",
     "Math/MM202",
-    "Math",
     "MM202/MM202 19-03-2024.md",
     "MM202/MM202 26-03-2024.md",
-    "MM202/MM202 06-03-2024.md",
-    "MM202",
-    "Solitare/Database for solitare.md",
-    "Solitare/Solitare UML.canvas",
-    "Obsidian",
-    "Obsidian/README.md",
-    "README.md",
-    "LICENSE",
-    "GIT REPO/Obsidian/README.md",
-    "202403251650.md",
-    "202403251651.md",
-    "Excalidraw/Drawing 2024-03-25 13.16.15.excalidraw.md",
-    "Study notes! UwU/Study - Line Integrals.md",
-    "Mermaid Test.md",
-    "MM202 - Convergence.md",
-    "2024-03-20.md"
+    "Solitare/Solitare UML.canvas"
   ]
 }
