@@ -9,7 +9,8 @@
 		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nshow();\nhide();","x":287,"y":1620,"width":419,"height":580,"color":"1"},
 		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-311,"y":-200,"width":405,"height":220},
 		{"id":"310b4472d92b2d5e","type":"text","text":"This might be in over our heads, but having the loading screen have checks to load the pngs and shit can be a shout so its more useful than a 'cards go shfshfshfshf'\nLike 'loadasset()' or smth can have a successful = true that the loading screen checks to see if everything went thru but also idk how c++ works so maybe this isnt even needed","x":-1300,"y":-313,"width":718,"height":446,"color":"5"},
-		{"id":"a96ba59816104c1a","x":400,"y":-275,"width":540,"height":590,"type":"text","text":"# PlayerStatHelper();\n---\n"}
+		{"id":"a96ba59816104c1a","x":400,"y":-220,"width":540,"height":590,"type":"text","text":"# PlayerStatHelper();\n---\nPlayer player\n\n---\nloadPlayer();\nsavePlayer();\ncreateAccount();\ndeleteAccount();\nupdateStats();"},
+		{"id":"92343df79fe63707","x":1220,"y":-60,"width":500,"height":500,"type":"text","text":"# Player{}\n\n---\nid:string(uuid)\nusername:String\nnumberOfGames\n---\n"}
 	],
 	"edges":[
 		{"id":"fa6cc3986b6e7619","fromNode":"157a83cdfe99a4bf","fromSide":"top","toNode":"3b8c9b31c8fdd7f3","toSide":"bottom"},
@@ -17,7 +18,8 @@
 		{"id":"e490a28afb874022","fromNode":"7e145790d178765a","fromSide":"bottom","toNode":"f2becc0066475a4d","toSide":"top"},
 		{"id":"0185ec5dc7631c5e","fromNode":"5fb9cb5b56609d9c","fromSide":"left","toNode":"157a83cdfe99a4bf","toSide":"right"},
 		{"id":"75da64060ccf9f27","fromNode":"f2becc0066475a4d","fromSide":"bottom","toNode":"a733c6d9f0c4445b","toSide":"top"},
-		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left","fromEnd":"arrow"},
-		{"id":"5464808645db456f","fromNode":"310b4472d92b2d5e","fromSide":"right","toNode":"f2becc0066475a4d","toSide":"left","color":"5"}
+		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a96ba59816104c1a","toSide":"left","fromEnd":"arrow"},
+		{"id":"5464808645db456f","fromNode":"310b4472d92b2d5e","fromSide":"right","toNode":"f2becc0066475a4d","toSide":"left","color":"5"},
+		{"id":"9d58ee13833234c2","fromNode":"a96ba59816104c1a","fromSide":"top","toNode":"a72c2eaab2c79615","toSide":"bottom","fromEnd":"arrow"}
 	]
 }
