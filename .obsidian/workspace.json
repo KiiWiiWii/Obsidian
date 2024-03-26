@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e08212cd43cfe02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chahine test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chahine test.md",
+                "file": "Solitare/Additional Notes for Solitaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chahine test.md",
+                "file": "Solitare/Additional Notes for Solitaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chahine test.md"
+                "file": "Solitare/Additional Notes for Solitaire.md"
               }
             }
           }
@@ -160,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d05adf04b817de2c",
+  "active": "a8c2c0942927dc82",
   "lastOpenFiles": [
-    "Solitare/Additional Notes for Solitaire.md",
-    "chahine test.md",
     "Solitare/Database for solitare.md",
     "Solitare/Solitare UML.canvas",
+    "Solitare/Additional Notes for Solitaire.md",
+    "chahine test.md",
     "Solitare",
     "Obsidian/Solitare/Solitare UML.canvas",
     "Obsidian/Solitare/Database for solitare.md",
