@@ -1,6 +1,7 @@
 {
   "textFontFamily": "Cascadia Code",
-  "baseFontSize": 26,
+  "baseFontSize": 24,
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }

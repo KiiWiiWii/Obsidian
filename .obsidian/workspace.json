@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5828c64cdd54961d",
+        "id": "b418d14349b93fbc",
         "type": "tabs",
         "children": [
           {
-            "id": "8c5bdce230af877f",
+            "id": "0399c5324b8f9eab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": -705.4102145966972,
+                  "y": -14.37825009888342,
+                  "zoom": -0.3449676197510336
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Personal/Solitare/Solitare UML.canvas"
               }
             }
           }
@@ -149,17 +152,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a2f278d17f51aefd",
+  "active": "0399c5324b8f9eab",
   "lastOpenFiles": [
-    "CompSci/CS208 Notes/tldr.md",
-    "conflict-files-obsidian-git.md",
+    "Personal/Solitare/Additional Notes for Solitaire.md",
+    "CompSci/CS208 Notes/CS208 Algorithms.md",
     "CompSci/CS208 Notes/Examples.md",
-    "CompSci/CS208 Notes/CS209 Algorithms.md",
+    "conflict-files-obsidian-git.md",
+    "CompSci/CS208 Notes/tldr.md",
     "CompSci/CS208 Notes",
     "Solitare/Additional Notes for Solitaire.md",
     "Personal/Solitare/Solitare UML.canvas",
     "Personal/Solitare/Database for solitare.md",
-    "Personal/Solitare/Additional Notes for Solitaire.md",
     "Personal/Solitare",
     "Personal",
     "New folder",
