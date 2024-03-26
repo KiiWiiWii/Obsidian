@@ -2,7 +2,6 @@
 # Possible Klondike dealing algorithm:
 ---
 ```java
-
 for (int i = 0; i < 7; i++){
 i=k
 boolean show = true;
@@ -30,4 +29,15 @@ for (int i = 0; i < 7; i++){ // Klondike Solitaire has 7 columns
 }
 ```
 
+Cbou Adjustment: 
+	*this should work but we'll see, pretty much the same thing but without useless checks*
+```java
+for (int i = 0; i < 7; i++){ // 7 cols.
+    for (int j = i; j < 7; j++){
+        Card cardToDeal = deck.poll(); // Retrieve and remove the card from the deck
+        columns.get(j).add(cardToDeal);
+        columns.get(i).show(); //assuming the method just sets it to true
+    }
+}
+```
 ---
