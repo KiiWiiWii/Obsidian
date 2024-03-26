@@ -1,12 +1,6 @@
 {
-<<<<<<< HEAD
-  "accentColor": "#5e1381",
-  "baseFontSize": 30,
-  "theme": "obsidian",
-  "baseFontSizeAction": true,
-  "interfaceFontFamily": "Arial",
-  "textFontFamily": "Cascadia Code"
-=======
-  "accentColor": ""
->>>>>>> origin/main
+  "textFontFamily": "Cascadia Code",
+  "baseFontSize": 26,
+  "accentColor": "",
+  "theme": "obsidian"
 }
