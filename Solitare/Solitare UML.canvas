@@ -4,18 +4,18 @@
 		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-311,"y":-160,"width":405,"height":220},
 		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-322,"y":-760,"width":426,"height":440},
 		{"id":"2a84806c51593e34","type":"file","file":"Solitare/Additional Notes for Solitaire.md","x":2280,"y":-575,"width":1222,"height":1560,"color":"5"},
-		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":320,"y":-240,"width":1640,"height":330,"color":"3"},
 		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-323,"y":1720,"width":430,"height":380},
-		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":232,"y":1720,"width":419,"height":580,"color":"1"},
-		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-502,"y":840,"width":789,"height":760}
+		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-502,"y":840,"width":789,"height":760},
+		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":400,"y":-705,"width":1640,"height":330,"color":"3"},
+		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nflipVisibility();","x":287,"y":1620,"width":419,"height":580,"color":"1"}
 	],
 	"edges":[
 		{"id":"fa6cc3986b6e7619","fromNode":"157a83cdfe99a4bf","fromSide":"top","toNode":"3b8c9b31c8fdd7f3","toSide":"bottom"},
-		{"id":"d6c5cb0a7aa2269a","fromNode":"3b8c9b31c8fdd7f3","fromSide":"top","toNode":"a733c6d9f0c4445b","toSide":"bottom"},
+		{"id":"d6c5cb0a7aa2269a","fromNode":"3b8c9b31c8fdd7f3","fromSide":"top","toNode":"a733c6d9f0c4445b","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"e490a28afb874022","fromNode":"7e145790d178765a","fromSide":"bottom","toNode":"f2becc0066475a4d","toSide":"top"},
 		{"id":"0185ec5dc7631c5e","fromNode":"5fb9cb5b56609d9c","fromSide":"left","toNode":"157a83cdfe99a4bf","toSide":"right"},
 		{"id":"75da64060ccf9f27","fromNode":"f2becc0066475a4d","fromSide":"bottom","toNode":"a733c6d9f0c4445b","toSide":"top"},
 		{"id":"52451c22bf67463b","fromNode":"a733c6d9f0c4445b","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left"},
-		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left"}
+		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a72c2eaab2c79615","toSide":"left","fromEnd":"arrow"}
 	]
 }
