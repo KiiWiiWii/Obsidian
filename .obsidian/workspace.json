@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b418d14349b93fbc",
+        "id": "31157949bf34f666",
         "type": "tabs",
         "children": [
           {
-            "id": "0399c5324b8f9eab",
+            "id": "b9001d9f5c88e9c5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Personal/Solitare/Solitare UML.canvas",
                 "viewState": {
-                  "x": 1030.8916916905755,
-                  "y": 86.66855580371553,
-                  "zoom": -0.3748837118510647
+                  "x": 1120.1691062615353,
+                  "y": 177.90773921184768,
+                  "zoom": -1.0227378534605471
                 }
               }
             }
@@ -131,9 +131,17 @@
                 "file": "Personal/Solitare/Solitare UML.canvas"
               }
             }
+          },
+          {
+            "id": "83582f8c33eb8778",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,8 +160,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0399c5324b8f9eab",
+  "active": "a2f278d17f51aefd",
   "lastOpenFiles": [
+    "Personal/Solitare/Solitare UML.canvas",
     "Personal/Solitare/Additional Notes for Solitaire.md",
     "CompSci/CS208 Notes/CS208 Algorithms.md",
     "CompSci/CS208 Notes/Examples.md",
@@ -161,7 +170,6 @@
     "CompSci/CS208 Notes/tldr.md",
     "CompSci/CS208 Notes",
     "Solitare/Additional Notes for Solitaire.md",
-    "Personal/Solitare/Solitare UML.canvas",
     "Personal/Solitare/Database for solitare.md",
     "Personal/Solitare",
     "Personal",
