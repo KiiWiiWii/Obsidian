@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e77fc4c87f9ea74c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c5bdce230af877f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,32 +141,39 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e77fc4c87f9ea74c",
+  "active": "8c5bdce230af877f",
   "lastOpenFiles": [
+    "Solitare/Additional Notes for Solitaire.md",
+    "Personal/Solitare/Solitare UML.canvas",
+    "Personal/Solitare/Database for solitare.md",
+    "Personal/Solitare/Additional Notes for Solitaire.md",
+    "Personal/Solitare",
+    "Personal",
+    "New folder",
+    "CompSci",
+    "Math/MM202/MM202 26-03-2024.md",
+    "Math/MM202/MM202 19-03-2024.md",
+    "Math/MM202/MM202 06-03-2024.md",
+    "Math/MM202",
+    "Math",
+    "MM202/MM202 19-03-2024.md",
+    "MM202/MM202 26-03-2024.md",
+    "MM202/MM202 06-03-2024.md",
+    "MM202",
     "Solitare/Database for solitare.md",
     "Solitare/Solitare UML.canvas",
-    "Solitare/Additional Notes for Solitaire.md",
     "Obsidian",
     "conflict-files-obsidian-git.md",
     "Obsidian/README.md",
-    "MM202/MM202 06-03-2024.md",
     "README.md",
     "LICENSE",
     "GIT REPO/Obsidian/README.md",
     "GIT REPO/Obsidian/LICENSE",
-    "GIT REPO/Obsidian",
-    "GIT REPO",
-    "New folder",
     "202403251650.md",
     "202403251651.md",
-    "MM202/MM202 19-03-2024.md",
-    "MM202",
-    "Solitare",
     "Excalidraw/Drawing 2024-03-25 13.16.15.excalidraw.md",
-    "Excalidraw",
     "Study notes! UwU/Study - Line Integrals.md",
     "Mermaid Test.md",
-    "Study notes! UwU",
     "MM202 - Convergence.md",
     "2024-03-20.md"
   ]
