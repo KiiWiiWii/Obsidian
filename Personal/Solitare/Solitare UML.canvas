@@ -5,12 +5,12 @@
 		{"id":"2a84806c51593e34","type":"file","file":"Personal/Solitare/Additional Notes for Solitaire.md","x":2280,"y":-575,"width":1222,"height":1560,"color":"5"},
 		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-323,"y":1720,"width":430,"height":380},
 		{"id":"3b8c9b31c8fdd7f3","type":"text","text":"### $ch$$\\hat{i}$p$\\partial$$\\epsilon$k\n\n---\ndeck:deck\ncolumn:hashMap(byte-> Queue(card))\nsortedPiles:hashMap(byte->Stack(card))\n\n---\ndeal()\nplacementCheck(Card from, Card to)\ngrabCheck(Card from)\ncornerDeckDealing()\nmoveCards(Card topofHand)\ngetFromAcePiles();\nsetInAcePiles(Stack$<$Card$>$ inHand);\nrevealCard()\n","x":-502,"y":840,"width":789,"height":680},
-		{"id":"a72c2eaab2c79615","type":"file","file":"Personal/Solitare/Database for solitare.md","x":400,"y":-705,"width":1640,"height":330,"color":"3"},
+		{"id":"a72c2eaab2c79615","type":"file","file":"Personal/Solitare/Database for solitare.md","x":400,"y":-705,"width":1640,"height":245,"color":"3"},
 		{"id":"5fb9cb5b56609d9c","type":"text","text":"## Card{};\n\n---\nsuit:String(enum)\nrank:byte\nshown:boolean false\n\n---\n\n\ngetSuit();\ngetRank();\ncreateDeck();\nshow();\nhide();","x":287,"y":1620,"width":419,"height":580,"color":"1"},
 		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-311,"y":-200,"width":405,"height":220},
 		{"id":"310b4472d92b2d5e","type":"text","text":"This might be in over our heads, but having the loading screen have checks to load the pngs and shit can be a shout so its more useful than a 'cards go shfshfshfshf'\nLike 'loadasset()' or smth can have a successful = true that the loading screen checks to see if everything went thru but also idk how c++ works so maybe this isnt even needed","x":-1300,"y":-313,"width":718,"height":446,"color":"5"},
-		{"id":"a96ba59816104c1a","x":400,"y":-220,"width":540,"height":590,"type":"text","text":"# PlayerStatHelper();\n---\nPlayer player\n\n---\nloadPlayer();\nsavePlayer();\ncreateAccount();\ndeleteAccount();\nupdateStats();"},
-		{"id":"92343df79fe63707","x":1060,"y":-220,"width":540,"height":720,"type":"text","text":"# Player{}\n\n---\nid:string(uuid)\nusername:String\nnumberOfGamesPlayed:int\nnumberOfGamesFinished:int\nnumberOfCardsDealt:int\ntimeSpent:int*\nbestScore:int\nbestTime:int\ntotalScore:int\n\n---\n"}
+		{"id":"a96ba59816104c1a","type":"text","text":"# PlayerStatHelper();\n---\nPlayer player\n\n---\nloadPlayer();\nsavePlayer();\ncreateAccount();\ndeleteAccount();\nupdateStats();","x":400,"y":-220,"width":540,"height":720},
+		{"id":"92343df79fe63707","type":"text","text":"# Player{}\n\n---\nid:string(uuid)\nusername:String\nnumberOfGamesPlayed:int\nnumberOfGamesFinished:int\nnumberOfCardsDealt:int\ntimeSpent:int*\nbestScore:int\nbestTime:int\ntotalScore:int\n\n---\nloadPlayerFromDB(username,password);\ncheckPassword();","x":1060,"y":-220,"width":600,"height":720}
 	],
 	"edges":[
 		{"id":"fa6cc3986b6e7619","fromNode":"157a83cdfe99a4bf","fromSide":"top","toNode":"3b8c9b31c8fdd7f3","toSide":"bottom"},
@@ -20,6 +20,8 @@
 		{"id":"75da64060ccf9f27","fromNode":"f2becc0066475a4d","fromSide":"bottom","toNode":"a733c6d9f0c4445b","toSide":"top"},
 		{"id":"0645428fc66d191f","fromNode":"7e145790d178765a","fromSide":"right","toNode":"a96ba59816104c1a","toSide":"left","fromEnd":"arrow"},
 		{"id":"5464808645db456f","fromNode":"310b4472d92b2d5e","fromSide":"right","toNode":"f2becc0066475a4d","toSide":"left","color":"5"},
-		{"id":"9d58ee13833234c2","fromNode":"a96ba59816104c1a","fromSide":"top","toNode":"a72c2eaab2c79615","toSide":"bottom","fromEnd":"arrow"}
+		{"id":"9d58ee13833234c2","fromNode":"a96ba59816104c1a","fromSide":"top","toNode":"a72c2eaab2c79615","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"eb8ae1d784af6f5b","fromNode":"a96ba59816104c1a","fromSide":"right","toNode":"92343df79fe63707","toSide":"left"},
+		{"id":"04cb4b143e91ecb7","fromNode":"a72c2eaab2c79615","fromSide":"bottom","toNode":"92343df79fe63707","toSide":"top"}
 	]
 }
