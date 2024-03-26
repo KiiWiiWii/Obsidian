@@ -1,11 +1,4 @@
 [
-<<<<<<< HEAD
-  "obsidian-latex-suite",
-  "quick-latex",
-  "copilot",
-  "obsidian-excalidraw-plugin",
-  "cm-typewriter-scroll-obsidian",
-=======
->>>>>>> origin/main
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite"
 ]
