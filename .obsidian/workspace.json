@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md",
+                "file": "Personal/Solitare/Additional Notes for Solitaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md",
+                "file": "Personal/Solitare/Additional Notes for Solitaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md",
+                "file": "Personal/Solitare/Additional Notes for Solitaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md"
+                "file": "Personal/Solitare/Additional Notes for Solitaire.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "658ebfadfb477f35",
   "lastOpenFiles": [
+    "Math/MM202/MM202 06-03-2024.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
     "Personal/Solitare/Solitare UML.canvas",
     "conflict-files-obsidian-git.md",
@@ -159,7 +160,6 @@
     "Personal",
     "Math/MM202/MM202 26-03-2024.md",
     "Math/MM202/MM202 19-03-2024.md",
-    "Math/MM202/MM202 06-03-2024.md",
     "Math/MM202",
     "Math",
     "CompSci/Logic/Prop. Logic/Valuations.md",
