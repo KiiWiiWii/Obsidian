@@ -11,11 +11,14 @@
             "id": "a8c2c0942927dc82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
-                "mode": "source",
-                "source": false
+                "file": "Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 229.3599743425242,
+                  "y": 340.51341815298315,
+                  "zoom": -1.2526109595695416
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
+                "file": "Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md",
+                "file": "Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solitare/Additional Notes for Solitaire.md"
+                "file": "Solitare/Solitare UML.canvas"
               }
             }
           }
@@ -149,8 +152,12 @@
   },
   "active": "a8c2c0942927dc82",
   "lastOpenFiles": [
-    "Solitare/Database for solitare.md",
+    "CS208 Notes/Examples.md",
+    "CS208 Notes/tldr.md",
+    "CS208 Notes/CS209 Algorithms.md",
     "Solitare/Solitare UML.canvas",
+    "CS208 Notes",
+    "Solitare/Database for solitare.md",
     "Solitare/Additional Notes for Solitaire.md",
     "chahine test.md",
     "Solitare",

@@ -29,7 +29,8 @@ for (int i = 0; i < 7; i++){ // Klondike Solitaire has 7 columns
 }
 ```
 
-Cbou Adjustment: *this should work but we'll see, pretty much the same thing but without useless checks*
+Cbou Adjustment: 
+	*this should work but we'll see, pretty much the same thing but without useless checks*
 ```java
 for (int i = 0; i < 7; i++){ // 7 cols.
     for (int j = i; j < 7; j++){
