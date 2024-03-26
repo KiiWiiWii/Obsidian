@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a733c6d9f0c4445b","type":"text","text":"### Driver\n\n---\nplayerChoice(String)\n\n---\ndisplayChipdeck();\n\t_diff methods for diff games_\ncancelGame();\nupdatePlayer();\n\n","x":-449,"y":120,"width":680,"height":500},
 		{"id":"f2becc0066475a4d","type":"text","text":"loadscreen\n---\n\nmake shuffling noises","x":-311,"y":-160,"width":405,"height":220},
-		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-322,"y":-760,"width":426,"height":500},
+		{"id":"7e145790d178765a","type":"text","text":"### MainMenu\n---\ninput:String\ngameType:String\n\n---\nlogin();\nstartGame(gameType)\n","x":-322,"y":-760,"width":426,"height":440},
 		{"id":"2a84806c51593e34","type":"file","file":"Solitare/Additional Notes for Solitaire.md","x":2280,"y":-575,"width":1222,"height":1560,"color":"5"},
 		{"id":"a72c2eaab2c79615","type":"file","file":"Solitare/Database for solitare.md","x":320,"y":-240,"width":1640,"height":330,"color":"3"},
 		{"id":"157a83cdfe99a4bf","type":"text","text":"## card deck\n\n---\n\ndeck:Queue(card)\n\n---\n\nShuffle();\nchangeSuit();\n","x":-323,"y":1720,"width":430,"height":380},
