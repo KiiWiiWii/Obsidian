@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "file": "Math/MM202/MM202 06-03-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "file": "Math/MM202/MM202 06-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "file": "Math/MM202/MM202 06-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md"
+                "file": "Math/MM202/MM202 06-03-2024.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "658ebfadfb477f35",
   "lastOpenFiles": [
+    "CompSci/Algorithms/CS208 Algorithms.md",
     "Personal/Solitare/Solitare UML.canvas",
     "conflict-files-obsidian-git.md",
     "Solitare/Solitare UML.canvas",
@@ -174,7 +175,6 @@
     "CompSci/Logic/Prop. Logic",
     "CompSci/Logic/Logical Modelling",
     "CompSci/Algorithms/tldr.md",
-    "CompSci/Algorithms/CS208 Algorithms.md",
     "CompSci/Algorithms/Examples.md",
     "CompSci/Logic",
     "CompSci/Algorithms",
