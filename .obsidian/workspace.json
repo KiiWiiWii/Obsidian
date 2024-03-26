@@ -11,8 +11,15 @@
             "id": "658ebfadfb477f35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Personal/Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 2976.7604056340233,
+                  "y": 314.13515019006024,
+                  "zoom": -1.0782047258573089
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Solitare/Solitare UML.canvas"
+              }
             }
           }
         ]
