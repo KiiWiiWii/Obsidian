@@ -11,14 +11,11 @@
             "id": "658ebfadfb477f35",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
-                "viewState": {
-                  "x": 2976.7604056340233,
-                  "y": 314.13515019006024,
-                  "zoom": -1.0782047258573089
-                }
+                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "CompSci/Algorithms/CS208 Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "CompSci/Algorithms/CS208 Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas"
+                "file": "CompSci/Algorithms/CS208 Algorithms.md"
               }
             }
           }
@@ -152,9 +149,9 @@
   },
   "active": "658ebfadfb477f35",
   "lastOpenFiles": [
+    "Personal/Solitare/Solitare UML.canvas",
     "conflict-files-obsidian-git.md",
     "Solitare/Solitare UML.canvas",
-    "Personal/Solitare/Solitare UML.canvas",
     "Personal/Solitare/Database for solitare.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
     "Personal/Solitare",
