@@ -11,11 +11,14 @@
             "id": "658ebfadfb477f35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 699.6186720098177,
+                  "y": 217.49728509129034,
+                  "zoom": -2.333333333333333
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md",
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md",
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM202/MM202 06-03-2024.md"
+                "file": "Personal/Solitare/Solitare UML.canvas"
               }
             }
           }
@@ -149,13 +152,13 @@
   },
   "active": "658ebfadfb477f35",
   "lastOpenFiles": [
+    "Math/MM202/MM202 06-03-2024.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
     "Personal/Solitare/Solitare UML.canvas",
     "Math/MM202/MM202 26-03-2024.md",
     "Math/MM202/MM202 19-03-2024.md",
-    "Math/MM202/MM202 06-03-2024.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
     "conflict-files-obsidian-git.md",
