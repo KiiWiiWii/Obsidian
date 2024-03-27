@@ -15,9 +15,9 @@
               "state": {
                 "file": "Personal/Solitare/Solitare UML.canvas",
                 "viewState": {
-                  "x": -382.87198609273867,
-                  "y": 219.6414942864946,
-                  "zoom": -0.3333333333333334
+                  "x": 370.78277117478353,
+                  "y": 610.6635789627173,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -131,13 +131,21 @@
                 "file": "Personal/Solitare/Solitare UML.canvas"
               }
             }
+          },
+          {
+            "id": "483e61f2d14a951d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "658ebfadfb477f35",
+  "active": "483e61f2d14a951d",
   "lastOpenFiles": [
     "Math/MM202/MM202 06-03-2024.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
