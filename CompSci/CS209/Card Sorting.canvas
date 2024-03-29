@@ -6,13 +6,13 @@
 		{"id":"96c9b61b6f499cc3","x":220,"y":-90,"width":540,"height":100,"type":"text","text":"As a student, I would like to be able to ask questions, so I can learn more from the class."},
 		{"id":"fe4e759ff1fdf8ba","x":870,"y":-280,"width":540,"height":140,"type":"text","text":"As a lecturer, I would like to be able to read the questions, so I can answer my students' questions."},
 		{"id":"efd34d48c2fefe9a","x":870,"y":-130,"width":540,"height":140,"type":"text","text":"As a member of the university management, I would like to be able to fund the app, so that the university academia can use it."},
-		{"id":"905c61fc63391984","type":"text","text":"# GROUP 3\n---\n","x":190,"y":560,"width":600,"height":900,"color":"2"},
-		{"id":"3ad368c2a3fdafc6","x":220,"y":680,"width":540,"height":140,"type":"text","text":"As a teaching assistant, I would like to read questions directed at the lecturer, so I can help run the lecture."},
-		{"id":"a28ce4ec52270e31","x":220,"y":840,"width":540,"height":120,"type":"text","text":"As a future employee, I would like to easily set up an account, so that I can use it when I become a lecturer."},
-		{"id":"777560a67402b640","type":"text","text":"# GROUP 4\n---\n","x":830,"y":560,"width":600,"height":900,"color":"2"},
-		{"id":"fc7ae127d8eb7541","x":860,"y":690,"width":540,"height":140,"type":"text","text":"As a software distributor, I would like to be able to distribute the app, so that I can profit from it."},
-		{"id":"7c812cdd2fa8b3e4","x":860,"y":840,"width":540,"height":220,"type":"text","text":"As a peer mentor, I want to have access to the app's features and resources; so that I can assist students, especially those with disabilities, in navigating and using the app effectively."},
-		{"id":"a16d90ab205c44f7","x":860,"y":1080,"width":540,"height":300,"type":"text","text":"As representatives of student organisations, we want to ensure that the app is accessible and inclusive for all students, including those with disabilities; so that we can advocate for the needs of students with disabilities and promote equal access to educational resources and opportunities."}
+		{"id":"777560a67402b640","type":"text","text":"# GROUP 4\n---\n","x":840,"y":540,"width":600,"height":900,"color":"2"},
+		{"id":"fc7ae127d8eb7541","x":870,"y":670,"width":540,"height":140,"type":"text","text":"As a software distributor, I would like to be able to distribute the app, so that I can profit from it."},
+		{"id":"7c812cdd2fa8b3e4","x":870,"y":820,"width":540,"height":220,"type":"text","text":"As a peer mentor, I want to have access to the app's features and resources; so that I can assist students, especially those with disabilities, in navigating and using the app effectively."},
+		{"id":"a16d90ab205c44f7","x":870,"y":1060,"width":540,"height":300,"type":"text","text":"As representatives of student organisations, we want to ensure that the app is accessible and inclusive for all students, including those with disabilities; so that we can advocate for the needs of students with disabilities and promote equal access to educational resources and opportunities."},
+		{"id":"905c61fc63391984","type":"text","text":"# GROUP 3\n---\n","x":200,"y":540,"width":600,"height":900,"color":"2"},
+		{"id":"3ad368c2a3fdafc6","x":230,"y":660,"width":540,"height":140,"type":"text","text":"As a teaching assistant, I would like to read questions directed at the lecturer, so I can help run the lecture."},
+		{"id":"a28ce4ec52270e31","x":230,"y":820,"width":540,"height":170,"type":"text","text":"As a future employee, I would like to easily set up an account, so that I can use it when I become a lecturer."}
 	],
 	"edges":[]
 }
