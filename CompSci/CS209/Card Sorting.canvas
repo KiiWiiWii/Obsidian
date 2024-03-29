@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"96c9b61b6f499cc3","x":-460,"y":-180,"width":540,"height":100,"type":"text","text":"As a student, I would like to be able to ask questions, so I can learn more from the class."},
+		{"id":"fe4e759ff1fdf8ba","x":-460,"y":-40,"width":540,"height":140,"type":"text","text":"As a lecturer, I would like to be able to read the questions, so I can answer my students' questions."},
+		{"id":"16e7c1995485dd66","x":-460,"y":-280,"width":250,"height":60,"type":"text","text":"As a member of the university I.T. department, I would like to be able to maintain the app, so students and lecturers can continue to use the app."}
+	],
+	"edges":[]
+}

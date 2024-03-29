@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "CompSci/CS209/Card Sorting.canvas",
                 "viewState": {
-                  "x": 370.78277117478353,
-                  "y": 610.6635789627173,
-                  "zoom": -1.3333333333333333
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "CompSci/CS209/Card Sorting.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "CompSci/CS209/Card Sorting.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,24 +128,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas"
+                "file": "CompSci/CS209/Card Sorting.canvas"
               }
-            }
-          },
-          {
-            "id": "483e61f2d14a951d",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,13 +150,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "483e61f2d14a951d",
+  "active": "658ebfadfb477f35",
   "lastOpenFiles": [
+    "Personal/Solitare/Solitare UML.canvas",
+    "CompSci/CS209/Card Sorting.canvas",
+    "Untitled.md",
+    "CompSci/CS209",
     "Math/MM202/MM202 06-03-2024.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
-    "Personal/Solitare/Solitare UML.canvas",
     "Math/MM202/MM202 26-03-2024.md",
     "Math/MM202/MM202 19-03-2024.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
@@ -192,11 +187,9 @@
     "CompSci",
     "Solitare/Additional Notes for Solitaire.md",
     "Solitare/Database for solitare.md",
-    "Solitare",
     "Obsidian/Solitare/Solitare UML.canvas",
     "Obsidian/Solitare/Database for solitare.md",
     "Obsidian/Solitare/Additional Notes for Solitaire.md",
-    "Untitled.md",
     "Welcome.md"
   ]
 }
