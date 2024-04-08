@@ -365,4 +365,9 @@ Greedy Algorithm
 	.
 	Pruning
 	can be increased further by comparing: 'partial soln + lower bound to completing a soln' vs 'best soln found so far'
-	And even further. If lower and upper bounds can be found for completing partial solutions, those partial solns with lower bounc 
+	And even further. If lower and upper bounds can be found for completing partial solutions, those partial solns with lower bounds worse than the upper bound on another may also be pruned.
+	.
+	tldr for all this:
+	Order of which partial solns are explored is not as restrictive as backtracking and can be a priority queue of partial solutions may be maintained.
+	.
+	*no idea if its actually useful but theres 4 dedicated slides to this so it might be*
