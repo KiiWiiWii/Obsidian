@@ -354,4 +354,15 @@ Greedy Algorithm
 			Merge them into 1 tree
 				Make new root with its childrens being the roots of the 2 trees to be merged
 			Weight of tree is sum of weights of the 2 merged
-		v) If there are C chars requiring codes then there would be C-1 phases  
+		v) If there are C chars requiring codes then there would be C-1 phases
+
+  Branch and Bound
+	  effective for optimisations, where satisfying constraints there is also a cost funct. to be min/maxed
+		  e.g. Travelling sales problem
+			  *"Find the minimum cost tour around the vertices in a graph such that every vertex is visited exactly once and the tour ends at the starting vertex"*
+	An algo technique t ofind the optimal solution by keeping best solution found so far.
+	If partial solution cant improve on best, then abandon it.
+	.
+	Pruning
+	can be increased further by comparing: 'partial soln + lower bound to completing a soln' vs 'best soln found so far'
+	And even further. If lower and upper bounds can be found for completing partial solutions, those partial solns with lower bounc 
