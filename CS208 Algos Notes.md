@@ -329,4 +329,16 @@ Binary Heap
 			6) Keep going till you find the position *last* should be
 
 Greedy Algorithm
-	
+	Works in phases
+	Each phase, decision is made for the good without regarding future
+	.
+	i.e. means a local optimum chosen at each stage
+	'take what you can get'
+	.
+	.
+	hope leads to a global optimum
+		for some algos it does
+			and so the algo is **exact**
+		others dont
+			suitable for **approx. solution**
+
