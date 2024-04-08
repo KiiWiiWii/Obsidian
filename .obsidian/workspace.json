@@ -11,14 +11,11 @@
             "id": "658ebfadfb477f35",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CompSci/CS209/Card Sorting.canvas",
-                "viewState": {
-                  "x": 1323.3469309154548,
-                  "y": 874.2438026015434,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "CS208 Algos Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2033e973c84d5c5d",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/CS209/Card Sorting.canvas",
+                "file": "CS208 Algos Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/CS209/Card Sorting.canvas",
+                "file": "CS208 Algos Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS209/Card Sorting.canvas"
+                "file": "CS208 Algos Notes.md"
               }
             }
           }
@@ -150,20 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d05adf04b817de2c",
+  "active": "658ebfadfb477f35",
   "lastOpenFiles": [
-    "Personal/Solitare/Solitare UML.canvas",
-    "CompSci/CS209/Card Sorting.canvas",
-    "Untitled.md",
-    "CompSci/CS209",
+    "Pasted image 20240408131801.png",
+    "CS208 Algos Notes.md",
+    "Math/MM202/MM202 26-03-2024.md",
     "Math/MM202/MM202 06-03-2024.md",
+    "Math/MM202/MM202 19-03-2024.md",
+    "CompSci/Algorithms/CS208 Algorithms.md",
+    "Pasted image 20240407123021.png",
+    "CompSci/Logic/Logical Modelling/SAT Solving.md",
+    "CompSci/Logic/Prop. Logic/Truth Tables.md",
+    "CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
+    "CompSci/Logic/Prop. Logic/Entailment.md",
+    "CompSci/Logic/Prop. Logic/Valuations.md",
+    "CompSci/Algorithms/tldr.md",
+    "CompSci/CS209/Card Sorting.canvas",
+    "Personal/Solitare/Solitare UML.canvas",
+    "CompSci/CS209",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
-    "Math/MM202/MM202 26-03-2024.md",
-    "Math/MM202/MM202 19-03-2024.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
-    "CompSci/Algorithms/CS208 Algorithms.md",
     "conflict-files-obsidian-git.md",
     "Solitare/Solitare UML.canvas",
     "Personal/Solitare/Database for solitare.md",
@@ -171,16 +176,10 @@
     "Personal",
     "Math/MM202",
     "Math",
-    "CompSci/Logic/Prop. Logic/Valuations.md",
-    "CompSci/Logic/Prop. Logic/Truth Tables.md",
-    "CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
     "CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
-    "CompSci/Logic/Prop. Logic/Entailment.md",
-    "CompSci/Logic/Logical Modelling/SAT Solving.md",
     "CompSci/Logic/Logical Modelling/Package Installations.md",
     "CompSci/Logic/Prop. Logic",
     "CompSci/Logic/Logical Modelling",
-    "CompSci/Algorithms/tldr.md",
     "CompSci/Algorithms/Examples.md",
     "CompSci/Logic",
     "CompSci/Algorithms",
