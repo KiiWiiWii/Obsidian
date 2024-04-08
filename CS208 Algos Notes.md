@@ -341,4 +341,17 @@ Greedy Algorithm
 			and so the algo is **exact**
 		others dont
 			suitable for **approx. solution**
-
+	Algos covered that are greedy:
+		Prim,
+		Kruskal
+		Djisktra
+	Greedy algos generates the tree:
+		i) Maintain a forest of trees (idk wtf she means by this)
+		ii) Weight of tree is $\sum$ of frequencies of those chars in leave (refering to a specific example)
+		iii) Initially one tree per node, containing just that node
+		iv) During each phase:
+			Select the 2 trees of lowest weight
+			Merge them into 1 tree
+				Make new root with its childrens being the roots of the 2 trees to be merged
+			Weight of tree is sum of weights of the 2 merged
+		v) If there are C chars requiring codes then there would be C-1 phases  
