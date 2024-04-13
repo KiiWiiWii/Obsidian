@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d50ba2cff3c3bc8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240408131801.png"
+              }
+            }
           }
         ]
       }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "2033e973c84d5c5d",
@@ -149,27 +159,21 @@
   },
   "active": "658ebfadfb477f35",
   "lastOpenFiles": [
-    "CompSci/Algorithms/CS208 Algorithms.md",
-    "CompSci/Algorithms/tldr.md",
     "Pasted image 20240408131801.png",
-    "CompSci/cs208 logic notes.md",
     "CS208 Algos Notes.md",
-    "Math/MM202/MM202 26-03-2024.md",
-    "Math/MM202/MM202 06-03-2024.md",
-    "Math/MM202/MM202 19-03-2024.md",
-    "Pasted image 20240407123021.png",
-    "CompSci/Logic/Logical Modelling/SAT Solving.md",
-    "CompSci/Logic/Prop. Logic/Truth Tables.md",
-    "CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
-    "CompSci/Logic/Prop. Logic/Entailment.md",
-    "CompSci/Logic/Prop. Logic/Valuations.md",
     "CompSci/CS209/Card Sorting.canvas",
+    "CompSci/cs208 logic notes.md",
     "Personal/Solitare/Solitare UML.canvas",
+    "Untitled.md",
     "CompSci/CS209",
+    "Math/MM202/MM202 06-03-2024.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
+    "Math/MM202/MM202 26-03-2024.md",
+    "Math/MM202/MM202 19-03-2024.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
+    "CompSci/Algorithms/CS208 Algorithms.md",
     "conflict-files-obsidian-git.md",
     "Solitare/Solitare UML.canvas",
     "Personal/Solitare/Database for solitare.md",
@@ -177,10 +181,16 @@
     "Personal",
     "Math/MM202",
     "Math",
+    "CompSci/Logic/Prop. Logic/Valuations.md",
+    "CompSci/Logic/Prop. Logic/Truth Tables.md",
+    "CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
     "CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
+    "CompSci/Logic/Prop. Logic/Entailment.md",
+    "CompSci/Logic/Logical Modelling/SAT Solving.md",
     "CompSci/Logic/Logical Modelling/Package Installations.md",
     "CompSci/Logic/Prop. Logic",
     "CompSci/Logic/Logical Modelling",
+    "CompSci/Algorithms/tldr.md",
     "CompSci/Algorithms/Examples.md",
     "CompSci/Logic",
     "CompSci/Algorithms",
@@ -188,7 +198,6 @@
     "Solitare/Additional Notes for Solitaire.md",
     "Solitare/Database for solitare.md",
     "Obsidian/Solitare/Solitare UML.canvas",
-    "Obsidian/Solitare/Database for solitare.md",
-    "Obsidian/Solitare/Additional Notes for Solitaire.md"
+    "Obsidian/Solitare/Database for solitare.md"
   ]
 }
