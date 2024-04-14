@@ -23,11 +23,9 @@
             "id": "339cf17b9e4e539d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2023 Past Paper Answers..md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240408131801.png"
               }
             }
           },
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Past Paper Answers..md",
+                "file": "Pasted image 20240408131801.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Past Paper Answers..md",
+                "file": "Pasted image 20240408131801.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Past Paper Answers..md"
+                "file": "Pasted image 20240408131801.png"
               }
             }
           }
@@ -172,9 +170,9 @@
   },
   "active": "339cf17b9e4e539d",
   "lastOpenFiles": [
+    "2023 Past Paper Answers..md",
     "Pasted image 20240408131801.png",
     "CS208 Algos Notes.md",
-    "2023 Past Paper Answers..md",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/cs208 logic notes.md",
     "Personal/Solitare/Solitare UML.canvas",
