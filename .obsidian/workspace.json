@@ -48,9 +48,14 @@
             "id": "c748d71ff9858f7f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Personal/Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 1057.5014500512539,
+                  "y": 744.316147877591,
+                  "zoom": -1.6013038504261317
+                }
               }
             }
           },
