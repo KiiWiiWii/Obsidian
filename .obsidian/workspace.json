@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "e201c11b17b617f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "8d50ba2cff3c3bc8",
             "type": "leaf",
             "state": {
@@ -40,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "339cf17b9e4e539d",
+  "active": "e201c11b17b617f8",
   "lastOpenFiles": [
     "2023 Past Paper Answers..md",
     "Pasted image 20240408131801.png",
