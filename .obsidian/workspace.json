@@ -33,9 +33,14 @@
             "id": "e201c11b17b617f8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Personal/Solitare/Solitare UML.canvas",
+                "viewState": {
+                  "x": 1141.068489414332,
+                  "y": 567.0216679005765,
+                  "zoom": -1.6666666666666663
+                }
               }
             }
           },
@@ -116,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240408131801.png",
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240408131801.png",
+                "file": "Personal/Solitare/Solitare UML.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240408131801.png"
+                "file": "Personal/Solitare/Solitare UML.canvas"
               }
             }
           }
@@ -180,24 +185,24 @@
   },
   "active": "e201c11b17b617f8",
   "lastOpenFiles": [
+    "Personal/Solitare/Database for solitare.md",
+    "Personal/Solitare/Additional Notes for Solitaire.md",
+    "Math/MM202/MM202 19-03-2024.md",
+    "Math/MM202/MM202 26-03-2024.md",
+    "CS208 Algos Notes.md",
+    "Personal/Solitare/Solitare UML.canvas",
     "2023 Past Paper Answers..md",
     "Pasted image 20240408131801.png",
-    "CS208 Algos Notes.md",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/cs208 logic notes.md",
-    "Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS209",
     "Math/MM202/MM202 06-03-2024.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
-    "Math/MM202/MM202 26-03-2024.md",
-    "Math/MM202/MM202 19-03-2024.md",
-    "Personal/Solitare/Additional Notes for Solitaire.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
     "conflict-files-obsidian-git.md",
     "Solitare/Solitare UML.canvas",
-    "Personal/Solitare/Database for solitare.md",
     "Personal/Solitare",
     "Personal",
     "Math/MM202",
