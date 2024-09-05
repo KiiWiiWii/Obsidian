@@ -45,6 +45,16 @@
             }
           },
           {
+            "id": "c748d71ff9858f7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "8d50ba2cff3c3bc8",
             "type": "leaf",
             "state": {
@@ -55,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e201c11b17b617f8",
+  "active": "c748d71ff9858f7f",
   "lastOpenFiles": [
     "Personal/Solitare/Database for solitare.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
