@@ -1,5 +1,9 @@
 {
   "baseFontSize": 24,
+<<<<<<< HEAD
   "accentColor": "",
   "textFontFamily": "Source Code Pro"
+=======
+  "accentColor": ""
+>>>>>>> origin/main
 }

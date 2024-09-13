@@ -8,19 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9001d9f5c88e9c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "456319ce7f15ac14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -59,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -197,10 +192,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c44eb7c57513ff15",
+  "active": "456319ce7f15ac14",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
+    "Math/MM202/MM202 26-03-2024.md",
+    "Math/MM202/MM202 19-03-2024.md",
+    "Pasted image 20240408131801.png",
+    "CompSci/cs208 logic notes.md",
+    "CompSci/CS209/Card Sorting.canvas",
+    "CompSci/CS209",
+    "CS208 Algos Notes.md",
     "Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS317",
     "CompSci/CS316",
@@ -210,8 +212,6 @@
     "Math/MM306",
     "Math/MM302/Untitled",
     "Math/MM302",
-    "Math/MM202/MM202 26-03-2024.md",
-    "Math/MM202/MM202 19-03-2024.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "CompSci/Logic/Prop. Logic/Valuations.md",
@@ -224,7 +224,6 @@
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
     "CompSci/Logic/Prop. Logic",
     "CompSci/Logic/Logical Modelling",
-    "CompSci/Logic",
     "CompSci/Algorithms/tldr.md",
     "CompSci/Algorithms/Examples.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
@@ -233,8 +232,6 @@
     "CompSci/CS208 Notes/tldr.md",
     "Solitare/Additional Notes for Solitaire.md",
     "Personal/Solitare/Database for solitare.md",
-    "Math/MM202/MM202 06-03-2024.md",
-    "MM202/MM202 19-03-2024.md",
     "Solitare/Solitare UML.canvas"
   ]
 }
