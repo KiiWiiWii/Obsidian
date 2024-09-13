@@ -1,7 +1,5 @@
 {
-  "textFontFamily": "Cascadia Code",
   "baseFontSize": 24,
   "accentColor": "",
-  "theme": "obsidian",
-  "baseFontSizeAction": true
+  "textFontFamily": "Source Code Pro"
 }

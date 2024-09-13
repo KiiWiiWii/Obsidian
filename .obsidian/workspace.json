@@ -11,34 +11,68 @@
             "id": "b9001d9f5c88e9c5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
-                "viewState": {
-                  "x": 1120.1691062615353,
-                  "y": 177.90773921184768,
-                  "zoom": -1.0227378534605471
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "456319ce7f15ac14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "76c09708afde62a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
-                "viewState": {
-                  "x": 976.5433732522822,
-                  "y": 525.490575746988,
-                  "zoom": -1.4012536613867792
-                }
+                "file": "Math/MM202/MM202 19-03-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89b5cdd472c5c271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/MM202/MM202 26-03-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c44eb7c57513ff15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf071aa95df3cdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -104,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Solitare/Solitare UML.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -172,17 +206,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "publish:Publish changes...": false
     }
   },
-  "active": "a2f278d17f51aefd",
+  "active": "bf071aa95df3cdc0",
   "lastOpenFiles": [
+    "CompSci/Algorithms/CS208 Algorithms.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Solitare/Solitare UML.canvas",
+    "CompSci/CS317",
+    "CompSci/CS316",
+    "CompSci/Untitled.md",
+    "CompSci/CS312",
+    "CompSci/CS308",
+    "Math/MM306",
+    "Math/MM302/Untitled",
+    "Math/MM302",
+    "Math/MM202/MM202 26-03-2024.md",
+    "Math/MM202/MM202 19-03-2024.md",
     "CompSci/Logic/Logical Modelling/Logical Modelling.md",
     "CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
-    "Personal/Solitare/Solitare UML.canvas",
-    "conflict-files-obsidian-git.md",
     "CompSci/Logic/Prop. Logic/Valuations.md",
     "CompSci/Logic/Prop. Logic/Truth Tables.md",
     "CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
@@ -196,25 +239,14 @@
     "CompSci/Logic",
     "CompSci/Algorithms/tldr.md",
     "CompSci/Algorithms/Examples.md",
-    "CompSci/Algorithms/CS208 Algorithms.md",
-    "CompSci/Algorithms",
     "Personal/Solitare/Additional Notes for Solitaire.md",
     "CompSci/CS208 Notes/CS208 Algorithms.md",
     "CompSci/CS208 Notes/Examples.md",
     "CompSci/CS208 Notes/tldr.md",
-    "CompSci/CS208 Notes",
     "Solitare/Additional Notes for Solitaire.md",
     "Personal/Solitare/Database for solitare.md",
-    "Personal/Solitare",
-    "Personal",
-    "New folder",
-    "CompSci",
-    "Math/MM202/MM202 26-03-2024.md",
-    "Math/MM202/MM202 19-03-2024.md",
     "Math/MM202/MM202 06-03-2024.md",
-    "Math/MM202",
     "MM202/MM202 19-03-2024.md",
-    "MM202/MM202 26-03-2024.md",
     "Solitare/Solitare UML.canvas"
   ]
 }
