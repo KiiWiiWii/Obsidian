@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5deb5f229c4c34b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci/CS312/TEST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "89b5cdd472c5c271",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/CS312/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/CS312/TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +178,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5deb5f229c4c34b6",
+  "active": "a2f278d17f51aefd",
   "lastOpenFiles": [
     "Math/MM202/MM202 19-03-2024.md",
     "CompSci/CS312/TEST.md",
