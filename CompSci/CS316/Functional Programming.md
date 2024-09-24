@@ -33,10 +33,14 @@ Large coursework where its just "extra marks"
 PLAYING CARDS WHOOO
 
 ```haskell
-type Suit = String
+data Suit = Diamonds | Hearts | Clubs | Spades
 
 exampleSuit :: Suit
-exampleSuit :: "diamonds"
-type Colour = String
-colourOfSuit :: Suit ->
+exampleSuit = Diamonds
+
+ data Colour = Red | Black
+ colourOfSuit :: Suit -> Colour
+ colourOfSuit Diamond = Red
+ colourOfsuit Hearts = Red
+ colourOfSuit _ = Black
 ```
