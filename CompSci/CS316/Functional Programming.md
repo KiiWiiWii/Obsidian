@@ -26,3 +26,17 @@ Large coursework where its just "extra marks"
 
 
 - idk what this serves
+
+
+# Coding problem!!
+
+PLAYING CARDS WHOOO
+
+```haskell
+type Suit = String
+
+exampleSuit :: Suit
+exampleSuit :: "diamonds"
+type Colour = String
+colourOfSuit :: Suit ->
+```
