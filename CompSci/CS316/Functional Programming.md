@@ -47,6 +47,34 @@ exampleSuit = Diamonds
  colourOfSuit Diamond = Red
  colourOfsuit Hearts = Red
  colourOfSuit _ = Black
+
+data Value 
+	= Ace
+	| N2
+	| N3
+	| N4
+	| N5
+	| N6
+	| N7
+	| N8
+	| N9
+	| N10
+	| Jack
+	| Queen
+	| King
+
+numericValue :: Value -> int
+numericValue = \case
+	Ace -> 1
+	N2 -> 2
+	N2 -> 3
+	N2 -> 4
+	N2 -> 5
+	N2 -> 6
+	N2 -> 7
+	N2 -> 8
+	N2 -> 9
+	N2 -> 10
 ```
 
-We forgot to account for the case many millennia in the future when they invent a new suit, sorry
+We forgot to account for the case many millennia in the future when they invent a new suit, sorry. The solution is to type out every colour of suit but i aint doing all that
