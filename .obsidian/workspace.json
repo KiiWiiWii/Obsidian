@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS316/Functional Programming.md",
+                "file": "Math/MM202/MM202 06-03-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/CS316/Functional Programming.md",
+                "file": "Math/MM202/MM202 06-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/CS316/Functional Programming.md",
+                "file": "Math/MM202/MM202 06-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS316/Functional Programming.md"
+                "file": "Math/MM202/MM202 06-03-2024.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "76c09708afde62a7",
+  "active": "a2f278d17f51aefd",
   "lastOpenFiles": [
-    "CompSci/CS312/TEST.md",
     "CompSci/CS316/Functional Programming.md",
+    "CompSci/CS312/TEST.md",
     "Math/MM202/MM202 19-03-2024.md",
     "conflict-files-obsidian-git.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
