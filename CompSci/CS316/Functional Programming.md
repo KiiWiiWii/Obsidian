@@ -16,6 +16,8 @@ The class test is 24 hours long :sob:
 
 Large coursework where its just "extra marks"
 
+bro comes in with 10 mins left- sigma
+
 # Haskell stuff
 
 - Define data types to represent problems & and their solutions.
@@ -39,8 +41,12 @@ exampleSuit :: Suit
 exampleSuit = Diamonds
 
  data Colour = Red | Black
+	 deriving (Show)
+
  colourOfSuit :: Suit -> Colour
  colourOfSuit Diamond = Red
  colourOfsuit Hearts = Red
  colourOfSuit _ = Black
 ```
+
+We forgot to account for the case many millennia in the future when they invent a new suit, sorry
