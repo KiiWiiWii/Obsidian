@@ -3,5 +3,8 @@ The structure looks like:
 	- Transport layer
 	- Internet layer
 	- Network access layer
-_Hes been explaining this i think but i literally cannot understand anything im so fucked_
+_He's been explaining this i think but i literally cannot understand anything I'm so fucked_
 
+# Conceptual 3-Tier Model
+
+The top tire
