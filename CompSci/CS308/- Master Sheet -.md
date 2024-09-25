@@ -6,4 +6,4 @@ This class is going over the other process of development that aren't the actual
 
 [[Why is design important]]? _this is kinda a nothing file but you can read it if you want_
 
-We want to model requirements and do that using [[Requirement modelling in UML]].
+We want to model requirements and do that using [[Requirement modelling in UML]]. This goes over types of [[UML Diagrams]] and [[The requirement Model (RM)]].

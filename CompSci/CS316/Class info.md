@@ -17,8 +17,3 @@ The class test is 24 hours long :sob:
 Large coursework where its just "extra marks"
 
 bro comes in with 10 mins left- sigma
-
-[[Haskell stuff]]
-
-
-[[Introductory Problem]]
