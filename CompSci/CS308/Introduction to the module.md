@@ -1,4 +1,14 @@
 
+### -Important-
+lectures are weeks 1-8, and labs are 2-11. Assignment work goes in all week and weeks 9-11 are just for completing the assignment.
+
+Drawing Models and stuff done in MS Word
+Using intellij
+MySQA
+GitLab
+### ---
+
+
 Building software systems has the main problems of:
 - Analysis - self explanatory
 - Design - same thing
@@ -9,11 +19,11 @@ Building software systems has the main problems of:
 This module is just to get more practice everything in the process except the programming
 The main focus is on modelling.
 
-# Why is design important
-
-Given a requirement "A user should be able to sign up", a design with just fields `Username, Email and Password` it may fail because design depends on how easy it is for the user to be able to use it. For instance, adding an additional field of `Re-type Password` would be helpful to allow the user to validate they have the right password typed.
-	ngl this example is so shit but i get it
+[[Why is design important]]
 
 # What will we do?
 
-- Employ your knowledge such a
+- Employ your knowledge such as Programming
+- This module to widen and expand your software dev skills
+- Work as a group on a porject that includes industry scale challenges
+- i didn't get the rest but who gaf
