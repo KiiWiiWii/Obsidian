@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76c09708afde62a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci/CS308/Requirement modelling in UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "89b5cdd472c5c271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM202/MM202 26-03-2024.md",
+                "file": "CompSci/CS308/Requirement modelling in UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,10 +168,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "76c09708afde62a7",
+  "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
-    "CompSci/CS308/Introduction to the module.md",
+    "CompSci/CS308/UML Diagrams.md",
     "CompSci/CS308/Requirement modelling in UML.md",
+    "Math/MM202/MM202 26-03-2024.md",
+    "CompSci/CS308/Introduction to the module.md",
     "CompSci/CS308/Why is design important.md",
     "CompSci/CS316/Functional Programming Class info.md",
     "CompSci/CS316/Introductory Problem.md",
@@ -193,7 +183,6 @@
     "Math/MM202/MM202 19-03-2024.md",
     "conflict-files-obsidian-git.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
-    "Math/MM202/MM202 26-03-2024.md",
     "Pasted image 20240408131801.png",
     "CompSci/cs208 logic notes.md",
     "CompSci/CS209/Card Sorting.canvas",
@@ -220,7 +209,6 @@
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
     "CompSci/Logic/Prop. Logic",
     "CompSci/Logic/Logical Modelling",
-    "CompSci/Algorithms/tldr.md",
     "Solitare/Solitare UML.canvas"
   ]
 }
