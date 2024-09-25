@@ -7,6 +7,8 @@ Only important non assessment thing are the weekly quizzes worth 1% (id assumer 
 
 Fully coursework based across 2 individual assessments.
 
+Lecc
+
 # Cara example
 
 Cara likes taking pictures of wild animals and sculpting. She's moving to Glasgow (based) and she wants to open an art gallery (gl). She wants to promote her sculptures and pics online.

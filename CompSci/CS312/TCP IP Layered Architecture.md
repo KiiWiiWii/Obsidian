@@ -3,8 +3,8 @@ The structure looks like:
 	- Transport layer
 	- Internet layer
 	- Network access layer
+
 _He's been explaining this i think but i literally cannot understand anything I'm so fucked_
 
-# Conceptual 3-Tier Model
+An example of Layered architecture is a [[Conceptual 3-Tier Model]].
 
-The top tire
