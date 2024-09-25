@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS312/- Master Sheet CS312-.md",
+                "file": "MySql.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/CS312/- Master Sheet CS312-.md",
+                "file": "MySql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/CS312/- Master Sheet CS312-.md",
+                "file": "MySql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS312/- Master Sheet CS312-.md"
+                "file": "MySql.md"
               }
             }
           },
@@ -171,14 +171,16 @@
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
     "CompSci/CS312/- Master Sheet CS312-.md",
+    "MySql.md",
+    "CompSci/CS312/TCP IP Layered Architecture.md",
+    "CompSci/CS312/PHP.md",
+    "CompSci/CS312/HTML5.md",
     "CompSci/CS316/- Master Sheet CS316-.md",
     "CompSci/CS308/- Master Sheet CS308-.md",
-    "CompSci/CS312/HTML5.md",
     "CompSci/CS312/Class Info.md",
     "CompSci/CS316/Class info.md",
     "CompSci/CS308/Why is design important.md",
     "CompSci/CS312/Basic Client server request response.md",
-    "CompSci/CS312/TCP IP Layered Architecture.md",
     "CompSci/CS312/Names of clients and servers.md",
     "CompSci/CS312/Conceptual 3-Tier Model.md",
     "CompSci/CS308/UML Diagrams.md",
@@ -195,10 +197,8 @@
     "conflict-files-obsidian-git.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
     "Pasted image 20240408131801.png",
-    "CompSci/cs208 logic notes.md",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
-    "CS208 Algos Notes.md",
     "Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS317",
     "CompSci/CS316",
