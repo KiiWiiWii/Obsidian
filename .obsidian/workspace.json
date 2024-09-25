@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS308/Introduction to the module.md",
+                "file": "CompSci/CS308/Requirement modelling in UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/CS308/Introduction to the module.md",
+                "file": "CompSci/CS308/Requirement modelling in UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/CS308/Introduction to the module.md",
+                "file": "CompSci/CS308/Requirement modelling in UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS308/Introduction to the module.md"
+                "file": "CompSci/CS308/Requirement modelling in UML.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "76c09708afde62a7",
   "lastOpenFiles": [
-    "CompSci/CS308/Why is design important.md",
     "CompSci/CS308/Introduction to the module.md",
+    "CompSci/CS308/Requirement modelling in UML.md",
+    "CompSci/CS308/Why is design important.md",
     "CompSci/CS316/Functional Programming Class info.md",
     "CompSci/CS316/Introductory Problem.md",
     "CompSci/CS316/Haskell stuff.md",
@@ -220,7 +221,6 @@
     "CompSci/Logic/Prop. Logic",
     "CompSci/Logic/Logical Modelling",
     "CompSci/Algorithms/tldr.md",
-    "CompSci/Algorithms/Examples.md",
     "Solitare/Solitare UML.canvas"
   ]
 }
