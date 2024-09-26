@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ConvergenceAndDivergence.md",
+                "file": "Partial Sums.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ConvergenceAndDivergence.md",
+                "file": "Partial Sums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ConvergenceAndDivergence.md",
+                "file": "Partial Sums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ConvergenceAndDivergence.md"
+                "file": "Partial Sums.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
+    "Math/MM302/ConvergenceAndDivergence.md",
+    "Partial Sums.md",
     "Math/MM302/- Master Sheet MM302 -.md",
-    "ConvergenceAndDivergence.md",
     "Math/MM302/Radius of Convergence.md",
     "Convergence/Divergence.md",
     "Convergence",
@@ -196,7 +197,6 @@
     "CompSci/CS308/Introduction to the module.md",
     "CompSci/CS312/PHP.md",
     "CompSci/CS312/Names of clients and servers.md",
-    "CompSci/CS312/MySql.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
