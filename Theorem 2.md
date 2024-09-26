@@ -1,0 +1,1 @@
+This is the main way that we've been using to find $R$. Let us assume the limit, w

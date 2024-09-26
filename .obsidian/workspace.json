@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Ratio Test.md",
+                "file": "Theorem 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Ratio Test.md",
+                "file": "Theorem 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Ratio Test.md",
+                "file": "Theorem 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Ratio Test.md"
+                "file": "Theorem 2.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a2f278d17f51aefd",
+  "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
-    "Math/MM302/Radius of Convergence.md",
     "Math/MM302/Ratio Test.md",
+    "Theorem 2.md",
+    "Math/MM302/Radius of Convergence.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM302/Power Series.md",
     "Theorem 1.md",
@@ -195,7 +196,6 @@
     "CompSci/CS312/MySql.md",
     "CompSci/CS312/HTML5.md",
     "CompSci/CS316/Introductory Problem.md",
-    "CompSci/CS316/- Master Sheet CS316-.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
