@@ -16,4 +16,11 @@ In the [[Ratio Test]], $R$ is introduced as the radius of convergence. [[Theorem
 
 Next lecture, we learn how to deal with the sum and product of power series [[Theorem 4]]. Taylor and Maclaurin come back in [[Definition 4]], and are essential for understanding [[Analytic Functions]].
 
-[[Example 2]] 
+[[Example 2]] - convergence of an arbitrary series.
+[[Example 1.1]] - Using the ratio test to determine convergence
+[[Example 1.1a]] - Finding the Radius of convergence even and odd series'.
+[[Example 3]] - Finding the sum of 2 power series.
+[[Example 4]] - Changing the generic term ($x^n$)
+[[Example 4a]] - Finding the Maclaurin series.
+[[Example 6]] - Finding the Maclaurin series solution of an IVP ODE.
+[[Example 1.3]] - Finding 
