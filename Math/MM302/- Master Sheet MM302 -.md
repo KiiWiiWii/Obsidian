@@ -4,11 +4,7 @@ The class is a continuation of ODE's, so general solutions will need to be revis
 
 ## Week 1:
 
-The focus of this week has been about [[Power Series]]. In the past, ODE's have had a nice solution, in the form of 
-
-$general Solution = complementary Function + particular Integral.$
-
-and everything sorts itself out. In this class we're really looking at ODE's with a Power Series solution. 
+The focus of this week has been about [[Power Series]]. In the past, ODE's have had a nice solution, in the form of $general \ Solution = complementary \ Function + particular \ Integral.$and everything sorts itself out. In this class we're really looking at ODE's with a Power Series solution. 
 
 With power series, we generally cannot compute an infinite series, so we look at the [[Partial Sums]], and their [[ConvergenceAndDivergence]]. To determine the [[Radius of Convergence]] we can use the [[Ratio Test]].
 

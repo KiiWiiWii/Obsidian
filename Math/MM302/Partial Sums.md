@@ -4,4 +4,4 @@ $$
 We get $$
 \sum_{n=0}^M a_{n}(x-x_{0})^n
 $$
-where $M $
+where $M \in \mathbb{N}$. (hehe men).
