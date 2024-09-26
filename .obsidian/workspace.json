@@ -11,12 +11,8 @@
             "id": "89b5cdd472c5c271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +162,14 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
+    "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
+    "CompSci/Algorithms/CS208 Algorithms.md",
+    "CompSci/Algorithms/Examples.md",
+    "CompSci/CS209/Card Sorting.canvas",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Radius of Convergence.md",
     "Math/MM302/Partial Sums.md",
     "Math/MM302/ConvergenceAndDivergence.md",
-    "Math/MM302/Radius of Convergence.md",
     "Convergence/Divergence.md",
     "Convergence",
     "Math/MM302/Theorem 2.md",
@@ -194,11 +190,7 @@
     "CompSci/CS308/UML Diagrams.md",
     "CompSci/CS308/The requirement Model (RM).md",
     "CompSci/CS308/Requirement modelling in UML.md",
-    "CompSci/CS308/Introduction to the module.md",
-    "CompSci/CS312/PHP.md",
-    "CompSci/CS312/Names of clients and servers.md",
     "Pasted image 20240408131801.png",
-    "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS317",
