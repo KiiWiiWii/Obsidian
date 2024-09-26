@@ -10,4 +10,8 @@ $general Solution = complementary Function + particular Integral.$
 
 and everything sorts itself out. In this class we're really looking at ODE's with a Power Series solution. 
 
-With power series, we generally cannot compute an infinite series, so we look at the 
+With power series, we generally cannot compute an infinite series, so we look at the [[Partial Sums]], and their [[Convergence / Divergence]]. To determine this we can use the [[Ratio Test]].
+
+In the [[Ratio Test]], $R$ is introduced as the radius of convergence. [[Theorem 1]] describes for what values of $x$ this radius is defined or not. After the [[Ratio Test]] is introduced, it is immediately made obsolete by the better ratio test - [[Theorem 2]].
+
+Next lecture, we learn how to deal with the sum and product of power series [[Theorem ]]
