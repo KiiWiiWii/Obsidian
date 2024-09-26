@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Power Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Power Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Power Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md"
+                "file": "Math/MM302/Power Series.md"
               }
             }
           },
@@ -170,13 +170,14 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
-    "CompSci/CS312/TCP IP Layered Architecture.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM202/MM202 06-03-2024.md",
+    "Math/MM302/Power Series.md",
+    "CompSci/CS312/TCP IP Layered Architecture.md",
     "CompSci/CS312/Conceptual 3-Tier Model.md",
     "CompSci/CS312/- Master Sheet CS312-.md",
     "CompSci/CS312/Class Info.md",
     "Cara example.md",
-    "Math/MM202/MM202 06-03-2024.md",
     "CompSci/CS312/Basic Client server request response.md",
     "CS208 Algos Notes.md",
     "CompSci/CS308/- Master Sheet CS308-.md",
@@ -195,7 +196,6 @@
     "CompSci/CS316/Class info.md",
     "CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
     "Math/MM202/MM202 26-03-2024.md",
-    "CompSci/CS312/TEST.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
