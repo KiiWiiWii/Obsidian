@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theorem 2.md",
+                "file": "ConvergenceAndDivergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorem 2.md",
+                "file": "ConvergenceAndDivergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theorem 2.md",
+                "file": "ConvergenceAndDivergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theorem 2.md"
+                "file": "ConvergenceAndDivergence.md"
               }
             }
           },
@@ -170,10 +170,13 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
-    "Math/MM302/Ratio Test.md",
-    "Theorem 2.md",
-    "Math/MM302/Radius of Convergence.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "ConvergenceAndDivergence.md",
+    "Math/MM302/Radius of Convergence.md",
+    "Convergence/Divergence.md",
+    "Convergence",
+    "Math/MM302/Theorem 2.md",
+    "Math/MM302/Ratio Test.md",
     "Math/MM302/Power Series.md",
     "Theorem 1.md",
     "Math/MM302/Definition 4.md",
@@ -194,8 +197,6 @@
     "CompSci/CS312/PHP.md",
     "CompSci/CS312/Names of clients and servers.md",
     "CompSci/CS312/MySql.md",
-    "CompSci/CS312/HTML5.md",
-    "CompSci/CS316/Introductory Problem.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
@@ -208,7 +209,6 @@
     "Math/MM302/Untitled",
     "Math/MM302",
     "CompSci/Logic/Prop. Logic",
-    "CompSci/Logic/Logical Modelling",
     "Solitare/Solitare UML.canvas"
   ]
 }
