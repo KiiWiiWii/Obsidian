@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Radius of Convergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Radius of Convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Radius of Convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md"
+                "file": "Math/MM302/Radius of Convergence.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "a2f278d17f51aefd",
   "lastOpenFiles": [
-    "Math/MM302/Definition 4.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Radius of Convergence.md",
+    "Math/MM302/Definition 4.md",
     "Math/MM302/Power Series.md",
     "Math/MM202/MM202 06-03-2024.md",
     "CompSci/CS312/TCP IP Layered Architecture.md",
@@ -195,7 +196,6 @@
     "CompSci/CS316/- Master Sheet CS316-.md",
     "CompSci/CS316/Haskell stuff.md",
     "CompSci/CS316/Class info.md",
-    "CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209/Card Sorting.canvas",
     "CompSci/CS209",
