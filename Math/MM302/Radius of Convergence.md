@@ -1,6 +1,6 @@
 # Theorem 1
 
-The radius of convergence $R$ is just the values of which $|x-x_{0}| < R$  will allow the series to converge. 
+The radius of convergence $R$ is just the values of which $|x-x_{0}| < R$  will allow the series to converge. Note that for the case that $|x-x_{0} = R|$, it is unknown if it'll converge or diverge and it needs to be checked separately.
 
 If a series converges $\forall x$, then $R = \infty$. If it only (trivially) converges for $x=x_{0}$ then $R=0$.
 
