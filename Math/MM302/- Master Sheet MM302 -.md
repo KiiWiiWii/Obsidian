@@ -14,7 +14,11 @@ With power series, we generally cannot compute an infinite series, so we look at
 
 In the [[Ratio Test]], $R$ is introduced as the radius of convergence. [[Theorem 1]] describes for what values of $x$ this radius is defined or not. After the [[Ratio Test]] is introduced, it is immediately made obsolete by the better ratio test - [[Theorem 2]].
 
-Next lecture, we learn how to deal with the sum and product of power series [[Theorem 4]]. Taylor and Maclaurin come back in [[Definition 4]], and are essential for understanding [[Analytic Functions]].
+Next lecture, we learn how to deal with the sum and product of power series. [[Theorem 3]]. Further more, we can differentiate power series [[Theorem 4]]. Taylor and Maclaurin come back in [[Definition 4]], and are essential for understanding [[Analytic Functions]].
+
+[[Note on the index]].
+
+### Week 1 Examples.
 
 [[Example 2]] - convergence of an arbitrary series.
 [[Example 1.1]] - Using the ratio test to determine convergence
@@ -23,4 +27,5 @@ Next lecture, we learn how to deal with the sum and product of power series [[Th
 [[Example 4]] - Changing the generic term ($x^n$)
 [[Example 4a]] - Finding the Maclaurin series.
 [[Example 6]] - Finding the Maclaurin series solution of an IVP ODE.
-[[Example 1.3]] - Finding 
+[[Example 1.3]] - Finding another Maclaurin series solution of a IVP ODE.
+[[Example 1.4]] - Find the Taylor Series expansion of an IVP ODE.
