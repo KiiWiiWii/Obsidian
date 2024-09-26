@@ -8,4 +8,6 @@ The focus of this week has been about [[Power Series]]. In the past, ODE's have 
 
 $general Solution = complementary Function + particular Integral.$
 
-and everything sorts itself out. In this class we're really looking at ODE's with a Power Series solution.
+and everything sorts itself out. In this class we're really looking at ODE's with a Power Series solution. 
+
+With power series, we generally cannot compute an infinite series, so we look at the 
