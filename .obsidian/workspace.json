@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Examples/Example 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Examples/Example 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Math/MM302/Examples/Example 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md"
+                "file": "Math/MM302/Examples/Example 3.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
-    "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "CompSci/CS312/- Master Sheet CS312-.md",
     "Math/MM302/Examples/Example 4a.md",
     "Math/MM302/Definition 4.md",

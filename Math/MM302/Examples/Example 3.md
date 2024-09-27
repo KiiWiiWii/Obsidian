@@ -18,6 +18,7 @@ $F(x) = (1+x^{2})$ and $g(x) = \sum_{n=0}^\infty a_{n}x^n$.
 The multiplication of these two functions is also intuitive. $$
 f(x)g(x) = \sum_{n=0}^\infty a_{n}(1+x^{2})x^n
 $$
+
 This simplifies into:
 $$
 \sum_{n=0}^\infty a_{n}x^n + \sum_{n=0}^\infty a_{n}x^{n+2}
