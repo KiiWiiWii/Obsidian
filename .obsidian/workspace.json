@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example 3.md",
+                "file": "Example 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example 3.md",
+                "file": "Example 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example 3.md",
+                "file": "Example 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example 3.md"
+                "file": "Example 4.md"
               }
             }
           },
@@ -171,7 +171,8 @@
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
     "Math/MM302/- Master Sheet MM302 -.md",
-    "Example 3.md",
+    "Example 4.md",
+    "Math/MM302/Example/Example 3.md",
     "Math/MM302/Example/Example 1.1a.md",
     "Math/MM302/Changing Notation for odd and even function.md",
     "Math/MM302/Example/Example 1.1.md",
@@ -198,7 +199,6 @@
     "Math/MM302/Definition 4.md",
     "Math/MM202/MM202 06-03-2024.md",
     "CompSci/CS312/TCP IP Layered Architecture.md",
-    "CompSci/CS312/Conceptual 3-Tier Model.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
