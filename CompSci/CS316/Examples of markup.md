@@ -23,7 +23,16 @@ catMarkupSpaced_v2 xs = catMarkup (intersperse (Text " ") xs)
 
  -- = catMarkup . intersperse ( Text " " )
 sepBy :: Markup -> [Markup] -> Markup
-sepBy separator = catMarkup
+sepBy separator = catMarkup . intersperse seperator
 
+-- sepBy (Text " " ) [Text "hello", Text "World"] will return the same thing as the catMarkup
+
+list :: [Markup] -> Markup
+list xs = Concat (Text "[") (Concat (sepby ( Text "," ) xs (text "]")) -- ??
+
+between :: Markup -> Markup -> (Markup -> Markup)
+between l r xs = Concat l (Concat xs r) --  still ??
+
+-- between (Text "[")(Text "]") (sepBy)
 ```
 
