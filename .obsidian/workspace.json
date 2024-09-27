@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Theorem 4.md",
+                "file": "Math/MM302/Note on the index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Theorem 4.md",
+                "file": "Math/MM302/Note on the index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Theorem 4.md",
+                "file": "Math/MM302/Note on the index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Theorem 4.md"
+                "file": "Math/MM302/Note on the index.md"
               }
             }
           },
@@ -168,9 +168,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a2f278d17f51aefd",
+  "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Note on the index.md",
     "Math/MM302/Theorem 4.md",
     "Math/MM302/Theorem 3.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
@@ -197,7 +198,6 @@
     "CS208 Algos Notes.md",
     "CompSci/CS308/- Master Sheet CS308-.md",
     "CompSci/CS308/Why is design important.md",
-    "CompSci/CS308/UML Diagrams.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
