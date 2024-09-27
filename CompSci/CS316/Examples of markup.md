@@ -11,7 +11,13 @@ catMarkup (x : xs) = Concat x (catMarkup xs)
 
 --running catMarkup[example : Markup], we get the entire defined "Example" String twice concatinated.
 
--- we want to run catMarkupSpaced [Text "Hello", Text "World"] to return Concat ()
+-- we want to run catMarkupSpaced [Text "Hello", Text "World"] to return Concat (Text "hello) (Concat (Text " ") (Text "world"))
+
+catMarkupSpaced :: [Markup] -> Markup
+catMarkupSpaced [] = Text "" -- this is to deal with the emppty string pattern match.
+catMarkupSpaced [x] = x
+catMarkupSpaced (x : xs) = Concat x (Concat (text " " (catMarkupSpaced xs))
+
 
 
 ```
