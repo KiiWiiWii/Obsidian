@@ -50,5 +50,12 @@ $$
 Dividing through by our highest order term $n$,
 
 $$
-\implies \lim_{ n \to \infty } \left( 1+\frac{1}{n} \right)
+\implies \lim_{ n \to \infty } \frac{\left( 1+\frac{1}{n} \right)}{1}
 $$
+Which is equal to 1. Therefore $R=1$ and it will converge for $|x-x_{0}| < 1$.
+
+However, we need to check for $|x| = 1$. When $x=1$, we get the harmonic series which is divergent. When $x=-1$, we get the alternating harmonic series, which converges but is not absolutely convergent.
+
+The take away here is that when we have an $R\neq 0, \infty$, we need to check separately for convergence for $|x-x_{0}| = R$.
+
+---

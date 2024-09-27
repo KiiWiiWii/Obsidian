@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Example/Example 1.1.md",
+                "file": "Changing Notation for odd and even function.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Example/Example 1.1.md",
+                "file": "Changing Notation for odd and even function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Example/Example 1.1.md",
+                "file": "Changing Notation for odd and even function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Example/Example 1.1.md"
+                "file": "Changing Notation for odd and even function.md"
               }
             }
           },
@@ -170,10 +170,12 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
+    "Math/MM302/- Master Sheet MM302 -.md",
+    "Changing Notation for odd and even function.md",
+    "Example 1.1a.md",
+    "Math/MM302/Example/Example 1.1.md",
     "Math/MM302/Example/Example 2.md",
     "CompSci/CS312/HTML5.md",
-    "Math/MM302/Example/Example 1.1.md",
-    "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM302/Example",
     "Math/MM302/Power Series.md",
     "Math/MM302/Radius of Convergence.md",
@@ -197,8 +199,6 @@
     "CompSci/CS312/TCP IP Layered Architecture.md",
     "CompSci/CS312/Conceptual 3-Tier Model.md",
     "CompSci/CS312/- Master Sheet CS312-.md",
-    "CompSci/CS312/Class Info.md",
-    "Cara example.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
