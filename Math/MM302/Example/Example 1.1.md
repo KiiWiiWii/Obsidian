@@ -19,7 +19,7 @@ As our [[Ratio Test]] evaluates to be $\infty$, we can conclude that $R = \infty
 
 ---
 Now let:$$
-\sum_{n=1}^\infty n! x^n
+\sum_{n=0}^\infty n! x^n
 $$
 Using the ratio test to find $R$ again with our coefficient $n!$;
 
@@ -27,6 +27,28 @@ $$
 \lim_{ n \to \infty } |{\frac{a_{n}}{a_{n+1}}}|
 $$
 $$
-= \lim_{ n \to \infty } \lim_{ n \to \infty } \frac{n!}{(n+1)!}
+= \lim_{ n \to \infty } \frac{n!}{(n+1)!}
 
+$$
+Which evaluates to $0$. $R=0$, and this power series will only converge for the trivial case where $x\equiv x_{0}$.
+
+---
+Let:
+$$
+\sum_{n=1}^\infty \frac{1}{n}x^n
+$$
+Using the ratio test:
+$$
+\lim_{ n \to \infty } | {\frac{a_{n}}{a_{n+1}}} |
+$$
+$$
+= \lim_{ n \to \infty } \left( \frac{\frac{1}{n}}{\frac{1}{(n+1)}} \right) 
+$$
+$$
+=\lim_{ n \to \infty } \frac{n+1}{n}
+$$
+Dividing through by our highest order term $n$,
+
+$$
+\implies \lim_{ n \to \infty } \left( 1+\frac{1}{n} \right)
 $$
