@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example 1.1.md",
+                "file": "Math/MM302/Example/Example 1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example 1.1.md",
+                "file": "Math/MM302/Example/Example 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example 1.1.md",
+                "file": "Math/MM302/Example/Example 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example 1.1.md"
+                "file": "Math/MM302/Example/Example 1.1.md"
               }
             }
           },
@@ -170,9 +170,13 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
+    "Math/MM302/Example/Example 2.md",
+    "CompSci/CS312/HTML5.md",
+    "Math/MM302/Example/Example 1.1.md",
     "Math/MM302/- Master Sheet MM302 -.md",
-    "Example 1.1.md",
-    "Math/MM302/Example 2.md",
+    "Math/MM302/Example",
+    "Math/MM302/Power Series.md",
+    "Math/MM302/Radius of Convergence.md",
     "Math/MM302/Analytic Functions.md",
     "Math/MM302/Note on the index.md",
     "Math/MM302/Theorem 4.md",
@@ -181,14 +185,12 @@
     "CompSci/Algorithms/CS208 Algorithms.md",
     "CompSci/Algorithms/Examples.md",
     "CompSci/CS209/Card Sorting.canvas",
-    "Math/MM302/Radius of Convergence.md",
     "Math/MM302/Partial Sums.md",
     "Math/MM302/ConvergenceAndDivergence.md",
     "Convergence/Divergence.md",
     "Convergence",
     "Math/MM302/Theorem 2.md",
     "Math/MM302/Ratio Test.md",
-    "Math/MM302/Power Series.md",
     "Theorem 1.md",
     "Math/MM302/Definition 4.md",
     "Math/MM202/MM202 06-03-2024.md",
@@ -197,7 +199,6 @@
     "CompSci/CS312/- Master Sheet CS312-.md",
     "CompSci/CS312/Class Info.md",
     "Cara example.md",
-    "CompSci/CS312/Basic Client server request response.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
@@ -206,7 +207,6 @@
     "CompSci/CS312",
     "CompSci/CS308",
     "Math/MM306",
-    "Math/MM302/Untitled",
     "Math/MM302",
     "CompSci/Logic/Prop. Logic",
     "Solitare/Solitare UML.canvas"
