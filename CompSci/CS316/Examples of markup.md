@@ -18,7 +18,12 @@ catMarkupSpaced [] = Text "" -- this is to deal with the emppty string pattern m
 catMarkupSpaced [x] = x
 catMarkupSpaced (x : xs) = Concat x (Concat (text " " (catMarkupSpaced xs))
 
+catMarkupSpaced_v2 :: [Markup] -> Markup
+catMarkupSpaced_v2 xs = catMarkup (intersperse (Text " ") xs)
 
+ -- = catMarkup . intersperse ( Text " " )
+sepBy :: Markup -> [Markup] -> Markup
+sepBy separator = catMarkup
 
 ```
 
