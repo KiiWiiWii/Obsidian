@@ -52,7 +52,18 @@ i gave up 37 mins in, look at the lecture notes after he adds the f g a b c x sh
 
 data HTML = HText String | HEL String [HTML]
 	deriving (Show, Eq)
+em html = HEL "em" [HTML]
 
-markupToHTML :: Markup -> S
+-- markupToHTML :: Markup -> String
+	-- "Bob" --; funny example of security risk
+	-- DROP TABLE users;
+
+strong :: HTML -> HTML
+strong html = HEL "strong" [HTML]
+
+markupToHTML :: MArkup -> HTML
+markupToHTML (Text s) = HText s
+markupToHTML (Bold m) = strong (MarkupToHTML)
+markupToHTML (Italic m) = em (markupToHTL)
 ```
 
