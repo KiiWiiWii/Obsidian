@@ -50,7 +50,7 @@ i gave up 37 mins in, look at the lecture notes after he adds the f g a b c x sh
 ```haskell
 -- markupToHTML
 
-data HTML = HText String | HEL String [HTML]
+data HTML = HText String | HEL String [HTML] | HConcat HTML HTML
 	deriving (Show, Eq)
 em html = HEL "em" [HTML]
 
@@ -63,7 +63,11 @@ strong html = HEL "strong" [HTML]
 
 markupToHTML :: MArkup -> HTML
 markupToHTML (Text s) = HText s
-markupToHTML (Bold m) = strong (MarkupToHTML)
-markupToHTML (Italic m) = em (markupToHTL)
+markupToHTML (Bold m) = strong (markupToHTML m)
+markupToHTML (Italic m) = em (markupToHTML m)
+markupToHTML (Concat m1 m2) = 
+-- markupToHTML m1 :: HTML
+-- markupToHTML m2 :: HTML
 ```
-
+ this class served nothing im still as confused as i was before if not more so 
+ 
