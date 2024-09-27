@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Examples/Example 3.md",
+                "file": "CompSci/CS316/Examples of markup.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Examples/Example 3.md",
+                "file": "CompSci/CS316/Examples of markup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Examples/Example 3.md",
+                "file": "CompSci/CS316/Examples of markup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Examples/Example 3.md"
+                "file": "CompSci/CS316/Examples of markup.md"
               }
             }
           },
@@ -168,15 +168,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "89b5cdd472c5c271",
+  "active": "a2f278d17f51aefd",
   "lastOpenFiles": [
+    "CompSci/CS316/- Master Sheet CS316-.md",
+    "CompSci/CS316/Examples of markup.md",
+    "Math/MM302/Examples/Example 3.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "CompSci/CS312/- Master Sheet CS312-.md",
     "Math/MM302/Examples/Example 4a.md",
     "Math/MM302/Definition 4.md",
     "Math/MM302/Examples/Example 4.md",
-    "Math/MM302/Examples/Example 3.md",
     "Math/MM302/Examples/Example 1.1a.md",
     "Math/MM302/Changing Notation for odd and even function.md",
     "Math/MM302/Examples/Example 1.1.md",
@@ -197,8 +199,6 @@
     "Math/MM302/ConvergenceAndDivergence.md",
     "Convergence/Divergence.md",
     "Convergence",
-    "Math/MM302/Theorem 2.md",
-    "Math/MM302/Ratio Test.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
