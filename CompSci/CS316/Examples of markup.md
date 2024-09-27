@@ -33,6 +33,12 @@ list xs = Concat (Text "[") (Concat (sepby ( Text "," ) xs (text "]")) -- ??
 between :: Markup -> Markup -> (Markup -> Markup)
 between l r xs = Concat l (Concat xs r) --  still ??
 
--- between (Text "[")(Text "]") (sepBy)
+bracket = between (Text "[") (Text "]")
+
+-- between (Text "[")(Text "]") (sepBy (Text ", ") [Text "a", Text "b"]) <- that runs something but idk what im new here, i kinda get it but wtf man 
+-- ==
+-- bracket (sepBy (Text ", ") [Text "a", Text "b"])
+
 ```
 
+i gave up 37 mins in, look at the lecutre notes after he adds the 
