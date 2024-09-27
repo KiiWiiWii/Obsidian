@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Note on the index.md",
+                "file": "Example 1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Note on the index.md",
+                "file": "Example 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Note on the index.md",
+                "file": "Example 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Note on the index.md"
+                "file": "Example 1.1.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Example 1.1.md",
+    "Math/MM302/Analytic Functions.md",
     "Math/MM302/Note on the index.md",
     "Math/MM302/Theorem 4.md",
     "Math/MM302/Theorem 3.md",
@@ -196,8 +198,6 @@
     "Cara example.md",
     "CompSci/CS312/Basic Client server request response.md",
     "CS208 Algos Notes.md",
-    "CompSci/CS308/- Master Sheet CS308-.md",
-    "CompSci/CS308/Why is design important.md",
     "Pasted image 20240408131801.png",
     "CompSci/CS209",
     "Personal/Solitare/Solitare UML.canvas",
