@@ -35,10 +35,24 @@ between l r xs = Concat l (Concat xs r) --  still ??
 
 bracket = between (Text "[") (Text "]")
 
+strings :: [Markup] -> Markup
+strings = map (between ( Text "\"") (Text "/")) |> list
+
+
 -- between (Text "[")(Text "]") (sepBy (Text ", ") [Text "a", Text "b"]) <- that runs something but idk what im new here, i kinda get it but wtf man 
 -- ==
 -- bracket (sepBy (Text ", ") [Text "a", Text "b"])
 
 ```
 
-i gave up 37 mins in, look at the lecutre notes after he adds the 
+i gave up 37 mins in, look at the lecture notes after he adds the f g a b c x shit
+
+```haskell
+-- markupToHTML
+
+data HTML = HText String | HEL String [HTML]
+	deriving (Show, Eq)
+
+markupToHTML :: Markup -> S
+```
+
