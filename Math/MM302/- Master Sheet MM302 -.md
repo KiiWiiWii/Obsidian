@@ -2,6 +2,7 @@ There really isn't much class information for this class.
 
 The class is a continuation of ODE's, so general solutions will need to be revised from last year.
 
+---
 ## Week 1:
 
 The focus of this week has been about [[Power Series]]. In the past, ODE's have had a nice solution, in the form of $general \ Solution = complementary \ Function + particular \ Integral.$and everything sorts itself out. In this class we're really looking at ODE's with a Power Series solution. 
@@ -13,6 +14,8 @@ In the [[Ratio Test]], $R$ is introduced as the radius of convergence. [[Radius 
 For when we have specifically an odd or even series, we need to apply the [[Ratio Test]] differently. We do that by [[Changing Notation for odd and even function]].
 
 Next lecture, we learn how to deal with the sum and product of power series in [[Theorem 3]]. Further more, we can differentiate power series [[Theorem 4]]. Taylor and Maclaurin come back in [[Definition 4]], and are essential for understanding [[Analytic Functions]] (Definition 4).
+
+[[Extending ODE solutions of 2nd order to variable coefficients]]
 
 [[Note on the index]].
 
@@ -27,3 +30,6 @@ Next lecture, we learn how to deal with the sum and product of power series in [
 [[Example 6]] - Finding the Maclaurin series solution of an IVP ODE.
 [[Example 1.3]] - Finding another Maclaurin series solution of a IVP ODE.
 [[Example 1.4]] - Find the Taylor Series expansion of an IVP ODE.
+
+---
+
