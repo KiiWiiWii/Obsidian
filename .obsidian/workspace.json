@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Theorem 3.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Theorem 3.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Theorem 3.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Theorem 3.md"
+                "file": "Math/MM302/- Master Sheet MM302 -.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
+    "Math/MM302/Theorem 3.md",
     "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM302/Principle of superposition.md",
@@ -196,7 +197,6 @@
     "CompSci/CS312/HTML5.md",
     "Math/MM302/Examples",
     "Math/MM302/Note on the index.md",
-    "Math/MM302/Theorem 4.md",
     "CompSci/CS209/Card Sorting.canvas",
     "Convergence",
     "Pasted image 20240408131801.png",
