@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS316/Examples of markup.md",
+                "file": "Example 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSci/CS316/Examples of markup.md",
+                "file": "Example 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSci/CS316/Examples of markup.md",
+                "file": "Example 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS316/Examples of markup.md"
+                "file": "Example 6.md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "89b5cdd472c5c271",
   "lastOpenFiles": [
-    "CompSci/CS316/- Master Sheet CS316-.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Example 6.md",
+    "Math/MM302/Analytic Functions.md",
+    "CompSci/CS316/Examples of markup.md",
+    "CompSci/CS316/- Master Sheet CS316-.md",
     "Math/MM302/Ratio Test.md",
     "Math/MM302/Theorem 2.md",
     "Math/MM302/Radius of Convergence.md",
@@ -180,7 +183,6 @@
     "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "Math/MM302/Examples/Example 3.md",
     "Math/MM302/Examples/Example 4.md",
-    "CompSci/CS316/Examples of markup.md",
     "CompSci/CS312/- Master Sheet CS312-.md",
     "Math/MM302/Examples/Example 4a.md",
     "Math/MM302/Definition 4.md",
@@ -190,13 +192,11 @@
     "Math/MM302/Examples/Example 2.md",
     "CompSci/CS312/HTML5.md",
     "Math/MM302/Examples",
-    "Math/MM302/Analytic Functions.md",
     "Math/MM302/Note on the index.md",
     "Math/MM302/Theorem 4.md",
     "Math/MM302/Theorem 3.md",
     "CompSci/Logic/Logical Modelling/Fruit Exercise.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
-    "CompSci/Algorithms/Examples.md",
     "CompSci/CS209/Card Sorting.canvas",
     "Convergence",
     "Pasted image 20240408131801.png",
