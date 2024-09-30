@@ -8,3 +8,14 @@ $$
 y''(1) = 2 + 2(y(1))(y'(1)) = 22
 
 $$
+Differentiating one more time we find $$
+y''' = 2 + 2y'y' + 2yy''
+$$
+$$
+y'''(1) = 2 + 2(y'(1))^{2} + 2(y(1))(y''(1)) = 140
+$$
+Now that we have the first 4 terms, we can find the Taylor series to be:
+$$
+y(x) = 2 + 5(x-1) + 11(x-1)^{2} + \frac{70}{3}(x-1)^{3}+\dots
+$$
+---
