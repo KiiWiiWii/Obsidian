@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "0198aee8b3d80709",
+    "id": "6e96f8bb9434762f",
     "type": "split",
     "children": [
       {
-        "id": "31157949bf34f666",
+        "id": "12e6a2eeccb800e1",
         "type": "tabs",
         "children": [
           {
-            "id": "89b5cdd472c5c271",
+            "id": "5474cc3c0d05d5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Theorem 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c44eb7c57513ff15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci/Algorithms/CS208 Algorithms.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0a1241aa328ee606",
+    "id": "735a798e2476c344",
     "type": "split",
     "children": [
       {
-        "id": "1cbc1f5567623a36",
+        "id": "8b536eec2a139f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f278d17f51aefd",
+            "id": "4d345b8e4369bc8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "c4cb660087fcbbda",
+            "id": "eb6025d89c590a07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "ca02e9b0dfec5a7d",
+            "id": "3d621f6e5c6fa17d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 404.5
   },
   "right": {
-    "id": "c7877b5943467435",
+    "id": "bb8badea549ba004",
     "type": "split",
     "children": [
       {
-        "id": "018693256e05570f",
+        "id": "3edb388186c49065",
         "type": "tabs",
         "children": [
           {
-            "id": "241a2f320eef03a6",
+            "id": "2182cc9aa9ebc4fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Theorem 2.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "3a59b20e73774583",
+            "id": "7bf3d5c754795982",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Theorem 2.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51be4d47c9db64f1",
+            "id": "7826722eaa0c1469",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,30 +120,21 @@
             }
           },
           {
-            "id": "cc24b75e9a88c026",
+            "id": "b873773eaac09366",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Theorem 2.md"
+                "file": "Math/MM302/- Master Sheet MM302 -.md"
               }
-            }
-          },
-          {
-            "id": "83582f8c33eb8778",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,50 +144,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b5cdd472c5c271",
+  "active": "4d345b8e4369bc8a",
   "lastOpenFiles": [
-    "Math/MM302/Ratio Test.md",
-    "Math/MM302/Radius of Convergence.md",
-    "Math/MM302/- Master Sheet MM302 -.md",
-    "Math/MM302/Theorem 3.md",
-    "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
-    "Math/MM302/Principle of superposition.md",
-    "Math/MM302/Examples/Example 1.4.md",
-    "Math/MM302/Examples/Example 1.3.md",
-    "Math/MM302/Examples/Example 6.md",
-    "Math/MM302/Analytic Functions.md",
-    "CompSci/CS316/Examples of markup.md",
-    "CompSci/CS316/- Master Sheet CS316-.md",
-    "Math/MM302/Theorem 2.md",
-    "Math/MM302/Partial Sums.md",
-    "Math/MM302/Power Series.md",
-    "Math/MM302/Examples/Example 3.md",
-    "Math/MM302/Examples/Example 4.md",
-    "CompSci/CS312/- Master Sheet CS312-.md",
-    "Math/MM302/Examples/Example 4a.md",
-    "Math/MM302/Definition 4.md",
-    "Math/MM302/Examples/Example 1.1a.md",
-    "Math/MM302/Changing Notation for odd and even function.md",
-    "Math/MM302/Examples/Example 1.1.md",
-    "Math/MM302/Examples/Example 2.md",
-    "CompSci/CS312/HTML5.md",
-    "Math/MM302/Examples",
-    "Math/MM302/Note on the index.md",
-    "CompSci/CS209/Card Sorting.canvas",
-    "Convergence",
-    "Pasted image 20240408131801.png",
-    "CompSci/CS209",
+    "Obsidian-main/Math/MM302/- Master Sheet MM302 -.md",
+    "Obsidian-main/CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
+    "Obsidian-main/CompSci/Logic/Logical Modelling/SAT Solving.md",
+    "Obsidian-main/CompSci/Logic/Logical Modelling/Package Installations.md",
+    "Obsidian-main/CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
+    "Obsidian-main/CompSci/Logic/Logical Modelling/Logical Modelling.md",
+    "Obsidian-main/CompSci/Logic/Logical Modelling/Fruit Exercise.md",
+    "Obsidian-main/CompSci/Logic/Prop. Logic/Valuations.md",
+    "Obsidian-main/CompSci/Logic/Prop. Logic/Truth Tables.md",
+    "Obsidian-main/CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
+    "Obsidian-main/CompSci/Logic/Prop. Logic/Entailment.md",
+    "Obsidian-main/CompSci/CS316/Introductory Problem.md",
+    "Obsidian-main/CompSci/CS316/Haskell stuff.md",
+    "Obsidian-main/CompSci/CS316/Examples of markup.md",
+    "Obsidian-main/CompSci/CS316/- Master Sheet CS316-.md",
+    "Obsidian-main/CompSci/CS316/Class info.md",
+    "Obsidian-main/CompSci/Logic/Prop. Logic",
+    "Obsidian-main/CompSci/Logic/Logical Modelling",
+    "Obsidian-main/CompSci/CS312/TCP IP Layered Architecture.md",
+    "Obsidian-main/CompSci/CS312/PHP.md",
+    "Obsidian-main/CompSci/CS312/Names of clients and servers.md",
+    "Obsidian-main/CompSci/CS312/MySql.md",
+    "Obsidian-main/CompSci/CS312/HTML5.md",
+    "Obsidian-main/CompSci/CS312/Conceptual 3-Tier Model.md",
+    "Obsidian-main/CompSci/CS312/Class Info.md",
+    "Obsidian-main/CompSci/CS312/Basic Client server request response.md",
+    "Obsidian-main/CompSci/CS312/- Master Sheet CS312-.md",
+    "Obsidian-main/CompSci/CS308/Why is design important.md",
+    "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
+    "Obsidian-main/CompSci/Logic",
+    "Obsidian-main/CompSci/CS316",
+    "Obsidian-main/CompSci/CS312",
+    "Obsidian-main/CompSci/CS308",
+    "Obsidian-main/CompSci/CS209",
+    "Obsidian-main/CompSci/Algorithms",
+    "Obsidian-main/CompSci",
+    "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
+    "Obsidian-main/Personal/Solitare",
+    "Obsidian-main/Pasted image 20240408131801.png",
     "Personal/Solitare/Solitare UML.canvas",
-    "CompSci/CS317",
-    "CompSci/CS316",
-    "CompSci/CS312",
-    "CompSci/CS308",
-    "Math/MM306",
-    "Math/MM302",
-    "CompSci/Logic/Prop. Logic",
-    "Solitare/Solitare UML.canvas"
+    "Pasted image 20240408131801.png",
+    "CompSci/CS209/Card Sorting.canvas"
   ]
 }

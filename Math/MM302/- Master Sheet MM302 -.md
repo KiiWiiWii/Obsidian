@@ -46,4 +46,4 @@ To solve these sort of equations we typically put them in [[Normalized Form]].
 
 Recap of what [[Linear Independence]] is.
 
-A more concrete way to actually solve these equations is using the [[Method of undetermined coefficients]]. This is a test edit
+A more concrete way to actually solve these equations is using the [[Method of undetermined coefficients]].
