@@ -33,6 +33,17 @@ $$
 Now we will take some random value of $r$ to see if we can find a general formula for $r=n$:
 
 Take $r=0$:$$
-2a_{2} + [6a_{0}] = 0 \\
-
+2a_{2} + [6a_{0}] = 0
+$$$$
+a_{2} = -3a_{0}
 $$
+Now lets take $r=1$:$$
+6a_{3} + [6a_{1} - 2a_{1}] = 0
+$$
+$$
+6a_{3} + 4a_{1}
+$$
+$$
+a_{3} = -\frac{2}{3}a_{1}
+$$
+
