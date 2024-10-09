@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Independence.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Independence.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Independence.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Independence.md"
+                "file": "Math/MM302/- Master Sheet MM302 -.md"
               }
             }
           }
@@ -149,14 +149,16 @@
   },
   "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
+    "CompSci/CS208 Algos Notes.md",
+    "Math/MM302/Definition 6.md",
+    "Math/MM302/Bessels Equation.md",
     "Math/MM302/- Master Sheet MM302 -.md",
-    "Linear Independence.md",
-    "Theorem 5.md",
-    "Definition 7.md",
-    "Definition 6.md",
-    "Normalized Form.md",
-    "Legendres Equation.md",
-    "Bessels Equation.md",
+    "Math/MM302/Method of undetermined coefficients.md",
+    "Math/MM302/Linear Independence.md",
+    "Math/MM302/Theorem 5.md",
+    "Math/MM302/Definition 7.md",
+    "Math/MM302/Normalized Form.md",
+    "Math/MM302/Legendres Equation.md",
     "Obsidian-main/Math/MM302/- Master Sheet MM302 -.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/SAT Solving.md",
@@ -175,8 +177,6 @@
     "Obsidian-main/CompSci/CS316/Class info.md",
     "Obsidian-main/CompSci/Logic/Prop. Logic",
     "Obsidian-main/CompSci/Logic/Logical Modelling",
-    "Obsidian-main/CompSci/CS312/TCP IP Layered Architecture.md",
-    "Obsidian-main/CompSci/CS312/PHP.md",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/CompSci/Logic",
     "Obsidian-main/CompSci/CS316",
@@ -189,7 +189,7 @@
     "Obsidian-main/Personal/Solitare",
     "Obsidian-main/Pasted image 20240408131801.png",
     "Personal/Solitare/Solitare UML.canvas",
-    "Pasted image 20240408131801.png",
+    "CompSci/Pasted image 20240408131801.png",
     "CompSci/CS209/Card Sorting.canvas"
   ]
 }
