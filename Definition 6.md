@@ -1,0 +1,1 @@
+The point $x_{0}$ is called an ordinary point of the ODE if BOTH $p(x)$ and $q(x)$ are [[Analytic Functions]] at $x_{0}$. If they are not analytic, they are called single points. Single points are elaborated on in [[Definition 7]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normalized Form.md",
+                "file": "Definition 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalized Form.md",
+                "file": "Definition 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalized Form.md",
+                "file": "Definition 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normalized Form.md"
+                "file": "Definition 7.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Definition 7.md",
+    "Definition 6.md",
     "Normalized Form.md",
     "Legendres Equation.md",
     "Bessels Equation.md",
@@ -175,8 +177,6 @@
     "Obsidian-main/CompSci/CS312/PHP.md",
     "Obsidian-main/CompSci/CS312/Names of clients and servers.md",
     "Obsidian-main/CompSci/CS312/MySql.md",
-    "Obsidian-main/CompSci/CS312/HTML5.md",
-    "Obsidian-main/CompSci/CS312/Conceptual 3-Tier Model.md",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/CompSci/Logic",
     "Obsidian-main/CompSci/CS316",
