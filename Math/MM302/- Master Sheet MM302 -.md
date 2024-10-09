@@ -38,7 +38,7 @@ Next lecture, we learn how to deal with the sum and product of power series in [
 We only had one class this week so this section might be a bit shorter than the others. The focus was on series solutions for homogeneous equations with the form:$$
 a_{2} (x) y'' + a_{1}(x)y' + a_{0}y = 0
 $$
-Where each '$a$' function is a polynomial. Examples of these equations are [[Bessels Equation]]and [[Legendres Equation]]. 
+Where each '$a$' function is a polynomial. Examples of these equations are [[Bessels Equation]] and [[Legendres Equation]]. 
 
 To solve these sort of equations we typically put them in [[Normalized Form]]. 
 [[Definition 6]] explains ordinary points. [[Definition 7]] explains if a single point is regular or irregular.

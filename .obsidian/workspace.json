@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Normalized Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Normalized Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Normalized Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md"
+                "file": "Normalized Form.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d345b8e4369bc8a",
+  "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
+    "Math/MM302/- Master Sheet MM302 -.md",
+    "Normalized Form.md",
+    "Legendres Equation.md",
+    "Bessels Equation.md",
     "Obsidian-main/Math/MM302/- Master Sheet MM302 -.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/SAT Solving.md",
@@ -173,10 +177,6 @@
     "Obsidian-main/CompSci/CS312/MySql.md",
     "Obsidian-main/CompSci/CS312/HTML5.md",
     "Obsidian-main/CompSci/CS312/Conceptual 3-Tier Model.md",
-    "Obsidian-main/CompSci/CS312/Class Info.md",
-    "Obsidian-main/CompSci/CS312/Basic Client server request response.md",
-    "Obsidian-main/CompSci/CS312/- Master Sheet CS312-.md",
-    "Obsidian-main/CompSci/CS308/Why is design important.md",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/CompSci/Logic",
     "Obsidian-main/CompSci/CS316",
