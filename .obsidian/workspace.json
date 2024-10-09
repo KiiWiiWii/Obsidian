@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example 8.md",
+                "file": "Example 1.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example 8.md",
+                "file": "Example 1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example 8.md",
+                "file": "Example 1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example 8.md"
+                "file": "Example 1.5.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
-    "Math/MM302/Definition 7.md",
-    "Example 8.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "Example 1.5.md",
+    "Example 8.md",
+    "Math/MM302/Definition 7.md",
     "Example 7.md",
     "Math/MM302/Definition 4.md",
     "Math/MM302/Definition 6.md",
@@ -174,7 +175,6 @@
     "Obsidian-main/CompSci/Logic/Prop. Logic/Prop. Logic - Syntax.md",
     "Obsidian-main/CompSci/Logic/Prop. Logic/Entailment.md",
     "Obsidian-main/CompSci/CS316/Introductory Problem.md",
-    "Obsidian-main/CompSci/CS316/Haskell stuff.md",
     "Obsidian-main/CompSci/Logic/Prop. Logic",
     "Obsidian-main/CompSci/Logic/Logical Modelling",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
