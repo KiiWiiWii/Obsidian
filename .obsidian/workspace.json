@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Example 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Example 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
+                "file": "Example 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md"
+                "file": "Example 7.md"
               }
             }
           }
@@ -149,14 +149,16 @@
   },
   "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
-    "CompSci/CS208 Algos Notes.md",
+    "Math/MM302/Definition 4.md",
     "Math/MM302/Definition 6.md",
-    "Math/MM302/Bessels Equation.md",
+    "Math/MM302/Definition 7.md",
+    "Example 7.md",
     "Math/MM302/- Master Sheet MM302 -.md",
+    "CompSci/CS208 Algos Notes.md",
+    "Math/MM302/Bessels Equation.md",
     "Math/MM302/Method of undetermined coefficients.md",
     "Math/MM302/Linear Independence.md",
     "Math/MM302/Theorem 5.md",
-    "Math/MM302/Definition 7.md",
     "Math/MM302/Normalized Form.md",
     "Math/MM302/Legendres Equation.md",
     "Obsidian-main/Math/MM302/- Master Sheet MM302 -.md",
@@ -173,8 +175,6 @@
     "Obsidian-main/CompSci/CS316/Introductory Problem.md",
     "Obsidian-main/CompSci/CS316/Haskell stuff.md",
     "Obsidian-main/CompSci/CS316/Examples of markup.md",
-    "Obsidian-main/CompSci/CS316/- Master Sheet CS316-.md",
-    "Obsidian-main/CompSci/CS316/Class info.md",
     "Obsidian-main/CompSci/Logic/Prop. Logic",
     "Obsidian-main/CompSci/Logic/Logical Modelling",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",

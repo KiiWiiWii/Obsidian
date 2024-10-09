@@ -50,3 +50,7 @@ A more concrete way to actually solve these equations is using the [[Method of u
 
 ### Week 2 Examples.
 
+[[Example 7]] - How to define some ordinary points.
+[[Example 8]] - Finding single points and determining if they are regular
+[[Example 1.5]] - Finding the regular single points of an ODE
+[[Example 1.6]] - Finding the Linearly Independent solutions in powers of x of [[Legendres Equation]]. (this one is a banger)
