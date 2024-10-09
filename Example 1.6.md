@@ -61,4 +61,18 @@ Therefore, $a_{2} = -3a_{0}$ and $a_{4} = 0$. We can find that $\forall n > 2$, 
 We find that the general form for the odd coefficients is $$
 a_{2n+1} = - \left( \frac{n+1}{(2n+1)(2n-1)} \right)a_{1}
 $$
-Hence 
+Hence our solution $$
+y(x) = a_{0}(1-3x^{2}) + a_{1}\left( x - \frac{2}{3} x^{3} - \frac{1}{5} x^5 = \frac{4}{35} x^7 + \dots \right)
+$$
+Now we need to show Linear Independence. Our $y_{1}(x) = (1-3x^{2})$ and $y_{2}(x) = x-\frac{2}{3}x^{3} -\frac{1}{5}x^5 = \frac{4}{35}x^7 +\dots$ To show Linear Independence we will use the Wronskin:$$
+W(y_{1},y_{2},x) = \begin{vmatrix}
+y_{1}(x) & y_{2}(x)  \\
+y_{1}'(x)  &  y_{2}'(x)
+\end{vmatrix}
+$$
+Which, at our chosen $x=0$, becomes $$
+\begin{vmatrix}
+1 & 0 \\
+0 & 1
+\end{vmatrix}
+$$
