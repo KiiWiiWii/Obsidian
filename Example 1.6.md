@@ -47,3 +47,18 @@ $$
 a_{3} = -\frac{2}{3}a_{1}
 $$
 
+In general, we can find that for $r=n$:$$
+(n+2)(n+1)a_{n+2} = (n^{2} + n - 6)a_{n}
+
+$$
+Which equates to $$
+a_{n+2} = \frac{(n+3)(n-2)}{(n+2)(n+1)}a_{n}
+$$
+Therefore, $a_{2} = -3a_{0}$ and $a_{4} = 0$. We can find that $\forall n > 2$, $a_{2n} = 0$. Now let us consider only the odd coefficients
+
+--- Im gonna skip the algebra cause it is long ---
+
+We find that the general form for the odd coefficients is $$
+a_{2n+1} = - \left( \frac{n+1}{(2n+1)(2n-1)} \right)a_{1}
+$$
+Hence 
