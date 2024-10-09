@@ -74,5 +74,18 @@ Which, at our chosen $x=0$, becomes $$
 \begin{vmatrix}
 1 & 0 \\
 0 & 1
-\end{vmatrix}
+\end{vmatrix} = 1
 $$
+Since $W(y_{1},y_{2},0) \neq 0$, then $y_{1},y_{2}$ are Linearly independent.
+
+The radius of convergence of $y_{2}$ is obtained from the odd [[Ratio Test]].
+
+$$
+\lim_{ n \to \infty } \sqrt{ |\frac{a_{2n+1}}{a_{2}n+3} }| = \frac{n+1}{(2n+1)(2n-1)}
+$$
+--- skipping some algebra ---
+
+$$
+\dots = 1
+$$
+So we find that our convergence is $R < |1|$, as expected.
