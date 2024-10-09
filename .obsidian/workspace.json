@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theorem 6.md",
+                "file": "Linear Independence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorem 6.md",
+                "file": "Linear Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theorem 6.md",
+                "file": "Linear Independence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theorem 6.md"
+                "file": "Linear Independence.md"
               }
             }
           }
@@ -150,7 +150,8 @@
   "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
     "Math/MM302/- Master Sheet MM302 -.md",
-    "Theorem 6.md",
+    "Linear Independence.md",
+    "Theorem 5.md",
     "Definition 7.md",
     "Definition 6.md",
     "Normalized Form.md",
@@ -176,7 +177,6 @@
     "Obsidian-main/CompSci/Logic/Logical Modelling",
     "Obsidian-main/CompSci/CS312/TCP IP Layered Architecture.md",
     "Obsidian-main/CompSci/CS312/PHP.md",
-    "Obsidian-main/CompSci/CS312/Names of clients and servers.md",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/CompSci/Logic",
     "Obsidian-main/CompSci/CS316",
