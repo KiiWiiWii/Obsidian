@@ -254,4 +254,17 @@ We would like to find $v$ and $\lambda$. Subbing $\dot{x} = \lambda \underline{v
 Dividing by $e^{\lambda t}$ we get $$
 A\underline{v} = \lambda \underline{v}
 $$
-So for $\dot{x} = Ax$ we have to find the eigenvalues $\lambda$ and correspoding eigenvec
+So for $\dot{x} = Ax$ we have to find the eigenvalues $\lambda$ and corresponding eigenvectors $\underline{v}$ of the matrix $A$
+
+# Theorem 10
+
+Consider the constant coefficient linear system $\dot{x} = Ax$. Assume that the constant matrix $A$ has a LI set of n eigenvectors $\underline{v_{n}}$, with corresponding eigenvalues $\lambda_{n}$ then $$
+x^{1} = \underline{v_{1}}e^{\lambda_{1}t} + \dots + c_{n}\underline{v_{n}}e^{\lambda_{n}t}
+$$
+form a basis of the system and the general solution is $$
+x = c_{1}\underline{v_{1}}e^{\lambda_{1}}t + \dots + c_{n}\underline{v_{n}}e^{\lambda_{n}t}
+$$
+(_proof in notes_)
+
+---
+
