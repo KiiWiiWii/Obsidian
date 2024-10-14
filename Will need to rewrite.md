@@ -44,6 +44,9 @@ As well as the system of equations we may also be given initial conditions $$
 x(t_{0}) = b_{1}, y(t_{0}) = b_{2}
 $$
 Where $\alpha < t_{0} <\beta$ and $b_{1}$ and $b_{2}$ are given constants.
+
+Any 2 solutions are [[Linear Independence]] between $\alpha < 0 < \beta$ if $c_{1}x^{1}(t) + c_{1}x^{2}(t) = 0$ implies that $c_{1}=c_{2}=0$.
+If the solutions are LI then we can write the general solution as a combination of these solutions.
 # Example of where these arise
 
 In infectious diseases modelling, we can think of a host population being broken up into compartments. We will be looking at the most simple form of this.
@@ -92,7 +95,7 @@ $$
 $$
 5x + 3y = 15e^{2t} + 45e^{4t} - 9e^{2t} = 9e^{4t} = 6e^{2t} + 36e^{4t} = \dot{x}(t)
 $$
-We can do a similar thing to prove that it is the solution for $\dot{y}$. (_)
+We can do a similar thing to prove that it is the solution for $\dot{y}$. (_check notes_)
 
 Now let $$
 x(0) = 3e^{2(0)} + 9e^{4(0)} = 12
@@ -100,4 +103,6 @@ $$
 and $$
 y(0) = -3e^{2(0)} - 3e^0 = -6
 $$
-so they satisfy the differential equations and the initial conditions.
+so they satisfy the differential equations and the initial conditions. 
+
+---
