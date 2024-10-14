@@ -204,14 +204,45 @@ c_{1}\begin{bmatrix}
 2 \\
 -1
 \end{bmatrix} = \begin{bmatrix}
-=19 \\
+-19 \\
 11
 \end{bmatrix}
 $$
 $$
 \begin{bmatrix}
-
+-5 & 2 \\
+3 & -1
+\end{bmatrix} \begin{bmatrix}
+c_{1} \\
+c_{2}
+\end{bmatrix} = \begin{bmatrix}
+-19 \\
+11
 \end{bmatrix}
 $$
+
+$$
+r_{1}^{1} = r_{1} + 2r_{2} \begin{bmatrix}
+1 & 0 \\
+3 & -1
+\end{bmatrix} \begin{bmatrix}
+c_{1} \\
+c_{2}
+\end{bmatrix} = \begin{bmatrix}
+3 \\
+11
+\end{bmatrix}
+
+$$
+Which implies $c_{1} = 3$, $3c_{1} - c_{2} = 11$, $\implies c_{2} = 3c_{1} -11 = -2$. so the solutions is $$
+\underline{x}(t) = 3\begin{bmatrix}
+-5e^{2t} \\
+3e^{2t}
+\end{bmatrix} - 2 \begin{bmatrix}
+2e^{t} \\
+-e^{t}
+\end{bmatrix}
+$$
+mk
 
 ---
