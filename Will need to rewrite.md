@@ -38,13 +38,47 @@ x_{1}(t) \\
 y_{1}(t)
 \end{bmatrix}
 $$
-Each having continous derivatives on $\alpha < t<\beta$ and simultaneously satisfying both equations of the system.
+Each having continuous derivatives on $\alpha < t<\beta$ and simultaneously satisfying both equations of the system.
 
-As well as the system of equations we may also be given init
-
+As well as the system of equations we may also be given initial conditions $$
+x(t_{0}) = b_{1}, y(t_{0}) = b_{2}
+$$
+Where $\alpha < t_{0} <\beta$ and $b_{1}$ and $b_{2}$ are given constants.
 # Example of where these arise
 
 In infectious diseases modelling, we can think of a host population being broken up into compartments. We will be looking at the most simple form of this.
 We look at a simple susceptible-infected-recovered model. Hosts belong to one of these three compartment groups.
 
 [[SIR Model.canvas|SIR Model]]
+
+
+# Example 10
+
+Take the system of equations:
+$$
+\dot{x} = 5x(t) + 3y(t)
+$$
+$$
+\dot{y} = -x(t) + y(t)
+$$
+with initial conditions $x(0) = 12, \ \ \ y(0) = -6$
+
+By letting $$
+A = \begin{bmatrix}
+5  & 3 \\
+-1  &  1
+\end{bmatrix}, x = \begin{bmatrix}
+x(t) \\
+y(t)
+\end{bmatrix}, x(0) = \begin{bmatrix}
+12  \\
+-6
+\end{bmatrix} = b
+$$
+we may write the above IVP in the matrix form as follows : $$
+\dot{x} = Ax, x(0) = b
+$$
+We can easily verify the solution by substitution: 
+$$
+x(t) = 3e^{2t}
+$$
