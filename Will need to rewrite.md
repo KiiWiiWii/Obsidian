@@ -428,4 +428,37 @@ Our general solution is $$
 1
 \end{bmatrix}e^{-4t}
 $$
+
+
+Finally, consider $$
+A = \begin{bmatrix}
+ 1 & 2 \\
+2 & 1
+\end{bmatrix}
+$$you can show that $$
+\lambda = 3 \ \ \ \ \ \lambda = -1
+$$
+and the eigenvectors are $$
+v = \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}, \lambda = 3
+$$
+$$
+v = \begin{bmatrix}
+-1 \\
+1
+\end{bmatrix}, \lambda = -1
+$$
+so the general solution is $$
+\underline{v}(t) = c_{1}\begin{bmatrix}
+1 \\
+1
+\end{bmatrix}e^{3t} + c_{2} \begin{bmatrix}
+-1  \\
+1
+\end{bmatrix}e ^{-t}
+$$
 ---
+
+
