@@ -35,11 +35,14 @@
             "id": "bd716a430133763d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Will need to rewrite.md",
-                "mode": "source",
-                "source": false
+                "file": "SIR Model.canvas",
+                "viewState": {
+                  "x": -148.12247563216408,
+                  "y": 84.50708994949066,
+                  "zoom": 0.2783322328825793
+                }
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Will need to rewrite.md",
+                "file": "SIR Model.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Will need to rewrite.md",
+                "file": "SIR Model.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Will need to rewrite.md"
+                "file": "SIR Model.canvas"
               }
             }
           }
@@ -174,8 +177,9 @@
   },
   "active": "bd716a430133763d",
   "lastOpenFiles": [
-    "Math/MM302/- Master Sheet MM302 -.md",
     "Will need to rewrite.md",
+    "SIR Model.canvas",
+    "Math/MM302/- Master Sheet MM302 -.md",
     "Untitled.md",
     "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/Examples/Example 1.6.md",
@@ -199,7 +203,6 @@
     "Math/MM302/Linear Independence.md",
     "Obsidian-main/Math/MM302/- Master Sheet MM302 -.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
-    "Obsidian-main/CompSci/Logic/Logical Modelling/SAT Solving.md",
     "Obsidian-main/CompSci/Logic/Prop. Logic",
     "Obsidian-main/CompSci/Logic/Logical Modelling",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f653790092a66faf","type":"text","text":"S","x":-280,"y":-140,"width":60,"height":60},
+		{"id":"dec917ba3201300d","type":"text","text":"I","x":-180,"y":-140,"width":60,"height":60},
+		{"id":"711568c31e287c6f","type":"text","text":"R","x":-80,"y":-140,"width":60,"height":60},
+		{"id":"9236f3b930d3bbbe","x":-407,"y":20,"width":715,"height":240,"color":"5","type":"text","text":"assume that once you are recovered, you are now immune. Assume that the floe of hosts out the susceptible group occurs at the rate:$$\n\\frac{dS}{st} = -bS(t)(t)\n$$\n"}
+	],
+	"edges":[
+		{"id":"1af1882084423067","fromNode":"f653790092a66faf","fromSide":"right","toNode":"dec917ba3201300d","toSide":"left"},
+		{"id":"2628ab573891e0d5","fromNode":"dec917ba3201300d","fromSide":"right","toNode":"711568c31e287c6f","toSide":"left"},
+		{"id":"cc71ce81c5dcc6f1","fromNode":"9236f3b930d3bbbe","fromSide":"top","toNode":"711568c31e287c6f","toSide":"bottom"}
+	]
+}

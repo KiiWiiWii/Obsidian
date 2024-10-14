@@ -16,4 +16,7 @@ $$
 $$
 # Example of where these arise
 
-In infectious diseases modelling, we can think of a host population being broken up into compartments. 
+In infectious diseases modelling, we can think of a host population being broken up into compartments. We will be looking at the most simple form of this.
+We look at a simple-susceptible-infected recovered model. Hosts belong to one of these three compartment groups.
+
+[[SIR Model.canvas|SIR Model]]
