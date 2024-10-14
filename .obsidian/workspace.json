@@ -35,14 +35,11 @@
             "id": "bd716a430133763d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "SIR Model.canvas",
-                "viewState": {
-                  "x": -148.12247563216408,
-                  "y": 251.75894021777506,
-                  "zoom": 0.08422131950656593
-                }
+                "file": "Will need to rewrite.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIR Model.canvas",
+                "file": "Will need to rewrite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIR Model.canvas",
+                "file": "Will need to rewrite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIR Model.canvas"
+                "file": "Will need to rewrite.md"
               }
             }
           }
@@ -177,8 +174,8 @@
   },
   "active": "bd716a430133763d",
   "lastOpenFiles": [
-    "Will need to rewrite.md",
     "SIR Model.canvas",
+    "Will need to rewrite.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Untitled.md",
     "Math/MM302/Examples/Example 1.5.md",

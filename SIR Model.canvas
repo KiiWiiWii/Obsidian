@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9236f3b930d3bbbe","x":-407,"y":40,"width":715,"height":520,"color":"5","type":"text","text":"assume that once you are recovered, you are now immune. Assume that the flow of hosts out the susceptible group occurs at the rate:\n$$\n\\frac{dS}{dt} = -bS(t)I(t)$$ \n For the infected group \n \n$$\\frac{dI}{dt} = bS(t)I(t)$$\nFor the Recovered group\n$$\n\\frac{dR}{dt}= kI(t)\n$$\n"},
+		{"id":"9236f3b930d3bbbe","x":-407,"y":40,"width":715,"height":620,"color":"5","type":"text","text":"assume that once you are recovered, you are now immune. Assume that the flow of hosts out the susceptible group occurs at the rate:\n$$\n\\frac{dS}{dt} = -bS(t)I(t)$$ \n For the infected group \n \n$$\\frac{dI}{dt} = bS(t)I(t)$$\nFor the Recovered group\n$$\n\\frac{dR}{dt}= kI(t)\n$$\nWe could be interested in knowing if $S_{0} = S(t_{0})$\nis big enough and $I_{0} = I(t_{0})$ is big enough to get an epidemic."},
 		{"id":"dec917ba3201300d","type":"text","text":"I","x":-109,"y":-80,"width":60,"height":60},
 		{"id":"711568c31e287c6f","type":"text","text":"R","x":-9,"y":-80,"width":60,"height":60},
 		{"id":"f653790092a66faf","type":"text","text":"S","x":-209,"y":-80,"width":60,"height":60}
