@@ -267,4 +267,32 @@ $$
 (_proof in notes_)
 
 ---
+# Example 2.2
 
+Find the general solution of the constant coefficient linear system $$
+x^{0} = Ax
+$$
+Where $$
+A = \begin{bmatrix}
+5 & 2 \\
+3 & 4
+\end{bmatrix}
+$$
+The eigenvalues satisfy the characeteristic equation $$
+|A = \lambda I | = 0
+$$
+$$
+\begin{vmatrix}
+5-\lambda  &  2 \\
+3  &  4 -\lambda
+\end{vmatrix} = (5-\lambda)(4-\lambda) - 6
+$$
+$$
+ = \lambda^{2} - 9 \lambda + 14 = 0
+$$
+$$
+=(\lambda - 2)(\lambda - 7)=0
+$$
+hence $$
+\lambda = 2,7
+$$
