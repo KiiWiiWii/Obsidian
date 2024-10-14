@@ -243,6 +243,15 @@ Which implies $c_{1} = 3$, $3c_{1} - c_{2} = 11$, $\implies c_{2} = 3c_{1} -11 =
 -e^{t}
 \end{bmatrix}
 $$
-
-
 ---
+# Solution with homogeneous constant
+
+Assume that a solution exists in the form $$
+\underline{x} = \underline{v}e^{\lambda t}
+$$
+We would like to find $v$ and $\lambda$. Subbing $\dot{x} = \lambda \underline{v}e^{\lambda t} = Ax = A\underline{v}e^{\lambda t}$
+
+Dividing by $e^{\lambda t}$ we get $$
+A\underline{v} = \lambda \underline{v}
+$$
+So for $\dot{x} = Ax$ we have to find the eigenvalues $\lambda$ and correspoding eigenvec
