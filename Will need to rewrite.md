@@ -80,5 +80,24 @@ we may write the above IVP in the matrix form as follows : $$
 $$
 We can easily verify the solution by substitution: 
 $$
-x(t) = 3e^{2t}
+x(t) = 3e^{2t} + 9e^{4t}
+$$ $$
+y(t) = -3e^{2t} - 3e^{4t}
 $$
+Differentiating we get $$
+\dot{x} = 6e^{2t} + 36e^{4t}
+$$ $$
+\dot{y} = -6e^{2t} - 12e^{4t}
+$$
+$$
+5x + 3y = 15e^{2t} + 45e^{4t} - 9e^{2t} = 9e^{4t} = 6e^{2t} + 36e^{4t} = \dot{x}(t)
+$$
+We can do a similar thing to prove that it is the solution for $\dot{y}$. (_)
+
+Now let $$
+x(0) = 3e^{2(0)} + 9e^{4(0)} = 12
+$$
+and $$
+y(0) = -3e^{2(0)} - 3e^0 = -6
+$$
+so they satisfy the differential equations and the initial conditions.
