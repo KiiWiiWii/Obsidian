@@ -278,7 +278,7 @@ A = \begin{bmatrix}
 3 & 4
 \end{bmatrix}
 $$
-The eigenvalues satisfy the characeteristic equation $$
+The eigenvalues satisfy the characteristic equation $$
 |A = \lambda I | = 0
 $$
 $$
@@ -296,3 +296,44 @@ $$
 hence $$
 \lambda = 2,7
 $$
+Eigenvector of A
+
+$\lambda = 2$   $(A-2I)\underline{v} = 0$. We want to find $\underline{v}$.
+$$
+\begin{bmatrix}
+3 & 2 \\
+3 & 2
+\end{bmatrix}\begin{bmatrix}
+v_{1} \\
+v_{2} 
+\end{bmatrix} = \begin{bmatrix}
+0 \\
+0
+\end{bmatrix}
+$$
+Note that this is singular. Hence, let $v_{2} = \alpha$ then $3v_{1} + 2v_{2} = 0$
+
+$v_{1} = \frac{-2v_{2}}{3}$
+
+For example, let $\alpha = -3$ then $$
+v = \begin{bmatrix}
+2 \\
+-3
+\end{bmatrix}
+$$
+Now consider $\lambda = 7$
+
+$(A - 7I)\underline{v} = 0$
+
+$$
+\begin{bmatrix}
+-2 & 2 \\
+3 & -3
+\end{bmatrix}\begin{bmatrix}
+v_{1} \\
+v_{2}
+\end{bmatrix} = \begin{bmatrix}
+0  \\
+0
+\end{bmatrix}
+$$Hence if $v_{2} = \alpha$ then $-2v_{1} + 2v_{2} = 0$, $v_{1} = v_{2} = \alpha$. For example let 
