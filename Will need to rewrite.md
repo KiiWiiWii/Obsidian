@@ -369,6 +369,63 @@ $$
 \implies\lambda^{2} + 6 \lambda + 8 = 0
 $$
 $$
-(\lambda + 2) (\lambda + 2) = 0
+(\lambda + 2) (\lambda + 4) = 0
 $$
 So $\lambda = -2,-4$
+
+Now to find our Eigenvectors
+$\lambda = -2$
+$$
+(A+2I)\underline{v} = \underline{0}
+$$
+$$
+\begin{bmatrix}
+-1  & 1\\
+1 & -1
+\end{bmatrix} \begin{bmatrix}
+v_{1} \\
+v_{2}
+\end{bmatrix} = \begin{bmatrix}
+0  \\
+0 
+\end{bmatrix}
+$$
+So now let $v_{2} = \alpha$ then $-v_{1} + v_{2} = 0$ so $v_{1}=v_{2}=\alpha$. Now take $\alpha =1$ then $$
+v =\begin{bmatrix}
+1 \\
+1
+\end{bmatrix}
+$$
+Now take $\lambda = -4$
+$$
+(A + 4I)\underline{v} =0
+$$
+$$
+\begin{bmatrix}
+1  & 1\\
+1 & 1
+\end{bmatrix}\begin{bmatrix}
+v_{1} \\
+v_{2}
+\end{bmatrix} = \begin{bmatrix}
+ 0 \\
+0
+\end{bmatrix}
+$$
+
+So $v_{1}=v_{2}=-\alpha$, take $\alpha = 1$ $$
+\underline{v} = \begin{bmatrix}
+-1 \\
+1
+\end{bmatrix}
+$$
+Our general solution is $$
+\underline{v}(t) = c_{1} \begin{bmatrix}
+1 \\
+1
+\end{bmatrix} e ^{-2t} + c_{2}\begin{bmatrix}
+-1 \\
+1
+\end{bmatrix}e^{-4t}
+$$
+---
