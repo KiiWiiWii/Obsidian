@@ -336,4 +336,39 @@ v_{2}
 0  \\
 0
 \end{bmatrix}
-$$Hence if $v_{2} = \alpha$ then $-2v_{1} + 2v_{2} = 0$, $v_{1} = v_{2} = \alpha$. For example let 
+$$Hence if $v_{2} = \alpha$ then $-2v_{1} + 2v_{2} = 0$, $v_{1} = v_{2} = \alpha$. For example let $\alpha =1$, then $$
+\underline{v} = \begin{bmatrix}
+1 \\
+1 
+\end{bmatrix}
+$$
+The general solution is $$
+x(t) = c_{1}\begin{bmatrix}
+2 \\
+-3
+\end{bmatrix}e^{2t} + c_{2} \begin{bmatrix}
+1 \\
+1 
+\end{bmatrix} e^{7t}
+$$
+Now lets consider a new example $$
+A = \begin{bmatrix} -3 & 1 \\
+1 & -3
+\end{bmatrix}
+$$
+Our eigenvalues of $A$ $$
+\begin{vmatrix}
+-3-\lambda  &  1  \\
+1  &  -3 - \lambda
+\end{vmatrix} = 0
+$$
+$$
+(3 + \lambda) ^{2} - 1 =0
+$$
+$$
+\implies\lambda^{2} + 6 \lambda + 8 = 0
+$$
+$$
+(\lambda + 2) (\lambda + 2) = 0
+$$
+So $\lambda = -2,-4$
