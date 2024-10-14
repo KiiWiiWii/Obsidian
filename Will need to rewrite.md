@@ -46,7 +46,7 @@ $$
 Where $\alpha < t_{0} <\beta$ and $b_{1}$ and $b_{2}$ are given constants.
 
 Any 2 solutions are [[Linear Independence]] between $\alpha < 0 < \beta$ if $c_{1}x^{1}(t) + c_{1}x^{2}(t) = 0$ implies that $c_{1}=c_{2}=0$.
-If the solutions are LI then we can write the general solution as a combination of these solutions.
+If the solutions are LI then we can write the general solution as a combination of these solutions. We can also form the Wronskin of $W[x^{1}(t),x^{2}(t)]$. We need this to be non-zero.
 # Example of where these arise
 
 In infectious diseases modelling, we can think of a host population being broken up into compartments. We will be looking at the most simple form of this.
@@ -106,3 +106,41 @@ $$
 so they satisfy the differential equations and the initial conditions. 
 
 ---
+
+# Example 2.1
+
+Given the system $\dot{x} = Ax$ where $$
+A = \begin{bmatrix}
+-4 & -10  \\
+3 & 7
+\end{bmatrix}
+
+$$.
+Let $$
+x^{1}(t) = \begin{bmatrix}
+-5e^{2t}  \\
+ 3e^{2t}
+\end{bmatrix}, 
+x^{2} = \begin{bmatrix}
+2e^{t}  \\
+-e^{t}
+\end{bmatrix}, b = \begin{bmatrix}
+-19 \\
+11
+\end{bmatrix}
+$$Verify that $x^{1}(t)$ and $x^{2}(t)$ form a fundamental set of solutions and solve the IVP $x(0)=b$.
+
+$$
+x^{1}(t) = \begin{bmatrix}
+-5e^{2t} \\
+3e^{2t}
+\end{bmatrix}
+$$
+$$
+\dot{x} = \begin{bmatrix}
+-10e^{2t} \\
+6e^{2t}
+\end{bmatrix}
+
+$$
+Is this a solut
