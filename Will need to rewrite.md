@@ -143,4 +143,48 @@ $$
 \end{bmatrix}
 
 $$
-Is this a solut
+Is this a solution? We can prove it if $$
+\dot{x}^{1} = \begin{bmatrix}
+-4 & 10 \\
+3 & 7
+\end{bmatrix} \begin{bmatrix}
+-5e^{2t} \\
+3e^{2t}
+\end{bmatrix}
+$$$$
+= \begin{bmatrix}
+20e^{2t} -  30e^{2t} \\
+-15e^{2t}  +  21e^{2t}
+\end{bmatrix}
+ = \begin{bmatrix}
+-10e^{2t} \\
+6e^{2t}
+\end{bmatrix}
+$$
+We do this again for $x^{2}$. $$
+x^{2} = \begin{bmatrix}
+2e^{t} \\
+-e^{t}
+\end{bmatrix}
+$$
+$$
+\dot{x}^{2} = \begin{bmatrix}
+-4 & -10 \\
+3 & 7
+\end{bmatrix} \begin{bmatrix}
+2e^{t} \\
+-e^{t}
+\end{bmatrix}
+$$
+$$
+= \dots = \begin{bmatrix}
+2e^{t} \\
+-e^{t}
+\end{bmatrix}
+$$
+So they are solutions. To check if they are fundamental solution we check if they are LI. To check $x^{1}$ and $x^{2}$ are LI we form the Wronskin $$
+W(x^{1}, x^{2}) = \begin{vmatrix}
+-5e^{2t}  &  \\
+3e^{2t}
+\end{vmatrix}
+$$
