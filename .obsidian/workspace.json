@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8045b99fdd37bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd716a430133763d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Will need to rewrite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.5.md",
+                "file": "Will need to rewrite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.5.md",
+                "file": "Will need to rewrite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.5.md"
+                "file": "Will need to rewrite.md"
               }
             }
           }
@@ -147,8 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5474cc3c0d05d5af",
+  "active": "bd716a430133763d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Will need to rewrite.md",
+    "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM302/Examples/Example 1.6.md",
     "Math/MM302/Analytic Functions.md",
@@ -161,7 +189,6 @@
     "Math/MM302/Examples/Example 4a.md",
     "Math/MM302/Theorem 4.md",
     "Math/MM302/Method of undetermined coefficients.md",
-    "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/Examples/Example 8.md",
     "Math/MM302/Definition 7.md",
     "Math/MM302/Legendres Equation.md",
@@ -173,8 +200,6 @@
     "Obsidian-main/Math/MM302/- Master Sheet MM302 -.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/Wizards Pet Problem.md",
     "Obsidian-main/CompSci/Logic/Logical Modelling/SAT Solving.md",
-    "Obsidian-main/CompSci/Logic/Logical Modelling/Package Installations.md",
-    "Obsidian-main/CompSci/Logic/Logical Modelling/Note, i cant remember what this is.md",
     "Obsidian-main/CompSci/Logic/Prop. Logic",
     "Obsidian-main/CompSci/Logic/Logical Modelling",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
