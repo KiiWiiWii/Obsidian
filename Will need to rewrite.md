@@ -184,7 +184,34 @@ $$
 $$
 So they are solutions. To check if they are fundamental solution we check if they are LI. To check $x^{1}$ and $x^{2}$ are LI we form the Wronskin $$
 W(x^{1}, x^{2}) = \begin{vmatrix}
--5e^{2t}  &  \\
-3e^{2t}
+-5e^{2t}  & 2e^{t} \\
+3e^{2t} & -e^{t}
 \end{vmatrix}
 $$
+$$
+= 5e^{3t} - 6e^{3t} = -e^{3t}
+$$
+As this can never be 0, the solutions are LI and therefore fundamental set of solutions.
+
+The general solution is $$
+\underline{x}(t) = c_{1}\underline{x}^{1}(t) + c_{2} \underline{x}^{2}(t)
+$$
+(skipping some shit) $$
+c_{1}\begin{bmatrix}
+-5 \\
+3 
+\end{bmatrix} + c_{2}\begin{bmatrix}
+2 \\
+-1
+\end{bmatrix} = \begin{bmatrix}
+=19 \\
+11
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+
+\end{bmatrix}
+$$
+
+---
