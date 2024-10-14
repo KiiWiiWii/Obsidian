@@ -243,6 +243,6 @@ Which implies $c_{1} = 3$, $3c_{1} - c_{2} = 11$, $\implies c_{2} = 3c_{1} -11 =
 -e^{t}
 \end{bmatrix}
 $$
-mk
+
 
 ---
