@@ -52,4 +52,63 @@ $$
 $$
 (\lambda + 3) ( \lambda - 5 )= 0
 $$
-so $\lambda = - 3,$
+so $\lambda = - 3, 5$.
+
+When $\lambda = - 3$: $$
+\begin{bmatrix}
+6 & 2 \\
+6 & 2
+\end{bmatrix} \begin{bmatrix}
+v_{1}  \\
+v_{2} 
+\end{bmatrix} = \begin{bmatrix}
+0  \\
+0
+\end{bmatrix}
+$$
+$$
+6v_{1} + 2 v_{2} = 0
+$$
+Now let $v_{2} = \alpha$. $$
+3v_{1} = - v_{2} = \alpha
+$$
+$$
+v_{1} = - \frac{\alpha}{3}
+$$
+Now let $\alpha = 3$, $v_{1} = - 1, v_{2} = 3$. $$
+\underline{v} = \begin{bmatrix}
+-1 \\
+3 
+\end{bmatrix}
+$$
+Now consider $\lambda = 5$. 
+$$
+\begin{bmatrix}
+- 2 & 2 \\
+6  & -6   
+\end{bmatrix} \begin{bmatrix}
+v_{1} \\
+v_{2}
+\end{bmatrix} = \begin{bmatrix}
+0  \\
+0
+\end{bmatrix}
+
+$$
+$$
+- 2 v_{1} + 2 v_{2} = 0 
+$$ $$
+\underline{v} = \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}
+$$
+$$
+\underline{x}(t) = c_{1} \begin{bmatrix}
+- 1 \\
+3 
+\end{bmatrix} e^{-3t} + c_{2} \begin{bmatrix}
+1 \\
+1
+\end{bmatrix} e^{ 5t }
+$$
