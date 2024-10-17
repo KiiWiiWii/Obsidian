@@ -112,3 +112,19 @@ $$
 1
 \end{bmatrix} e^{ 5t }
 $$
+b) Critical points occur when $\underline{\dot{x}} = 0$ show that this only occurs when $x = 0$.
+
+Clearly $x=0$ is a solution. To check that it is the only solutions we check: 
+$$
+\det(A) = \begin{vmatrix}
+3 & 2 \\
+6  & -1 
+\end{vmatrix} = - 3 - 12 = 15
+$$
+As this is not equal to 0, the $x=0$ is the only critical point.
+
+c) Determine the nature and stability of this critical point.
+
+It is an unstable saddle. $Q\mathbf{E}D$
+
+---
