@@ -38,3 +38,6 @@ $$
 \end{bmatrix} e ^{ - 2 t}
 $$
 
+When $c_{1} = 1$ and $c_{2} = 2$ we get 
+![[Pasted image 20241017132900.png]]
+-- honestly this looks so ugly so just look at the notes here : 
