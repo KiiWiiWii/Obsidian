@@ -26,10 +26,3 @@ $$
 \end{vmatrix} = 20 - 6 = 14
 $$
 
-$$
-
-$$$$
-e^{-2t} = 5 \iff t = -\frac{\ln_{5}}{2}
-
-$$
-*very important for exam#*
