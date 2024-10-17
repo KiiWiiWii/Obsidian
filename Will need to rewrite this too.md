@@ -7,6 +7,20 @@ Just check the notes the lecturer wrote : [[4_MM302_phase-plane.pdf]].
 
 In [[4_MM302_phase-plane.pdf]].
 
-We can see that $\underline{x} =\begin{pmatrix}0\\0\end{pmatrix}$ is going to be a ciritical point.
+### steps:
+1. Find the GS
+2. Find the critical point(s).
+3. Plot different values of $c_{1}$ and $c_{2}$.
+4. 
 
-To show that it is the only critical point we can show that $\det (a$
+We can see that $\underline{x} =\begin{pmatrix}0\\0\end{pmatrix}$ is going to be a critical point.
+
+To show that it is the only critical point we can show that $\det (a)$ is not singular.
+
+$$
+\det(a) = \begin{vmatrix}
+5 & 2  \\
+3 & 4
+\end{vmatrix} = 20 - 6 = 14
+$$
+
