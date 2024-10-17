@@ -279,7 +279,7 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 The eigenvalues satisfy the characteristic equation $$
-|A = \lambda I | = 0
+|A - \lambda I | = 0
 $$
 $$
 \begin{vmatrix}
@@ -461,4 +461,6 @@ so the general solution is $$
 $$
 ---
 
+$$
 
+$$
