@@ -50,33 +50,19 @@
             }
           },
           {
-            "id": "f0b5ea97ff75ddcd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
             "id": "3dc91eadbeb9da3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Will need to rewrite this too.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/MM302/4_MM302_phase-plane.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Will need to rewrite this too"
+              "icon": "lucide-file-text",
+              "title": "4_MM302_phase-plane"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Will need to rewrite this too.md",
+                "file": "Math/MM302/4_MM302_phase-plane.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Will need to rewrite this too"
+              "title": "Backlinks for 4_MM302_phase-plane"
             }
           },
           {
@@ -167,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Will need to rewrite this too.md",
+                "file": "Math/MM302/4_MM302_phase-plane.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Will need to rewrite this too"
+              "title": "Outgoing links from 4_MM302_phase-plane"
             }
           },
           {
@@ -194,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Will need to rewrite this too.md"
+                "file": "Math/MM302/4_MM302_phase-plane.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Will need to rewrite this too"
+              "title": "Outline of 4_MM302_phase-plane"
             }
           }
         ],
@@ -218,14 +204,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d345b8e4369bc8a",
+  "active": "3dc91eadbeb9da3f",
   "lastOpenFiles": [
+    "Will need to rewrite this too.md",
+    "Math/MM302/4_MM302_phase-plane.pdf",
+    "cd",
     "Math/MM302/Images/Pasted image 20241017132900.png",
     "Math/MM302/Images",
     "Math/MM302/Images/Pasted image 20241017132252.png",
     "Math/MM302/Images/Pasted image 20241017132232.png",
     "Untitled.canvas",
-    "Will need to rewrite this too.md",
     "Will need to rewrite.md",
     "Math/MM302/Ratio Test.md",
     "Math/MM302/- Master Sheet MM302 -.md",
@@ -259,8 +247,6 @@
     "Obsidian-main/CompSci/CS312",
     "Obsidian-main/CompSci/CS308",
     "Obsidian-main/CompSci/CS209",
-    "Obsidian-main/CompSci/Algorithms",
-    "Obsidian-main/CompSci",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
     "Obsidian-main/Pasted image 20240408131801.png",
     "Personal/Solitare/Solitare UML.canvas",
