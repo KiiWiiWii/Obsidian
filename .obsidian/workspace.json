@@ -53,12 +53,14 @@
             "id": "3dc91eadbeb9da3f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math/MM302/4_MM302_phase-plane.pdf"
+                "file": "Will need to rewrite this too.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4_MM302_phase-plane"
+              "icon": "lucide-file",
+              "title": "Will need to rewrite this too"
             }
           }
         ],
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM302/4_MM302_phase-plane.pdf",
+                "file": "Will need to rewrite this too.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4_MM302_phase-plane"
+              "title": "Backlinks for Will need to rewrite this too"
             }
           },
           {
@@ -153,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM302/4_MM302_phase-plane.pdf",
+                "file": "Will need to rewrite this too.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4_MM302_phase-plane"
+              "title": "Outgoing links from Will need to rewrite this too"
             }
           },
           {
@@ -180,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/4_MM302_phase-plane.pdf"
+                "file": "Will need to rewrite this too.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4_MM302_phase-plane"
+              "title": "Outline of Will need to rewrite this too"
             }
           }
         ],
@@ -206,8 +208,8 @@
   },
   "active": "3dc91eadbeb9da3f",
   "lastOpenFiles": [
-    "Will need to rewrite this too.md",
     "Math/MM302/4_MM302_phase-plane.pdf",
+    "Will need to rewrite this too.md",
     "cd",
     "Math/MM302/Images/Pasted image 20241017132900.png",
     "Math/MM302/Images",

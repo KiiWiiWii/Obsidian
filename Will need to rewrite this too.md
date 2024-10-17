@@ -13,7 +13,8 @@ In [[4_MM302_phase-plane.pdf]].
 3. Plot different values of $c_{1}$ and $c_{2}$.
 4. Find which Eigenvalue is dominant by seeing what happens as $t \to \infty$.
 5. See what Eigenvalue is dominant as $t \to -\infty$.
-6. Plot some funny lines (?)
+6. Plot the lines with arbitrary $c_{1}$ and $c_{2}$ as $t \to \pm\infty$.
+7. 
 
 We can see that $\underline{x} =\begin{pmatrix}0\\0\end{pmatrix}$ is going to be a critical point.
 
