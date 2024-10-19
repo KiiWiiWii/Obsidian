@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.6.md",
+                "file": "Will need to rewrite this too.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example 1.6"
+              "title": "Will need to rewrite this too"
             }
           }
         ],
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.6.md"
+                "file": "Will need to rewrite this too.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Example 1.6"
+              "title": "Outline of Will need to rewrite this too"
             }
           }
         ],
@@ -208,6 +208,7 @@
   },
   "active": "3dc91eadbeb9da3f",
   "lastOpenFiles": [
+    "Math/MM302/Examples/Example 1.6.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Will need to rewrite this too.md",
     "Math/MM302/4_MM302_phase-plane.pdf",
@@ -222,7 +223,6 @@
     "SIR Model.canvas",
     "Untitled.md",
     "Math/MM302/Examples/Example 1.5.md",
-    "Math/MM302/Examples/Example 1.6.md",
     "Math/MM302/Analytic Functions.md",
     "Math/MM302/Examples/Example 7.md",
     "Math/MM302/Normalized Form.md",
