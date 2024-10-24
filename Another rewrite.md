@@ -94,3 +94,14 @@ Therefore these are orthogonal and correspond to [[Theorem 12]].  (_you could al
 
 ![[Pasted image 20241024140925.png]]"quite an easy derivation"
 
+# Example 3.3
+Consider the eigenvalue problem $$
+y'' + \lambda y = 0 \ \ \ \ 0 < x < a
+$$ $$
+y(0) = 0 \ \ \ or \ \ \ y'(0)
+$$$$
+y(a) = 0 \ \ \ or \ \ \ y'(a) =0
+$$
+The Rayleigh quotient with $p(x) = 1$, $p(x) = 0$ and $\sigma (x) = 1$ $$
+\lambda = \int _{0}^{a} (y')^{2} \, dx -
+$$
