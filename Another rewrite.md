@@ -147,4 +147,23 @@ $$
 Because $A \neq 0$ $$
 m^{2}e^{mx} = Ae^{mx} = 0
 $$
-Similiart
+Similarly:
+$$
+m^{2} + \lambda = 0
+$$
+$$
+m^{2} = - \lambda = - p^{2}
+
+$$
+Now to look at each case and see what happens to m
+
+Case 1. assume $\lambda >0$.
+$$
+m = \pm ip
+$$
+where $p^{2} = \lambda$.
+The solutions for these two roots are:
+$$
+y(x) = A\sin (px) + B\cos (px)
+$$
+(if $m = u \pm ip$, the solutions would be $$)
