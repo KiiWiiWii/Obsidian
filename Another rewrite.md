@@ -32,3 +32,31 @@ Using theorem 11 as part of proof.
 Assume we have two distinct eigenfunctions, $y_{1}(x), \ \ \ y_{2}(x)$. Using Lagrange identity: $$
 \int _{a}^{b}y_{1}L[y_{2}] - y_{2}L[y_{1}] \, dx =0
 $$
+Since $$
+L[y_{2}] +\lambda_{2}\sigma (x)y_{2} = 0
+$$
+$$
+\implies L[y_{2}] = lake\lambda_{2}\sigma (x)y_{2}(x)
+$$
+and similarly $$
+L[y_{1}] + \lambda_{1}\sigma (x)y_{1}(x) = 0
+$$
+$$
+\implies L[y_{1}] = - \lambda_{1}\sigma (x)y_{1}(x)
+$$
+Subbing back we get $$
+\int _{1}^{b} y_{1}(-\lambda_{2}\sigma (x)y_{2}) - y_{2} (-\lambda_{1}\sigma (x)y_{1}) \, dx =0
+$$
+$$
+(\lambda_{1} - \lambda_{2})\int _{a}{y_{1}y_{2}} \sigma (x)  = 0\, dx 
+$$
+Since we assumed that $\lambda_{1} \neq \lambda_{2}$ $$
+\implies \int _{a}^{b} \sigma (x)y_{1}y_{2} \, dx
+$$
+$$
+\implies y_{1}, \ \ y_{2}
+$$
+are orthogonal WTR weight $\sigma (x)$.
+$Q\mathbf{E}D$
+---
+
