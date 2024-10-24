@@ -10,3 +10,9 @@ Assume that it can be written as 2 functions, one of time and one of space. Assu
 
 ^ this explains it better
 
+# Definition 14
+
+Consider a Sturm-Liouville problem $L[y] + \lambda \sigma (x)y=0$. The values of the parameter $\lambda$ for which there exists nontrivial solutions of the problem are called eigenvalues. The corresponding nontrivial solutions $y(x)$ are called eigenfunctions.
+
+# Defintions
+
