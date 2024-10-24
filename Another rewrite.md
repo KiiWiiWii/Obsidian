@@ -70,4 +70,8 @@ $$
 $$
 \lambda_{n} = n^{2}
 $$
-We now show that the eigenfunctions are orthogonal with resepct to the weight 
+We now show that the eigenfunctions are orthogonal with respect to the weight $\sigma (x) = 1$. i.e. we need to show that $$
+\int _{0}^{\pi} \sin(nx)\sin (mx) \, dx = 0, \  \ \ m\neq n
+$$
+Using the trig identity: $\cos (a)\cos (b)\sin (a)\sin (b) = \cos (a+b)$
+$\cos (a-b) = \cos a\cos b + \sin as$
