@@ -118,3 +118,12 @@ The eigenfunctions cannot be 0 but the eigenvalue can.
 If $\lambda = 0$: $$
 y''(x) = 0
 $$
+$$
+\implies y(x) = Ax + b
+$$
+$y(0) = 0$
+$y'(0) = 0$
+$y(a)= 0$
+$y'(a) = 0$
+
+Only solutions are $y =$ constant $\neq 0$.
