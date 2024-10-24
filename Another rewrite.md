@@ -166,4 +166,20 @@ The solutions for these two roots are:
 $$
 y(x) = A\sin (px) + B\cos (px)
 $$
-(if $m = u \pm ip$, the solutions would be $$)
+(if $m = u \pm iv$, the solutions would be $y(x) = e^{ux}(A\cos (vx) + B\sin (vx))$)
+
+Using the boundary conditions:
+$$
+y(0) = A\sin (0) + B\cos (0) = 0
+$$
+$$
+\implies B = 0
+$$
+$$
+y'(a) = 0 \implies pA\cos (pa) = 0
+$$
+We require $\cos (pa) = 0$.
+
+-graph that i can draw but its just of the cos function-
+
+Require $$
