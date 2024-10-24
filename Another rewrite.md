@@ -182,4 +182,24 @@ We require $\cos (pa) = 0$.
 
 -graph that i can draw but its just of the cos function-
 
-Require $$
+Require $p = \left( n - \frac{1}{2} \right)\frac{\pi}{a}$
+
+Solution $y_{n}(x) = \sin \left( n-\frac{1}{2} \frac{\pi x}{a} \right)$
+$\lambda_{n} = \left( n- \frac{1}{2} \right)^{2}\left( \frac{\pi}{a} \right)^{2}$
+
+Rule out the other cases
+
+Case $\lambda = 0$
+$$
+y(x)= Ax + b
+$$
+$$
+y(0) = 0 \implies B = 0
+$$
+$$
+y'(a) = A = 0
+$$
+So we get the trivial solution $y(x) = 0$ However this cannot be an eigenvector as they need to be non zero.
+
+Case $\lambda < 0$:
+
