@@ -127,3 +127,24 @@ $y(a)= 0$
 $y'(a) = 0$
 
 Only solutions are $y =$ constant $\neq 0$.
+
+# Example W5.live3
+
+$y'' + \lambda y = 0$     $0 <x < a$
+$y(0) = 0$
+$y'(a) = 0$
+
+Guessing that $y(x) = A e^{mx}$.
+$$
+y' = Ame^{mx}
+$$
+$$
+y'' = Am^{2}e^{mx}
+$$
+Subbing into the equation $$
+Am^{2}e^{mx}+\lambda Ae^{mx} = 0
+$$
+Because $A \neq 0$ $$
+m^{2}e^{mx} = Ae^{mx} = 0
+$$
+Similiart
