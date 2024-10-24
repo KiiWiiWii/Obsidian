@@ -14,5 +14,10 @@ Assume that it can be written as 2 functions, one of time and one of space. Assu
 
 Consider a Sturm-Liouville problem $L[y] + \lambda \sigma (x)y=0$. The values of the parameter $\lambda$ for which there exists nontrivial solutions of the problem are called eigenvalues. The corresponding nontrivial solutions $y(x)$ are called eigenfunctions.
 
-# Defintions
+# Definition 15
+
+Let $\lambda_{n}$ and $\lambda_{m}$ be different eigenvalues ($n\neq m$) with corresponding eigenfunctions $y_{n}(x)$ and $y_{m}(x)$ we say that these functions are orthogonal on $[a,b]$ with eight $\sigma (x)$ if $$
+\int _{a}^{b}\sigma (x)y_{n}(x)y_{m}(x) \, dx =0, \ \ \ n \neq m 
+$$
+
 
