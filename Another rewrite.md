@@ -23,4 +23,12 @@ $$
 
 
 ![[Pasted image 20241024132540.png]]
-The reason we gaf is because if we have a set of functions and the
+The reason we gaf is because if we have a set of functions and they are all orthogonal, they are a good candidate for being a basis. The best way to write a general vector is with orthogonal vectors (?). They cover the function space most efficiently.
+
+#### Proof for part 3
+
+Using theorem 11 as part of proof.
+
+Assume we have two distinct eigenfunctions, $y_{1}(x), \ \ \ y_{2}(x)$. Using Lagrange identity: $$
+\int _{a}^{b}y_{1}L[y_{2}] - y_{2}L[y_{1}] \, dx =0
+$$
