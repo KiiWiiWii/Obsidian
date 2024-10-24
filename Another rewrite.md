@@ -102,6 +102,19 @@ y(0) = 0 \ \ \ or \ \ \ y'(0)
 $$$$
 y(a) = 0 \ \ \ or \ \ \ y'(a) =0
 $$
-The Rayleigh quotient with $p(x) = 1$, $p(x) = 0$ and $\sigma (x) = 1$ $$
-\lambda = \int _{0}^{a} (y')^{2} \, dx -
+The Rayleigh quotient with $p(x) = 1$, $p(x) = 0$ and $\sigma (x) = 1$ is:$$
+\lambda = \frac{\int _{0}^{a} (y')^{2} \, dx - [yy']_{0}^{a}}{\int _{0}^{a}y^{2} \, dx }
+$$
+Using the boundary conditions $$
+\frac{\int _{0}^{a} (y')^{2}\, dx - [y(a)y'(a)- y(0)y'(0)]}{\int _{0}^{a}y^{2} \, dx }
+$$
+$$
+\implies \lambda = \frac{\left( \int _{0}^{a} (y')^{2} \, dx  \right)}{\int _{0}^{a} y^{2} \, dx }
+$$
+Clearly $\lambda$ are all non negative.
+
+The eigenfunctions cannot be 0 but the eigenvalue can.
+
+If $\lambda = 0$: $$
+y''(x) = 0
 $$
