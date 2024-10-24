@@ -73,5 +73,18 @@ $$
 We now show that the eigenfunctions are orthogonal with respect to the weight $\sigma (x) = 1$. i.e. we need to show that $$
 \int _{0}^{\pi} \sin(nx)\sin (mx) \, dx = 0, \  \ \ m\neq n
 $$
-Using the trig identity: $\cos (a)\cos (b)\sin (a)\sin (b) = \cos (a+b)$
-$\cos (a-b) = \cos a\cos b + \sin as$
+Using the trig identities: $\cos (a+b) =\cos (a)\cos (b)\sin (a)\sin (b)$
+$\cos (a-b) = \cos a\cos b + \sin a\sin b$.
+$\sin a\sin b = \frac{1}{2}( \cos (a-b) - \cos (a + b))$
+
+$$
+\int _{0}^{\pi} \cos ((n-m)x) - \cos ( (n +m)x) \, dx
+$$
+$$
+\frac{1}{2} (\frac{1}{n-m} \sin ( (n - m)x) |_{0}^{\pi} - \frac{1}{n+m} \sin ( ( n + m) x ) |_{0}^{ \pi})
+$$
+For any integer multiple of $\pi$ in $\sin$ is $=0$.
+$$
+= 0
+$$
+Therefore these are orthogonal and correspond to [[Theorem 12]].
