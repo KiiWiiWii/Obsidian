@@ -53,10 +53,21 @@ $$
 Since we assumed that $\lambda_{1} \neq \lambda_{2}$ $$
 \implies \int _{a}^{b} \sigma (x)y_{1}y_{2} \, dx
 $$
-$$
-\implies y_{1}, \ \ y_{2}
-$$
-are orthogonal WTR weight $\sigma (x)$.
-$Q\mathbf{E}D$
+$\implies y_{1}, \ \ y_{2}$ are orthogonal with respect to weight $\sigma (x)$.
+$\square$
 ---
 
+# Example 5.a
+For $$
+y'' + \lambda y = 0
+$$
+$$
+y(0) = y(\pi) = 0
+$$
+We showed that the eigenfunctions are $$
+y_{n}(x = \sin(n\pi)), \ \ \ n = 1,2,\dots
+$$
+$$
+\lambda_{n} = n^{2}
+$$
+We now show that the eigenfunctions are orthogonal with resepct to the weight 
