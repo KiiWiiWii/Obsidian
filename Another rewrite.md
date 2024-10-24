@@ -189,7 +189,7 @@ $\lambda_{n} = \left( n- \frac{1}{2} \right)^{2}\left( \frac{\pi}{a} \right)^{2}
 
 Rule out the other cases
 
-Case $\lambda = 0$
+Case $\lambda = 0$:
 $$
 y(x)= Ax + b
 $$
@@ -203,3 +203,26 @@ So we get the trivial solution $y(x) = 0$ However this cannot be an eigenvector 
 
 Case $\lambda < 0$:
 
+$$
+m^{2} = - \lambda = p^{2}
+$$
+$$
+m = \pm p
+$$
+General solution:
+$$y(x) = Ae^{px} + Be^{-px}
+
+$$
+using the boundary conditions $$
+y(0) = Ae^{0} + Be^{0} = A + B = 0
+$$
+$$
+y'(0) = Ape^{p0} - Bpe^{p0} = Ap - Bp = 0
+$$ $$
+= p (A - B) = 0
+$$
+So, $A = -B$
+ Subbing into $p(A - B) = 0$, $$
+p(-2B) = 0
+$$
+$p>0$ so we need $B = 0$ $\implies A = 0$, Which is not an eigenfunction.
