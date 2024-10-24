@@ -57,7 +57,7 @@ $\implies y_{1}, \ \ y_{2}$ are orthogonal with respect to weight $\sigma (x)$.
 $\square$
 ---
 
-# Example 5.a
+# Example W5.live
 For $$
 y'' + \lambda y = 0
 $$
@@ -87,4 +87,10 @@ For any integer multiple of $\pi$ in $\sin$ is $=0$.
 $$
 = 0
 $$
-Therefore these are orthogonal and correspond to [[Theorem 12]].
+Therefore these are orthogonal and correspond to [[Theorem 12]].  (_you could also us IBP to solve this integral if you don't remember your trig identities_)
+
+
+# Rayleigh quotient
+
+![[Pasted image 20241024140925.png]]"quite an easy derivation"
+
