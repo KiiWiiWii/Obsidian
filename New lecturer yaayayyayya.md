@@ -17,12 +17,18 @@ If you have the chain rule with a multi var function, you get $f'(g(x,y))\times 
 
 Fundamental to applied mathematics like heat conduction, fluid flow, wave propagation. modelling tumor growth or spread of disease. Prediction flood damage, pollution. Modelling option pricing, predicting the stock market.
 
--- these are all factorio references ahhhHHhh --
+-- these are all factorio references ahhhHHhh -
 
 Learn to find analytic solutions to some classical PDE's. 
 
 We cant solve all PDE's like this but they can be simulated using numerical methods. Will have her for MM306.
 
+A typical problem will give the PDE and the initial and or boundary conditions. The first issue is if the problem is well posed. For it to be well posed it needs to: 
+- Have an existing solution.
+- Unique solution
+- Stability.
+Else it is ill posed. In this class they will all be well posed.
 
-
-A typical problem will give the PDE and 
+We consider the function $u(x,y,z , \dots, t)$ to be the function we need to solve, and $x,y,z,t$ are all independent variables. Now the General PDE is: $$
+F(u,x,y,\dots)
+$$
