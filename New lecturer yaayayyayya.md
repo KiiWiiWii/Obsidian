@@ -89,10 +89,13 @@ For any real constants $c_{1}$ and $c_{2}$, we have $$
 \mathcal{L}(c_{1}w_{1} + c_{2}w_{2}) = u^{2} \frac{\partial^{2}}{\partial u^{2}} (c_{1}w_{1} +c_{2} w_{2}) + \sin v \frac{\partial^{2}}{\partial v^{2}} ( c_{1}w_{1} +c_{2}w_{2})
 $$
 $$
-= c_{1}u^{2}\frac{\partial^{2}w_{1}}{\partial u^{2}} + c_{2}u^{2} \frac{\partial^{2}w_{2}}{\partial u^{2}} + c_{1}\sin \frac{v(\partial^{2}w_{1})}{\partial v^{2}} + c_{2} \sin v \frac{\partial^{2}w_{2}}{\partial v^{2}}
+= c_{1}u^{2}\frac{\partial^{2}w_{1}}{\partial u^{2}} + c_{2}u^{2} \frac{\partial^{2}w_{2}}{\partial u^{2}} + c_{1}\sin v\frac{(\partial^{2}w_{1})}{\partial v^{2}} + c_{2} \sin v \frac{\partial^{2}w_{2}}{\partial v^{2}}
 $$
 $$
 =c_{1}\mathcal{L}(w_{1}) + c_{2}\mathcal{L}(w_{2})
 $$
 So the equation is linear.
 
+# Example 4.3
+
+Show
