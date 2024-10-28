@@ -36,3 +36,15 @@ $$
 and so on.
 
 Gonna solve 4 different PDE's, all well known and classical. The [[Advection Equation]], the [[Wave Equation]], the [[Heat Equation]], and [[Laplace's Equation]].
+
+All PDE's can be written using a differential operator denoted by $\mathcal{L}$, which is a mapping between sets of differentiable functions: $$
+\mathcal{L}(u) = f
+$$
+For instance, Laplace's looks like $$
+\mathcal{L} = \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}}
+$$
+All PDE's in this class are linear. Non linear are too hard :(.
+
+the linearity test is $$
+\mathcal{L}(c_{1})
+$$
