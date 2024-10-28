@@ -46,5 +46,24 @@ $$
 All PDE's in this class are linear. Non linear are too hard :(.
 
 the linearity test is $$
-\mathcal{L}(c_{1})
+\mathcal{L}(c_{1}u_{1} +c_{2}u_{2}) = c_{1}\mathcal{L}(u_{1}) +c_{2}\mathcal{L}(u_{2})
 $$
+
+# Example 4.1
+
+Show that the heat equation is linear.
+
+Suppose that $u_{1}$ and $u_{2}$ are solutions of the heat equation, i.e. $$
+\mathcal{L}(u_{1}) = 0
+$$
+and $$
+\mathcal{L}(u_{2}) = 0
+$$
+$$
+\mathcal{L} =\frac{\partial}{\partial t} - k \frac{\partial^{2}}{\partial x^{2}}
+$$
+For any real constants $c_{1}$ and $c_{2}$ we have $$
+\mathcal{L}(c_{1}u_{1}+c_{2}u_{2})= \frac{\partial}{\partial t}(c_{1}u_{1}+c_{2}u_{2}) - k\frac{\partial^{2}}{\partial x^{2}}(c_{1}u_{1} +c_{2}u_{2})
+$$
+$$
+= c_{1} \frac{\partial u_{1}}{\partial t} + c_{2} *$$
