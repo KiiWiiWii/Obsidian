@@ -98,4 +98,12 @@ So the equation is linear.
 
 # Example 4.3
 
-Show
+Show that $u = f(2x + y^{2}) + g(sx - y^{2})$ satisfies the PDE $$
+y^{2} \frac{\partial^{2}u}{\partial x^{2}} + \frac{1}{y} \frac{\partial u}{\partial y} - \frac{\partial^{2}u}{\partial y^{2}} = 0
+$$
+For arbitrary functions $f$ and $g$.
+
+We have $\frac{\partial u}{\partial x}= 2f'(x+y^{2}) + 2g'(2x - y^{2})$
+$\frac{\partial^{2}u}{\partial x^{2}}= 4f''(2x+y^{2}) + 4 g''(2x ake y^{2})$
+$\frac{\partial u}{\partial y} = 2yf'(2x+y^{2}) - 2yg'(2x-y^{2})$
+$\frac{\partial^{2}u}{\partial y^{2}}$
