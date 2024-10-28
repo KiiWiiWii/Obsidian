@@ -81,14 +81,12 @@
             "id": "fcecb28d5c1d70ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "New lecturer yaayayyayya.md",
-                "mode": "source",
-                "source": false
+                "file": "302_slides_chap5.pdf"
               },
-              "icon": "lucide-file",
-              "title": "New lecturer yaayayyayya"
+              "icon": "lucide-file-text",
+              "title": "302_slides_chap5"
             }
           }
         ],
@@ -210,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New lecturer yaayayyayya.md"
+                "file": "302_slides_chap5.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of New lecturer yaayayyayya"
+              "title": "Outline of 302_slides_chap5"
             }
           }
         ],
@@ -236,8 +234,9 @@
   },
   "active": "fcecb28d5c1d70ba",
   "lastOpenFiles": [
-    "Math/MM302/principle of superposition.md",
     "New lecturer yaayayyayya.md",
+    "302_slides_chap5.pdf",
+    "Math/MM302/principle of superposition.md",
     "Math/MM302/302_slides_chap4_ex.pdf",
     "Untitled.md",
     "Advection Equation.md",
@@ -278,7 +277,6 @@
     "Obsidian-main/CompSci/Logic/Logical Modelling",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/CompSci/Logic",
-    "Obsidian-main/CompSci/CS316",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
     "Obsidian-main/Pasted image 20240408131801.png",
     "Personal/Solitare/Solitare UML.canvas",

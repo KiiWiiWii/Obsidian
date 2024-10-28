@@ -113,4 +113,7 @@ y^{2}[4yf''(2x +y^{2}) + 4g''(2x - y^{2})] + \frac{1}{y} [ 2yf'(2x+y^{2}) - 2yg'
 $$
 All this cancels into $0$ as required.
 
-# 
+# Method of characteristics
+
+[[302_slides_chap5.pdf]]
+
