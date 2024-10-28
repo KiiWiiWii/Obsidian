@@ -95,3 +95,4 @@ $$
 =c_{1}\mathcal{L}(w_{1}) + c_{2}\mathcal{L}(w_{2})
 $$
 So the equation is linear.
+
