@@ -1,4 +1,4 @@
-# Partial differentiation
+# Partial differentiation revision
 
 Starting with homogeneous PDE's : Change them into an ODE and then assume we can solve it.
 
@@ -13,5 +13,16 @@ $\frac{\partial f}{\partial x} = 2x$ and $\frac{\partial f}{\partial y} = - \fra
 
 If you have the chain rule with a multi var function, you get $f'(g(x,y))\times \frac{\partial g(x,y)}{\partial x}$ (if differentiating with respect to $x$). If the outside function also is multi var then you need to do the partial derivative on that function too. 
 
+# PDE's
+
+Fundamental to applied mathematics like heat conduction, fluid flow, wave propagation. modelling tumor growth or spread of disease. Prediction flood damage, pollution. Modelling option pricing, predicting the stock market.
+
+-- these are all factorio references ahhhHHhh --
+
+Learn to find analytic solutions to some classical PDE's. 
+
+We cant solve all PDE's like this but they can be simulated using numerical methods. Will have her for MM306.
 
 
+
+A typical problem will give the PDE and 
