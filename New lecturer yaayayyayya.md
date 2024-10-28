@@ -30,5 +30,9 @@ A typical problem will give the PDE and the initial and or boundary conditions. 
 Else it is ill posed. In this class they will all be well posed.
 
 We consider the function $u(x,y,z , \dots, t)$ to be the function we need to solve, and $x,y,z,t$ are all independent variables. Now the General PDE is: $$
-F(u,x,y,\dots)
+F(u,x,y,\dots,t,u_{x},u_{y}, \dots, u_{t}, u_{xx}, u_{yy}, \dots)
+
 $$
+and so on.
+
+Gonna solve 4 different PDE's, all well known and classical. The [[Advection Equation]], the [[Wave Equation]], the [[Heat Equation]], and [[Laplace's Equation]].
