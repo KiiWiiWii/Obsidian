@@ -66,4 +66,22 @@ For any real constants $c_{1}$ and $c_{2}$ we have $$
 \mathcal{L}(c_{1}u_{1}+c_{2}u_{2})= \frac{\partial}{\partial t}(c_{1}u_{1}+c_{2}u_{2}) - k\frac{\partial^{2}}{\partial x^{2}}(c_{1}u_{1} +c_{2}u_{2})
 $$
 $$
-= c_{1} \frac{\partial u_{1}}{\partial t} + c_{2} *$$
+= c_{1} \frac{\partial u_{1}}{\partial t} + c_{2} \frac{\partial u_{2}}{\partial t} - \frac{kc_{1}(\partial^{2}u_{1})}{\partial x^{2}} - kc_{2} \frac{\partial^{2}u_{2}}{\partial x^{2}}$$
+$$
+\dots
+$$
+$$
+c_{1}\mathcal{L}(u_{1}) + c_{2}\mathcal{L}(u_{2})
+$$
+Therefore the heat equation is linear.
+
+# Example 4.2
+
+Show that the equation $$
+u^{2} \frac{\partial^{2}w}{\partial u^{2}} + \sin v \frac{\partial^{2}w}{\partial v^{2}} = 0
+$$
+For the function $w(u,v)$ is linear.
+
+Suppose that $\mathcal{L}(w_{1}) = 0$ and $\mathcal{L}(w_{2}) = 0$. where $$
+\mathcal{L} = u^{2} \frac{\partial}{\partial^{2}}
+$$
