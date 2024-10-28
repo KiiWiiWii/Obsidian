@@ -104,6 +104,10 @@ $$
 For arbitrary functions $f$ and $g$.
 
 We have $\frac{\partial u}{\partial x}= 2f'(x+y^{2}) + 2g'(2x - y^{2})$
-$\frac{\partial^{2}u}{\partial x^{2}}= 4f''(2x+y^{2}) + 4 g''(2x ake y^{2})$
+$\frac{\partial^{2}u}{\partial x^{2}}= 4f''(2x+y^{2}) + 4 g''(2x - y^{2})$
 $\frac{\partial u}{\partial y} = 2yf'(2x+y^{2}) - 2yg'(2x-y^{2})$
-$\frac{\partial^{2}u}{\partial y^{2}}$
+$\frac{\partial^{2}u}{\partial y^{2}} = 2[f'(2x +y^{2}) - g'(2x - y^{2})] + 4y^{2}[f''(2x +y^{2}) + g''(2x - y^{2})]$
+Subbing into the PDE we get:
+$$
+y^{2}[4yf''(2x +y^{2}) + 4g''(2x - y^{2})] + \frac{1}{y} [ 2yf'(2x+y^{2})]
+$$
