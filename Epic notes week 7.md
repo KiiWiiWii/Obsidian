@@ -30,4 +30,15 @@ Hence the equation is hyperbolic if $x < 0$, parabolic if $>0$ and elliptic at $
 
 # Derivation of the wave equation.
 
-Think about an elastic string, with some tension $T$ between $0<x<a$. Now pick up the string in the middle and let it go and it'll vibrate (>w<).
+Think about an elastic string, with some tension $T$ between $0<x<a$. Now pick up the string in the middle and let it go and it'll vibrate (>w<) (also ignoring external things like air resistance.
+Assume it is perfectly elastic, moves perfectly vertically, ignore gravity, the deflection and slope at every point remain small yada yada...
+
+Putting this into notation:
+
+$u(x,t)$ is the vertical displacement (what we wanna find)
+$T(x,t)$ is the tension
+$\rho$ is the mass per unit length
+
+We apply Newtons second law $F=ma$.
+![[Pasted image 20241104102630.png]]
+Note that in this image $$
