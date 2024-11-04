@@ -73,5 +73,7 @@ Again, this is all leading to the formula that we need, so you don't really need
 This is the bad boy >;3
 
 ![[Pasted image 20241104104820.png]]
-
+We can determine $F,G$ from the initial conditions. $$
+u(x,t) = F(x-ct) + G(x+ct) = F(\alpha) + g(\beta)
+$$
 
