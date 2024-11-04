@@ -176,3 +176,15 @@ so $u(x,t)= F(x-ct)+ G(x+ct)$.
 $$
 = \frac{1}{2}\left[ x-ct-\frac{(x-ct)^{3}}{3c} + x + ct + \frac{x+ct^{3}}{3c}\right]
 $$
+$$
+=x + x^{2}t + \frac{1}{3}x^{2}t^{3}
+$$
+$\square$
+
+---
+# Derivation of the heat equation.
+
+Consider the flow of heat in a cylindrical bar of length $a$.
+
+![[Pasted image 20241104112756.png]]
+
