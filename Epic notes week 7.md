@@ -197,3 +197,14 @@ some assumptions who gaf.
 some more prelude.
 
 ![[Pasted image 20241104113155.png]]
+
+![[Pasted image 20241104113423.png]]
+This is our derivative.
+
+![[Pasted image 20241104113515.png]]
+Again, $k$ is just for convenience.
+
+![[Pasted image 20241104113532.png]]
+
+
+![[Pasted image 20241104113552.png]]
