@@ -101,6 +101,30 @@ So we can compare, take the equation from IC1 and differentiate it.
 $$
 F'(x) + G'(x) = A\cos (x)
 $$
+Remember that:
 $$
-F'(x)
+F'(x) - G'(x) = 0
 $$
+So now we can just do simultaneous equations.
+
+$$
+F'(x) = \frac{A}{2}\cos x
+$$
+so $$
+F(x) = \frac{A}{2}\sin x + B
+$$
+For some constant $B$.
+
+As $F(x) + G(x) = A\sin (x)$, we have $$
+G(x) = (\frac{A}{2} \sin (x) + B) + A\sin x
+$$
+$$
+\implies G(x) = \frac{A}{2}\sin x -B
+$$
+So now that we have $F$ and $G$ we are almost done as we know what our general solution should look like from the start. 
+$$
+u(x,t) = F(x-ct) + g(x+ct)
+$$
+$= \frac{A}{2}\sin (x-ct)+B+\frac{A}{2}\sin (x+ct) - B$
+$A\sin (x)\cos (ct)$.
+
