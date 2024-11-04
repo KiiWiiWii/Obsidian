@@ -155,4 +155,24 @@ Solve for $F$ and $G$:
 $$
 F'(x) + G' (x) = 1
 $$
-Again, simultaneous equ
+$$
+F'(x) -G'(x) = - \frac{x^{2}}{c}
+$$
+
+Again, simultaneous equations:
+$$
+F'(x) = \frac{1}{2}\left( 1-\frac{x^{2}}{c} \right)
+$$
+$$\implies F(x) = \frac{1}{2}\left( x-\frac{x^{3}}{3c} \right) +A$$
+Where A is an arbitrary constant.
+
+As $F(x) + G(x) = x$ then we have
+$$
+G(x)= x-F(x) = \frac{1}{2}\left( x+\frac{x^{3}}{3c}  \right)-A
+$$
+
+so $u(x,t)= F(x-ct)+ G(x+ct)$.
+
+$$
+= \frac{1}{2}\left[ x-ct-\frac{(x-ct)^{3}}{3c} + x + ct + \frac{x+ct^{3}}{3c}\right]
+$$
