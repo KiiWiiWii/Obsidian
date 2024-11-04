@@ -41,4 +41,14 @@ $\rho$ is the mass per unit length
 
 We apply Newtons second law $F=ma$.
 ![[Pasted image 20241104102630.png]]
-Note that in this image $$
+Note that in this image $\Delta x\cos (\alpha) = \Delta x$
+
+![[Pasted image 20241104102924.png]]
+![[Pasted image 20241104103001.png]]
+Note that this definition of $c^{2}$ is just for convenience.
+![[Pasted image 20241104103220.png]]
+This initition condition
+
+
+None of this is actually gonna be in the exam but it does show when this is used, its background material and if you do not understand it Alison says to not gaf about it.
+
