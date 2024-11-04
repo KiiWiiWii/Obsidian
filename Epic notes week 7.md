@@ -87,3 +87,20 @@ $$
 The general solution is $$
 u(x,t) = F(x-ct) + G(x +ct)
 $$
+From IC1, $u(x,0) = A\sin (x)$:
+$$
+F(x) + G(x) = A\sin (x)
+$$
+From IC2, $\frac{\partial u}{\partial t}(x,0)=0$:
+$$
+-cF'(x) + cG'(x) = 0 \leftrightarrow  F'(x) - G'(x)=0
+$$
+We Now need to solve these two equations for the unknown functions $F$ and $G$.
+
+So we can compare, take the equation from IC1 and differentiate it.
+$$
+F'(x) + G'(x) = A\cos (x)
+$$
+$$
+F'(x)
+$$
