@@ -55,5 +55,13 @@ None of this is actually gonna be in the exam but it does show when this is used
 
 
 ![[Pasted image 20241104103702.png]]
-This is an example of what a question might look like. (obviously stuff like $f(x)$ and $g(x)$ would be given)
+This is an example of what a question might look like. 
+
+# D'Alembert's Solution to the wave equation
+
+![[Pasted image 20241104104001.png]]
+![[Pasted image 20241104104129.png]]
+Multiplying out the brackets to get an advection equation. We can immediately write the solution.
+![[Pasted image 20241104104301.png]]
+Same thing here.
 
