@@ -47,8 +47,13 @@ Note that in this image $\Delta x\cos (\alpha) = \Delta x$
 ![[Pasted image 20241104103001.png]]
 Note that this definition of $c^{2}$ is just for convenience.
 ![[Pasted image 20241104103220.png]]
-This initition condition
-
+This initial condition $u(x,0)$ is just sayin "i know where each point of the string is at the start" and $g(x)$ is the vibration.
+![[Pasted image 20241104103525.png]]
+All of these are pretty self explanatory i think :3
 
 None of this is actually gonna be in the exam but it does show when this is used, its background material and if you do not understand it Alison says to not gaf about it.
+
+
+![[Pasted image 20241104103702.png]]
+This is an example of what a question might look like. (obviously stuff like $f(x)$ and $g(x)$ would be given)
 
