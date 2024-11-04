@@ -208,3 +208,6 @@ Again, $k$ is just for convenience.
 
 
 ![[Pasted image 20241104113552.png]]
+
+
+ALWAYS IN THE PAPER
