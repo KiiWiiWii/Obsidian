@@ -76,4 +76,14 @@ This is the bad boy >;3
 We can determine $F,G$ from the initial conditions. $$
 u(x,t) = F(x-ct) + G(x+ct) = F(\alpha) + g(\beta)
 $$
+# Example 6.2
 
+Solve the wave equation $$
+\frac{\partial^2 u}{\partial t^2} - c^{2} \frac{\partial^2 u}{\partial x^2} = 0
+$$
+on $-\infty < x < \infty$, $t>0$ with IC's $$
+u(x, 0) = A\sin (x),\ \ \ \ \ \ \frac{\partial u}{\partial t} (x,0)= 0
+$$
+The general solution is $$
+u(x,t) = F(x-ct) + G(x +ct)
+$$
