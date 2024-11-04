@@ -128,3 +128,31 @@ $$
 $= \frac{A}{2}\sin (x-ct)+B+\frac{A}{2}\sin (x+ct) - B$
 $A\sin (x)\cos (ct)$.
 
+$\square$
+
+---
+
+# Example 6.3
+
+Solve the wave equation $$
+\frac{\partial^2 u}{\partial t^2} -c^{2}\frac{\partial^2 u}{\partial x^2}=0
+$$
+on $-\infty < x < \infty$ $t \geq 0$ with IC's $$
+u(x,0) = x, \ \ \ \frac{\partial u}{\partial t} (x,0) = x^{2}
+$$
+General solution is $$
+u(x,t) = F(x-ct) + G(x +ct)
+$$
+From IC1: 
+$$
+F(x) + G(x) = x
+$$
+From IC2:
+$$
+-cF'(x) + cG'(x) = x^{2}
+$$
+Solve for $F$ and $G$:
+$$
+F'(x) + G' (x) = 1
+$$
+Again, simultaneous equ
