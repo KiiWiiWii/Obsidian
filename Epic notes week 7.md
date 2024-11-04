@@ -188,3 +188,12 @@ Consider the flow of heat in a cylindrical bar of length $a$.
 
 ![[Pasted image 20241104112756.png]]
 
+We must find the temperature $u(x,t)$.
+
+![[Pasted image 20241104112949.png]]
+some assumptions who gaf.
+
+![[Pasted image 20241104113136.png]]
+some more prelude.
+
+![[Pasted image 20241104113155.png]]
