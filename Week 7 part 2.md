@@ -212,5 +212,19 @@ $$
 
 Step 3: Solve $T' + 4\lambda T = 0$ for each eigenvalue
 
-For $\lambda = \lambda_{0} = 0$: $T' = 0 \implies T = C_{0}$ 
-For $\lambda = \lambda_{n} = \frac{n\pi}{2}^{2}$: $T' +$
+For $\lambda = \lambda_{0} = 0$: $T' = 0 \implies T_{0} = C_{0}$ 
+For $\lambda = \lambda_{n} = \frac{n\pi}{2}^{2}$: $T' + n^{2}\pi^{2}T =0$
+	so $T_{n} = C_{n}e^{-n^{2}\pi^{2}t}$.
+
+Step 4: 
+
+Solution from $\lambda_{0} = 0$ is $u(x,t) = X_{0}T_{0} = 1xC_{0} = C_{0}$.
+
+Solution from $\lambda_{n} = u(x,t) = C_{n} \cos \frac{n\pi x}{2}e^{-n^{2}\pi^{2}t}$
+
+The general solution is therefore $$
+u(x,t) = C_{0} + \sum_{\neq 1}^{\infty} C_{n} \cos \frac{n\pi x}{2}e^{-n^{2}\pi^{2}t}
+$$
+From the IC's:
+
+$uo$
