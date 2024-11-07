@@ -182,5 +182,24 @@ $$
 So the solution is $X = B$. Hence $\lambda = 0$ is an eigenvalue. In terms of eigenvalues/functions we have $$
 \lambda_{0} = 0, \ X_{0} = 1
 $$
+$X_{0} = 1$ is arbitrary and could be $B$ but for the sake of convention it is gonna be $1$.
 
-$X_{0} = 1$ is arbitrary.
+Case $\lambda >0$:
+
+$\lambda = p^{2}$
+
+Aux $$
+m^{2} + p^{2} = 0 \implies m = \pm ip
+$$
+So $$
+X = A\cos (px) + B\sin (px)
+$$
+As $$
+X' = -A\sin(px) +Bp\cos (px)
+$$
+We have $$
+X'(0) = 0\implies Bp = 0 \implies B = 0
+$$
+$$
+X'(2) = 0 \implies -A\sin (2p) = 0 \implies \sin (2p) = 0
+$$
