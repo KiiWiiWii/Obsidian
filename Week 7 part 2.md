@@ -143,5 +143,30 @@ BC's: $\frac{\partial u}{\partial x}(0,t) = 0 \implies X'(0)T(t)=0 \implies X'(0
       $\frac{\partial u}{\partial x}(2,t) \implies X'(2) = 0$
 
 Our 2 ODE's are $$
-(1) \ \ X'' + \lambda X = 0
+(1) \ \ X'' + \lambda X = 0, \ \ \ X'(0) = 0, \ \ \ X'(2) = 0
+$$
+$$
+(2) \ \ \ \ T' + 4 \lambda T = 0
+$$
+Step 2: Solve ODE (1) for X
+
+Case $\lambda < 0$:
+
+$\lambda = -p^{2}$. $$
+X'' - p^{2}X = 0
+$$
+The Aux equation:
+$$
+m^{2}-p^{2} = 0 \iff m = \pm p
+$$
+$$
+X = Ae^{px} + Be^{-px}
+$$
+We have $X' = pAe^{px} - pBe^{-px}$.
+
+$$
+X'(0) = 0 \implies 0 = pA - pB \iff B = A
+$$
+$$
+X'(2) = 0 \implies pA()
 $$
