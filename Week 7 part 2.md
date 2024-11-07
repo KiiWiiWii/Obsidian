@@ -264,5 +264,28 @@ $$ $$
 $$
 
 Step 2: do your cases for lambda but we already did that so we only care about the solution $$
-\lambda_{n} = \frac{n\pi}{a}^{2}, \ \ X_{n}
+\lambda_{n} = \frac{n\pi}{a}^{2}, \ \ X_{n} = \sin \left( \frac{n\pi x}{a} \right)
+$$
+Step 3: Solve ODE  (2) with $\lambda = \lambda_{n}$.
+
+$$
+T'' + c^{2}\left( \frac{n\pi}{a} \right)^{2}T = 0
+$$
+Aux: $$
+m^{2} + c^{2} \left(  \frac{n\pi}{a} \right)^{2} = 0 \implies m= \pm \frac{cn\pi}{a}i
+$$
+
+
+So $$
+T_{n} = C_{n} \cos  \left(  \frac{cn\pi}{a} t\right) D_{n} \sin \left(  \frac{n\pi c}{a}t \right)
+$$
+Step 4:
+
+$u(x,t) =X(x)T(t)$ gives
+$$
+u(x,t) = \sum_{n = 1} ^{ \infty} \sin \left(  \frac{n\pi x}{a} \right)\left[ C_{n} \cos \left(  \frac{n\pi c}{a}t \right) + D_{n}\sin \left( \frac{n\pi x}{a}t \right) \right]
+$$
+IC 1: $u(x,0) = \sin \left(  \frac{\pi x}{a} \right)$
+$$
+\iff \sum_{n = 1} ^{ \infty} \sin \left(  \frac{n\pi x}{a} \right)
 $$
