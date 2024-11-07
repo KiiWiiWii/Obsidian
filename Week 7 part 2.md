@@ -107,4 +107,18 @@ $$
 u(x,0) = 2\sin \left( \frac{2\pi x}{a} \right) - 3\sin \frac{(5\pi)x}{a}\ \ \ \ 0<x<a
 $$
 
-Since we did steps 1-3 in the lecture already, we know what the solutions will look like, so we will 
+Since we did steps 1-3 in the lecture already, we know what the solutions will look like, so we will skip straight to step 4.
+
+
+$$
+u(x,t) = \sum_{\neq 1}^{\infty}C_{n} \sin \left( \frac{n\pi x}{a} \right)e^{-k(n\pi/a)^{2}t}
+$$
+
+Applying the IC to this.
+When $t=0$, $$
+\sum_{n=0}^{\infty}C_{n} \sin \left( \frac{n\pi x}{a} \right) = 2\sin  \left( \frac{2\pi x}{a} \right) - 3 \sin \left(  \frac{5\pi x}{a} \right)$$
+$$
+\implies C_{1}\sin \frac{\pi x}{a} + C_{2}\sin \frac{2\pi x}{a} + C_{3}\sin \frac{3\pi x}a + \dots = 2\sin \frac{2\pi x}{a} - 2 \sin \frac{5\pi x}{a}
+$$
+
+Matching the coefficients:
