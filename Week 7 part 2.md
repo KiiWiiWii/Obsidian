@@ -168,5 +168,19 @@ $$
 X'(0) = 0 \implies 0 = pA - pB \iff B = A
 $$
 $$
-X'(2) = 0 \implies pA()
+X'(2) = 0 \implies pA(e^{2p}-e^{-2p}) = 0
 $$
+So $A,B = 0$, so we are not interested in these solutions.
+
+Case $\lambda = 0$:
+
+Here $X'' = 0 \implies x' = A \implies X = Ax + B$.
+
+$$
+X'(0) = 0 \implies A = 0, \ \ \ \ X'(2)= 0 \implies A = 0
+$$
+So the solution is $X = B$. Hence $\lambda = 0$ is an eigenvalue. In terms of eigenvalues/functions we have $$
+\lambda_{0} = 0, \ X_{0} = 1
+$$
+
+$X_{0} = 1$ is arbitrary.
