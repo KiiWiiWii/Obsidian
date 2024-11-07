@@ -201,5 +201,16 @@ We have $$
 X'(0) = 0\implies Bp = 0 \implies B = 0
 $$
 $$
-X'(2) = 0 \implies -A\sin (2p) = 0 \implies \sin (2p) = 0
+X'(2) = 0 \implies -A\sin (2p) = 0 \implies \sin (2p) = 0 \implies 2p = n\pi \implies p = \frac{n\pi}{2}
 $$
+For $n\in \mathbb{N}$
+
+
+The solution is $$
+\lambda_{n} = \left( \frac{n\pi}{2} \right)^{2}, \ \ X_{n} (x) = \cos \left( \frac{n\pi x}{2} \right)
+$$
+
+Step 3: Solve $T' + 4\lambda T = 0$ for each eigenvalue
+
+For $\lambda = \lambda_{0} = 0$: $T' = 0 \implies T = C_{0}$ 
+For $\lambda = \lambda_{n} = \frac{n\pi}{2}^{2}$: $T' +$
