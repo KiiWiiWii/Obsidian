@@ -95,4 +95,16 @@ We still need to apply the initial condition.
 
 ## TL;DR
 
-- Step 1: 
+![[Pasted image 20241107144327.png]]
+
+
+# Example 6.4
+
+Solve the heat equation $$
+\frac{\partial u}{\partial t} = K \frac{\partial^2 u}{\partial x^2}, \  \ \ \ 0<x<a, \ \ \ t > 0
+$$
+$$
+u(x,0) = 2\sin \left( \frac{2\pi x}{a} \right) - 3\sin \frac{(5\pi)x}{a}\ \ \ \ 0<x<a
+$$
+
+Since we did steps 1-3 in the lecture already, we know what the solutions will look like, so we will 
