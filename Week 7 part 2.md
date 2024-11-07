@@ -18,6 +18,12 @@ cba typing all that.
 
 ---
 ![[Pasted image 20241107141151.png]]
+![[Pasted image 20241107141304.png]]
+Clearly $u=0$ is a solution, but it doesn't satisfy the IC, so we are only interested in non zero solutions.
 
+## Step 1: Separate the Variables
+![[Pasted image 20241107141459.png]]
 
-
+Basically, suppose that $u(x,t)$ can be written as $X(x)T(t)$, then derive it. Now sub it into the heat equation: $$
+XT'=t \implies \frac{T'}{kT = }
+$$
