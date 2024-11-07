@@ -242,4 +242,27 @@ $\square$
 Solve $$
 \frac{\partial^2 u}{\partial t^2} = c^{2}\frac{\partial^2 u}{\partial x^2}, \ \ \ 0<x<a, t > 0
 $$
-$u()$
+$u(0,t) = 0$, $u(a,t) = 0$, $u(x,0) = \sin \left( \frac{\pi x}{a} \right), \frac{\partial u}{\partial t}(x,0) = \sin \left( \frac{s\pi x}{2} \right)$
+
+Step 1: Let $u(x,t) = X(x)T(t)$.
+
+$$
+\frac{\partial^2 u}{\partial t^2} = XT'', \ \ \ \frac{\partial^2 u}{\partial x^2} = TX''
+$$
+
+From the PDE, $$
+XT'' = C^{2}X''T \iff \frac{T''}{c^{2}T} = \frac{X''}{X} = - \lambda
+$$
+
+BC's: $u(0,t) = 0 \implies X(0) = 0$
+	$u(a,t) = 0 \to X(a) = 0$
+
+so two ODEs are $$
+(1) \ \ X'' + \lambda X = 0\ \ \ \ X(0) = 0, \ \ \ \ X(a) = 0
+$$ $$
+(2) \ \ T'' + c^{2}\lambda T = 0
+$$
+
+Step 2: do your cases for lambda but we already did that so we only care about the solution $$
+\lambda_{n} = \frac{n\pi}{a}^{2}, \ \ X_{n}
+$$
