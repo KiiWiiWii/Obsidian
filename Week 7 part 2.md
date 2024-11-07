@@ -227,4 +227,14 @@ u(x,t) = C_{0} + \sum_{\neq 1}^{\infty} C_{n} \cos \frac{n\pi x}{2}e^{-n^{2}\pi^
 $$
 From the IC's:
 
-$uo$
+$u(x,0) = 1+\cos (3\pi x)$
+$$
+\iff C_{0}+\sum_{\neq 1}^{\infty}C_{n} \cos \frac{n\pi x}{2} = 1 + \cos 3\pi x
+$$
+Choose $C_{0} = 1$ and $C_{6} = 1$, so  $C_{n} = 0$. So, $$
+u(x,t) = 1 + \cos 3\pi x e^{-36\pi^{2}t}
+$$ 
+$\square$
+
+---
+
