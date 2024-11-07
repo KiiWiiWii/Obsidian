@@ -127,3 +127,7 @@ $$
 So the final solution is $$
 u(x,t) = 2\sin \frac{2\pi x}{a}e^{-k(2\pi/a)^{2}t}-3\sin \frac{t\pi x}{a}e^{-k(5\pi/a)^{2}t}
 $$
+# Example 6.5
+
+(see the set up in the notes i was too busy playing chess)
+
