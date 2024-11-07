@@ -68,5 +68,17 @@ Now if $\lambda > 0$, $\lambda = p^{2}$.
 youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow
 
 ![[Pasted image 20241107143050.png]]
+![[Pasted image 20241107143342.png]]
+Step 2 is done, we have found our solutions to $X$.
 
+## Step 3: Solve ODE 2 For T
 
+Remember that we already checked that for there to be solutions we care about is when $\lambda >0$.
+
+![[Pasted image 20241107143703.png]]
+
+## Step 4: reconstruct u and apply the initial conditions.
+
+Recall that $$
+u(x,t) = X(x)T(t)
+$$
