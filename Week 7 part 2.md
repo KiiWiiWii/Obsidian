@@ -121,4 +121,9 @@ $$
 \implies C_{1}\sin \frac{\pi x}{a} + C_{2}\sin \frac{2\pi x}{a} + C_{3}\sin \frac{3\pi x}a + \dots = 2\sin \frac{2\pi x}{a} - 2 \sin \frac{5\pi x}{a}
 $$
 
-Matching the coefficients:
+Matching the coefficients gives $$
+C_{2} = 2, \ \ C_{5} = - 3, \ \ \ c_{n} = 0
+$$
+So the final solution is $$
+u(x,t) = 2\sin \frac{2\pi x}{a}e^{-k(2\pi/a)^{2}t}-3\sin \frac{t\pi x}{a}e^{-k(5\pi/a)^{2}t}
+$$
