@@ -37,5 +37,25 @@ $$
 u(x,t) = X(x)T(t)
 $$
 For this, the BC's $u(0,t)=0, \ \ u(a,t) = 0$ become $$
-X(0)T(t)=0 \ \ \ \ \ \ X()
+X(0)T(t)=0 \ \ \ \ \ \ X(a)T(t)=0
 $$
+But because we are not interested in 0 solutions, we choose $X(0)$ and $X(a)$ to be 0.
+
+the ODE's can therefore be written as $$
+X'' + \lambda X = 0 \ \ \ \ \  T' + \lambda kT = 0
+$$
+## Step 2: Solve ODE 1 for X
+
+![[Pasted image 20241107142510.png]]
+Suppose $\lambda = 0$, the ODE for $X$ becomes $$
+X''=0
+$$
+$$
+\implies X = Ax + b
+$$
+And using the BC's we find that $A,B = 0$. So there are no non zero solutions so we do not give a fuck about this >:( FUCK LAMBDA EQ 0
+
+Suppose $\lambda <0$, we can write $\lambda = -p^{2}$. Then the ODE will be $$
+X'' - p^{2}X = 0
+$$
+The auxillery
