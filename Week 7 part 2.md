@@ -58,4 +58,15 @@ And using the BC's we find that $A,B = 0$. So there are no non zero solutions so
 Suppose $\lambda <0$, we can write $\lambda = -p^{2}$. Then the ODE will be $$
 X'' - p^{2}X = 0
 $$
-The auxillery
+![[Pasted image 20241107142815.png]]
+(i was too slow at typing this :< )
+
+Solving this now we find that $X(0)= -A$ and $X(a) = 0$. Again, no non zero solution we don't care about this either.
+
+Now if $\lambda > 0$, $\lambda = p^{2}$.
+![[Pasted image 20241107143026.png]]
+youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow youre too slow
+
+![[Pasted image 20241107143050.png]]
+
+
