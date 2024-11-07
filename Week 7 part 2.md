@@ -131,3 +131,17 @@ $$
 
 (see the set up in the notes i was too busy playing chess)
 
+Step 1: Look for a solution $u(x,t) = X(x)T(t)$ $$
+\frac{\partial u}{\partial t} = XT', \ \ \ \frac{\partial^2 u}{\partial x^2} = TX''
+$$
+$$
+XT' = 4X''T \implies \frac{T'}{4t} = \frac{X''}{X} = -\lambda
+$$
+So $X'' + \lambda X = 0$, $T' + 4\lambda T = 0$.
+
+BC's: $\frac{\partial u}{\partial x}(0,t) = 0 \implies X'(0)T(t)=0 \implies X'(0) = 0$
+      $\frac{\partial u}{\partial x}(2,t) \implies X'(2) = 0$
+
+Our 2 ODE's are $$
+(1) \ \ X'' + \lambda X = 0
+$$
