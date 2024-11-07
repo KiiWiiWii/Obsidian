@@ -25,5 +25,17 @@ Clearly $u=0$ is a solution, but it doesn't satisfy the IC, so we are only inter
 ![[Pasted image 20241107141459.png]]
 
 Basically, suppose that $u(x,t)$ can be written as $X(x)T(t)$, then derive it. Now sub it into the heat equation: $$
-XT'=t \implies \frac{T'}{kT = }
+XT'=t \implies \frac{T'}{kT} = \frac{X''}{X}
+$$
+Here the LHS depends only on $t$ and the RHS depends only on $x$: we could write $f_{1}(t)=f_{2}(x)$, so they are both equal to a constant, $-\lambda$. So: $$
+T' + \lambda kT = 0 \ \ \ \ \ X'' + \lambda X = 0
+$$
+(The reason for it being $-\lambda$ is so that the ODE for $X$ is a harmonic equation.)
+
+The full solution is then reconstructed by:
+$$
+u(x,t) = X(x)T(t)
+$$
+For this, the BC's $u(0,t)=0, \ \ u(a,t) = 0$ become $$
+X(0)T(t)=0 \ \ \ \ \ \ X()
 $$
