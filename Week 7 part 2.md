@@ -82,3 +82,17 @@ Remember that we already checked that for there to be solutions we care about is
 Recall that $$
 u(x,t) = X(x)T(t)
 $$
+so, we can combine them to $$
+u(x,t) = C_{n}\sin \left( \frac{n\pi x}{a} \right) e^{-k((n\pi)/a)^{2}t}
+$$
+Note that we may have a different solution for each n, and by the [[principle of superposition]], we may also add these together for another solution.
+
+This is the general solution to the heat equation with homogeneous boundary conditions.
+
+We still need to apply the initial condition.
+
+![[Pasted image 20241107144114.png]]
+
+## TL;DR
+
+- Step 1: 
