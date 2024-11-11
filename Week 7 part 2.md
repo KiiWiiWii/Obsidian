@@ -287,5 +287,25 @@ u(x,t) = \sum_{n = 1} ^{ \infty} \sin \left(  \frac{n\pi x}{a} \right)\left[ C_{
 $$
 IC 1: $u(x,0) = \sin \left(  \frac{\pi x}{a} \right)$
 $$
-\iff \sum_{n = 1} ^{ \infty} \sin \left(  \frac{n\pi x}{a} \right)
+\iff \sum_{n = 1} ^{ \infty}C_{n} \sin \left(  \frac{n\pi x}{a} \right) = \sin \left(  \frac{\pi x}{a} \right)
+$$
+
+so $$
+C_{1} = 1, \ \ \ C_{n} = 0
+$$
+
+IC 2: we need $$
+\frac{\partial u}{\partial t} = \sum_{n = 1}^{\infty} \frac{n\pi c}{a} \left[  - C_{n} \sin \left( \frac{n\pi c}{a}t \right) + D_{n}\cos \left( \frac{n\pi c}{a}t \right)\right] \sin \left( \frac{n\pi x}{a} \right)
+$$
+
+$$
+\frac{\partial u}{\partial t}(x,0) = \sin \left(  \frac{2\pi x}{a} \right)
+$$
+so $$
+\sum_{\neq 1}^{\infty} \frac{n\pi x}{a} D_{n}\sin \left( \frac{n\pi x}{a} \right) = \sin \left( \frac{2\pi x}{a} \right)
+$$
+So $\frac{2\pi c}{a}D_{2} = 1 \implies D_{2} = \frac{a}{2\pi c}$, 0 otherwise.
+
+Final solution is $$
+u(x,t) = \cos \left(  \frac{\pi ct}{a} \right)\sin \left(  \frac{\pi x}{a} \right) + \frac{a}{2\pi c} \sin \left( \frac{2\pi c}{a}t \right) \sin \left( \frac{2\pi x}{a} \right)
 $$
