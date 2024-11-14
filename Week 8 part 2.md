@@ -17,6 +17,24 @@ If $f$ is discontinuous at a point $x_{0}$ then it is said to have a jump discon
 
 These are some useful results:
 ![[Pasted image 20241114152306.png]]
+Proved in example 7.1.
+# Example 7.1
 
+Verify that $I =\int _{-a} ^{ a} \cos \left( \frac{n\pi x}{a} \right) \cos \left( \frac{m\pi x}{a} \right) \, dx = a$ when $n = m$ and $0$ when $n \neq m$.
 
+For $n =m$, 
 
+$$
+I = \int _{-a} ^{ a } \cos ^{2}\left( \frac{n\pi x}{a} \right) \, dx
+$$
+$$
+=\frac{1}{2} \int _{-a}^{a} \left(  1 + \cos \left( \frac{2n\pi x}{a} \right) \right) \, dx 
+$$
+Now integrating $$
+\frac{1}{2} \left[  x + \frac{a}{2n\pi}\sin \left( \frac{2n\pi x}{a} \right) \right]_{-a} ^{ a}
+$$
+
+$$
+= \frac{1}{2} [a - (- a)]
+$$
+So you get $a$
