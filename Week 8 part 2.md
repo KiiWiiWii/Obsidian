@@ -13,5 +13,10 @@ Additionally, a function can be piece wise smooth on an interval if it may be br
 
 If $f$ is discontinuous at a point $x_{0}$ then it is said to have a jump discontinuity at that point.
 
+![[Pasted image 20241114152028.png]]
+
+These are some useful results:
+![[Pasted image 20241114152306.png]]
+
 
 
