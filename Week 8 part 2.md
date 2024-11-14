@@ -53,3 +53,5 @@ Since $\sin (k\pi) = 0$ for any $k\in\mathbb{Z}$
 :3
 # Fourier Coefficients
 
+practice ibp
+
