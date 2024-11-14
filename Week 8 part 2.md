@@ -37,4 +37,18 @@ $$
 $$
 = \frac{1}{2} [a - (- a)]
 $$
-So you get $a$
+So you get $a$.
+
+For $n \neq m$, $$
+\frac{1}{2}I = \int _{- a } ^{ a } \left[  \cos\left[ \frac{(n - m) \pi x}{a} \right] + \cos\left[ \frac{(n + m) \pi x}{a} \right] \right] \, dx 
+$$
+$$
+= \frac{1}{2} \left[ \frac{a}{(n-m)\pi} \sin\left[ \frac{(n - m) \pi x}{a} \right] +\frac{a}{(n+m)\pi} \sin\left[ \frac{(n + m) \pi x}{a} \right] \right]_{- a }^{a}
+$$
+$$
+= 0
+$$
+Since $\sin (k\pi) = 0$ for any $k\in\mathbb{Z}$
+
+:3
+
