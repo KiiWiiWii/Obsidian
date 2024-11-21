@@ -19,6 +19,11 @@ Using ibp $$
 = - \frac{2}{n\pi}[(x+2)\cos (n\pi x)]_{0}^{1} + \frac{2}{n\pi}\int _{0}^{1} \cos (n\pi x) \, dx 
 $$
 $$
-= -\frac{2}{n\pi}[3\cos (n\pi)-] 
+= -\frac{2}{n\pi}[3\cos (n\pi)-2\cos (0)] + \frac{2}{n\pi}\frac{[\sin {n\pi x}]}{n\pi} 
 $$
+$$
+=-\frac{2}{n\pi}[3(-1)^{n}-2]
+$$
+
+So $x+2$ ~ $\frac{2}{\pi} \sum_{\neq 1}^{\infty}([\frac{2-3(-1)^{n}])}{n}\sin n\pi x$
 
