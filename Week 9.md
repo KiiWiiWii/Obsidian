@@ -57,3 +57,12 @@ $$
 
 ![[Pasted image 20241121144405.png]]
 
+# Example 7.8
+
+![[Pasted image 20241121150935.png]]
+
+(i). 
+
+Here $a=2$ and $f$ is continuous on $[0,2]$.
+For the sine ser
+
