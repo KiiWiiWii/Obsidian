@@ -138,5 +138,23 @@ u(x,t) = C_{0} + \sum_{n = 1} ^{ \infty} C_{n}\cos \left(  \frac{n\pi x}{2} \rig
 $$
 IC: When $t = 0$.
 $$
-x + 3
+x + 3 = C_{0} + \sum_{n = 1}^{\infty}C_{n} \cos \left( \frac{n\pi x}{2} \right)
+$$
+We therefore need the cosine series for $f(x) = x + 3$ when $0<x<2$.
+$$
+C_{0} = \frac{1}{2} \int _{0}^{2}(x + 3) \, dx = 4
+$$
+
+$$
+C_{n} = \int _{0} ^{ 2} (x + 3) \cos \left(  \frac{n\pi x}{2} \right) \, dx 
+$$
+$$
+= \frac{2}{n\pi}\left[ (x + 3)\sin \left( \frac{n\pi x}{2} \right) \right]_{0}^{2} - \frac{2}{n\pi}\int _{0}^{2} \sin \left(  \frac{n\pi x}{2} \right) \, dx 
+$$
+
+$$
+= \frac{4}{n^{2}\pi^{2}} [\cos\left( \frac{n\pi x}{2} \right)]_{0}^{2}
+$$
+$$
+= \frac{4}{n^{2}\pi^{2}}[(-1)^{2}-1]
 $$
