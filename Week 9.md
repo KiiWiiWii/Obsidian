@@ -39,3 +39,15 @@ $$
 $$
 a_{n} = 2 \int _{0}^{1} (x+2)\cos (n\pi x)\, dx 
 $$
+$$
+=\frac{2}{n\pi}[(x+2)\sin(n\pi x)]_{0}^{1} - \frac{2}{n\pi}\int _{0}^{1}\sin (n\pi x) \, dx
+$$
+$$
+0 + \frac{2}{n\pi}\left[ \left( \cos \frac{n\pi x}{n\pi} \right) \right]_{0}^{1}
+$$
+$$
+=\frac{2}{n^{2}\pi^{2}}[(-1)^{n} -1]
+$$
+So $$
+x+2 \sim \frac{5}{2} + \frac{2}{\pi^{2}}\sum_{n = 1}^{\infty} \frac{[(-1)^{n}-1]}{n^{2}}\cos (n\pi x)
+$$
