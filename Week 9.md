@@ -51,3 +51,9 @@ $$
 So $$
 x+2 \sim \frac{5}{2} + \frac{2}{\pi^{2}}\sum_{n = 1}^{\infty} \frac{[(-1)^{n}-1]}{n^{2}}\cos (n\pi x)
 $$
+![[Pasted image 20241121144204.png]]
+
+# Differentiation of Fourier series
+
+![[Pasted image 20241121144405.png]]
+
