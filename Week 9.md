@@ -106,3 +106,16 @@ $$
 We can always differentiate a cosine series term by term as the extended function is continuous.
 
 Here $f'' (x) = - 2$ so its sine series plot is
+
+![[Pasted image 20241121153054.png]]
+
+As this extended function is not continuous,we cannot find the cosine series for$f'''(x)$ by differentiating the sine series of $f''(x)$.
+
+
+---
+
+
+
+
+
+
