@@ -27,3 +27,15 @@ $$
 
 So $x+2$ ~ $\frac{2}{\pi} \sum_{\neq 1}^{\infty}([\frac{2-3(-1)^{n}])}{n}\sin n\pi x$
 
+![[Pasted image 20241121143252.png]]
+
+# Example 7.7
+
+Find the cosine series of $f(x) = x + 2$ on $0<x<1$, and sketch the series on $-3\leq x\leq 3$.
+
+$$
+a_{0} = \int _{o}^{1}(x + 2) \, dx = \left[ \frac{x^{2}}{2} + 2x \right]_{0}^{1} = \frac{5}{2}
+$$
+$$
+a_{n} = 2 \int _{0}^{1} (x+2)\cos (n\pi x)\, dx 
+$$
