@@ -116,6 +116,27 @@ As this extended function is not continuous,we cannot find the cosine series for
 
 
 
+# Example 7.9
+
+Solve the PDE $$
+\frac{\partial u}{\partial t} = 4 \frac{\partial^2 u}{\partial x^2}
+$$
+$0<x<2$ and $t<0$
+
+$$
+\frac{\partial u}{\partial x}(0,t), \ \ \ \frac{\partial u}{\partial x}(2,t), \ \ \ t>0
+$$
+$$
+u(x,0) = x + 3 \ \\ \ \ \ \ 0 < x < 2
+$$
+
+Following example 6.5, at step 4 of separation of variables:
 
 
-
+$$
+u(x,t) = C_{0} + \sum_{n = 1} ^{ \infty} C_{n}\cos \left(  \frac{n\pi x}{2} \right) e ^{ -n^{2}\pi^{2}t}
+$$
+IC: When $t = 0$.
+$$
+x + 3
+$$
