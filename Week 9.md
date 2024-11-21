@@ -75,4 +75,21 @@ blah blah blah
 
 (ii)
 
-
+$$
+a_{0} = \frac{1}{2}\int _{0}^{2}(2-2x) \, dx 
+$$
+$$
+= 0
+$$
+$$
+a_{n} = \int _{0}^{2} ( 2 - 2 x)\cos \left( \frac{n\pi x}{2} \right) \, dx
+$$
+$$
+= \frac{2}{n\pi}\left[ (2-2x)\sin \left( \frac{n\pi x}{2} \right) \right]_{0}^{2} + \frac{4}{n\pi}\int _{0}^{ 2} \sin \left(  \frac{n\pi x}{2} \right) \, dx
+$$
+$$
+= -\frac{8}{n^{2}p^{2}}\left[ \cos \left( \frac{n\pi x}{2} \right) \right]_{0}^{2}
+$$
+$$
+= - \frac{8}{n^{2}p^{2}}[(-1)^{n}-1]
+$$
