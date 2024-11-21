@@ -69,7 +69,10 @@ For the sine series to be continuous, we need $f(0) = 0 = f(a)$, i.e. $f(0) = f(
 $$
 f'(x) = 2 - 2x \sim \frac{32}{\pi^{3}} \sum_{m=1}^{\infty} \frac{1}{(2m-1)^{3}}\frac{((2m-1)\pi)}{2}\cos \left( \frac{(2m-1)\pi x}{2} \right)
 $$
-blah blah blah
+$$
+=\frac{16}{\pi^{2}}\sum_{m = 1}^{ \infty} \frac{1}{(2m-1)^{2}}\cos \frac{(2m-1)\pi x}{2}
+$$
+
 
 ---
 
@@ -93,3 +96,10 @@ $$
 $$
 = - \frac{8}{n^{2}p^{2}}[(-1)^{n}-1]
 $$
+This is $0$ when n is even and then $\frac{16}{n^{2}\pi^{2}}$ when it is odd.
+
+Let $n = 2m-1$ then $$
+f'(x) = 2 - 2 x \sim \frac{16}{\pi^{2}}\sum_{m = 1}^{ \infty} \frac{1}{(2m-1)^{2}}\cos \frac{(2m-1)\pi x}{2}
+$$
+(iii)
+
