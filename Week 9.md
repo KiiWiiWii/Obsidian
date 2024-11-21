@@ -103,3 +103,6 @@ f'(x) = 2 - 2 x \sim \frac{16}{\pi^{2}}\sum_{m = 1}^{ \infty} \frac{1}{(2m-1)^{2
 $$
 (iii)
 
+We can always differentiate a cosine series term by term as the extended function is continuous.
+
+Here $f'' (x) = - 2$ so its sine series plot is
