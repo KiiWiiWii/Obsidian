@@ -7,3 +7,8 @@ Some examples of analytic functions are:
 	- Exponential
 
 These are everywhere and thus have a special name. In particular, rational functions ($\frac{f(x)}{g(x)}$) is analytic $\forall x$ except when $g(x) = 0$ (duh).
+
+$$
+e^{ x }
+$$
+7

@@ -142,9 +142,21 @@
               "icon": "lucide-file",
               "title": "Analytic Functions"
             }
+          },
+          {
+            "id": "3e98b03a636392b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -261,11 +273,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/MM302/Analytic Functions.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Analytic Functions"
+              "title": "Outline"
             }
           }
         ],
@@ -286,7 +296,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4738c67b10a007d9",
+  "active": "3e98b03a636392b8",
   "lastOpenFiles": [
     "Math/MM302/4_MM302_phase-plane.pdf",
     "Math/MM302/Bessels Equation.md",
