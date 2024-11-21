@@ -64,5 +64,15 @@ $$
 (i). 
 
 Here $a=2$ and $f$ is continuous on $[0,2]$.
-For the sine ser
+For the sine series to be continuous, we need $f(0) = 0 = f(a)$, i.e. $f(0) = f(2) = 0$, which is satisfied. 
+
+$$
+f'(x) = 2 - 2x \sim \frac{32}{\pi^{3}} \sum_{m=1}^{\infty} \frac{1}{(2m-1)^{3}}\frac{((2m-1)\pi)}{2}\cos \left( \frac{(2m-1)\pi x}{2} \right)
+$$
+blah blah blah
+
+---
+
+(ii)
+
 
