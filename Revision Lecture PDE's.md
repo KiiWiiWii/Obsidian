@@ -330,3 +330,24 @@ $\square$
 
 ---
 
+## Laplace's Equation
+
+$$
+\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = 0
+$$
+Need one of $x,y$ to have homogeneous conditions. Then solve that one first.
+
+## Fourier Series
+
+See formula sheet.
+
+### 2023 Question 7(b)
+
+Find the Fourier series for $$
+f(x) = \begin{vmatrix}
+x^{2}, & -1\leq x\leq 0, \\
+0, & 0\leq x\leq 1
+\end{vmatrix}
+
+$$
+--
