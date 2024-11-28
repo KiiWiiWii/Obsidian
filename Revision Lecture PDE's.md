@@ -123,3 +123,27 @@ $$
 
 Classification - Hyperbolic ($b^{2}-4ac >0$)
 				 Parabolic ($b^{2} = 4ac$)
+				 Elliptic ($b^{2}-4ac <0$)
+
+## 2023 Question 6(b)(i)
+
+State whether the following PDE's
+
+$$
+\frac{\partial^2 u}{\partial t^2} - 4 \frac{\partial^2 u}{\partial x^2} = 0
+$$
+Is classified as hyperbolic, parabolic or elliptic.
+
+---
+
+$A = -4,B= 0, C= 1$. So, $b^{2}-4ac > 0$, hence it is Hyperbolic.
+
+## Wave equation
+
+$$
+\frac{\partial^2 u}{\partial t^2} = C^{2} \frac{\partial^2 u}{\partial x^2} + IC + BC
+
+$$
+
+Where $IC$ is the initial conditions and $BC$ are the boundary conditions.
+
