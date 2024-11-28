@@ -250,5 +250,30 @@ $$
 \frac{\partial u}{\partial t} = \frac{\partial^2 u}{\partial x^2} \implies \frac{\partial v}{\partial t} =\frac{\partial^2 v}{\partial x^2}
 $$
 $$
-BC: \\\ \ \ \ u(0,t) = 1 \implies v(0,t)
+BC: \\\ \ \ \ u(0,t) = 1 \implies v(0,t) + \bar{u}(0) = 1
+$$
+$$
+\implies v(0,t) + 1 = 1
+$$
+$$
+\implies v(0,t) = 0
+$$
+$$
+u(1,t) = 2 \implies v(1,t) + 2 = 2 \implies v(1,t) = 0
+$$
+
+$$
+IC: \ \ \ \ u(x,0) = 1+x+2\sin (2\pi x) - 2\sin (5\pi x)
+$$
+$$
+\implies v(x,0) + 1 + x = 1 + x + 2 \sin (2\pi x) - 2\sin (5\pi x)
+$$
+$$
+\implies v(x,0) = 2\sin (2\pi x) - 2 \sin (5\pi x)
+$$
+(c) step 1:
+
+Let $v(x,t) = X(x)T(t)$ so
+$$
+XT' = X''T \iif \frac{T'}{T} = \frac{X''}{X} =
 $$
