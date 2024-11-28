@@ -198,5 +198,18 @@ $$
 \implies F(x) = \frac{1}{2}\left[ \frac{1}{x+2} -\frac{1}{2}e^{ x }\right] + A
 $$
 From equation 1, $$
-G(x) =\frac{1}{2}\left[ \frac{1}{x+2} +\frac{e^{ x }}{2} \right]
+G(x) =\frac{1}{2}\left[ \frac{1}{x+2} +\frac{e^{ x }}{2} \right] -A
 $$
+
+Hence $$
+u(x,t) = \frac{1}{2}\left[ \frac{1}{x-2t+2} - \frac{e^{x-2t}}{2} \right] + \frac{1}{2} \left( \frac{1}{x+2t+2} + \frac{e^{x+2t}}{2} \right)
+$$
+---
+
+## Heat Equation
+
+$$
+\frac{\partial u}{\partial t} = k\frac{\partial^2 u}{\partial x^2} + BC + IC
+$$
+## Separation of variables.
+
