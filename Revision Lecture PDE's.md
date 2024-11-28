@@ -225,5 +225,30 @@ $$
 \frac{\partial u}{\partial t} = \frac{\partial^2 u}{\partial x^2}, \ \ \ \ \ \ 0<x <1, \ \ \ \ t>0
 $$
 $$
-u(0,t) = 1 \ \ \ \    \ u(1,t) = 2
+u(0,t) = 1 \ \ \ \    \ u(1,t) = 2, \  \ \ \ \ \ t>0
+$$
+$$
+u(x,0) = 1 + x + 2\sin (2\pi x) - 3\sin (5\pi x)
+$$
+(a) For $\bar{u}$ solve
+$$
+\frac{\partial^2 u}{\partial x^2} = 0 \ \ \ \ \ \ u(0) = 1, \ \ \ \ \ \ \ u (1) = 2
+$$
+So $$
+u= Ax + B
+$$
+$u(0) = 1 \implies B = 1$, $u(1) = 2 \implies A a+ 1 =2 \implies A = 1$.
+
+Hence $\bar{u}(x)= 1 + x$.
+
+(b) Put $u(x,t) = v(x,t) + \bar{u}(x)$ into the PDE
+$$
+\implies v + 1 + x
+$$
+
+$$
+\frac{\partial u}{\partial t} = \frac{\partial^2 u}{\partial x^2} \implies \frac{\partial v}{\partial t} =\frac{\partial^2 v}{\partial x^2}
+$$
+$$
+BC: \\\ \ \ \ u(0,t) = 1 \implies v(0,t)
 $$
