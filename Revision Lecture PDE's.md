@@ -213,3 +213,6 @@ $$
 $$
 ## Separation of variables.
 
+- Inhomogeneous BC's:
+- 1. Find the steady state soltion (set $\frac{\partial }{\partial t} = 0$), $\bar{u}(x)$ which satisfies the BC's
+- 2. Put $u(x,t) $
