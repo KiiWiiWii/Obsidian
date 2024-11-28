@@ -38,7 +38,7 @@ If we let $\frac{dx}{dt}$ be $c(x,t)$, then we can make the PDE an ODE.
 - 3. Solve the second ODE along this curve. (i.e. with $x =$ solution of 1).
 - 4. Substitute for $x_{0}$ to get final solution.
 
-# 2023 Question 4
+## 2023 Question 4
 
 Solve $$
 \frac{\partial u}{\partial t} + x \frac{\partial u}{\partial x} + u = 2x
@@ -101,3 +101,25 @@ So our solution is
 $$
 u(x,t) = e^{x_{0}}e^{-t} + x_{0}e^{ t }
 $$
+Finally, as $x_{0} = xe^{-t}$ we have 
+$$
+u(x,t) = e^{xe^{-t}} e ^{-t} + (xe^{-t}) e ^{ t}
+$$
+$$
+e^{xe^{-t}-t} + x
+$$
+$\square$
+
+---
+
+# Chapter 6
+
+## Linear second order PDE's
+
+$$
+A(x,y)u_{xx} + B(x,y)_{xy} + C(x,y)y_{yy} + \dots = 0
+
+$$
+
+Classification - Hyperbolic ($b^{2}-4ac >0$)
+				 Parabolic ($b^{2} = 4ac$)
