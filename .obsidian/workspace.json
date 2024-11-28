@@ -187,12 +187,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision Lecture.md",
+                "file": "Revision Lecture PDE's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revision Lecture"
+              "title": "Revision Lecture PDE's"
             }
           }
         ],
@@ -314,10 +314,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revision Lecture.md"
+                "file": "Revision Lecture PDE's.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Revision Lecture"
+              "title": "Outline of Revision Lecture PDE's"
             }
           }
         ],
@@ -340,7 +340,7 @@
   },
   "active": "ce96d25f471be07c",
   "lastOpenFiles": [
-    "Revision Lecture.md",
+    "Revision Lecture PDE's.md",
     "Pasted image 20241121153054.png",
     "Pasted image 20241121150935.png",
     "Pasted image 20241121144405.png",
