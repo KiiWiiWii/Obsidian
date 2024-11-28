@@ -306,5 +306,27 @@ Step 4:
 We now have
 
 $$
-v(x,t) = \sum_{n}
+v(x,t) = \sum_{n = 1}^{\infty} C_{n}\sin (n\pi x)e^{-n^{2}\pi^{2}t}
 $$
+(d)
+
+IC is $v(x,0) = 2\sin (2\pi x)-2\sin (5\pi x)$, So:
+
+$$
+\sum_{n = 1}^{\infty} C_{n}\sin (n\pi x) = 2\sin (2\pi x) - 3\sin (5\pi x)
+$$
+We need $C_{2} = 2$, $C_{5}=-3$, $C_{n} = 0$ otherwise
+
+(e)
+
+We have $$
+u(x,t) = v(x,t) + \bar{u}(x)
+$$
+$$
+= 2\sin (2\pi x)e^{-4\pi^{2}t}-2\sin (5\pi x)e^{-25\pi^{2}t} + 1 + x
+
+$$
+$\square$
+
+---
+
