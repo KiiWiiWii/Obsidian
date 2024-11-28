@@ -168,9 +168,21 @@
               "icon": "lucide-file",
               "title": "Week 9"
             }
+          },
+          {
+            "id": "23fdc4088466395d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -287,11 +299,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Week 9.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Week 9"
+              "title": "Outline"
             }
           }
         ],
@@ -312,7 +322,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8553cd30b007cd8e",
+  "active": "23fdc4088466395d",
   "lastOpenFiles": [
     "Pasted image 20241121153054.png",
     "Pasted image 20241121150935.png",

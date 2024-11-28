@@ -158,3 +158,14 @@ $$
 $$
 = \frac{4}{n^{2}\pi^{2}}[(-1)^{2}-1]
 $$
+Final solution is therefore 
+$$
+u(x,t) = 4 + \frac{4}{\pi^{2}}\sum_{n = 1}^{\infty} \frac{[(-1)^{2} - 1]}{n^{2}} \cos \left( \frac{n\pi x}{2} \right)e^{-n^{2}\pi^{2}t}
+$$
+
+---
+
+$$
+\square
+$$
+
