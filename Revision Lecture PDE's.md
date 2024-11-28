@@ -214,5 +214,16 @@ $$
 ## Separation of variables.
 
 - Inhomogeneous BC's:
-- 1. Find the steady state soltion (set $\frac{\partial }{\partial t} = 0$), $\bar{u}(x)$ which satisfies the BC's
-- 2. Put $u(x,t) $
+- 1. Find the steady state solution (set $\frac{\partial }{\partial t} = 0$), $\bar{u}(x)$ which satisfies the BC's
+- 2. Put $u(x,t) = v(x,t) + \bar{u}(x)$ into the PDE to get a homogeneous problem for $v$.
+- 3. Solve for $v$ using separation of variables
+- 4. Set $u(x,t) = v(x,t) + \bar{u}(x)$.
+
+## Example
+
+$$
+\frac{\partial u}{\partial t} = \frac{\partial^2 u}{\partial x^2}, \ \ \ \ \ \ 0<x <1, \ \ \ \ t>0
+$$
+$$
+u(0,t) = 1 \ \ \ \    \ u(1,t) = 2
+$$
