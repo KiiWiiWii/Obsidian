@@ -350,4 +350,19 @@ x^{2}, & -1\leq x\leq 0, \\
 \end{vmatrix}
 
 $$
---
+---
+
+Here $a = 1$. So
+$$
+a_{0} = \frac{1}{2} \int _{-1} ^{0}x^{2} \, dx = \frac{1}{6}
+$$
+$$
+a_{n} = \int _{-1}^{0} x^{2}\cos (n\pi x) \, dx =\dots =\frac{2}{n^{2}\pi^{2}}(-1)^{n}
+$$
+$$
+b_{n} = \int _{-1}^{0} x^{2}\sin (n\pi x) \, dx = \frac{(-1)^{n}}{n\pi}\left( 1-\frac{2}{n^{2}\pi^{2}} \right) + \frac{2}{n^{3}\pi^{3}}
+$$
+Fourier series is 
+$$
+f(x) \sim \frac{1}{6} +\frac{2}{\pi^{2}}\sum_{n = 1}^{\infty} \frac{(-1)^{n}}{n^{2}} \cos (n\pi x) + \sum_{n = 1}^{\infty}\left[ \frac{(-1)^{n}}{n\pi}\left( 1-\frac{2}{n^{2}\pi^{2}}+\frac{2}{n^{3}\pi^{3}} \right) \right] \sin (n\pi x)
+$$
