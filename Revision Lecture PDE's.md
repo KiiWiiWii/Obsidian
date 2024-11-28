@@ -45,7 +45,7 @@ Solve $$
 $$
 With initial condition:
 $$
-u(x,0) = x + e^{ x }
+u(x,0) = x + e^{ x_{0}}
 $$
 ---
 Note that the coefficient in front of $\frac{\partial u}{\partial t}$ is 1 so it is in normal form.
@@ -78,3 +78,26 @@ $$
 u_{g} = Be^{-t}
 $$
 For a particular function, try $u_{p} = Ce^{t}$.
+This gives $$
+Ce^{t}+ Ce^{t} = 2x_{0}e^{t}
+$$
+$$
+\implies C = x_{0} \ \ \ \ \ \ \ \ u_{p} = x_{0}e^{t}
+$$
+
+So we have $$
+u = u_{g} + u_{p}
+$$
+$$
+\implies Be^{-t} + x_{0}e^{t}
+$$
+
+Using the initial condition $u(x,0) = x + e^{x_{0}}$.
+
+$$
+B+x_{0} = x_{0} + e^{x_{0}} \implies B = e^{x_{0}}
+$$
+So our solution is 
+$$
+u(x,t) = e^{x_{0}}e^{-t} + x_{0}e^{ t }
+$$
