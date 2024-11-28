@@ -271,9 +271,40 @@ $$
 $$
 \implies v(x,0) = 2\sin (2\pi x) - 2 \sin (5\pi x)
 $$
-(c) step 1:
+(c) Step 1:
 
 Let $v(x,t) = X(x)T(t)$ so
 $$
-XT' = X''T \iif \frac{T'}{T} = \frac{X''}{X} =
+XT' = X''T \iff \frac{T'}{T} = \frac{X''}{X} = -\lambda
+$$
+Two ODE's are 
+$$
+X'' + \lambda X = 0, \ \ \ \ \ X(0)= 0, \ \ \ \ \ \ X(1) = 0
+$$
+$$
+T'+\lambda T =0
+$$
+Step 2:
+
+From the question, the eigenvalues and eigenfunctions of the $X$ ODE are
+
+$$
+\lambda_{n} = n^{2}\pi^{2}, \ \ \ X_{n}(x) = \sin (n\pi x)
+$$
+Step 3:
+
+Solve ODE for $T$ with $\lambda = \lambda_{n}$.
+
+$$
+T' + \lambda_{n}T = 0
+$$
+$$
+\implies T_{n} (t ) = C_{n} e^{ -n^{2}\pi^{2}t }
+$$
+Step 4:
+
+We now have
+
+$$
+v(x,t) = \sum_{n}
 $$
