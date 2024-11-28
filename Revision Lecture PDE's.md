@@ -147,3 +147,27 @@ $$
 
 Where $IC$ is the initial conditions and $BC$ are the boundary conditions.
 
+## D'Alembert's Method
+
+$$
+\frac{\partial^2 u}{\partial t^2} - c^{2}\frac{\partial^2 u}{\partial x^2} = \left( \frac{\partial }{\partial t}  + c \frac{\partial }{\partial x}\right)\left( \frac{\partial }{\partial t} - c \frac{\partial }{\partial x}\right)
+$$
+OR
+$$
+= \left( \frac{\partial }{\partial t}  - c \frac{\partial }{\partial x}\right)\left( \frac{\partial }{\partial t} + c \frac{\partial }{\partial x}\right)
+$$
+
+- Give 2 advection equations
+- General solution is $u(x,t) = F(x-ct) + G(x+ct)$
+- Use IC's to find the arbitrary functions $F$ and $G$
+
+## 2023 Question 6(b)(ii)
+
+Solve $\frac{\partial^2 u}{\partial t^2} - 4 \frac{\partial^2 u}{\partial x^2} = 0$ Subject to the ICs $u(x,0) = \frac{1}{x+2}$ and $\frac{\partial u}{\partial t}(x,0) = e^{ x }$. Use D'Lamberts
+
+---
+
+
+General solution $$
+u(x,t) = F(x-2t) + G(x+2t)
+$$
