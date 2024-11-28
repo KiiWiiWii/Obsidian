@@ -171,3 +171,32 @@ Solve $\frac{\partial^2 u}{\partial t^2} - 4 \frac{\partial^2 u}{\partial x^2} =
 General solution $$
 u(x,t) = F(x-2t) + G(x+2t)
 $$
+Apply the IC's:
+$$
+F(x) + G(x) = \frac{1}{x+2}
+$$
+$$
+-2F'(x) + 2G'(x) = e^{x}
+$$
+From equation 1, we get 
+$$
+F'(x) + G' ( x) = - \frac{1}{(x+2)^{2}}
+$$
+From 2 
+$$
+\implies F'(x) - G'(x) = -\frac{1}{2}e^{x}
+$$
+Add these together:
+$$
+2F' = -\frac{1}{(x+2)^{2}} - \frac{1}{2} e^{ x }
+$$
+$$
+\implies F'(x) = \frac{1}{2}[-\frac{1}{(x+2)^{2}} - \frac{1}{2} e^{ x }]
+$$
+
+$$
+\implies F(x) = \frac{1}{2}\left[ \frac{1}{x+2} -\frac{1}{2}e^{ x }\right] + A
+$$
+From equation 1, $$
+G(x) =\frac{1}{2}\left[ \frac{1}{x+2} +\frac{e^{ x }}{2} \right]
+$$
