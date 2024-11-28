@@ -54,5 +54,27 @@ Rewrite as 2 ODE's $$
 $$
 Solve ODE 1 for characteristics: 
 $$
-\frac{dx}{dt} - x = 0 \implies
+\frac{dx}{dt} - x = 0 \implies m-1=0 \implies m = 1 \implies x = Ae^{t}
 $$
+If this passes through $(x_{0},0)$ then 
+$$
+A = x_{0}
+$$
+So $$
+x = x_{0} e ^{ t}
+$$
+Now we solve ODE 2 along the characteristic curve.
+
+$$
+\frac{du}{dt} + u = 2x_{0}e^{ t }
+$$
+Auxiliary equation:
+
+$$
+m+1 = 0
+$$
+So the general solution is 
+$$
+u_{g} = Be^{-t}
+$$
+For a particular function, try $u_{p} = Ce^{t}$.
