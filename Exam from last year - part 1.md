@@ -15,10 +15,28 @@ We are told that $y'' = e^{2x} + \sin y$, so $y''(0) = 1$.
 We can find $y'''$ by deriving.
 
 $$
-y''' = 2e^{2x} +\cos y y'
+y''' = 2e^{2x} +\cos (y) y'
+$$
+This at $y'''(0)$ is $3$.
+
+Deriving this again:
+
+$$
+y^{iv} = 4e^{2x} + (\cos (y)y'' -\sin (y)y'^{2})
 $$
 
-| $y(0)$   | $0$ |
-| -------- | --- |
-| $y'(0)$  | 1   |
-| $y''(0)$ | $1$ |
+-- using the product rule.
+
+This at $y^{iv}(0)$ is $5$.
+
+| $y(0)$      | $0$ |
+| ----------- | --- |
+| $y'(0)$     | 1   |
+| $y''(0)$    | $1$ |
+| $y'''(0)$   | 3   |
+| $y^{iv}(0)$ | 5   |
+Now putting this into the Maclaurin series:
+
+$$
+0x^{0} + 1x + \frac{1}{2}x^{2} + 
+$$
