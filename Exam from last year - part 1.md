@@ -270,3 +270,26 @@ y_{n} = e^{-2x} \sin (n\pi x)
 $$
 ---
 
+# Question 6
+
+### Part a
+##### part i
+
+![[Pasted image 20241202114409.png]]
+
+Because $y_{1}, y_{2}$ are eigenfunctions, we have that
+
+$$
+[py_{1}]' + qy_{1} + \lambda_{1}\sigma y_{1} = 0
+$$
+$$
+[py_{2}]' + qy_{2} + \lambda_{2}\sigma y_{2} = 0
+$$
+
+Multiplying each by $y_{1}$ and $y_{2}$ and subtracting them
+$$
+[py_{2}]'y_{1} + qy_{2}y_{1}+\lambda_{2}\sigma y_{2}y_{1}-[py_{1}]'y_{2}-qy_{2}y_{1}-\lambda_{1}\sigma y_{2}y_{1} = 0
+$$
+$$
+\implies (\lambda_{2}-\lambda_{1})\sigma y_{2}y_{1} = [py_{1}]
+$$
