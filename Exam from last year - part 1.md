@@ -288,8 +288,21 @@ $$
 
 Multiplying each by $y_{1}$ and $y_{2}$ and subtracting them
 $$
-[py_{2}]'y_{1} + qy_{2}y_{1}+\lambda_{2}\sigma y_{2}y_{1}-[py_{1}]'y_{2}-qy_{2}y_{1}-\lambda_{1}\sigma y_{2}y_{1} = 0
+[py_{2}]'y_{1} + \cancel{ qy_{2}y_{1} }+\lambda_{2}\sigma y_{2}y_{1}-[py_{1}]'y_{2}-\cancel{ qy_{2}y_{1} }-\lambda_{1}\sigma y_{2}y_{1} = 0
 $$
 $$
-\implies (\lambda_{2}-\lambda_{1})\sigma y_{2}y_{1} = [py_{1}]
+\implies (\lambda_{2}-\lambda_{1})\sigma y_{2}y_{1} = [py_{1}]'y_{2} -[py_{2}]y_{1}
 $$
+
+##### part ii
+
+![[Pasted image 20241202114825.png]]
+
+$$
+\int _{a}^{b} (\lambda_{2}-\lambda_{1})\sigma y_{2}y_{1} \, dx = \int _{a}^{b}([py_{1}']'y_{2} - [py_{2}']y_{1}) \, dx
+$$
+$$
+\implies (\lambda_{2}-\lambda_{1}) \int _{a}^{b} \sigma y_{2}y_{1} \, dx = [py_{1}']' - lmabda\int _{a}^{b}[py_{1}']'y_{2}' \, dx -\dots 
+$$
+
+-- ran out of time, and hes going too fast.
