@@ -208,3 +208,26 @@ $$
 
 ![[Pasted image 20241202112635.png]]
 
+-- This is literally expanding it out then cancelling the terms ok
+
+$$
+4e^{4x}y' + 3^{4x}y'' + 4e^{4x}y + 4\lambda e^{4x}y = 0
+$$
+$$
+4y' + 3y'' + 4y + 4\lambda y = 0
+$$
+$$
+y'' + 4y' + 4(1+\lambda)y = 0
+$$
+-- -w-
+### Part b - 5 marks
+
+![[Pasted image 20241202113004.png]]
+
+Solving this as normal, solve the auxiliary equation:
+$$
+m^{2} + 4m + 4(1+\lambda) = 0
+$$
+$$
+m = (-4 \pm \sqrt{ 16 - })
+$$
