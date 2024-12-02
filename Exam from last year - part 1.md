@@ -50,8 +50,6 @@ $$
 
 ![[Pasted image 20241202102715.png]]
 
--- Remember that a regular single point is [] and an ordinary point is []
-
 Notice that this is not in normal form because the coefficient of $y''$ is not 1. Normalizing this: 
 $$
 y'' - \frac{x}{(x^{2}-1)}y' + \frac{1}{(x^{2}-1)}y = 0
@@ -59,5 +57,24 @@ $$
 
 Naming these coefficients $p(x)$ and $q(x)$ respective to $y'$ and $y$.
 
-Notice that we will have problems when $x=\pm 1$, Hence they are analytic at all other points. All of these points are ordinary poi
+Notice that we will only have problems when $x=\pm 1$, Hence they are analytic at all other points. All of these points are ordinary points.
 
+Regular points are at $x=x_{0}$. They are singular if $(x-x_{0})p(x)$ AND $(x-x_{0})^{2}q(x)$ are analytic. Else they are irregular single points.
+
+Singular point $x_{0}=1$. Take; $$
+(x-1) \frac{x}{(x-1)(x+1)} = \frac{x}{x+1}
+$$
+
+$$
+(x-1)^{2} \frac{x}{(x-1)(x+1)} = \frac{x+1}{x+1}
+$$
+These is analytic at $x=1$, so it is a regular singular point.. Now consider $x=-1$
+
+$$
+(x+1) \frac{x}{(x-1)(x+1)} = \frac{x}{x-1}
+$$
+$$
+(x+1)^{2} \frac{x}{(x-1)(x+1)} = \frac{x+1}{x-1}
+$$
+
+Which is also analytic at $x = -1$
