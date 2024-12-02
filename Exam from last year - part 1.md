@@ -1,5 +1,5 @@
 
-# Question 1
+# Question 1 - 8 marks
 
 ![[Pasted image 20241202101014.png]]
 
@@ -44,11 +44,20 @@ $$
 
 ---
 
-# Question 2
+# Question 2 - 15 marks
 
-### (a)
+### Part a - 3 marks
 
 ![[Pasted image 20241202102715.png]]
 
--- Re
+-- Remember that a regular single point is [] and an ordinary point is []
+
+Notice that this is not in normal form because the coefficient of $y''$ is not 1. Normalizing this: 
+$$
+y'' - \frac{x}{(x^{2}-1)}y' + \frac{1}{(x^{2}-1)}y = 0
+$$
+
+Naming these coefficients $p(x)$ and $q(x)$ respective to $y'$ and $y$.
+
+Notice that we will have problems when $x=\pm 1$, Hence they are analytic at all other points. All of these points are ordinary poi
 
