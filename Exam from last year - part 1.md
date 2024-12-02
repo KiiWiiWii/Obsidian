@@ -202,3 +202,9 @@ $$
 $$
 -- Literally how the fuck are you meant to get this and also for only 3 marks kms
 
+# Question 3 - 7 marks
+
+### Part a - 2 marks
+
+![[Pasted image 20241202112635.png]]
+
