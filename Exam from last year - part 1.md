@@ -132,4 +132,14 @@ $$
 $$
 a_{3} = 0
 $$
-Let 
+Setting $p = r = n$ $\geq 2$.
+$$
+a_{n} n(n-1) - a_{n} + 2 (n+2)(n+1) - a_{n}n + a_{n} = 0
+$$
+
+$$
+(n+2)(n+1)a_{n+2} = (n(n-)
+$$
+-- man i really need to look over this.
+
+
