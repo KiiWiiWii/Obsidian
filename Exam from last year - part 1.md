@@ -91,3 +91,20 @@ Assume the solution is in the form:
 $$
 y(x) = \sum_{r = 0}^{\infty} a_{r}x^{r}
 $$
+Then 
+$$
+y'(x) = \sum_{r = 1} ^{ \infty}a_{r}rx^{r- 1}
+$$
+-- Writing $r = 0$ is fine, but the first term would disappear anyway.
+
+$$
+y''(x) = \sum_{r = 2}^{\infty}a_{r}r(r-1)x^{r-2}
+$$
+Subbing this back into the og expression: 
+$$
+(x^{2}-1)\sum_{r = 2} ^{ \infty} a_{r}r(r-1)x^{r-2} - x\sum_{r = 0}^{\infty} a_{r}rx^{r - 1} + \sum_{r = 0}^{\infty} a_{r}x^{r} = 0
+$$
+Expanding:
+$$
+\sum_{r = 2}^{\infty} a_{r}r(r-1)x^{r} - \sum_{r = 0}^{\infty} a_{r}r(r-1)x^{r - 2}+ \sum_{r = 0}^{\infty} a_{r}x^{r} = 0
+$$
