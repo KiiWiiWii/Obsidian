@@ -106,5 +106,30 @@ $$
 $$
 Expanding:
 $$
-\sum_{r = 2}^{\infty} a_{r}r(r-1)x^{r} - \sum_{r = 0}^{\infty} a_{r}r(r-1)x^{r - 2}+ \sum_{r = 0}^{\infty} a_{r}x^{r} = 0
+\sum_{r = 2}^{\infty} a_{r}r(r-1)x^{r} - \sum_{r = 2}^{\infty} a_{r}r(r-1)x^{r - 2} + \sum_{r = 1}^{\infty} a_{r}rx^{r}+ \sum_{r = 0}^{\infty} a_{r}x^{r} = 0
 $$
+
+Changing variable to $r = p+2$
+
+$$
+\sum_{r = 2}^{\infty} a_{r}r(r-1)x^{r - 2} = \sum_{p = 0}^{\infty} a_{p+2}(p+2)(p+1)x^{p}
+$$
+
+Let $r = 0 = p$ and equating coefficients.
+
+$$
+-a_{2}(2)(1) + a_{0} = 0
+$$
+$$
+a_{2} = \frac{1}{2}a_{0}
+$$
+
+Now let $r = 1 = p$
+
+$$
+-a_{3} ( 3) (2) - a_{1} + a_{1} = 0
+$$
+$$
+a_{3} = 0
+$$
+Let 
