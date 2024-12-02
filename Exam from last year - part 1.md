@@ -252,3 +252,21 @@ y(0) = 0 = 1A \implies A = 0
 $$$$
 y(1)= 0 = e^{-2}(B\sin (2\lambda ^{1/2})) = 0
 $$
+
+$B = 0$ is a trivial solution
+Otherwise,
+$$
+2\lambda ^{1/2} = n\pi
+$$
+$$
+\implies \lambda ^{1/2} = \frac{n\pi}{2}
+$$
+$$
+\lambda = \frac{n^{2}\pi^{2}}{4}
+$$
+So with $\lambda_{n} = \frac{n^{2}\pi^{2}}{4}$,
+$$
+y_{n} = e^{-2x} \sin (n\pi x)
+$$
+---
+
