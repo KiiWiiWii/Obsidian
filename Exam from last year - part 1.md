@@ -38,5 +38,17 @@ This at $y^{iv}(0)$ is $5$.
 Now putting this into the Maclaurin series:
 
 $$
-0x^{0} + 1x + \frac{1}{2}x^{2} + 
+0x^{0} + 1x + \frac{1}{2}x^{2} + \frac{3}{6}x^{3} + \frac{5}{24}x^{4} +\dots
 $$
+-- that is worth 8 marks holy fucking shit. FREE
+
+---
+
+# Question 2
+
+### (a)
+
+![[Pasted image 20241202102715.png]]
+
+-- Re
+
