@@ -77,4 +77,17 @@ $$
 (x+1)^{2} \frac{x}{(x-1)(x+1)} = \frac{x+1}{x-1}
 $$
 
-Which is also analytic at $x = -1$
+Which is also analytic at $x = -1$, so it is also a regular single point.
+
+---
+
+### Part b - 9 marks
+
+![[Pasted image 20241202103829.png]]
+
+-- When we expand around an ordinary point, we use the method of undetermined coefficients, and otherwise we use the method of Frobenius.
+
+Assume the solution is in the form:
+$$
+y(x) = \sum_{r = 0}^{\infty} a_{r}x^{r}
+$$
