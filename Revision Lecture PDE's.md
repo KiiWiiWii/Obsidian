@@ -366,3 +366,7 @@ Fourier series is
 $$
 f(x) \sim \frac{1}{6} +\frac{2}{\pi^{2}}\sum_{n = 1}^{\infty} \frac{(-1)^{n}}{n^{2}} \cos (n\pi x) + \sum_{n = 1}^{\infty}\left[ \frac{(-1)^{n}}{n\pi}\left( 1-\frac{2}{n^{2}\pi^{2}}+\frac{2}{n^{3}\pi^{3}} \right) \right] \sin (n\pi x)
 $$
+
+## Cosine Series
+
+Make $f$ on $[0,a]$ even and
