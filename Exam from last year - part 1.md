@@ -138,8 +138,30 @@ a_{n} n(n-1) - a_{n} + 2 (n+2)(n+1) - a_{n}n + a_{n} = 0
 $$
 
 $$
-(n+2)(n+1)a_{n+2} = (n(n-)
+(n+2)(n+1)a_{n+2} = (n(n-1) - n + 1)a_{n}
 $$
+$$
+a_{n+2} = \frac{n(n-1)-(n-1)}{(n+2)(n+1)}
+$$
+$$
+= \frac{(n-1)^{2}}{(n+2)(n+1)}a_{n}
+$$
+
 -- man i really need to look over this.
 
+
+Hence the solution can be written as the sum of two series 
+$$
+y(x) = Ay_{1}(x) + By_{0}(x)
+$$
+Where $y_{1}(x) = x$ as odd terms terminate after linear term.
+
+$$
+y_{0}(x) = \sum_{n = 0} ^{ \infty}a_{2n}x^{2n}
+$$
+---
+
+### Part c - 3 marks
+
+![[Pasted image 20241202110151.png]]
 
