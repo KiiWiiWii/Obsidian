@@ -229,5 +229,26 @@ $$
 m^{2} + 4m + 4(1+\lambda) = 0
 $$
 $$
-m = (-4 \pm \sqrt{ 16 - })
+m = \frac{-4 \pm \sqrt{ 16 - 4 (4(1+\lambda))}}{2}
+$$
+
+$$
+= -2 \pm \frac{\sqrt{ -16 \lambda }}{2} = -2 \pm \frac{\sqrt{ -16 } \sqrt{ \lambda }}{2}
+$$t
+$$
+= -2 \pm 2\lambda ^{1/2}i
+$$
+
+Real and imaginary roots, so the general solution is:
+
+$$
+y(x) = e^{-2x}(A\cos (2\lambda ^{1/2}x) + B\sin (2\lambda ^{1/2}x))
+$$
+
+Using the boundary conditions 
+
+$$
+y(0) = 0 = 1A \implies A = 0
+$$$$
+y(1)= 0 = e^{-2}(B\sin (2\lambda ^{1/2})) = 0
 $$
