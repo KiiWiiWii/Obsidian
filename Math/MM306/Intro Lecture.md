@@ -68,4 +68,19 @@ these are 3 important theorems
 
 ### Example 1.3
 
-Find the interpolating polynomial for d
+Find the interpolating polynomial for $$
+{(- 1, 6), (1,6), (2.9)}
+$$
+Since there are 3 points we are looking for a quadratic ($x^{2}$) at most.
+
+Suppose it is $p_{2}(x) = a_{2}x^{2}+a_{1}x + a_{0}$. Using our data points gives $$
+a_{2} -a_{1} + a_{0} = 6
+$$$$
+a_{2} + a_{1} + a_{0} = 6
+$$
+$$
+4a_{2}+2a_{1}+a_{0} = 9
+$$
+So $a_{2} = 1$ $a_{1} = 0$ and $a_{0} = 5$.
+
+So here $p_{2} ( x ) = x^{2} + 5$.
