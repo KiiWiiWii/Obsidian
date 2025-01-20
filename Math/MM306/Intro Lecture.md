@@ -41,3 +41,7 @@ f(x) = \frac{1}{2} (\frac{\left(  \sin \left( \frac{x}{2} \right) \right)}{\frac
 $$
 
 Using this (with ten digits of accuracy) gives $0.5$ as expected which is accurate to 11 digits.
+
+---
+
+
