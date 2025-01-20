@@ -58,3 +58,14 @@ For each data set $y$ we get an associated $x$, from this we can "guess" a funct
 me rn if you even care
 
 ![[Pasted image 20250120153052.png]]
+
+![[Pasted image 20250120153322.png]]
+
+![[Pasted image 20250120153423.png]]
+
+these are 3 important theorems 
+
+
+### Example 1.3
+
+Find the interpolating polynomial for d
