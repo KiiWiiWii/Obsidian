@@ -5,3 +5,16 @@ When you collect data on a phenomenon, process, whatever, you normally would mak
 
 ## Interpolation
 
+### Example 1.2
+
+Compute the value of the function $$
+\frac{1 - \cos x}{x^{2}}
+$$
+when $$
+x = 1.2 \times 10^{-5}
+$$
+---
+
+Here for any value of $x$ we have $$
+o \leq f(x) \leq \frac{1}{2}
+$$
