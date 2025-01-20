@@ -34,4 +34,10 @@ $$
 $$
 f(1.2 \times 10 ^{- 5}) = \frac{10^{-10}}{1.44\times 10 ^{ - 10}} = 0.6944444444
 $$
-This answer is clearly wrong as it is greater than $\frac{1}{2}$. A single rounding error of $10^{-10}$ has been amplified a billion fold. The cause of the error is the cancellation
+This answer is clearly wrong as it is greater than $\frac{1}{2}$. A single rounding error of $10^{-10}$ has been amplified a billion fold. The cause of the error is the cancellation in two numbers of a similar size.
+
+What we can do is use a trig identity to rewrite our cosine to solve this problem. We can use $\cos x = 1 - 2 \sin ^{2}\left( \frac{x}{2} \right)$. $$
+f(x) = \frac{1}{2} (\frac{\left(  \sin \left( \frac{x}{2} \right) \right)}{\frac{x}{2}})^{2}
+$$
+
+Using this (with ten digits of accuracy) gives $0.5$ as expected which is accurate to 11 digits.
