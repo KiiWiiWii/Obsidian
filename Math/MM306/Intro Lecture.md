@@ -84,3 +84,20 @@ $$
 So $a_{2} = 1$ $a_{1} = 0$ and $a_{0} = 5$.
 
 So here $p_{2} ( x ) = x^{2} + 5$.
+
+---
+
+### Example 1.4
+
+Approximate $e^{x}$ over $0\leq x\leq 2$ by a quadratic polynomial.
+
+---
+
+We can find a quadratic interpolate by sampling our function $f(x) = e^{x}$ at three points. Here we choose the equispaced points $$
+(0,1),(1,e),(2,e^{2})
+$$
+So now we do the same thing as the other example
+$$
+\dots
+$$
+So we get $a_{0} = 1, a_{1} = -\mathrm{Re$
