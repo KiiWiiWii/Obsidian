@@ -53,3 +53,8 @@ For each data set $y$ we get an associated $x$, from this we can "guess" a funct
 -- first 3 red points are how i'd describe myself --
 
 
+![[Pasted image 20250120152947.png]]
+
+me rn if you even care
+
+![[Pasted image 20250120153052.png]]
