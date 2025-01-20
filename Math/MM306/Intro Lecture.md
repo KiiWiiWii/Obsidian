@@ -44,4 +44,8 @@ Using this (with ten digits of accuracy) gives $0.5$ as expected which is accura
 
 ---
 
+![[Pasted image 20250120151006.png]]
+
+For each data set $y$ we get an associated $x$, from this we can "guess" a function to estimate these points.
+
 
