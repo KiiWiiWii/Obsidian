@@ -61,4 +61,15 @@ We have $p_{2}(x) = 1+0.2420x + 1.4762x^{2}$. So $p_{2}(1.5) = 1 + 0.2420 \times
 Use Lagrange polynomials to find the polynomial interpolant of the data $(0,0) \ \ (1,1)\ \ (2,2) \ \ (3,3)$.
 
 ---
-The Lagrange 
+The Lagrange polynomials are $$
+\lambda_{0}(x) = \frac{(x -1)(x-2)(x-3)}{(0 -1)(0 -2)(0 -3)} = -\frac{1}{6}(x^{3}-6x^{2}+11x-6)
+$$
+$$
+\lambda_{1}(x) = \frac{(x-0)(x-2)(x-3)}{(1-0)(1-2)(1-3)} = \frac{1}{2}(x^{3} - 4x^{2} + 3x)
+$$
+$$
+\lambda_{2}(x) = \frac{(x-0)(x-1)(x-3)}{(2-0)(2-1)(2-3)} = -\frac{1}{2}(x^{3} - 4x^{2} + 3x) = \frac{1}{6 ( x^{3} - 3x^{2})}
+$$
+$$
+\lambda_{3}(x) = \frac{(x-0)(x-1)(x-2)}{(3-0)(3-1)(3-2)}
+$$
