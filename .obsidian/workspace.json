@@ -201,12 +201,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS317/First Lecture.md",
+                "file": "CompSci/CS317/Second Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Lecture"
+              "title": "Second Lecture"
             }
           }
         ],
@@ -328,10 +328,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS317/First Lecture.md"
+                "file": "CompSci/CS317/Second Lecture.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of First Lecture"
+              "title": "Outline of Second Lecture"
             }
           }
         ],
@@ -354,6 +354,8 @@
   },
   "active": "e7bcf4bde89425b2",
   "lastOpenFiles": [
+    "CompSci/CS317/First Lecture.md",
+    "CompSci/CS317/Second Lecture.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Images/Pasted image 20250120153423.png",
     "Math/MM306/Images/Pasted image 20250120153322.png",
@@ -367,7 +369,6 @@
     "Math/MM306",
     "Math/Untitled.md",
     "Math/MM302/Images/Pasted image 20241114151756.png",
-    "CompSci/CS317/First Lecture.md",
     "Math/MM302/Exam from last year - part 1.md",
     "CompSci/CS317",
     "Math/MM302/Untitled.canvas",
