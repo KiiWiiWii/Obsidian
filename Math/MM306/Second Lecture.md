@@ -154,5 +154,19 @@ p_{3}(4) = 11
 $$
 ---
 
+## Example 1.11
+
+Find the cubic interpolant to $e^{x}$ where $0\leq x\leq 3$ with equispaced points. Use it to evaluate $e^{1.5}$ and $e^{4}$.
+
+---
+
+The divided difference table looks like
 
 
+
+| $i$ | $x_{i}$ | $y[.]$ | $y[.,.]$ | $y[.,.,.]$ |     |
+| --- | ------- | ------ | -------- | ---------- | --- |
+| 0   | 0       | 1      |          |            |     |
+| 1   | 1       | 2.718  |          |            |     |
+| 2   | 2       | 7.     |          |            |     |
+| 3   | 3       |        |          |            |     |
