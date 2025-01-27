@@ -56,3 +56,9 @@ We have $p_{2}(x) = 1+0.2420x + 1.4762x^{2}$. So $p_{2}(1.5) = 1 + 0.2420 \times
 
 ---
 
+## Example 1.7
+
+Use Lagrange polynomials to find the polynomial interpolant of the data $(0,0) \ \ (1,1)\ \ (2,2) \ \ (3,3)$.
+
+---
+The Lagrange 
