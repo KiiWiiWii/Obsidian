@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS317/Second Lecture.md",
+                "file": "Math/MM306/Second Lecture.md",
                 "mode": "source",
                 "source": false
               },
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS317/Second Lecture.md"
+                "file": "Math/MM306/Second Lecture.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Second Lecture"
@@ -354,8 +354,9 @@
   },
   "active": "e7bcf4bde89425b2",
   "lastOpenFiles": [
-    "CompSci/CS317/First Lecture.md",
     "CompSci/CS317/Second Lecture.md",
+    "Math/MM306/Second Lecture.md",
+    "CompSci/CS317/First Lecture.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Images/Pasted image 20250120153423.png",
     "Math/MM306/Images/Pasted image 20250120153322.png",
@@ -400,7 +401,6 @@
     "Math/MM302/Will need to rewrite.md",
     "cd",
     "Math/MM302/Images",
-    "Math/MM302/Ratio Test.md",
     "Math/MM302/SIR Model.canvas",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
