@@ -201,12 +201,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Intro Lecture.md",
+                "file": "CompSci/CS317/First Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro Lecture"
+              "title": "First Lecture"
             }
           }
         ],
@@ -328,10 +328,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Intro Lecture.md"
+                "file": "CompSci/CS317/First Lecture.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro Lecture"
+              "title": "Outline of First Lecture"
             }
           }
         ],
@@ -354,8 +354,8 @@
   },
   "active": "e7bcf4bde89425b2",
   "lastOpenFiles": [
-    "Math/MM306/Images/Pasted image 20250120153423.png",
     "Math/MM306/Intro Lecture.md",
+    "Math/MM306/Images/Pasted image 20250120153423.png",
     "Math/MM306/Images/Pasted image 20250120153322.png",
     "Math/MM306/Images/Pasted image 20250120153052.png",
     "Math/MM306/Images/Pasted image 20250120152947.png",
