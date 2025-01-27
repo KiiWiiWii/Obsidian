@@ -48,4 +48,11 @@ So $p_{3}(x) = 0 + 1x + 0x^{2} + 0x^{3} = x$. This is the unique polynomial of d
 
 ## Example 1.6
 
-Use $p_{2}$ from Ex 1.4 to estimate $e^{1.5}$. Which is $4.4817$ to 
+Use $p_{2}$ from Ex 1.4 to estimate $e^{1.5}$. (Which is $4.4817$ to 4 DP).
+
+---
+
+We have $p_{2}(x) = 1+0.2420x + 1.4762x^{2}$. So $p_{2}(1.5) = 1 + 0.2420 \times 1.5 + 1.4762 \times 1.5^{2} = 4.6845$. 
+
+---
+ 
