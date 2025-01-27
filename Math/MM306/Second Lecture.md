@@ -94,6 +94,27 @@ $$
 y[x_{1},x_{2}] = \frac{y[x_{2}]-y[x_{1}]}{(x_{2}-x_{1})} = 3
 $$
 $$
-y[x_{2},x]
+y[x_{2},x_{3}] = \frac{y[x_{3}] - y[x_{2}]}{x_{3} - x_{2}} = 4
 
 $$
+
+Now to calculate the $2nd$ order differences:
+$$
+y[x_{0},x_{1},x_{2}] = \frac{y[x_{1},x_{2}] - y[x_{0},x_{1}]}{x_{2}-x_{0}} =\frac{3}{2}
+$$
+$$
+y[x_{1},x_{2},x_{3}] = \frac{y[x_{2}]-y[x_{3}] - y[x_{1},x_{2}]}{x_{3} - x_{1}} = \frac{1}{2}
+$$
+And now for the 3rd.
+$$
+y[x_{0},x_{1},x_{2},x_{3}] = \frac{y[x_{1},x_{2},x_{3}] - y[x_{0},x_{1},x_{2}]}{x_{3}-x_{0}} =-\frac{1}{3}
+$$
+It is more useful to do this using a table:
+
+
+| $i$ | $x_{{i}}$ |     |
+| --- | --------- | --- |
+| 0   |           |     |
+| 1   |           |     |
+| 2   |           |     |
+| 3   |           |     |
