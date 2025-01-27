@@ -142,3 +142,17 @@ $$
  = 1 + \frac{3}{2}(x -0)(x-1) - \frac{1}{3}(x-0)(x -1 )(x-2) = 1 + \frac{3}{2}x(x-1)- \frac{1}{3}x(x-1)(x-2)
 $$
 
+## Example 1.10
+
+Using $p_{3}$ from example 1.9, evaluate $p_{3}(4)$.
+
+$$p_{3}(x) = 1 + x (x-1)\left[ \frac{3}{2}-\frac{1}{3}(x-2) \right]$$
+Evaluating this at $x = 4$,
+
+$$
+p_{3}(4) = 11
+$$
+---
+
+
+
