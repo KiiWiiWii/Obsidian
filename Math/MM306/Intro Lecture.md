@@ -100,4 +100,8 @@ So now we do the same thing as the other example
 $$
 \dots
 $$
-So we get $a_{0} = 1, a_{1} = -\mathrm{Re$
+So we get $a_{0} = 1, a_{1} = -\frac{e^{2}}{2} + 2e - \frac{3}{2}, a_{2} = \frac{e^{2}}{2} - e + \frac{1}{2}$ Hence $p_{2}(x) = 1 + 0.2420x + 1.4762x^{2}$.
+
+---
+
+
