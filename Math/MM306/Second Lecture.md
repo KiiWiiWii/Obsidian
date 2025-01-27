@@ -121,3 +121,19 @@ It is more useful to do this using a table:
 
 ---
 
+## Example 1.9
+
+Find the cubic interpolant of $\Delta_{3} = \{ (0,1) (1,1) ( 2,4) (3,8) \}$
+
+---
+
+
+We know that 
+
+$$
+p_{3} = c_{0} + c_{1}\pi_{1}(x) + c_{2}\pi_{2}(x) + c_{3} \pi_{3} ( x)
+$$
+Where $c_{i} = y[x_{0},\dots,x_{i}]$
+
+In the last example we found the divided differe
+
