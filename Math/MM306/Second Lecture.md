@@ -135,5 +135,10 @@ p_{3} = c_{0} + c_{1}\pi_{1}(x) + c_{2}\pi_{2}(x) + c_{3} \pi_{3} ( x)
 $$
 Where $c_{i} = y[x_{0},\dots,x_{i}]$
 
-In the last example we found the divided differe
+In the last example we found the divided differences, so we will use these. $$
+p_{3}(x) = 1 + 0\pi_{1}(x) + \frac{3}{2} \pi_{2}(x) - \frac{1}{3}\pi_{3}(x)
+$$
+$$
+ = 1 + \frac{3}{2}(x -0)(x-1) - \frac{1}{3}(x-0)(x -1 )(x-2) = 1 + \frac{3}{2}x(x-1)- \frac{1}{3}x(x-1)(x-2)
+$$
 
