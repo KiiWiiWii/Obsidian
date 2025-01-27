@@ -42,4 +42,10 @@ a_{3}
 
 
 $$
-So $p_{3}(x) = 0 + 1x + 0x^{2} + 0x^{3} = x$ 
+So $p_{3}(x) = 0 + 1x + 0x^{2} + 0x^{3} = x$. This is the unique polynomial of degree $3$ or less that passes through all the data.
+
+---
+
+## Example 1.6
+
+Use $p_{2}$ from Ex 1.4 to estimate $e^{1.5}$. Which is $4.4817$ to 
