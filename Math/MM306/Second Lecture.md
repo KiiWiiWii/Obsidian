@@ -55,4 +55,4 @@ Use $p_{2}$ from Ex 1.4 to estimate $e^{1.5}$. (Which is $4.4817$ to 4 DP).
 We have $p_{2}(x) = 1+0.2420x + 1.4762x^{2}$. So $p_{2}(1.5) = 1 + 0.2420 \times 1.5 + 1.4762 \times 1.5^{2} = 4.6845$. 
 
 ---
- 
+
