@@ -66,3 +66,9 @@ Adding a new point:
 | 4   | $-1$    | 0.368  | NaN      | NaN        | NaN          | NaN            |
 From ex 1.11 we can add the term $0.134\pi_{4}(x)$ to the interpolant. The new value of $e^{1.5}$ is $4.443$, the best so far.
 
+# Error analysis
+
+Rolle's theorem is:
+![[Pasted image 20250131143747.png]]
+
+Proof is in the notes but we'e skippingit
