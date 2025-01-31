@@ -100,5 +100,23 @@ Kinda a nothing burger tbh
 Find the length of the interval $[a,b]$ such that a linear interpolant to $f(x) = \cos (x)$ is accurate to within $0.02$ of the correct value over $[a,b]$.
 
 From Ex 1.14, $$
-|e_{1}(x) \leq \frac{M(b-a)^{2}}{}
+|e_{1}(x)| \leq \frac{M(b-a)^{2}}{8}
+$$
+Where $f''(x) \leq M$ for all $x \in [a,b]$
+Here $|f''(x)| = |\cos (x)| \leq 1$ So we need to choose $b-a$ so that $$
+\frac{(b-a)^{2}}{8} \leq 0.02 \iff b-a \leq 0.4
+$$
+---
+
+## Example 1.16
+
+Write down the error function for the cubic interpolant to $f(x) = e^{x}$ at the points $$
+\Delta = \{ (0,1)(1,e)(2,e^{2})(3,e^{3}) \}
+$$
+And estimate its magnitude over $[0,3]$.
+
+Note: assume that $|x(x-1)(x-2)(x-3)| \leq 1$ for $[0,3]$.
+
+We have $$
+e_{3}(x) = f^{iv}
 $$
