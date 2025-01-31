@@ -169,3 +169,4 @@ $$
 max_{x\in[-1,1]}|T_{n}(x)|
 $$
 Since we are looking at a $\cos$ we can see that the maximum value will be $1$.
+
