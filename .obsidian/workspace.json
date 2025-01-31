@@ -215,12 +215,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Will need to rewrite.md",
+                "file": "Math/MM306/Third Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Will need to rewrite"
+              "title": "Third Lecture"
             }
           }
         ],
@@ -343,13 +343,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/Will need to rewrite.md",
+                "file": "Math/MM306/Third Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Will need to rewrite"
+              "title": "Outline of Third Lecture"
             }
           }
         ],
@@ -370,8 +370,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d345b8e4369bc8a",
+  "active": "89a536882aeba451",
   "lastOpenFiles": [
+    "Math/MM302/Will need to rewrite.md",
     "Math/MM302/Normalized Form.md",
     "Math/MM302/Linear Independence.md",
     "Math/MM302/Definition 7.md",
@@ -414,7 +415,6 @@
     "Math/MM302/Untitled.md",
     "Math/MM302/Week 7 part 2.md",
     "Week 8 part 1.md",
-    "Math/MM302/Epic notes week 7.md",
     "Math/MM302/302_slides_chap4_ex.pdf",
     "Math/MM302/MM302_Week5_notes.pdf",
     "cd",

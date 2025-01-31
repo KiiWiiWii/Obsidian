@@ -212,3 +212,6 @@ For example, $E_{3}\leq 0.014$, $E_{5} \leq 0.00012$, $E_{8} \leq 2.9e^{-8}$.
 ## Example 1.24
 
 look at the notes im not doing this
+
+
+            
