@@ -173,7 +173,16 @@ The first elements are the coefficients of $p_{3}$.
 
 Using synthetic division.
 
-|     | 0.846 | 1.476              | 1.718              | 1   |
-| --- | ----- | ------------------ | ------------------ | --- |
-| 1.5 |       | $0.5 \times 0.846$ | $0.5 \times 1.053$ |     |
-| +   | 0.846 | 1.053              | 2.245              |     |
+|     | 0.846 |       1.476        |       1.718        |         1         |
+| :-: | :---: | :----------------: | :----------------: | :---------------: |
+| 1.5 |       | $0.5 \times 0.846$ | $0.5 \times 1.053$ | $1.5\times 2.245$ |
+|  +  | 0.846 |       1.053        |       2.245        |       4.368       |
+
+We have $e^{1.5} = 4.482\dots$ so this is OK.
+
+|     | 0.846 |      1.476       |      1.718       |        1        |
+| :-: | :---: | :--------------: | :--------------: | :-------------: |
+|  4  |       | $2 \times 0.846$ | $3 \times 3.167$ | $4\times 11.22$ |
+|  +  | 0.846 |      3.167       |      11.22       |      45.88      |
+
+We have that $e^{4} = 54.60\dots$ So this is rubbish. This happens because $1.5$ is inside of our data set, $4$ however is an outsider and we have a 0 tolerance policy for immigrants.
