@@ -201,12 +201,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Untitled.md",
+                "file": "Math/MM306/Third Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Third Lecture"
             }
           }
         ],
@@ -328,10 +328,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Untitled.md"
+                "file": "Math/MM306/Third Lecture.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Third Lecture"
             }
           }
         ],
@@ -355,7 +355,7 @@
   "active": "e7bcf4bde89425b2",
   "lastOpenFiles": [
     "Math/MM306/Second Lecture.md",
-    "Math/MM306/Untitled.md",
+    "Math/MM306/Third Lecture.md",
     "Pasted image 20250127151212.png",
     "CompSci/CS317/Second Lecture.md",
     "CompSci/CS317/First Lecture.md",
