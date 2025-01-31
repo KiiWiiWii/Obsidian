@@ -201,12 +201,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Second Lecture.md",
+                "file": "Math/MM306/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Lecture"
+              "title": "Untitled"
             }
           }
         ],
@@ -328,10 +328,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Second Lecture.md"
+                "file": "Math/MM306/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Second Lecture"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -354,9 +354,10 @@
   },
   "active": "e7bcf4bde89425b2",
   "lastOpenFiles": [
+    "Math/MM306/Second Lecture.md",
+    "Math/MM306/Untitled.md",
     "Pasted image 20250127151212.png",
     "CompSci/CS317/Second Lecture.md",
-    "Math/MM306/Second Lecture.md",
     "CompSci/CS317/First Lecture.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Images/Pasted image 20250120153423.png",
@@ -376,7 +377,6 @@
     "Math/MM302/Untitled.canvas",
     "Exam from last year - part 1 1.md",
     "Math/MM302/Images/Pasted image 20241202114825.png",
-    "Math/MM302/Images/Pasted image 20241202114409.png",
     "Math/MM302/Revision Lecture PDE's.md",
     "Math/MM302/Week 9.md",
     "Math/MM302/4_MM302_phase-plane.pdf",
