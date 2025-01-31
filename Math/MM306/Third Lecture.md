@@ -196,4 +196,15 @@ $$
 $$
 \frac{b-a}{2}^{n+1}\times 2^{-n} = 2 \frac{b-a}{4}^{n+1}
 $$
+## Example 1.23
+
+Estimate the maximum error in interpolating $f(x)= e^{ x }$ over $[-1,1]$ with $n+1$ Chebyshev points.
+
+$$
+E_{n} = max_{x\in[-1,1]} |e(x)| \leq \frac{max_{x\in[-1,1]}|f^{n+1}(x)|}{n+1!} . 2^{-n}
+$$
+$$
+= \frac{e}{(n+1)!2^{n}}
+$$
+For example, $E_{3}\leq 0.014$, $E_{5} \leq 0.00012$, $E_{8} \leq 2.9e^{8}$.
 
