@@ -84,5 +84,21 @@ Here $n = 1$ so $$
 e_{1}(x) = \frac{f''(\xi)}{2!}(x-a)(x-b)
 $$
 $$
-\leq \frac{|f''(\xi)}{}
+\leq |\frac{f''(\xi)}{2}| |(x-a)(x-b)|
+
+$$
+$$
+\leq \frac{M}{2} \times \frac{(b-a)^{2}}{4}= \frac{M(b-a)^{2}}{8}
+$$
+So $|(x-a)(x-b)|$ is maximized when $x=\frac{a+b}{2}$. Note that the error gets smaller if $b$ is closer to $a$.
+
+Kinda a nothing burger tbh
+
+
+## Example 1.15
+
+Find the length of the interval $[a,b]$ such that a linear interpolant to $f(x) = \cos (x)$ is accurate to within $0.02$ of the correct value over $[a,b]$.
+
+From Ex 1.14, $$
+|e_{1}(x) \leq \frac{M(b-a)^{2}}{}
 $$
