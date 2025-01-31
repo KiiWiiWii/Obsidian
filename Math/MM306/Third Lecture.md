@@ -188,5 +188,12 @@ $$
 $$
 
 So, given 1.22 in the notes, $$
-ma
+max_{x\in[a,b]}|(x-x_{0})(x-z_{1})\dots (x-xn)|
 $$
+$$
+\frac{b-a}{2}^{n+1} max_{x\in[-1,1]} | (z - z_{0})\dots (z-z_{n})|
+$$
+$$
+\frac{b-a}{2}^{n+1}\times 2^{-n} = 2 \frac{b-a}{4}^{n+1}
+$$
+
