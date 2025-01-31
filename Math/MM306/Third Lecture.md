@@ -126,4 +126,13 @@ $$
 Given that $e^{\xi} \leq e^{3}$ this error will be no bigger than $\frac{e^{3}}{24} = 0.837$.
 
 ![[Pasted image 20250131145544.png]]
+# Evenly spaced error
+
+
+![[Pasted image 20250131151551.png]]
+
+Using this we can min-max the best possible error for our estimate.
+
+
+# Example 1.19
 
