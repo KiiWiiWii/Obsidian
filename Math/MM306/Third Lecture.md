@@ -71,4 +71,18 @@ From ex 1.11 we can add the term $0.134\pi_{4}(x)$ to the interpolant. The new v
 Rolle's theorem is:
 ![[Pasted image 20250131143747.png]]
 
-Proof is in the notes but we'e skippingit
+Proof is in the notes but we'e skipping it for time and also idgaf
+
+
+## Example 1.14
+
+Suppose that $|f^{n}(x)| \leq M$ for all $x \in [a,b]$. Given that $f(a) = y_{0}$ and $f(b) = y_{1}$ estimate the error in the linear interpolant over $[a,b]$.
+
+---
+
+Here $n = 1$ so $$
+e_{1}(x) = \frac{f''(\xi)}{2!}(x-a)(x-b)
+$$
+$$
+\leq \frac{|f''(\xi)}{}
+$$
