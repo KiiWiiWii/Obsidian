@@ -208,9 +208,23 @@
               "icon": "lucide-file",
               "title": "Third Lecture"
             }
+          },
+          {
+            "id": "89a536882aeba451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/MM302/Will need to rewrite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Will need to rewrite"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -229,7 +243,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -328,10 +343,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Third Lecture.md"
+                "file": "Math/MM302/Will need to rewrite.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Third Lecture"
+              "title": "Outline of Will need to rewrite"
             }
           }
         ],
@@ -352,11 +370,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7bcf4bde89425b2",
+  "active": "4d345b8e4369bc8a",
   "lastOpenFiles": [
+    "Math/MM302/Normalized Form.md",
+    "Math/MM302/Linear Independence.md",
+    "Math/MM302/Definition 7.md",
+    "Math/MM302/302_slides_chap5.pdf",
+    "Math/MM306/Third Lecture.md",
     "Pasted image 20250131151551.png",
     "Math/MM306/Images/Pasted image 20250131145544.png",
-    "Math/MM306/Third Lecture.md",
     "Math/MM306/Images/Pasted image 20250131143747.png",
     "Math/MM306/Second Lecture.md",
     "Math/MM306/Images/Pasted image 20250131141840.png",
@@ -369,9 +391,7 @@
     "Math/MM306/Images/Pasted image 20250120153052.png",
     "Math/MM306/Images/Pasted image 20250120152947.png",
     "Math/MM306/Images/Pasted image 20250120151949.png",
-    "Math/MM306/Images/Pasted image 20250120151006.png",
     "Math/MM306/Images",
-    "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306",
     "Math/Untitled.md",
     "Math/MM302/Exam from last year - part 1.md",
@@ -395,9 +415,7 @@
     "Math/MM302/Week 7 part 2.md",
     "Week 8 part 1.md",
     "Math/MM302/Epic notes week 7.md",
-    "Math/MM302/principle of superposition.md",
     "Math/MM302/302_slides_chap4_ex.pdf",
-    "Math/MM302/Advection Equation.md",
     "Math/MM302/MM302_Week5_notes.pdf",
     "cd",
     "Math/MM302/Images",
