@@ -64,4 +64,5 @@ Adding a new point:
 | 2   | 2       | 7.389  | 12.696   | 2.589      | NaN          | NaN            |
 | 3   | 3       | 20.086 | 4.929    | NaN        | NaN          | NaN            |
 | 4   | $-1$    | 0.368  | NaN      | NaN        | NaN          | NaN            |
-From ex 1.11 we can add the term $0.134\pi_{4}(x)$ to the interpo
+From ex 1.11 we can add the term $0.134\pi_{4}(x)$ to the interpolant. The new value of $e^{1.5}$ is $4.443$, the best so far.
+
