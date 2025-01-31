@@ -118,5 +118,12 @@ And estimate its magnitude over $[0,3]$.
 Note: assume that $|x(x-1)(x-2)(x-3)| \leq 1$ for $[0,3]$.
 
 We have $$
-e_{3}(x) = f^{iv}
+e_{3}(x) = \frac{f^{iv}(\xi)}{4!}(x-0)(x-1)(x-2)(x-3)
 $$
+$$
+= \frac{e^{\xi}}{24}x(x-1)(x-2)(x-3)
+$$
+Given that $e^{\xi} \leq e^{3}$ this error will be no bigger than $\frac{e^{3}}{24} = 0.837$.
+
+![[Pasted image 20250131145544.png]]
+
