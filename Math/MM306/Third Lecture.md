@@ -149,3 +149,14 @@ $$
 $$
 =2x^{2}-1
 $$
+## Example 1.20
+
+
+Find the zeros of $T_{n}(x)$ over $[-1,1]$.
+
+---
+
+over $[-1,1]$ the image of $\cos ^{-1}x$ is $[o,\pi]$ so $T_{n}(x) = 0$ if $n\cos ^{-1}x = \frac{(2i+1)\pi}{2}$ for $i = 1,2,3,\dots,n -1$. That is the zeros of $T_{n}(x)$ are $x = z_{i}$ where $$
+z_{i} =\cos \frac{2i+1}{2n}\pi, \ \ \ \ i = 0,\dots,n-1
+$$
+These are th
