@@ -136,3 +136,16 @@ Using this we can min-max the best possible error for our estimate.
 
 # Example 1.19
 
+Write $T_{2}(x)$ in polynomial form.
+
+---
+
+Using the identity $\cos (2A) = 2[\cos (A)]^{2} -1$ we have $$
+T_{2}(x) = \cos (2\cos ^{-1}(x))
+$$
+$$
+= 2 (\cos (\cos ^{-1}x))^{2}-1
+$$
+$$
+=2x^{2}-1
+$$
