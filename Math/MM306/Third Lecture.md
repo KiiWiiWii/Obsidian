@@ -170,3 +170,23 @@ max_{x\in[-1,1]}|T_{n}(x)|
 $$
 Since we are looking at a $\cos$ we can see that the maximum value will be $1$.
 
+## Example 1.22
+
+Find $max_{x\in[a,b]}|(x-x_{0})(x-x)\dots (x-x_{n})|$ when the $x_{i}$ are the Chebyshev zeros mapped onto $[a,b]$.
+
+Given $x\in[a,b]$ choose $z\in[-1,1]$ so that $$
+\frac{(b-a)z}{2} + \frac{a+b}{2} = x
+$$
+Then $$
+x-x_{i} = x - \hat{z_{i}}
+$$
+$$
+=\frac{(b-a)z}{2} + \frac{+b}{2} - \left[ \frac{(b-a)z_{i}}{2}  + \left( \frac{a + b}{2} \right)\right]
+$$
+$$
+=\frac{(b-a)(z - z_{i})}{2}
+$$
+
+So, given 1.22 in the notes, $$
+ma
+$$
