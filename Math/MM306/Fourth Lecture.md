@@ -93,4 +93,8 @@ $$
 \lVert f \rVert _{2} = \sqrt{ \int _{-\frac{\pi}{2}}^{\pi/2} \sin ^{2} x \, dx  } = \left[ \frac{1}{2}x-\frac{1}{4}\sin2x \right]_{-\frac{\pi}{2}}^{\pi/2} = \frac{\pi}{2}
 $$
 
-$\Bra{}\ket{}$
+## Example 2.4
+
+![[Pasted image 20250203145245.png]]
+
+
