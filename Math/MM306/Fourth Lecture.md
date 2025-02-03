@@ -188,3 +188,15 @@ So $P_{1}(x) = \frac{5}{3} + \frac{3}{2}x$
 Note: $p_{1}(-1) -y_{0}=\frac{1}{6},p_{1}(0)-y_{1} = -\frac{1}{3} \ \ p_{1}(1) - y_{2}=\frac{1}{6}$
 
 ---
+
+## Example 2.7
+
+![[Pasted image 20250203154032.png]]
+
+Note that we're using the least squares approach
+
+We can choose any three points from $\Delta_{3}$ for out basis: here we are gonna use the first three.
+
+$$
+x_{0} = 
+$$
