@@ -57,4 +57,13 @@ We do the same thing but instead of doing the sum of the terms we take the integ
 
 Suppose that $f$ is an integrable function on $[a,b]$, so $\lvert f \rvert_{1} = \int _{a}^{b} \lvert f \rvert \, dx$.
 
-a) Clearly $\lvert f \rvert_{1}$ is $\geq 0$. It can only $eq 0$ if $f = 0$
+a) Clearly $\lvert f \rvert_{1}$ is $\geq 0$. It can only $= 0$ if $f = 0$ for all $x \in [a,b]$, so $$
+\lvert f \rvert _{1} = 0 \iff f = 0
+$$
+b) $$
+    \int _{a}^{b}\lvert \lambda f \rvert  \, dx = \int _{a}^{b}\lvert \lambda \rvert \lvert f \rvert   \, dx  = \lvert \lambda \rvert \lvert \lvert f \rvert  \rvert 
+$$
+c) Suppose $g$ is also integrable over $[a,b]$. Then $$
+\int _{a}^{b}\lvert f(x)+g(x) \rvert  \, dx \leq \int _{a}^{b}|f(x)| + |g(x)| \, dx
+$$
+From the triangle inequality.
