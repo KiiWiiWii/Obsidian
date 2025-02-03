@@ -134,3 +134,17 @@ $$
 $$
 ---
 
+## Example 2.6
+
+Find the best fitting straight line (in the least squares sense) to the data set
+$∆2 = {(−1, 0), (0, 2), (1, 3)}$ using the monomial basis ${1, x}$ for $P_{1}$.
+
+We have $$
+P = \begin{bmatrix}
+\phi_{0}(x_{0}) & \phi_{1}(x_{0}) \\
+\phi_{0}(x_{1})  & \phi_{1}(x_{1})\\
+\phi_{0}(x_{2})  &  \phi_{1}(x_{2})
+\end{bmatrix} = \begin{bmatrix}
+
+\end{bmatrix}
+$$
