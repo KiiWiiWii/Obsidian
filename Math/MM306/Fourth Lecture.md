@@ -145,6 +145,46 @@ P = \begin{bmatrix}
 \phi_{0}(x_{1})  & \phi_{1}(x_{1})\\
 \phi_{0}(x_{2})  &  \phi_{1}(x_{2})
 \end{bmatrix} = \begin{bmatrix}
-
+1  & -1\\
+1  & 0\\
+1 & 1
+\end{bmatrix}, \ \  \underline{y} =\begin{bmatrix}
+0 \\
+2 \\
+3
 \end{bmatrix}
 $$
+So $P^{T}p =$ $$
+\begin{bmatrix}
+3  & 0\\
+0 & 2
+\end{bmatrix} , \ \ P^{T}\underline{y}=\begin{bmatrix}
+5 \\
+3
+\end{bmatrix}
+$$
+
+Solve $P^{T}P\underline{c} = P^{T}\underline{y}$
+$$
+\begin{bmatrix}
+3 & 0 \\
+0 & 2
+\end{bmatrix} \begin{bmatrix}
+c_{0} \\
+c_{1}
+\end{bmatrix} = \begin{bmatrix}
+5 \\
+3
+\end{bmatrix} \implies \begin{bmatrix}
+c_{0} \\
+c_{1}
+\end{bmatrix} = \begin{bmatrix}
+\frac{5}{3}\\
+\frac{3}{2}
+\end{bmatrix}
+$$
+So $P_{1}(x) = \frac{5}{3} + \frac{3}{2}x$
+
+Note: $p_{1}(-1) -y_{0}=\frac{1}{6},p_{1}(0)-y_{1} = -\frac{1}{3} \ \ p_{1}(1) - y_{2}=\frac{1}{6}$
+
+---
