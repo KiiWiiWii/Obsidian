@@ -45,3 +45,16 @@ $$
 $$
 ---
 
+## Applying Norms for continuous functions
+
+We do the same thing but instead of doing the sum of the terms we take the integral of the functions.
+
+![[Pasted image 20250203142859.png]]
+
+## Example 2.2
+
+![[Pasted image 20250203143012.png]]
+
+Suppose that $f$ is an integrable function on $[a,b]$, so $\lvert f \rvert_{1} = \int _{a}^{b} \lvert f \rvert \, dx$.
+
+a) Clearly $\lvert f \rvert_{1}$ is $\geq 0$. It can only $eq 0$ if $f = 0$
