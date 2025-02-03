@@ -198,5 +198,12 @@ Note that we're using the least squares approach
 We can choose any three points from $\Delta_{3}$ for out basis: here we are gonna use the first three.
 
 $$
-x_{0} = 
+x_{0} = - 1 x_{1} = 0 x_{2} = 1
 $$
+This gives:
+![[Pasted image 20250203154415.png]]
+
+![[Pasted image 20250203154601.png]]
+
+(i didn't wanna type out all that)
+
