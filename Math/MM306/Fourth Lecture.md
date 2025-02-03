@@ -117,3 +117,18 @@ $$
 ![[Pasted image 20250203145554.png]]
 
 Let $T_{m}(x)$ and $T_{n}x$ be two distinct Chebyshev polynomials, $[a,b] = [-1,1]$ and $w(x) = \frac{1}{\sqrt{ 1-x^{2} }}$ Then
+
+$$
+\langle T_{m}, T_{n} \rangle = \int _{-1}^{1}w(x)T_{m}(x)T_{n}(x) \, dx
+$$
+$$
+= \int _{-1}^{1} \frac{\cos (m\cos ^{-1}(x))\cos (n\cos ^{-1}x)}{\sqrt{ 1-x^{2} }} \, dx
+$$
+If $x = \cos u$ then $dx = -\sin u du$ and $w(u) = \sin u$, So,
+
+$$
+\langle T_{n},T_{m} \rangle = \int_{\pi}^{0} \cos (m u)\cos (n u) \, du 
+    $$
+$$
+= 0
+$$
