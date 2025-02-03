@@ -67,3 +67,19 @@ c) Suppose $g$ is also integrable over $[a,b]$. Then $$
 \int _{a}^{b}\lvert f(x)+g(x) \rvert  \, dx \leq \int _{a}^{b}|f(x)| + |g(x)| \, dx
 $$
 From the triangle inequality.
+
+
+## Example 2.3
+
+![[Pasted image 20250203143847.png]]
+
+Here $[a,b] = [-1,1]$ and $f(x) = x$. $$
+\lVert f \rVert _{\infty} = 1
+$$
+$$
+\lVert f \rVert _{1} = \int _{-1}^{1} |x| \, dx = \int _{-1} ^{0}-x \, dx  + \int _{0}^{1} x \, dx  = \frac{1}{2} + \frac{1}{2} = 1
+$$
+$$
+\lVert f \rVert _{2} = \sqrt{ \int _{-1}^{1} x^{2} \, dx  } = \sqrt{ \frac{x^{3}}{3} } = \sqrt{ \frac{2}{3} }
+$$
+(ii) Here 
