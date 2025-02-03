@@ -207,3 +207,40 @@ This gives:
 
 (i didn't wanna type out all that)
 
+So $p_{2}(x) = \frac{7}{4}l_{0}(x) + \frac{3}{4}l_{1}(x) + \frac{5}{4}l_{2}(x)$.
+
+## Example 2.8
+
+Repeat with Newton basis with $x_{0} = -1, x_{1} = 0$.
+
+This gives $\pi_{0}(x) = 1$, $\pi_{1}(x) = x + 1$, $\pi_{2}(x)=x(x+1)$.
+
+$$
+p = \begin{bmatrix}
+1  & 0 & 0\\
+1  & 1 & 0\\
+1  & 2 & 2\\
+1 & 3 & 6
+\end{bmatrix}, \ \ \ \underline{y} = \begin{bmatrix}
+2 \\
+0 \\
+2 \\
+3
+\end{bmatrix}
+$$
+
+So $P^{T}P\underline{c}$ $= P^{T}\underline{y}$ is 
+
+$$
+\begin{bmatrix}
+4 & 6 & 8 \\
+6 & 14 & 22 \\
+8 & 22 & 40
+\end{bmatrix} \underline{c}f = \begin{bmatrix}
+7 \\
+13 \\
+22
+\end{bmatrix}
+$$
+
+So $p_{2}(x) = \frac{7}{4}-\pi_{1}(x) + \frac{3}{4\pi_{2}(x)} = \frac{1}{4}(3x^{2}-x+3)$
