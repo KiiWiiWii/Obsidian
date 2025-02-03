@@ -98,3 +98,22 @@ $$
 ![[Pasted image 20250203145245.png]]
 
 
+Suppose $m$ and $n$ are whole numbers with $m \neq n$. Then $$
+\int _{-\pi} ^{\pi} \cos (mx)\cos (nx) \, dx 
+$$
+Will be zero.
+
+$$
+= \frac{1}{2} \int _{\pi}^{\pi} [\cos (m+n) + \cos (m-n)x]\, dx 
+$$
+$$
+= \frac{1}{2} \left[ \frac{\sin (m+n)x}{m + n} + \frac{\sin (m-n)x}{m-n} \right]_{-\pi}^{\pi}
+$$
+$$
+=0
+$$
+## Example 2.5
+
+![[Pasted image 20250203145554.png]]
+
+Let $T_{m}(x)$ and $T_{n}x$ be two distinct Chebyshev polynomials, $[a,b] = [-1,1]$ and $w(x) = \frac{1}{\sqrt{ 1-x^{2} }}$ Then
