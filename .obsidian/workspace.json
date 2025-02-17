@@ -222,9 +222,21 @@
               "icon": "lucide-file",
               "title": "Fourth Lecture"
             }
+          },
+          {
+            "id": "e54cd7d8d3bfe190",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -343,13 +355,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Fourth Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fourth Lecture"
+              "title": "Outline"
             }
           }
         ],
@@ -370,7 +381,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a536882aeba451",
+  "active": "e54cd7d8d3bfe190",
   "lastOpenFiles": [
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Third Lecture.md",
