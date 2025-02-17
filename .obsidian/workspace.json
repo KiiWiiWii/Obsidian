@@ -227,12 +227,14 @@
             "id": "e54cd7d8d3bfe190",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "CompSci/CS317/Next lecture i attended.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Next lecture i attended"
             }
           }
         ],
@@ -355,12 +357,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CompSci/CS317/Next lecture i attended.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Next lecture i attended"
             }
           }
         ],
@@ -383,6 +386,7 @@
   },
   "active": "e54cd7d8d3bfe190",
   "lastOpenFiles": [
+    "CompSci/CS317/Next lecture i attended.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Third Lecture.md",
     "Math/MM306/Images/Pasted image 20250203154601.png",
