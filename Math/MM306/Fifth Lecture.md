@@ -74,5 +74,27 @@ $$
 
 $$
 $$
-c_{1} = \int \frac{_{-1}^{1}(x-x_{0})}{x_{1}-x_{0}} \, dx = \int _{-1}^{1} \left( x + \frac{1}{\sqrt{ 3 }} \right) \, dx 
+c_{1} = \int \frac{_{-1}^{1}(x-x_{0})}{x_{1}-x_{0}} \, dx = \int _{-1}^{1} \frac{\left( x + \frac{1}{\sqrt{ 3 }} \right)}{\frac{1}{\sqrt{ 3 }}+\frac{1}{\sqrt{ 3 }}} \, dx  = 1
+$$
+The rule is therefore $$
+G_{2}(f) = c_{0}f(x_{0}) + c_{1}f(x_{1})
+$$
+$$
+= f\left( -\frac{1}{\sqrt{ 3 }} \right)+f\left( \frac{1}{\sqrt{ 3 }} \right)
+$$
+Using this rule, we  have $$
+G_{2}(1) = 1 + 1 = 2 = \int _{-1}^{1} 1 \, dx
+$$$$
+G_{2}(x) = -\frac{1}{\sqrt{ 3 }} + \frac{1}{\sqrt{ 3 }} = 0 = \int _{-1}^{1}x \, dx
+$$
+$$
+G_{2}(x^{2}) = \left( -\frac{1}{\sqrt{ 3 }} \right)^{2} + \frac{1}{\sqrt{ 3 }}^{2} = \frac{2}{3} = \int _{-1}^{1} x^{2} \, dx 
+$$
+$$
+G_{2}(x^{3}) = -\frac{1}{9} + \frac{1}{9} = 0 = \int _{-1}^{1} x^{3} \, dx 
+$$
+
+But
+$$
+G_{2}(x^{4}) = \frac{2}{27}
 $$
