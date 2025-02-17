@@ -115,5 +115,16 @@ $$
 
 
 $$
-c_{1} = \dots = 
+c_{1} = \dots = \frac{8}{9}
 $$
+$$
+c_{2} = \dots = \frac{5}{9}
+$$
+
+So $G_{3}(f)=\frac{5}{9}f\left( -\sqrt{ \frac{3}{5} } \right)+\frac{8}{9}f(0) + \frac{5}{9}f\left( \sqrt{ \frac{3}{5} } \right)$.
+
+## Example 3.17
+
+Find $G_{2}(f)$ over $[0,1]$.
+
+As we are not on $[-1,1]$ here we need shifted Legre
