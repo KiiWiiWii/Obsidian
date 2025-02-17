@@ -127,4 +127,19 @@ So $G_{3}(f)=\frac{5}{9}f\left( -\sqrt{ \frac{3}{5} } \right)+\frac{8}{9}f(0) + 
 
 Find $G_{2}(f)$ over $[0,1]$.
 
-As we are not on $[-1,1]$ here we need shifted Legre
+As we are not on $[-1,1]$ here we need shifted Legendre polynomials.
+$$
+\phi_{2}(x) = p_{2}\left( \frac{2x - (a + b)}{b-a} \right) = p_{2}( 2x-1) = 6x^{2}-6x + 1
+$$
+This has zeros $x_{0}=\frac{1-\frac{1}{\sqrt{ 3 }}}{2}$ and $x_{1}=\frac{\left( 1+\frac{1}{\sqrt{ 3 }} \right)}{2}$
+
+$$
+c_{0}= \dots  =\frac{1}{2}
+$$
+$$
+c_{1} = \dots = \frac{1}{2}
+$$
+
+So $G_{2}(f)=\frac{1}{2}f\left( \frac{1}{2}-\frac{1}{2\sqrt{ 3 }} \right) + \frac{1}{2}f\left( \frac{1}{2}+\frac{1}{\sqrt{ 3 }} \right)$
+
+Note that given that $G_{2}(f)$ on $[-1,1]$ has $x_{0} = -\frac{1}{\sqrt{ 3 }}$... we get the same with using (3.4) with $a = 0$ and $b = 1$.
