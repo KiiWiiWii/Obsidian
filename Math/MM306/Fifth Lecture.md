@@ -26,5 +26,9 @@ $$
 \int _{a}^{b}x^{2} \, dx  = \left[ \frac{x^{3}}{3} \right]_{a}^{b} = \frac{b^{3}-a^{3}}{2}
 $$
 $$
-m(x^{2}) = (btak)
+m(x^{2}) = (b-a) \left( \left( a+\frac{b}{2} \right)^{2} \right)
 $$
+Which is not exact, therefore the degree of precision is 1. 
+
+---
+
