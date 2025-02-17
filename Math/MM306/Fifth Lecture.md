@@ -32,3 +32,6 @@ Which is not exact, therefore the degree of precision is 1.
 
 ---
 
+## Example 3.14
+
+i keep zoning the fcu
