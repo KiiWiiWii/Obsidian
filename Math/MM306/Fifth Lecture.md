@@ -28,10 +28,18 @@ $$
 $$
 m(x^{2}) = (b-a) \left( \left( a+\frac{b}{2} \right)^{2} \right)
 $$
-Which is not exact, therefore the degree of precision is 1. 
+Which is not exact, therefore the degree of precision is 1 
 
 ---
 
 ## Example 3.14
 
-i keep zoning the fcu
+Estimate the number of strips needed to approximate $\int _{-1}^{1}f(x) \, dx$ to an accuracy of $10^{-4}$ where $f(x) = e^{x}$, and $f(x) = \sin (x)$.
+
+---
+
+
+For $f(x) = e^{ x }$, We have $|f^{4}(x)| \leq e$ on $[-1,1]$, so $$
+|E_{s_{n}}(f)| \leq \frac{b-a}{180}h^{4}.max_{\in[-1,1]}|f^{4}(\xi)| = \frac{2h^{4}}{180}\times e
+$$
+`^this is the `
