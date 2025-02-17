@@ -57,3 +57,6 @@ This is less than $10^{-4}$ if $h^{4}\leq 0.0107$ or $h\leq 0.3216$ so we need $
 
 ---
 
+## Example 3.15
+
+Find $G_{2}(f)$ over $[]$
