@@ -40,6 +40,15 @@ Estimate the number of strips needed to approximate $\int _{-1}^{1}f(x) \, dx$ t
 
 
 For $f(x) = e^{ x }$, We have $|f^{4}(x)| \leq e$ on $[-1,1]$, so $$
-|E_{s_{n}}(f)| \leq \frac{b-a}{180}h^{4}.max_{\in[-1,1]}|f^{4}(\xi)| = \frac{2h^{4}}{180}\times e
+|E_{s_{n}}(f)| \leq \frac{b-a}{180}h^{4}.max_{\xi\in[-1,1]}|f^{4}(\xi)| = \frac{2h^{4}}{180}\times e
 $$
-`^this is the `
+`^this is the ugliest thing ive ever wrote`
+
+This is less than $10^{-4}$ if $h^{4} \leq \frac{90\times_{1}0^{-4}}{e}$ or $h \leq 0.2399$, so as $n = \frac{2}{h}$, we need $n > 8.3$. So we need at least 10 since we need n to be even for simpsons rule.
+
+
+For $f(x) = \sin (x)$, we have $f^{4}(x) = \sin x$ and over $[-1,1]$ this attains its max value @ $x = 1$.
+So $max_{\xi\in[-1,1]}|f^{4}(\xi)| = \sin (1)$.
+
+---
+
