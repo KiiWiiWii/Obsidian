@@ -59,4 +59,20 @@ This is less than $10^{-4}$ if $h^{4}\leq 0.0107$ or $h\leq 0.3216$ so we need $
 
 ## Example 3.15
 
-Find $G_{2}(f)$ over $[]$
+Find $G_{2}(f)$ over $[-1,1]$ and show it has d.o.p. 3.
+
+The Legendre polynomials come from a recurrence relation (in chap 2, and it is given in the formula sheet), the one of degree 2 is $$
+p_{2}(x) = \frac{3x^{2}-1}{2}
+$$
+Which has zeros @ $x_{0}  = -\frac{1}{\sqrt{ 3 }}$ and $x_{1} = \frac{1}{\sqrt{ 3} }$. We find the weights by integrating the related Lagrange polynomials:
+
+$$
+\int _{-1}^{1} \frac{x - x_{1}}{x_{0}-x_{1}} \, dx  = \int_{-1}^{1} \frac{\left( x - \frac{1}{\sqrt{ 3 }} \right)}{-\frac{1}{\sqrt{ 3 }}-\frac{1}{\sqrt{ 3 }}} \, dx 
+$$
+$$
+= \left[ \frac{x}{2} - \frac{\sqrt{ 3 }x^{2}}{4} \right]_{-1}^{1} = 1
+
+$$
+$$
+c_{1} = \int \frac{_{-1}^{1}(x-x_{0})}{x_{1}-x_{0}} \, dx = \int _{-1}^{1} \left( x + \frac{1}{\sqrt{ 3 }} \right) \, dx 
+$$
