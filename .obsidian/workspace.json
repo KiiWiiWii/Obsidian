@@ -229,12 +229,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Fifth Lecture.md",
+                "file": "CompSci/CS317/Next lecture i attended.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fifth Lecture"
+              "title": "Next lecture i attended"
             }
           }
         ],
@@ -357,13 +357,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Fifth Lecture.md",
+                "file": "CompSci/CS317/Next lecture i attended.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fifth Lecture"
+              "title": "Outline of Next lecture i attended"
             }
           }
         ],
@@ -386,8 +386,8 @@
   },
   "active": "e54cd7d8d3bfe190",
   "lastOpenFiles": [
-    "CompSci/CS317/Next lecture i attended.md",
     "Math/MM306/Fifth Lecture.md",
+    "CompSci/CS317/Next lecture i attended.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Third Lecture.md",
     "Math/MM306/Images/Pasted image 20250203154601.png",
