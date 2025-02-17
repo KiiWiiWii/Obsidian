@@ -44,11 +44,16 @@ For $f(x) = e^{ x }$, We have $|f^{4}(x)| \leq e$ on $[-1,1]$, so $$
 $$
 `^this is the ugliest thing ive ever wrote`
 
-This is less than $10^{-4}$ if $h^{4} \leq \frac{90\times_{1}0^{-4}}{e}$ or $h \leq 0.2399$, so as $n = \frac{2}{h}$, we need $n > 8.3$. So we need at least 10 since we need n to be even for simpsons rule.
+This is less than $10^{-4}$ if $h^{4} \leq \frac{90\times 10^{-4}}{e}$ or $h \leq 0.2399$, so as $n = \frac{2}{h}$, we need $n > 8.3$. So we need at least 10 since we need n to be even for Simpsons rule.
 
 
 For $f(x) = \sin (x)$, we have $f^{4}(x) = \sin x$ and over $[-1,1]$ this attains its max value @ $x = 1$.
 So $max_{\xi\in[-1,1]}|f^{4}(\xi)| = \sin (1)$.
+
+$$
+|E_{s_{n}}(f)| \leq \frac{h^{4}}{90}\sin (1)
+$$
+This is less than $10^{-4}$ if $h^{4}\leq 0.0107$ or $h\leq 0.3216$ so we need $n\geq 8$.
 
 ---
 
