@@ -109,4 +109,11 @@ Find $^{7}\sqrt{ 1000 }$ to 3 decimal places using newtons method with $x_{0} = 
 if we consider $$
 f(x) = x^{7} - 1000
 $$
+we are looking for roots of $f$.
+
+1. $f'(x) = 7x^{6}$, $x_{n+1} = x_{n} - \frac{f(x_{n})}{f'(x_{n})}$
+2. $x_{1} = 3 - \frac{3^{7} - 1000}{7 \times 3^{6}} \approx 2.7674$
+3. $x_{2} = 2.7674 - \frac{2.7674^{7} - 1000}{7 \times 2.7674^{6}} \approx 2.6900874$
+4. $x_{3}\approx_{2}.6827564$, error is of the order $10^{-5}$
+5. $x_{4} \approx 2.682695$, error is of the order $10^{-9}$
 
