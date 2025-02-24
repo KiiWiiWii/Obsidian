@@ -102,4 +102,11 @@ x_{n} - \alpha = - \frac{f(x_{n})}{f'(x_{n})} = x_{n+1} - x_{n}$$
 The error estimate holds $$
 |\alpha - x_{n}| \approx |x_{n+1} - x_{n}|
 $$
+## Example 6.2
+
+Find $^{7}\sqrt{ 1000 }$ to 3 decimal places using newtons method with $x_{0} = 3$.
+
+if we consider $$
+f(x) = x^{7} - 1000
+$$
 
