@@ -70,3 +70,9 @@ $$
 ---
 
 ![[Pasted image 20250224150715.png]]
+
+## Proof that Newtons method is convergent
+
+Since $f'(x)$ is continuous in $N(x)$ and $f'(\alpha) \neq 0$, $f'(x) \neq 0$ $\forall x \in [\alpha - \epsilon, \alpha + \epsilon]$, $\epsilon > 0$.
+
+i) assume $x_{0} \in I :$
