@@ -82,3 +82,18 @@ i) assume $x_{0} \in I := [\alpha - \epsilon, \alpha +\epsilon ]$
 i feel sick :(
 
 i hope we dont acc need to know this off by heart ion get ANY of it
+
+
+## Stopping criteria
+
+Ideally we would like to stop when $$
+|\alpha - x_{n}| \ll 1
+$$
+Mean value theorem tells us that $$
+f(x_{n}) = f(x_{n}) - f(\alpha) = f'(\xi _{n})(x_{n}-\alpha)
+$$
+
+$\xi_{n}$ lies between $x_{n}, \alpha$. $$
+x_{n}- \alpha = - \frac{f(x_{n})}{f'(\xi_{n})}
+$$
+If $|x_{n} - \alpha| \ll 1$ then $\xi_{n}$
