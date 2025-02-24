@@ -32,8 +32,25 @@ $$
 Find the root of $$
 f(x) = x^{3} + 2x^{2} - x -2
 $$
-Using newtons method.
+Using newtons method, using $x_{0} = 1.5$.
 
 ---
 
-no - i
+#### Step 0
+
+Compute the derivative: $$
+3x^{2} + 4x - 1
+$$
+#### Step 1/2
+
+Optional: $$
+x_{n+1} = x_{n} - \frac{x_{n}^{3}+2x_{n}^{2} - x_{n} - 2}{3x_{n}^{2} + 4x_{n} - 1}
+$$
+$$
+= \frac{2x_{n}^{3}+2x_{n}^{2}+2}{3x_{n}^{2} + 4x_{n} - 1}
+$$
+#### Step 1
+
+$$
+x_{1}=1.5 = \frac{(1.5)^{3} + 2 (1.5)^{2} - 1.5 - 2}{3(1.5)^{2}+4(1.5)-}
+$$
