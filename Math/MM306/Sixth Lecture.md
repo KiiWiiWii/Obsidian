@@ -96,4 +96,10 @@ $$
 $\xi_{n}$ lies between $x_{n}, \alpha$. $$
 x_{n}- \alpha = - \frac{f(x_{n})}{f'(\xi_{n})}
 $$
-If $|x_{n} - \alpha| \ll 1$ then $\xi_{n}$
+If $|x_{n} - \alpha| \ll 1$ then $\xi_{n} \approx x_{n}$. $$
+x_{n} - \alpha = - \frac{f(x_{n})}{f'(x_{n})} = x_{n+1} - x_{n}$$
+
+The error estimate holds $$
+|\alpha - x_{n}| \approx |x_{n+1} - x_{n}|
+$$
+
