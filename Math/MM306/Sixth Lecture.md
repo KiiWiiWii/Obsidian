@@ -78,3 +78,7 @@ Since $f'(x)$ is continuous in $N(x)$ and $f'(\alpha) \neq 0$, $f'(x) \neq 0$ $\
 i) assume $x_{0} \in I := [\alpha - \epsilon, \alpha +\epsilon ]$
 
 -- im not writing this just look at the notes week  6 handwritten.
+
+i feel sick :(
+
+i hope we dont acc need to know this off by heart ion get ANY of it
