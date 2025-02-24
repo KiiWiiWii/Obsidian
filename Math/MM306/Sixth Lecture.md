@@ -19,3 +19,21 @@ x_{1}=x_{0}-\left( \frac{f(x_{0})}{f'(x_{0})} \right)
 $$
 
 ## Geometric Derivation
+
+![[Pasted image 20250224144017.png]]
+
+^ i cant fucking see that at all 
+
+![[Pasted image 20250224144055.png]]
+
+
+## Example 6.1
+
+Find the root of $$
+f(x) = x^{3} + 2x^{2} - x -2
+$$
+Using newtons method.
+
+---
+
+no - i
