@@ -11,8 +11,11 @@ f(x) = x^{2} - 4x + 4 - \tan (x)
 $$
 on the interval $[0,5]$.
 
+Plotting $x^{2} - 4x +4$ with $\tan (x)$.
 
-![[Pasted image 20250228154134.png]]
+
+![[Pasted image 20250228154259.png]]
 
 
-So $x = 0.88$
+So $x = 0.8897$ would be a good guess.
+
