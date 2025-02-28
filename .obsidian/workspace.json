@@ -236,9 +236,21 @@
               "icon": "lucide-file",
               "title": "Sixth Lecture"
             }
+          },
+          {
+            "id": "76dd1654b3854072",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -357,13 +369,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Sixth Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sixth Lecture"
+              "title": "Outline"
             }
           }
         ],
@@ -384,7 +395,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e54cd7d8d3bfe190",
+  "active": "76dd1654b3854072",
   "lastOpenFiles": [
     "Math/MM306/Fifth Lecture.md",
     "Math/MM306/Images/Pasted image 20250224144017.png",
