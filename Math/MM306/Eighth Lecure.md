@@ -264,5 +264,17 @@ $$\begin{align*}
 \end{align*}
 
 $$
+#### Example: how to reformulate newtons method as fixed point
 
-
+$$
+x_{n+1} = x_{n} - \frac{f(x_{n})}{f'(x_{n})}
+$$
+If we consider $$
+\text{Newtons method ->} \phantom{aa}g(x) = x - \frac{f(x)}{f'(x)}
+$$
+$$
+g'(x_{n}) = 1 - \frac{(f'(x)) ^{2} - f(x) \times f''(x)}{(f'(x))^{2}}
+$$
+$$
+= \frac{f(x) \times f''(x)}{(f'(x))^{2}}
+$$
