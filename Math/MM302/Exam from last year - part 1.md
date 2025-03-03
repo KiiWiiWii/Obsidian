@@ -10,6 +10,7 @@
 The Maclaurin expansion is: $$
 \sum_{n = 0} ^{ \infty} \frac{y^{n(0)}}{n!}x^{n} = y(0)x^{0} + y'(0)x + \frac{y''(0)}{2}x^{2} + \frac{y'''(0)}{3!}x^{3} + \frac{y^{iv}(0)}{4!}x^{4}
 $$
+
 We are told that $y'' = e^{2x} + \sin y$, so $y''(0) = 1$.
 
 We can find $y'''$ by deriving.
