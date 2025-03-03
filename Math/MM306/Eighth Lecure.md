@@ -96,8 +96,9 @@ $g_{3} ( x)$:
 $$
 \lambda = \max\limits_{x\in[2,5]}| \frac{1}{2}\left( 1-\frac{5}{x^{2}} \right)| =\frac{2}{5} <1
 $$
+So here we can see that $g_{3}$'s $\lambda$ is $0<\lambda<1$ so it is a contraction.
 
- #### Geometric Derivation
+#### Geometric Derivation
 
 ![[Pasted image 20250303150912.png]]
 #### Proof for lemma 4.2
@@ -211,3 +212,9 @@ $$
 
 L.H.S. is our $\lambda$
 
+#### Theorem Ostrowski theorem
+
+Let $\alpha$ be a fixed point of a function $g$ which is continuous and differentiable in a neighborhood of $\alpha$. If $|g'(\alpha)|<1$ then there exists $\delta > 0$ such that the sequence $$
+\}x_{n}: x_{n+1} = g(x_{n})\}_{n\geq 0}
+$$
+converges to $\alpha$ for any $x_{0}$ such that $|x_{0} - \alpha| \leq \delta$
