@@ -79,6 +79,11 @@ With the L.H.S. being $g_{3}(x)$.
 The reason we went through so many different forms is cause they can lead to diff answers
 ![[Pasted image 20250303142750.png]]
 
+Lets find $\lambda$
+
+$g_{1}(x)$:
+
+
 #### Geometric Derivation
 
 ![[Pasted image 20250303150912.png]]
@@ -119,10 +124,77 @@ Basically if the function makes the difference between points lower ig
 
 ![[Pasted image 20250303144344.png]]
 
-There is a proof for this but i will not be writing it
+We know from Lemma 4.2 that $x = g(x)$ has at least one solution.  
+Now suppose $x = g(x)$ has two solutions $\alpha$ and $\beta$ in $[a, b]$. Then  
+
+$$
+|\alpha - \beta| = |g(\alpha) - g(\beta)| \leq \lambda |\alpha - \beta| \quad \text{(from (4.13))}
+$$
+
+$$
+\Rightarrow (1 - \lambda)|\alpha - \beta| \leq 0.
+$$
+
+Since $0 < \lambda < 1$, this then implies that $\alpha = \beta$ and hence the solution is unique.  
+
+To prove that the fixed point iteration converges for any $x_0 \in [a, b]$, we have  
+
+$$
+|x_{n+1} - \alpha| = |g(x_n) - g(\alpha)| \leq \lambda |x_n - \alpha|
+$$
+
+$$
+\leq \lambda^2 |x_{n-1} - \alpha|
+$$
+
+$$
+\leq \lambda^n |x_0 - \alpha|, \quad n \geq 0.
+$$
+
+As $n \to \infty$, $\lambda^n \to 0$ and hence $x_n \to \alpha$.  
+
+Finally, to establish the error bound (4.14), we have  
+
+$$
+|\alpha - x_0| = |\alpha - x_1 + x_1 - x_0|
+$$
+
+$$
+\leq |\alpha - x_1| + |x_1 - x_0|
+$$
+
+$$
+\leq \lambda |\alpha - x_0| + |x_1 - x_0|.
+$$
+
+Thus,  
+
+$$
+|\alpha - x_0| \leq \frac{1}{1 - \lambda} |x_1 - x_0|.
+$$
+
+Since  
+
+$$
+|\alpha - x_n| \leq \lambda^n |\alpha - x_0| \leq \frac{\lambda^n}{1 - \lambda} |x_1 - x_0|,
+$$
+
+this finishes the proof.  
+
 
 #### How to pick an auxiliary equation
 
 Using the mean value theorem $$
-g(x) - g(y) = gda
+g(x) - g(y) = g'(\xi)(x - y)
 $$
+$\xi$ lies between $x$ and $y$
+
+$$
+|g(x) - g(y)| = |g'(\xi)||x-y|
+$$
+$$
+\leq \max\limits_{\xi\in[a,b]} |g'(\xi)||x-y|
+$$
+
+L.H.S. is our $\lambda$
+
