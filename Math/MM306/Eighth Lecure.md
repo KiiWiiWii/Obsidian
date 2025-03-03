@@ -79,5 +79,24 @@ With the L.H.S. being $g_{3}(x)$.
 The reason we went through so many different forms is cause they can lead to diff answers
 ![[Pasted image 20250303142750.png]]
 
-#### Geometric Derivation
+#### Proof for lemma 4.2
 
+- $g([a,b]) \in [a,b]$, $g$ is continuous
+- $\implies \exists x$ at least one s.t. $x = g(x)$
+$$
+a \leq g(x) \leq b \forall x \in[a,b]
+$$
+$$
+\implies g(0) - a \geq 0
+$$
+and $$
+g(b) - b \leq 0
+$$
+if $h(x) = g(x - x)$
+$$
+\implies h(0) \geq 0, h(0) \leq 0
+$$
+From the intermediate value theorem
+$$
+\exists c \in(a,b) \ \ \ \ h (c) e
+$$
