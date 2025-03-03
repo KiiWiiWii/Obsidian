@@ -72,5 +72,10 @@ $$
 \iff 5 + x^{2} = 2x^{2}
 $$
 $$
-
+\frac{1}{2}\left( x + \frac{5}{x} \right) = x
 $$
+With the L.H.S. being $g_{3}(x)$.
+
+The reason we went through so many different forms is cause they can lead to diff answers
+![[Pasted image 20250303142750.png]]
+
