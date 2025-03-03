@@ -257,12 +257,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Solitare/Additional Notes for Solitaire.md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Additional Notes for Solitaire"
+              "title": "Eighth Lecure"
             }
           }
         ],
@@ -385,13 +385,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Solitare/Additional Notes for Solitaire.md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Additional Notes for Solitaire"
+              "title": "Outline of Eighth Lecure"
             }
           }
         ],
@@ -414,9 +414,10 @@
   },
   "active": "07e135939f0d15d5",
   "lastOpenFiles": [
+    "Personal/Solitare/Additional Notes for Solitaire.md",
+    "Math/MM306/Eighth Lecure.md",
     "Personal/Solitare/Database for solitare.md",
     "Personal/Solitare/Solitare UML.canvas",
-    "Personal/Solitare/Additional Notes for Solitaire.md",
     "Math/MM302/Exam from last year - part 1.md",
     "Math/MM302/Definition 4.md",
     "Math/MM302/Bessels Equation.md",
