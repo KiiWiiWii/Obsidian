@@ -259,3 +259,10 @@ $$
 $$
 
 As $n \to \infty$, $\xi_n \to \alpha$ and this finishes the proof.  
+$$\begin{align*}
+\boxed{\text{QDE}} 
+\end{align*}
+
+$$
+
+
