@@ -79,6 +79,9 @@ With the L.H.S. being $g_{3}(x)$.
 The reason we went through so many different forms is cause they can lead to diff answers
 ![[Pasted image 20250303142750.png]]
 
+#### Geometric Derivation
+
+
 #### Proof for lemma 4.2
 
 ![[Pasted image 20250303144031.png]]
