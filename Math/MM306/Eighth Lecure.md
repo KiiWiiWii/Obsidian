@@ -23,4 +23,54 @@ g(\alpha) = \alpha
 $$
 Here $\alpha$ is a fixed point of $g$.
 
-Generic Iteration
+Generic Iteration:
+$$
+x_{n+1} = g(x_{n}) \ \ \ \ \ \ \forall n \geq 0
+$$
+#### Example
+
+Find $\alpha$ $$
+f(\alpha) = x^{2} - 5 = 0
+$$
+
+There are many ways we can change this into out generic iteration form:
+
+
+a) $g_{1}(x)$
+
+$$
+x^{2} - 5 = 0
+$$
+Adding $x$ on both sides
+
+$$
+x^{2} + x - 5 = x
+$$
+The L.H.S. is our $g_{1}(x)$.
+
+b)$$
+x^{2} - 5 = 0
+$$
+$$
+\iff x^{2} = 5
+$$
+$$
+\iff x = \frac{5}{x}
+$$
+With the R.H.S. being $g_{2}(x)$.
+
+c)
+
+$$
+x^{2}-5=0
+$$
+$$
+\iff 5 -x^{2} = 0
+$$
+Adding $2x^{2}$ to both sides:
+$$
+\iff 5 + x^{2} = 2x^{2}
+$$
+$$
+
+$$
