@@ -81,6 +81,8 @@ The reason we went through so many different forms is cause they can lead to dif
 
 #### Proof for lemma 4.2
 
+![[Pasted image 20250303144031.png]]
+
 - $g([a,b]) \in [a,b]$, $g$ is continuous
 - $\implies \exists x$ at least one s.t. $x = g(x)$
 $$
@@ -98,5 +100,21 @@ $$
 $$
 From the intermediate value theorem
 $$
-\exists c \in(a,b) \ \ \ \ h (c) e
+\exists c \in(a,b) \ \ \ \ h (c) = 0
 $$
+$$
+g(c)-c = 0
+
+$$
+#### Definition : contraction
+
+![[Pasted image 20250303144204.png]]
+
+Basically if the function makes the difference between points lower ig
+
+#### Lemma 4.3
+
+![[Pasted image 20250303144344.png]]
+
+There is a proof for this but i will not be writing it
+
