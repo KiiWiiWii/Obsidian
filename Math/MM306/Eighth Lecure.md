@@ -235,3 +235,27 @@ $$
 
 ![[Pasted image 20250303152905.png]]
 
+Assumptions:
+- $\alpha = g(\alpha)$
+- $g$ is p-times cont diff around $\alpha$
+- $g'(\alpha) = g''(\alpha) = \dots = g^{(p-1)}(\alpha) = 0$
+- $g^{(p)}( \alpha \neq 0)$
+
+
+*Expanding* $g(x_n)$ *about* $\alpha$ *gives* 
+
+$$
+x_{n+1} = g(x_n) = g(\alpha) + (x_n - \alpha) g'(\alpha) + \dots + \frac{(x_n - \alpha)^{p-1}}{(p-1)!} g^{(p-1)}(\alpha) + \frac{(x_n - \alpha)^p}{p!} g^{(p)}(\xi_n)
+$$
+
+for some $\xi_n$ between $x_n$ and $\alpha$. Using the assumptions of the theorem and the fact that $g(\alpha) = \alpha$, we have  
+
+$$
+\alpha - x_{n+1} = -\frac{(x_n - \alpha)^p}{p!} g^{(p)}(\xi_n)
+$$
+
+$$
+\Rightarrow \frac{\alpha - x_{n+1}}{(\alpha - x_n)^p} = (-1)^{p-1} \frac{g^{(p)}(\xi_n)}{p!}.
+$$
+
+As $n \to \infty$, $\xi_n \to \alpha$ and this finishes the proof.  
