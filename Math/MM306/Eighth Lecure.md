@@ -81,7 +81,7 @@ The reason we went through so many different forms is cause they can lead to dif
 
 #### Geometric Derivation
 
-
+![[Pasted image 20250303150912.png]]
 #### Proof for lemma 4.2
 
 ![[Pasted image 20250303144031.png]]
@@ -121,3 +121,8 @@ Basically if the function makes the difference between points lower ig
 
 There is a proof for this but i will not be writing it
 
+#### How to pick an auxiliary equation
+
+Using the mean value theorem $$
+g(x) - g(y) = gda
+$$
