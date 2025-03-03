@@ -218,3 +218,20 @@ Let $\alpha$ be a fixed point of a function $g$ which is continuous and differen
 \}x_{n}: x_{n+1} = g(x_{n})\}_{n\geq 0}
 $$
 converges to $\alpha$ for any $x_{0}$ such that $|x_{0} - \alpha| \leq \delta$
+
+
+#### Example
+
+$$
+g_{1}'(\sqrt{ 5 }) = 2\sqrt{ 5 } + 1 > 1
+$$
+$$
+g_{2}'(\sqrt{ 5 }) = -\frac{5}{\sqrt{ 5 }^{2}} = -1
+$$
+$$
+g_{3}' (\sqrt{ 5 }) = 0 <1 \ \ \ \ \ \ \ \ \text{     <-- convergent}
+$$
+##### Order of convergence
+
+![[Pasted image 20250303152905.png]]
+
