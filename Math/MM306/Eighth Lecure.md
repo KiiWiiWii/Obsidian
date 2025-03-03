@@ -83,8 +83,21 @@ Lets find $\lambda$
 
 $g_{1}(x)$:
 
+$$
+\lambda = \max\limits_{x\in[2,5]}|g_{1}'(x)| = \max\limits_{x\in[2,5]}|2x +1| = 11 >1
+$$
+$g_{2}(x)$:
 
-#### Geometric Derivation
+$$
+\lambda = \max\limits_{x\in[2,5]}|-\frac{5}{x^{2}}| = \frac{5}{4} > 1
+$$
+$g_{3} ( x)$:
+
+$$
+\lambda = \max\limits_{x\in[2,5]}| \frac{1}{2}\left( 1-\frac{5}{x^{2}} \right)| =\frac{2}{5} <1
+$$
+
+ #### Geometric Derivation
 
 ![[Pasted image 20250303150912.png]]
 #### Proof for lemma 4.2
