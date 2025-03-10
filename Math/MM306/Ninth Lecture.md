@@ -103,5 +103,29 @@ $$
 y'_{t_{n}} = f(t_{n}, y_{n})
 $$
 $$
-()
+\frac{y_{n+1} - y_{n}}{h_{n}} = f(t_{n},y_{n})
+$$
+$$
+y_{n+1} = y_{n} + f_{n} \times h_{n}
+$$
+#### Example
+
+Solve $$
+\begin{cases}
+y' = t + y  \\
+y(0) = 1 \\
+t \in [0,0.6] \ \  \text{with } h = 0.02 \text{ and using the Explicit Eulers Method}
+\end{cases}
+$$
+$$
+y_{0} = y(t_{0}) = y(0) = 1
+$$
+$$
+\boxed{t_{n} = a + n\times h} = n\times h = n \times o.o_{2}
+$$
+$$
+y_{1} = y(t_{1}) = y(o_{2})
+$$
+$$
+=y_{0} + h \times f(t_{0},y_{0})
 $$
