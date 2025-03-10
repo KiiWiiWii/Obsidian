@@ -278,3 +278,18 @@ $$
 $$
 = \frac{f(x) \times f''(x)}{(f'(x))^{2}}
 $$
+$$
+g'(\alpha) = \frac{\cancel{ f(\alpha) } f''(\alpha)}{(f'(\alpha))^{2}} = 0
+$$
+$$
+g''(x) = \frac{[f'(x)\times f''(x) + f(xf'''(x))] (f'(x)^{2})-f(x)f''(x)2f'(x)f''(x)}{(f'(\alpha ^{4}))}
+$$
+$$
+= \frac{f''(x)}{f'(x)}
+$$
+$$
+g''( \alpha) = \frac{f''(\alpha)}{f'(\alpha)} \neq 0
+$$
+$$
+\implies \text{F.P.M has order of conv 2}
+$$
