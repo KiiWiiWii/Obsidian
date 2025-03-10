@@ -22,3 +22,16 @@ $$
 Then there exists a unique sol $y$ which is cont and diff at the problem for any initial value $\mu$
 
 Remark: $f$ which satisfies the second equation (2) is called a Lipschitz cont function on $D$ and $L$ is the Lipschitz constant.
+
+The Lipschitz constant can be estimated $$
+L = \sup_{(t,y)\in D} |\frac{\partial f}{\partial y}|
+$$
+
+#### Integral Curves
+
+$$
+y' = y(1 - y) 
+$$
+
+![[Pasted image 20250310142205.png]]
+
