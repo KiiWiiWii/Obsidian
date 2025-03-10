@@ -156,4 +156,13 @@ $$
 $$
 y_{3} = y(t_{3}) = y(0.6) = y_{2} + hf(t_{2},y_{2}) = 1.856
 $$
+The solution given is $$
+y(t) = 2e^{t} - t - 1
+$$
+$y(0) = 1$
+$y(0.2) = y(t_{1}) \approx 1.2426$
+$y(0.4) = y(t_{2}) \approx 1.5636$
+$y(0.6) = y(t_{3}) \approx 2.0442$
+
+Notice how the error gets larger the further away from 0 we get since the next term relies on the previous so the error accumulates.
 
