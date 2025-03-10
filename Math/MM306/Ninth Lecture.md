@@ -262,5 +262,25 @@ $$
 |e_{n+1}| \leq (1 + hL) |e_{n}| + \frac{Ch^{2}}{2}
 $$
 $$
-\leq 
+\leq (1 + hL)\left( (1 + hL)|e_{n+1}|+ \frac{Ch^{2}}{2} \right) + \frac{Ch^{2}}{2}
 $$
+$$
+\leq (1 + hL) ^{2} | e_{n+1}| + ( 1 + hL) \times \frac{h^{2}C}{2} + \frac{Ch^{2}}{2} \dots
+$$
+$$
+\leq (1 + hL)^{n+1}\cancel{ |e_{0}| } + \frac{h^{2}C}{2} ( 1 + ( 1 + hL) + (1 + hL) ^{2} + \dots + ( 1 + hL)^{n-1})
+$$
+$$
+\leq \frac{h^{2}C}{2}(1 + ( 1 + hL) + ( 1 + hL) ^{2} + \dots + ( a + hL) ^{ n - 1})
+$$
+This is a geometric series $$
+0 \leq|e_{n+1}| \leq \frac{Ch^{2}}{2}\left( \frac{1- (1 + hL)^{n+1}}{1 - ( 1 + hL)} \right)
+$$
+$$
+= \frac{Ch}{2L} ((1 + hL)^{ n+1} - 1)
+$$
+
+Since $h$ and $L$ are positive, $$
+1 + hL \leq e ^{ hL} = 1 + hL + \frac{hL^{2}}{2} + \frac{hL^{3}}{3!} + \dots
+$$
+Since
