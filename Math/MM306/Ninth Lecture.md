@@ -58,3 +58,28 @@ y_{1} - H(t_{0},y_{0},t_{1},y_{1},f) = 0
 $$ 
 ![[Pasted image 20250310143841.png]]
 
+#### Forward/Explicit Euler Method
+
+We want to solve $y' = f(t,y)$.in $[t_{n}, t_{n+1}]$
+$$
+\int _{t_{n}}^{t_{n+1}} \frac{dy}{dt} \, dt = \int _{t_{n}}^{t_{n+1}} f(t,y) \, dt
+$$
+$$
+y(t_{n+1}) - y(t_{n}) = \int _{t_{n}} ^{ t_{n+1}} f(t,y) \, dt
+$$
+Approximate the R.H.S. $$
+f(t_{n},y_{n})
+
+$$
+$$
+\approx f(t_{n},y_{n}) \int _{t_{n}} ^{ t_{n+1}}  \, dt
+$$
+$$
+f(t_{n},y_{n}) (t_{n+1}-t_{n})
+$$
+$$
+y(t_{n+1}) \approx y(t_{n}) + f(t_{n},y_{n}) \times h_{n}
+$$
+$$
+y_{n+1} = y_{n} + f()
+$$
