@@ -5,7 +5,7 @@ We consider the Initial value problem: $$
 
 
 \frac{dy}{dx} = f(t,y) \ \ \ \ \ \ a \leq t \leq b \\
-y(a) = \mu
+y(a) = \eta
 \end{cases}
 $$
 Most of these problem have no explicit solution. In particular when $f$ is non linear.
@@ -19,7 +19,7 @@ For all $(t,y), (t,y*) \in D, \exists t > 0$ s.t.
 $$
 |f(t,y) - f(t,y*)| \leq L|y-y*| \ \ \ \ \  \text{(2)}
 $$
-Then there exists a unique sol $y$ which is cont and diff at the problem for any initial value $\mu$
+Then there exists a unique sol $y$ which is cont and diff at the problem for any initial value $\eta$
 
 Remark: $f$ which satisfies the second equation (2) is called a Lipschitz cont function on $D$ and $L$ is the Lipschitz constant.
 
@@ -48,9 +48,13 @@ $$
 #### Numerical Methods
 
 $$
-y_{0} = y(t_{0}) = y(a) = \mu
+y_{0} = y(t_{0}) = y(a) = \eta
 $$
 $$
 y_{1} = y(t_{1}) = H(t_{0},y_{0}, t_{1},y_{1}, f)
 $$
-A method is called explicit if $y_{1} = H$ 
+A method is called explicit if $y_{1} = H(t_{0},y_{0})$, it is called implicit if $y_{1} = H(t_{0},y_{0},t_{1},y_{1},f)$. In the implicit case, you want to solve the nonlinear equation $$
+y_{1} - H(t_{0},y_{0},t_{1},y_{1},f) = 0
+$$ 
+![[Pasted image 20250310143841.png]]
+
