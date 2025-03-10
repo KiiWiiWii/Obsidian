@@ -35,3 +35,12 @@ $$
 
 ![[Pasted image 20250310142205.png]]
 
+![[Pasted image 20250310142529.png]]
+
+#### Discretisation
+
+$$
+[a,b]
+$$
+![[Pasted image 20250310142749.png]]
+
