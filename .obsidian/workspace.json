@@ -255,6 +255,18 @@
             "id": "07e135939f0d15d5",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Math/MM306/Images/Pasted image 20250303152905.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250303152905"
+            }
+          },
+          {
+            "id": "ab5700f50512a49c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Math/MM306/Ninth Lecture.md",
@@ -266,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -412,14 +424,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07e135939f0d15d5",
+  "active": "ab5700f50512a49c",
   "lastOpenFiles": [
     "Math/MM306/Eighth Lecure.md",
+    "Math/MM306/Images/Pasted image 20250303144204.png",
+    "Math/MM306/Images/Pasted image 20250303152905.png",
     "Math/MM306/Ninth Lecture.md",
-    "Pasted image 20250303152905.png",
-    "Pasted image 20250303150912.png",
-    "Pasted image 20250303144344.png",
-    "Pasted image 20250303144204.png",
+    "Math/MM306/Images/Pasted image 20250303150912.png",
+    "Math/MM306/Images/Pasted image 20250303144344.png",
     "Math/MM306/Images/Pasted image 20250303144031.png",
     "Math/MM306/Images/Pasted image 20250303142750.png",
     "Personal/Solitare/Additional Notes for Solitaire.md",
@@ -455,7 +467,6 @@
     "CompSci/CS317",
     "Math/MM302/Untitled.canvas",
     "Exam from last year - part 1 1.md",
-    "Math/MM302/Revision Lecture PDE's.md",
     "Math/MM302/4_MM302_phase-plane.pdf",
     "Math/MM302/5.3.pdf",
     "Math/MM302/302_slides_chap4_ex.pdf",
