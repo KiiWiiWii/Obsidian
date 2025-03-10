@@ -166,3 +166,34 @@ $y(0.6) = y(t_{3}) \approx 2.0442$
 
 Notice how the error gets larger the further away from 0 we get since the next term relies on the previous so the error accumulates.
 
+#### Backward / Implicit Euler
+
+$$
+y'(t)
+$$ $$
+y'(t) \approx \frac{y(t)-y(t-h)}{h}
+$$
+Now we consider $$
+y'(t_{n+1}) = f(t_{n+1},y_{n+1})
+$$
+$$
+\frac{y (t_{n+1}) -y(t_{n})}{h} = f(t_{n+1},y_{n+1})
+$$
+$$y_{n+1} = y_{n} + h \times f(t_{n+1}, y_{n+1})$$
+$$
+\boxed{y_{n+1} = y_{n} + h \times f_{n+1} \ \ \ \ \ \forall n = 0,\dots,N-1}
+$$
+
+#### Example
+$$\begin{cases}
+y' = t + y  \\
+y(0) = 1 \\
+t \in [0,0.6] \ \  \text{with } h = 0.02 \text{ and using the Implicit Eulers Method}
+\end{cases}$$
+
+$$
+y(0) = 1
+$$
+$$
+y_{1} 
+$$
