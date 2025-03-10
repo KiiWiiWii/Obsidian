@@ -218,3 +218,8 @@ $$
 $$
 \iff y_{3} = \frac{ 1.6 + 0.2(0.6)}{1-0.2} = 2.15
 $$
+#### Approximation error
+
+![[Pasted image 20250310152804.png]]
+
+Basically the local error is the error at a sepe
