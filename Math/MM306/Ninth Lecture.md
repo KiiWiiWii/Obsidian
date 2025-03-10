@@ -222,4 +222,9 @@ $$
 
 ![[Pasted image 20250310152804.png]]
 
-Basically the local error is the error at a sepe
+Basically the local error is the error at a specific point then the global one is the biggest one across the entire method.
+
+![[Pasted image 20250310153150.png]]
+
+Proof for the theorem:
+
