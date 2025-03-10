@@ -11,3 +11,14 @@ $$
 Most of these problem have no explicit solution. In particular when $f$ is non linear.
 
 #### Theorem
+
+Assuming $f(t,y)$ is continuous on $$
+d = \{(t,y) : a \leq t\leq b, -\infty < y < \infty \}
+$$
+For all $(t,y), (t,y*) \in D, \exists t > 0$ s.t.
+$$
+|f(t,y) - f(t,y*)| \leq L|y-y*| \ \ \ \ \  \text{(2)}
+$$
+Then there exists a unique sol $y$ which is cont and diff at the problem for any initial value $\mu$
+
+Remark: $f$ which satisfies the second equation (2) is called a Lipschitz cont function on $D$ and $L$ is the Lipschitz constant.
