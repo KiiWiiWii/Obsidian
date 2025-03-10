@@ -243,5 +243,24 @@ $$
 y(t_{n+1}) = y(t_{n}) + h \times f(t_{n},y(t_{n})) + \frac{h^{2}}{2}y''(\xi_{n})
 $$
 Using the generic inter of Exp Eulers method $$
-y_{n+1} = y_{n} + h \times f(t_{n, y_{n})
+y_{n+1} = y_{n} + h \times f(t_{n}, y_{n})
+$$
+$$
+|e_{n+1}| = y(t_{n}) - y_{n} + h \times (f(t_{n},y(t_{n})) - f(t_{n},y_{n})) + \frac{h^{2}}{2}y''(\xi_{n})
+$$
+$$
+|e_{n+1}| \leq |e_{n}| + h |f(t_{n}, y(t_{n})) -f(t_{n},y_{n})| + \frac{h^{2}}{2}|y''(\xi_{n})|
+$$ 
+From the assumption
+$$
+|f(t_{n}, y(t_{n})) - f(t_{n},y_{n})| \leq L|y(t_{n} -y_{n})|
+$$
+Assume $\exists C > 0$ s.t. $$
+C = \max\limits_{t \in[a,b]}|y''(t)|
+$$
+$$
+|e_{n+1}| \leq (1 + hL) |e_{n}| + \frac{Ch^{2}}{2}
+$$
+$$
+\leq 
 $$
