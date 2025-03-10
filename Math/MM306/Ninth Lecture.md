@@ -43,4 +43,14 @@ $$
 [a,b]
 $$
 ![[Pasted image 20250310142749.png]]
+![[Pasted image 20250310143139.png]]
 
+#### Numerical Methods
+
+$$
+y_{0} = y(t_{0}) = y(a) = \mu
+$$
+$$
+y_{1} = y(t_{1}) = H(t_{0},y_{0}, t_{1},y_{1}, f)
+$$
+A method is called explicit if $y_{1} = H$ 
