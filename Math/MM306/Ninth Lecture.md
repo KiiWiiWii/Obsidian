@@ -81,5 +81,27 @@ $$
 y(t_{n+1}) \approx y(t_{n}) + f(t_{n},y_{n}) \times h_{n}
 $$
 $$
-y_{n+1} = y_{n} + f()
+y_{n+1} = y_{n} + f(t_{n},y_{n})\times h_{n}
+$$
+To simplify, we will call $f(t_{n},y_{n})$, $f_{n}$.
+
+#### Incremental Ratios
+
+Approximation for $y'(t)$: $$
+\text{Forward Approximation: } \ \ y'(t) \approx \frac{y(t + h) - y(t)}{h}
+$$
+$$
+t_{n} = a + nh
+$$
+$$
+y'(t_{n}) \approx \frac{y(t_{n} + h ) - y(t_{n})}{h}
+$$
+$$
+= \frac{y_{n+1} - y_{n}}{h}
+$$
+$$
+y'_{t_{n}} = f(t_{n}, y_{n})
+$$
+$$
+()
 $$
