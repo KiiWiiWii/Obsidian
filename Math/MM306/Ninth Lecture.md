@@ -228,3 +228,20 @@ Basically the local error is the error at a specific point then the global one i
 
 Proof for the theorem:
 
+$$
+| e_{n}| = |y_{n+1} - y_{0}ft_{n+1}|
+$$
+Note that $y_{n+1} = y_{n+h}\times f(y_{0},y_{0})$.
+
+Taylors Expansion on the function $y(t_{n+1})$. $$
+f(t_{n} + h) = f(t_{n}) + f't_{n}x)h + f't_{n}(x) \frac{h^{2}}{2!} + \dots
+$$
+
+But $y'(t_{n}) = f(t_{n}, y(t_{n}))$ thus
+
+$$
+y(t_{n+1}) = y(t_{n}) + h \times f(t_{n},y(t_{n})) + \frac{h^{2}}{2}y''(\xi_{n})
+$$
+Using the generic inter of Exp Eulers method $$
+y_{n+1} = y_{n} + h \times f(t_{n, y_{n})
+$$
