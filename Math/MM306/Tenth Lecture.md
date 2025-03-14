@@ -71,5 +71,10 @@ $$
 $$
 7.37\times 10 ^{ -3}
 $$
-Summarising:
+-Summary in written notes on myplace-
 
+Basically the summary is saying that all methods "work" but the trapezoidal method is the goat since it works faster to get a smaller error.
+
+#### Linear - Multi-Step Methods
+
+We will use $K$ -Previous
