@@ -77,4 +77,29 @@ Basically the summary is saying that all methods "work" but the trapezoidal meth
 
 #### Linear - Multi-Step Methods
 
-We will use $K$ -Previous
+We will use $K$ -Previously obtained approximations of $y$ to compute $y_{n+1}$. First we will cover an interpolation method to help with the numerical solutions of ODE's.
+##### Newton Backwards Difference Interpolating Polynomials.
+
+$$
+\nabla ^{i} f_{n}: \text{ith backward diff}
+$$
+$$
+\nabla ^{i}f_{n} = \begin{cases} \\
+\nabla ^{0}f_{n} = f_{n} \\
+\nabla f_{n} = f_{n} - f_{n-1} \\
+\nabla ^{i+1}f_{n} = \nabla (\nabla ^{i}f_{n})
+\end{cases}
+$$
+
+##### Example
+
+Write down all backward diff for $n = 0,\dots,4$, $i = 1,\dots,n$
+
+
+| n   | $\nabla ^{0}f_{n}$ | $\nabla ^{1}f_{n}$ | $\nabla ^{2}f_{n}$ | $\nabla ^{3}f_{n}$ | $\nabla ^{0}f_{n}$ |
+| --- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| 0   |                    |                    |                    |                    |                    |
+| 1   |                    |                    |                    |                    |                    |
+| 2   |                    |                    |                    |                    |                    |
+| 3   |                    |                    |                    |                    |                    |
+| 4   |                    |                    |                    |                    |                    |
