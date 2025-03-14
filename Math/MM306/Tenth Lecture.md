@@ -222,5 +222,36 @@ y_{n+1} = y_{n} + h \sum_{t=0}^{k} \gamma_{i} \nabla ^{i}f_{n+1}
 $$
 Where
 $$
-\gamma_{i} = \frac{1}{i!}
+\gamma_{i} = \frac{1}{i!}\int _{-1}^{0} \prod_{j=0}^{k} (r +j) \, dr 
+$$
+##### Example:
+
+Write AM $k = 0$ for $k = 0,1,2,3$
+
+- $k =0$
+$$
+y_{n+1} = y_{n} + h \gamma_{0} + h \gamma_{0} \nabla ^{0}f_{n+1}
+$$
+$$
+\gamma_{0} = \int _{-1} ^{ 0} dr \, = 1
+$$
+$$
+y_{n+1} = y_{n} + (hf_{n+1}) \ \ \ \text{<-- implicit Euler}
+$$
+- $k =1$
+$$
+y_{n+1} = y_{n} + h [f_{n+1} + \gamma_{1} \nabla ^{1}f_{n+1}]
+$$
+$$
+\gamma_{1} = \int _{-1}^{0}r \, dr = -\frac{1}{2}
+$$
+$$
+y_{n+1} = y_{n} + h \left[ f_{n+1} - \frac{1}{2} f_{n+1} -f_{n} \right]
+$$
+$$
+\dots \text{i didnt get to write in time}
+$$
+- $k = 2$
+$$
+y_{n+1} = y_{n} + h [(f_{n+1})]
 $$
