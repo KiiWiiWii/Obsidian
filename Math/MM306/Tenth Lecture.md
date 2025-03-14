@@ -41,5 +41,35 @@ $$
 y_{1}= 1.244\dot{4}
 $$
 $$
-y_{2} = y_{1}
+y_{2} = y_{1} + \frac{h}{2}[(t_{1}+y_{1}) + (t_{2}+y_{2})]
 $$
+$$
+\left( 1 - \frac{h}{2} \right)y_{2} = y_{1} + \frac{h}{2} (t_{1}+y_{1}) + \frac{h}{2}t_{2}
+$$
+$$
+y_{2} \approx 1.587654\dots
+$$
+$$
+y_{3} = \dots \approx 2.051577413\dots
+$$
+
+Error: $y(t) = 2e^{ t } - t - 1$.
+$$
+\text{local: } 
+$$
+$$|e_{1}| = | y(0.2) - 1.2444\dot{4}| \approx 1.64 \times 10 ^{ -3}
+$$
+$$
+|e_{2}| \approx 4.01 \times 10 ^{ - 3}
+$$
+$$
+|e_{3}| \approx 7.377 \times 10 ^{ - 3}
+$$
+$$
+\text{Global:}
+$$
+$$
+7.37\times 10 ^{ -3}
+$$
+Summarising:
+
