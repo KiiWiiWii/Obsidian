@@ -253,5 +253,14 @@ $$
 $$
 - $k = 2$
 $$
-y_{n+1} = y_{n} + h [(f_{n+1})]
+y_{n+1} = y_{n} + h \left[ \left( \frac{f_{n+1}}{2} \right) + \frac{f_{n}}{2} + \gamma_{2}\nabla ^{2}f_{n+1} \right]
+$$
+$$
+\gamma_{2} = \frac{1}{2} \int _{-1} ^{ 0} r(r+1) \, dr = -\frac{1}{12}
+$$
+$$
+y_{n+1} = y_{n} + h\left[ \frac{f_{n+1}}{2}+ \frac{f_{n}}{2} - \frac{1}{12} (f_{n+1} -2f_{n} + f_{n-1}) \right]
+$$
+$$
+= y_{n} + \frac{h}{12}[5f_{n+1} + 8 f_{n} - f_{n-1}]
 $$
