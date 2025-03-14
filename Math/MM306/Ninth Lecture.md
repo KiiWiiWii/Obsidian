@@ -283,4 +283,19 @@ $$
 Since $h$ and $L$ are positive, $$
 1 + hL \leq e ^{ hL} = 1 + hL + \frac{hL^{2}}{2} + \frac{hL^{3}}{3!} + \dots
 $$
-Since
+Since $t_{n} = C + nh$
+$$
+(1 + hL) \leq e ^{ nhL} < e ^{ L ( t_{n} -1)}
+$$
+$$
+|e_{n+1}| \leq \frac{Ch}{2l} ( e ^{ l(t_{n} - c)}-1)
+$$
+$$
+= h\left( \frac{c}{2L}(e^{L(t_{n}-n)})-1 \right)
+$$
+taking h -> 0 we get by the sandwich theorem $$
+|e_{n+1}| \to 0
+$$
+$$
+\boxed{QED}
+$$
