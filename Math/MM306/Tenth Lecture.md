@@ -124,3 +124,6 @@ $$
 It must hold $$
 P_{n}(t_{k}) = f_{k} \ \ \ \ k = n, n - 1, \dots, 1
 $$
+$$
+f_{n} = p(t_{n}) = a
+$$
