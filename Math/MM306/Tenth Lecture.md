@@ -208,3 +208,19 @@ $$
 $$
 \gamma_{2} = \int _{0} ^{1} r (r+1) \, dr = \frac{5}{12}
 $$
+$$
+y_{n+1} = y_{n} + h \left[ \frac{3}{2} f_{n} - \frac{f_{n-1}}{2}+\frac{5}{12}[f_{n} - 2 f_{n-1} + f_{n-2}] \right]
+$$
+$$
+= y_{n} + \frac{h}{12}[23 f_{n} - 16f_{n-1} + 5f_{n-2}]
+$$
+
+#### Adams - Moolton Method (Implicit)
+
+$$
+y_{n+1} = y_{n} + h \sum_{t=0}^{k} \gamma_{i} \nabla ^{i}f_{n+1}
+$$
+Where
+$$
+\gamma_{i} = \frac{1}{i!}
+$$
