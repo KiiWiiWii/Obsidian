@@ -165,5 +165,16 @@ $$
 f(t,y) \approx p_{k-1}(t) \text{ which interpolates}
 $$
 $$
-\{ (t_{i}, f_{i}) \}_{i = k, k-1}
+\{ (t_{i}, f_{i}) \}_{i = k, k-1,\dots,1}
 $$
+$$
+y(t_{n+1}) - y(t_{n}) = \int _{t_{n}}^{t_{n+1}} p_{k-1}(t) \, dt
+$$
+Using the subs $t = t_{n} + rh$, $dt = hdr$.
+$$
+y(t_{n+1}) - y ( t_{n}) = \int _{0} ^{1} p_{k -1} (r ) \times h \times dr\, = h\sum_{i = 0} ^{ k -1} \gamma_{i} \nabla ^{i}f_{n}
+$$
+Where $\gamma_{i} = \frac{1}{i!} \int _{0} ^{ 1} \prod_{j=0}^{i}(r + j) \, dr$
+
+#### Example
+
