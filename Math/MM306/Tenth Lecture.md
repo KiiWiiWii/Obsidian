@@ -178,3 +178,33 @@ Where $\gamma_{i} = \frac{1}{i!} \int _{0} ^{ 1} \prod_{j=0}^{i}(r + j) \, dr$
 
 #### Example
 
+![[Pasted image 20250314152928.png]]
+
+
+$$
+y_{n+1} = y_{n} + h \times \sum_{i = 0} ^{ k-1} gamme_{i}\nabla ^{i}f_{n}
+$$
+- $k = 1$.
+$$
+y_{n+1} = y_{n} + h \times \gamma_{0} \nabla ^{0}f_{n} = y_{n} + hf_{n} \ \ \ \ \ \text{<- Explicit Euler Method}
+$$
+- $k = 2$
+$$
+y_{n + 1 } = y_{n} + h[\gamma \nabla ^{0}f_{n} + \gamma_{1} \nabla ^{1}f_{n}]
+$$
+$$
+\gamma_{1} = \int _{0}^{1} r \, dr = \frac{1}{2} 
+$$
+$$
+= y_{n+1} = y_{n} + h \left[ f_{n} + \frac{1}{2} (f_{n} - f_{n-1}) \right]
+$$
+$$
+= y_{n} + \frac{h}{2}[3f_{n} - f_{n-1}]
+$$
+- $k = 3$
+$$
+y_{n+1} = y_{n} + h \left[ \frac{3}{2}f_{n} - \frac{f_{n-1}}{2} + \gamma _{2} \nabla ^{2}f_{n} \right]
+$$
+$$
+\gamma_{2} = \int _{0} ^{1} r (r+1) \, dr = \frac{5}{12}
+$$
