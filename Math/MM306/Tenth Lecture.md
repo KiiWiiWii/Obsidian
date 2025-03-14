@@ -149,5 +149,21 @@ a_{n} = \frac{\nabla ^{n}f_{n}}{n!h^{n}}
 $$
 The interpolating polynomial then looks like: 
 $$
-p(t) = f_{n} + \frac{ \nabla f_{n}}{h}(t -t_{n}) + \left( \frac{\nabla^{2}f_{n}}{2h^{2}} \right)(t-t_{n})(t - t_{n -1}) + \dots + \frac{\nabla ^{n}f_{n}}{n!h^{n}}(t - t_{n})(t-t_{n-1})\dots ()
+p(t) = f_{n} + \frac{ \nabla f_{n}}{h}(t -t_{n}) + \left( \frac{\nabla^{2}f_{n}}{2h^{2}} \right)(t-t_{n})(t - t_{n -1}) + \dots + \frac{\nabla ^{n}f_{n}}{n!h^{n}}(t - t_{n})(t-t_{n-1})\dots (t - t_{1})
+$$
+
+![[Pasted image 20250314151956.png]]
+
+#### Adams - Bashforth Methods (Explicit)
+$$
+\int _{t_{n}} ^{ t_{n+1}} \frac{dy}{dt} \, dt = \int _{t_{n}}^{t_{n+1}} f(t,y) \, dt
+$$
+$$
+y(t_{n+1}) - y(t_{n}) = \int _{t_{n}} ^{ t_{n+1}} f(t,y) \, dt
+$$
+$$
+f(t,y) \approx p_{k-1}(t) \text{ which interpolates}
+$$
+$$
+\{ (t_{i}, f_{i}) \}_{i = k, k-1}
 $$
