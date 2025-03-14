@@ -125,5 +125,12 @@ It must hold $$
 P_{n}(t_{k}) = f_{k} \ \ \ \ k = n, n - 1, \dots, 1
 $$
 $$
-f_{n} = p(t_{n}) = a
+f_{n} = p(t_{n}) = a_{0}  \ \ \ \ \  \text{->} \ \ \ \  a_{0} = f_{n}
+$$
+$$
+f_{n-1} = p(t_{n-1}) = f_{n} + ( t_{n-1} - t_{n})\times a_{1} \implies a_{1} = \frac{f_{n} - f_{n-1}}{h} = \frac{\nabla f_{n}}{h}
+$$
+
+$$
+f_{n-2} = p(t_{n-2}) =
 $$
