@@ -132,5 +132,22 @@ f_{n-1} = p(t_{n-1}) = f_{n} + ( t_{n-1} - t_{n})\times a_{1} \implies a_{1} = \
 $$
 
 $$
-f_{n-2} = p(t_{n-2}) =
+f_{n-2} = p(t_{n-2}) = f_{n} + \frac{\nabla f_{n}}{h}(t_{n-2} - t_{n}) + a_{2}(t_{n-2}-t_{n}) (t_{n-2}-t_{n-1})
+$$
+$$
+= a_{2} = \frac{f_{n}-2(f_{n}-f_{n-1}) - f_{n-2}}{-2h^{2}}
+$$
+$$
+= \frac{-(f_{n} -2f_{n-1} + f_{n-2})}{-2h^{2}}
+$$
+$$
+= \frac{\nabla^{2}f_{n}}{2!h^{2}}
+$$
+In general:
+$$
+a_{n} = \frac{\nabla ^{n}f_{n}}{n!h^{n}}
+$$
+The interpolating polynomial then looks like: 
+$$
+p(t) = f_{n} + \frac{ \nabla f_{n}}{h}(t -t_{n}) + \left( \frac{\nabla^{2}f_{n}}{2h^{2}} \right)(t-t_{n})(t - t_{n -1}) + \dots + \frac{\nabla ^{n}f_{n}}{n!h^{n}}(t - t_{n})(t-t_{n-1})\dots ()
 $$
