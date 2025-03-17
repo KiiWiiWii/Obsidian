@@ -248,7 +248,7 @@ $$
 C_5 = \frac{1}{120} ( \alpha_1 + 32) - \frac{1}{24} (\beta_1 + 16\beta_2) = -\frac{1}{360} (17 + 13a).
 $$
 
-Hence, if $ a \neq -1 $, then the method is third-order. If $ a = -1 $, the method is fourth-order and takes the form  
+Hence, if $a \neq -1$, then the method is third-order. If $a = -1$, the method is fourth-order and takes the form  
 
 $$
 y_{n+2} - y_n = \frac{h}{3} ( f_{n+2} + 4 f_{n+1} + f_n ).
