@@ -283,12 +283,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Tenth Lecture.md",
+                "file": "Math/MM306/Eleventh Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tenth Lecture"
+              "title": "Eleventh Lecture"
             }
           }
         ],
@@ -411,13 +411,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Tenth Lecture.md",
+                "file": "Math/MM306/Eleventh Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tenth Lecture"
+              "title": "Outline of Eleventh Lecture"
             }
           }
         ],
@@ -440,8 +440,9 @@
   },
   "active": "153196196a3fb801",
   "lastOpenFiles": [
-    "Math/MM306/Images/Pasted image 20250310142205.png",
     "Math/MM306/Tenth Lecture.md",
+    "Math/MM306/Eleventh Lecture.md",
+    "Math/MM306/Images/Pasted image 20250310142205.png",
     "Math/MM306/Images/Pasted image 20250314152928.png",
     "Math/MM306/Images/Pasted image 20250314151956.png",
     "Math/MM306/Ninth Lecture.md",
