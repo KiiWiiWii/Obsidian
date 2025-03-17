@@ -11,5 +11,12 @@ $$
 $$
 Taking log to both sides we obtain
 $$
-P_{n} = \frac{1}{\ln (2)}\ln (\frac{\max\limits_{1\leq n\leq \frac{N}{2}}|e_{n}|}{\max\limits_{1\leq n\leq N}|e_{n}|})
+\tilde{P}_{n} = \frac{1}{\ln (2)}\ln (\frac{\max\limits_{1\leq n\leq \frac{N}{2}}|e_{n}|}{\max\limits_{1\leq n\leq N}|e_{n}|})
 $$
+#### Standard for of linear multi-step methods
+
+$$
+\sum_{j = 0}^{k} \alpha_{j}y_{n+1} = h \sum_{j = 0} ^{ k} \beta_{j}f_{n+j}
+$$
+
+Without loss of generality we assume $\alpha_{k} = 1$.
