@@ -182,7 +182,7 @@ Where $\gamma_{i} = \frac{1}{i!} \int _{0} ^{ 1} \prod_{j=0}^{i}(r + j) \, dr$
 
 
 $$
-y_{n+1} = y_{n} + h \times \sum_{i = 0} ^{ k-1} gamme_{i}\nabla ^{i}f_{n}
+y_{n+1} = y_{n} + h \times \sum_{i = 0} ^{ k-1} \gamma_{i}\nabla ^{i}f_{n}
 $$
 - $k = 1$.
 $$
