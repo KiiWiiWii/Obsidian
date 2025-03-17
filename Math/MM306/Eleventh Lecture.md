@@ -39,5 +39,19 @@ $$
 y_{n+1+1} = y_{n+1} + \frac{h}{2}(3f_{n}-f_{n+1-1})
 $$
 $$
-y_{n+2} = t_{}
+y_{n+2} = y_{n+1} + h\left( \frac{3}{2}f_{n+1}-\frac{f_{n}}{2} \right)
+$$
+
+$$
+y_{n+2} - y_{n+1} = h\left( \frac{3}{2}f_{n+1}-\frac{f_{n}}{2} \right)
+$$
+$\alpha_{0} = 0$     $\beta_{0} = -\frac{1}{2}$
+$\alpha_{1} = -1$   $\beta_{1} = \frac{3}{2}$
+$\alpha_{2} = 1$    $\beta_{2} = 0$
+         ^ explicit method
+         2 - step Method
+###### AM3:
+
+$$
+y_{n+1} = y_{n} + h \left(  \frac{3}{8}f_{n+1}+ \frac{19}{24}f_{n}-\frac{5}{24} \right)
 $$
