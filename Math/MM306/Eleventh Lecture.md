@@ -53,5 +53,19 @@ $\alpha_{2} = 1$    $\beta_{2} = 0$
 ###### AM3:
 
 $$
-y_{n+1} = y_{n} + h \left(  \frac{3}{8}f_{n+1}+ \frac{19}{24}f_{n}-\frac{5}{24} \right)
+y_{n+1} = y_{n} + h \left(  \frac{3}{8}f_{n+1}+ \frac{19}{24}f_{n}-\frac{5}{24}f_{n-1}+\frac{1}{24}f_{n-2} \right)
 $$
+Setting $n = n+2$
+$$
+y_{n+3} = y_{n+2}+h \left(  \frac{3}{8}f_{n+3}+ \frac{19}{24}f_{n+2}-\frac{5}{24}f_{n+1}+\frac{1}{24}f_{n} \right)
+$$
+$$
+y_{n+3} - y_{n+2} = h \left(  \frac{3}{8}f_{n+3}+ \frac{19}{24}f_{n+2}-\frac{5}{24}f_{n+1}+\frac{1}{24}f_{n} \right)
+$$
+
+| $\alpha_{0}=0$    | $\beta_{0} = \frac{1}{24}$  |
+| ----------------- | --------------------------- |
+| $\alpha_{1} = -$  | $\beta_{1}= -\frac{5}{24}$  |
+| $\alpha_{2} = -1$ | $\beta_{2} = \frac{19}{24}$ |
+| $\alpha_{3} = 1$  | $\beta_{3} = \frac{3}{8}$   |
+$\beta_{3}$ tells us that 
