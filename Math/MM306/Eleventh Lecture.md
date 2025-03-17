@@ -212,7 +212,7 @@ $$
 C_3 = \frac{1}{6} (1 + 8a) - \frac{1}{2} ( \beta_1 + 4\beta_2 ) = 0. \quad (7.30)
 $$
 
-From (7.27), we have $ \alpha_1 = -(1 + a) $. Substituting this into (7.29) and (7.30) we get  
+From (7.27), we have $\alpha_1 = -(1 + a)$. Substituting this into (7.29) and (7.30) we get
 
 $$
 \frac{1}{2} (3 - a) - (\beta_1 + 2\beta_2) = 0, \quad \frac{1}{6} (7 - a) - \frac{1}{2} (\beta_1 + 4\beta_2) = 0.
