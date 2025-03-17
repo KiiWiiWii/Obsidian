@@ -183,3 +183,75 @@ $$
 $$
 T_{n+1}=C_{0}y(t_{n})+C_{1}hy'(t_{n})+C_{2}h^{2}y''(t_{n})+O(h^{3}) = \frac{h^{2}}{2}y''(t_{n})+O(h^{3})
 $$
+
+#### Example
+
+**Example 7.7** *Derive the family of implicit two-step methods of the form*  
+
+$$
+y_{n+2} + \alpha_1 y_{n+1} + \alpha_0 y_n = h(\beta_2 f_{n+2} + \beta_1 f_{n+1} + \beta_0 f_n).
+$$
+
+Let us assume that $\alpha_0 = a$, a free parameter. We then have four undetermined coefficients:  
+$\alpha_1, \beta_0, \beta_1$, and $\beta_2$. This suggests that we might be able to choose the coefficients such that  
+the four conditions $C_0 = C_1 = C_2 = C_3 = 0$ are satisfied. From (7.25) we have  
+
+$$
+C_0 = 1 + \alpha_1 + a = 0, \quad (7.27)
+$$
+
+$$
+C_1 = \alpha_1 + 2a - (\beta_0 + \beta_1 + \beta_2) = 0, \quad (7.28)
+$$
+
+$$
+C_2 = \frac{1}{2} (1 + 4a) - (\beta_1 + 2\beta_2) = 0, \quad (7.29)
+$$
+
+$$
+C_3 = \frac{1}{6} (1 + 8a) - \frac{1}{2} ( \beta_1 + 4\beta_2 ) = 0. \quad (7.30)
+$$
+
+From (7.27), we have $ \alpha_1 = -(1 + a) $. Substituting this into (7.29) and (7.30) we get  
+
+$$
+\frac{1}{2} (3 - a) - (\beta_1 + 2\beta_2) = 0, \quad \frac{1}{6} (7 - a) - \frac{1}{2} (\beta_1 + 4\beta_2) = 0.
+$$
+
+Hence,  
+
+$$
+\frac{1}{2} \beta_1 + 2\beta_2 = \frac{1}{2} (3 - a), \quad \frac{1}{2} \beta_1 + 4\beta_2 = \frac{1}{6} (7 - a).
+$$
+
+From (7.28) we then have  
+
+$$
+\beta_0 = -(1 + a) + 2 - \frac{2}{3} (1 - a) - \frac{1}{12} (a + 5) = -\frac{1}{12} (1 + 5a).
+$$
+
+Hence, the class of methods takes the form  
+
+$$
+y_{n+2} - (1 + a)y_{n+1} + ay_n = \frac{h}{12} ( (a + 5) f_{n+2} + 8(1 - a) f_{n+1} - (1 + 5a) f_n). \quad (7.31)
+$$
+
+---
+
+If we go on further, then we obtain  
+
+$$
+C_4 = \frac{1}{24} ( \alpha_1 + 16) - \frac{1}{6} (\beta_1 + 8\beta_2) = -\frac{1}{24} (1 + a),
+$$
+
+$$
+C_5 = \frac{1}{120} ( \alpha_1 + 32) - \frac{1}{24} (\beta_1 + 16\beta_2) = -\frac{1}{360} (17 + 13a).
+$$
+
+Hence, if $ a \neq -1 $, then the method is third-order. If $ a = -1 $, the method is fourth-order and takes the form  
+
+$$
+y_{n+2} - y_n = \frac{h}{3} ( f_{n+2} + 4 f_{n+1} + f_n ).
+$$
+
+This method is called **Simpson’s method** and is a member of the **Milne-Simpson** family of methods that can be derived in a similar manner to the **Adams methods**.
