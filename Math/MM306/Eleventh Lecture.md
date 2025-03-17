@@ -163,3 +163,23 @@ $$
 | $\alpha_{1}=1$    | $\beta_{1}=0$ |
 |                   |               |
 |                   |               |
+Now we compute the order conditions $C_{0},C_{1},C_{2},\dots$ to express LTE as $(10)$.
+
+$$
+C_{0}=\sum_{j=0}^{1}\alpha_{j}= 0
+$$
+$$
+C_{1} = \sum_{j=1}^{1}j\times \alpha_{j}-\sum_{j=0}^{1}\beta_{j}
+$$
+$$
+= 1 \times 1 - (1+0) = 0
+$$
+$$
+C_{2}=\frac{1}{2}\sum_{j=1}^{1}j^{2}\alpha_{j}-\sum_{j=1}^{1}j\times \beta_{j}
+$$
+$$
+= \frac{1}{2}(1+1)-1\times 0 = \frac{1}{2}
+$$
+$$
+T_{n+1}=C_{0}y(t_{n})+C_{1}hy'(t_{n})+C_{2}h^{2}y''(t_{n})+O(h^{3}) = \frac{h^{2}}{2}y''(t_{n})+O(h^{3})
+$$
