@@ -63,9 +63,22 @@ $$
 y_{n+3} - y_{n+2} = h \left(  \frac{3}{8}f_{n+3}+ \frac{19}{24}f_{n+2}-\frac{5}{24}f_{n+1}+\frac{1}{24}f_{n} \right)
 $$
 
-| $\alpha_{0}=0$    | $\beta_{0} = \frac{1}{24}$  |
-| ----------------- | --------------------------- |
-| $\alpha_{1} = -$  | $\beta_{1}= -\frac{5}{24}$  |
+|  $\alpha_{0}=0$   | $\beta_{0} = \frac{1}{24}$  |
+| :---------------: | :-------------------------: |
+| $\alpha_{1} = 0$  | $\beta_{1}= -\frac{5}{24}$  |
 | $\alpha_{2} = -1$ | $\beta_{2} = \frac{19}{24}$ |
-| $\alpha_{3} = 1$  | $\beta_{3} = \frac{3}{8}$   |
-$\beta_{3}$ tells us that 
+| $\alpha_{3} = 1$  |  $\beta_{3} = \frac{3}{8}$  |
+$\beta_{3}$ tells us that it is implicit as it is not equal to $0$.
+
+#### Analysis of Multi-step Methods
+
+Assume Localizing conditions:
+- $\text{approximate at }t_{n+k} \text{ given } t_{n+k-1} \text{ using multistep methods }$
+- All back values are exact $$
+y_{n+j} = y(t_{n+j}) \phantom{Secret uwu} j = 0,\dots,k-1
+$$
+Local truncation error
+
+![[Pasted image 20250317145215.png]]
+
+
