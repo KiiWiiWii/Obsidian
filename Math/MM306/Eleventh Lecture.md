@@ -20,3 +20,24 @@ $$
 $$
 
 Without loss of generality we assume $\alpha_{k} = 1$.
+
+- k-step method $\text{sum}$
+- explicit method $\text{if } \beta_{k} = 0$
+- implicit method $\text{if } \beta_{k} \neq 0$
+
+##### Example
+
+rewrite AB2 and AM3 methods in standard form.
+
+###### AB2:
+
+$$
+y_{n+1} = y_{n} + \frac{h}{2}(3f_{n} - f_{n-1})
+$$
+$\tilde{n} = n+1$
+$$
+y_{n+1+1} = y_{n+1} + \frac{h}{2}(3f_{n}-f_{n+1-1})
+$$
+$$
+y_{n+2} = t_{}
+$$

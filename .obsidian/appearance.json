@@ -1,4 +1,5 @@
 {
   "textFontFamily": "Source Code Pro",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "showRibbon": false
 }
