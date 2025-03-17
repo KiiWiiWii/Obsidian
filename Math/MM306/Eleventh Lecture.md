@@ -144,6 +144,22 @@ The coefficients $C_{1},C_{1},C_{2}\dots$are called the order conditions of the 
 
 #### Definition:
 
-A linear multi-step method is of order p if $$
-T_{n+k} =
+![[Pasted image 20250317152249.png]]
+
+#### Example
+
+Verify AB1 is of first order 
 $$
+y_{n+1} = y_{n}+h_{n}
+$$
+This is already in standard form.
+
+$$
+y_{n+1}-y_{n} = hf_{n}
+$$
+
+| $\alpha_{0} = -1$ | $\beta_{0}=1$ |
+| ----------------- | ------------- |
+| $\alpha_{1}=1$    | $\beta_{1}=0$ |
+|                   |               |
+|                   |               |
