@@ -77,8 +77,25 @@ Assume Localizing conditions:
 - All back values are exact $$
 y_{n+j} = y(t_{n+j}) \phantom{Secret uwu} j = 0,\dots,k-1
 $$
-Local truncation error
+#### Local truncation error
 
 ![[Pasted image 20250317145215.png]]
 
-
+$$
+T_{n+k} = \left( 1-h\beta_{k} \frac{\partial f}{\partial y}|_{(t_{n+k}, \eta_{n+k})} \right)(y(t_{n+k})-\tilde{y}_{n+k})
+$$
+$$
+\tilde{y}_{n+k} \text{ is the numerical solution.}
+$$
+$$
+\eta_{n+k} \text{ lies between } \tilde{y}_{n+k}, y(t_{n+k})
+$$
+If we have an explicit method, the the Local truncation error is exactly
+$$
+(y(t_{n+k})-\tilde{y}_{n+k}) \phantom{uwuwuwu} (\beta_{k} =0)
+$$
+For implicit methods:
+$$
+\approx (y(t_{n+k}) - \tilde{y}_{n+k}) \phantom{uwuwuwu} (\beta_{k} \neq 0)
+$$
+Provided that $\frac{\partial f}{\partial t}$ is small
