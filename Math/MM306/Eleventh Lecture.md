@@ -125,5 +125,25 @@ Since $y'(t_n) = f(t_n, y(t_n))$, we have
 $$
 T_{n+1} = \frac{h^2}{2} y''(t_n) + O(h^3).
 $$
-Remark: In general computing LTE for K-step methods is not easy, and this, we will derive a general formula depending only on the coefficient defining method $\alpha_{j}, \beta_{j}$.
+Remark: In general computing LTE for K-step methods is not easy, and this, we will derive a general formula depending only on the coefficient defining method $\alpha_{j}, \beta_{j}$.$$
+T_{n+k} = C_{0}y(t_{n}) + C_{1}y'(t_{n})+C_{2}y''(t_{n})+\dots
+$$
+$$
+C_{0} = \sum_{j =0}^{k}\alpha_{j}
+$$
+$$
+C_{1}= \sum_{j=1}^{v}j\alpha_{j} -\sum_{j=0}^{k}\beta _{j}
+$$ 
+$$
+\dots
+$$
+$$
+C_{q}=\frac{1}{q!}\sum_{j=1}^{k}j^{\underline{q}}\alpha_{j}-\frac{1}{(\underline{q}-1)!}\sum_{j=1}^{k}j^{\underline{q}-1}\beta_{j}
+$$
+The coefficients $C_{1},C_{1},C_{2}\dots$are called the order conditions of the method
 
+#### Definition:
+
+A linear multi-step method is of order p if $$
+T_{n+k} =
+$$
