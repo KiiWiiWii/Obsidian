@@ -99,3 +99,31 @@ $$
 \approx (y(t_{n+k}) - \tilde{y}_{n+k}) \phantom{uwuwuwu} (\beta_{k} \neq 0)
 $$
 Provided that $\frac{\partial f}{\partial t}$ is small
+
+**Example 7.6** *Evaluate the local truncation error for the AB1 method.*
+
+For the AB1 method $y_{n+1} = y_n + h f_n$, the LTE is  
+
+$$
+T_{n+1} = y(t_{n+1}) - y(t_n) - h f(t_n, y(t_n)).
+$$
+
+Using a Taylor series expansion at $t_n$, we have  
+
+$$
+y(t_{n+1}) = y(t_n) + h y'(t_n) + \frac{h^2}{2} y''(t_n) + O(h^3).
+$$
+
+Hence,  
+
+$$
+T_{n+1} = \left( y(t_n) + h y'(t_n) + \frac{h^2}{2} y''(t_n) \right) - y(t_n) - h f(t_n, y(t_n)) + O(h^3).
+$$
+
+Since $y'(t_n) = f(t_n, y(t_n))$, we have  
+
+$$
+T_{n+1} = \frac{h^2}{2} y''(t_n) + O(h^3).
+$$
+Remark: In general computing LTE for K-step methods is not easy, and this, we will derive a general formula depending only on the coefficient defining method $\alpha_{j}, \beta_{j}$.
+
