@@ -100,5 +100,5 @@ $$
 Thus this method is consistent.
 
 $$
-\boxed{}
+\boxed{QED}
 $$
