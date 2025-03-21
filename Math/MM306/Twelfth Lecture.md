@@ -227,3 +227,5 @@ $$
 The roots are $\xi_{0} = 1$, $\xi_{1} = 1$ and $\xi_{2}= -\frac{1}{2}$. So we have a repeated root. The modulus is lower than 1, but the root of 1 is not simple hence it is not zero stable.
 
 **Remark:** Zero stability is necessary for convergence.
+
+**Theorem:** A linear multi step method is convergent if and only if it is consistent and zero stable.
