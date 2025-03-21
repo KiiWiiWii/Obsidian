@@ -255,3 +255,4 @@ y_{n+2} - y_n = \frac{h}{3} ( f_{n+2} + 4 f_{n+1} + f_n ).
 $$
 
 This method is called **Simpson’s method** and is a member of the **Milne-Simpson** family of methods that can be derived in a similar manner to the **Adams methods**.
+
