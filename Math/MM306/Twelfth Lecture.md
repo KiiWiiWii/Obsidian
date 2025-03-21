@@ -21,6 +21,13 @@ Consider a fixed $t = t^{*}$ and we will assume that the k-step method converges
 y_{n+j} \to y(t^{*}) \ \ \ \ \ \forall j = 0,\dots k
 $$
 But this can be rewritten as: $$
-y_{n+j} = y(t^{*}) + \theta_{t,j}(h) \ \ \ \ \forall j = 0,\dots,k
+y(t^{*}) = y_{n+j} + \theta_{t,j}(h)
 $$
-Where $\theta_{t,j} \to 0$ ad $h \to 0$.
+Where $\theta_{t,j} \to 0$ as $h \to 0$.
+
+Multiplying by $\alpha_{j}$ and summing over $j$ $$
+\sum_{j=0}^{k}\alpha_{k}y(t^{*}) = \sum_{j=0}^{k}\alpha_{j}y_{n+j} + \sum_{j=0}^{k}\alpha_{j}\theta_{t,j}(h)
+$$ $$
+y(^{t*})\sum_{j=0}^{k}\alpha_{j} = h \times \sum_{j =0}^{k}\beta_{i}f_{n+j} + \sum_{j=0}^{k}\alpha_{j}\theta_{t,j}(h)
+$$
+If we take $h -> 0$
