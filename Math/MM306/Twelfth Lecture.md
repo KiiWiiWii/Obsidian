@@ -110,19 +110,19 @@ y_{n+2} - y_{n+1} = h \left( f_{n+1} - \frac{2}{3} h f_n \right).
 $$
 (7.35)
 
-For this method we have that $\alpha_2 = 1$, $\alpha_1 = -1$, $\alpha_0 = 0$, $\beta_2 = 0$, $\beta_1 = 1 $, $ \beta_0 = -\frac{2}{3}$ and so
+For this method we have that $\alpha_2 = 1$, $\alpha_1 = -1$, $\alpha_0 = 0$, $\beta_2 = 0$, $\beta_1 = 1$, $\beta_0 = -\frac{2}{3}$ and so
 
 $$
 C_0 = 1 - 1 = 0, \quad C_1 = (2 - 1) - \left( 1 - \frac{2}{3} \right) = \frac{2}{3}.
 $$
 
-From our analysis above, we expect that when the method is applied to an initial value problem $ y' = f(t, y) $, then it may converge to some function $ \tilde{y} $, but that $ \tilde{y} $ will not satisfy the ODE, i.e., $ \tilde{y}' \neq f(t, \tilde{y}) $. Figure 7.5 shows the results obtained by applying (7.35) to the problem 
+From our analysis above, we expect that when the method is applied to an initial value problem $y' = f(t, y)$, then it may converge to some function $\tilde{y}$, but that $\tilde{y}$ will not satisfy the ODE, i.e., $\tilde{y}' \neq f(t, \tilde{y})$. Figure 7.5 shows the results obtained by applying (7.35) to the problem 
 
 $$
 y' = -(0.25 + \sin(\pi t))y^2, \quad y(0) = 1,
 $$
 
-with the exact solution $ y(t) $ plotted as a solid line. We can clearly see that the method is converging to the wrong solution as $ h \to 0 $. In fact, according to (7.33) the method should be converging to the solution of the problem
+with the exact solution $y(t)$ plotted as a solid line. We can clearly see that the method is converging to the wrong solution as $h \to 0$. In fact, according to (7.33) the method should be converging to the solution of the problem
 
 $$
 \tilde{y}'(t) = f(t, \tilde{y}(t)) \left( \frac{\sum_{j=0}^{k} \beta_j}{\sum_{j=0}^{k} j \alpha_j} \right),
@@ -133,3 +133,19 @@ which in the case of (7.35) is
 $$
 \tilde{y}'(t) = \frac{1}{3} f(t, \tilde{y}(t)).
 $$
+![[Pasted image 20250321151333.png]]
+
+Figure 7.5: Inconsistent approximations of $y' = -(1/4 + \sin(\pi t))y^2$.
+
+The solution of this problem is
+
+$$
+\tilde{y}(t) = \frac{3\pi}{1 + 3\pi + \frac{\pi t}{4} - \cos(\pi t)}.
+$$
+
+This function is also plotted in Figure 7.5 (with a dashed line) and we can indeed see that the numerical solutions are converging to it.
+
+#### Zero Stability
+
+
+**Intuition:** 
