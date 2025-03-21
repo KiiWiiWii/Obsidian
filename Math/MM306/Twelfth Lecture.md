@@ -28,6 +28,19 @@ Where $\theta_{t,j} \to 0$ as $h \to 0$.
 Multiplying by $\alpha_{j}$ and summing over $j$ $$
 \sum_{j=0}^{k}\alpha_{k}y(t^{*}) = \sum_{j=0}^{k}\alpha_{j}y_{n+j} + \sum_{j=0}^{k}\alpha_{j}\theta_{t,j}(h)
 $$ $$
-y(^{t*})\sum_{j=0}^{k}\alpha_{j} = h \times \sum_{j =0}^{k}\beta_{i}f_{n+j} + \sum_{j=0}^{k}\alpha_{j}\theta_{t,j}(h)
+y({t^{*}})\sum_{j=0}^{k}\alpha_{j} = h \times \sum_{j =0}^{k}\beta_{i}f_{n+j} + \sum_{j=0}^{k}\alpha_{j}\theta_{t,j}(h)
 $$
-If we take $h -> 0$
+If we take $h \to 0$, the RHS will tend to $0$, and $y(t^{*})\neq 0$, $$
+C_{0} = \sum_{j=0}^{k} \alpha_{j} = 0
+$$
+We assume $$
+\frac{y_{n+j}-y_{n}}{j\times h} \to y'(t^{*}) \ \ \ \ \ \forall j = 1,\dots,k
+$$
+$$
+y_{n+j}-y_{n}=hjy'(t^{*})+jh\phi_{j}(h)
+$$
+Where $\phi_{j}(h) \to 0$ when $h \to 0$.
+
+$$
+\sum_{}^{}\alpha_{j}y_{n+j}-\sum\alpha_{j}y_{n} = hy'(t^{*})\sum
+$$
