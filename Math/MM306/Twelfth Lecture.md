@@ -198,4 +198,30 @@ $$
 \xi_{1} = 1 \ \ \ \ \ \ \ \xi_{2} = \frac{1}{2}
 $$
 
-Both roots have modulus < 1 and $|\xi_{1}|=1$ is simple then the method is zero stable
+Both roots have modulus < 1 and $|\xi_{1}|=1$ is simple then the method is zero stable.
+
+#### Example
+
+$$
+y_{n+1} - \frac{3}{2} + \frac{1}{2} y_{n-2} = h \left(  \frac{3}{4} f_{n-1} + \frac{1}{4} f_{n-2} \right)
+$$
+**Step 0**
+$$
+y_{n+3} - \frac{3}{2} + \frac{1}{2} y_{n} = h \left(  \frac{3}{4} f_{n+1} + \frac{1}{4} f_{n} \right)
+$$
+**Step 1**
+
+| $\alpha_{0}=\frac{1}{2}$  |     |
+| ------------------------- | --- |
+| $\alpha_{1} = 0$          |     |
+| $\alpha_{2}=-\frac{3}{2}$ |     |
+| $\alpha_{3}= 1$           |     |
+
+**Step 2**
+
+$$
+\rho (\xi) = \frac{1}{2}-\frac{3}{2}\xi^{2} + \xi^{3}
+$$
+**Step 3**
+
+The roots are $\xi = 1$, 
