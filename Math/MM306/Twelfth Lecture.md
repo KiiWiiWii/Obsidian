@@ -70,3 +70,35 @@ $$
 **Corollary** A linear multi step method that is at least of first order is consistent.
 
 **Remark** A necessary condition for a multi-step method to be convergent is consistency.
+
+#### Example
+
+$$
+y_{n+2}+y_{n+1}-2y_{n} = h(2f_{n+1}+f_{n})
+$$
+
+**Step 0:** is this method written in standard form?
+
+
+| $\alpha_{0}=-2$ | $\beta_{0}=1$   |
+| --------------- | --------------- |
+| $\alpha_{1}=1$  | $\beta_{1} = 2$ |
+| $\alpha_{2}=1$  | $\beta_{2}=0$   |
+
+**Step 2:** Compute the error constants
+
+$$
+C_{0}= \sum_{j=0}^{2}\alpha_{j} = 0
+
+$$
+$$
+C_{1} = \sum_{j=0}^{2}j\times \alpha_{j} - \sum_{j=0}^{2}\beta_{j}
+$$
+$$
+= 0
+$$
+Thus this method is consistent.
+
+$$
+\boxed{}
+$$
