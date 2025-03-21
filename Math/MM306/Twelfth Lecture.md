@@ -211,11 +211,11 @@ y_{n+3} - \frac{3}{2} + \frac{1}{2} y_{n} = h \left(  \frac{3}{4} f_{n+1} + \fra
 $$
 **Step 1**
 
-| $\alpha_{0}=\frac{1}{2}$  |     |
-| ------------------------- | --- |
-| $\alpha_{1} = 0$          |     |
-| $\alpha_{2}=-\frac{3}{2}$ |     |
-| $\alpha_{3}= 1$           |     |
+| $\alpha_{0}=\frac{1}{2}$  |
+| ------------------------- |
+| $\alpha_{1} = 0$          |
+| $\alpha_{2}=-\frac{3}{2}$ |
+| $\alpha_{3}= 1$           |
 
 **Step 2**
 
@@ -224,4 +224,6 @@ $$
 $$
 **Step 3**
 
-The roots are $\xi = 1$, 
+The roots are $\xi_{0} = 1$, $\xi_{1} = 1$ and $\xi_{2}= -\frac{1}{2}$. So we have a repeated root. The modulus is lower than 1, but the root of 1 is not simple hence it is not zero stable.
+
+**Remark:** Zero stability is necessary for convergence.
