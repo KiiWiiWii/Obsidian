@@ -152,11 +152,11 @@ This function is also plotted in Figure 7.5 (with a dashed line) and we can inde
 
 ![[Pasted image 20250321151832.png]]
 
-**Remark:** The consistency conditions of a method can be stated in terms of these polynomials $p, \sigma$.
+**Remark:** The consistency conditions of a method can be stated in terms of these polynomials $\rho, \sigma$.
 $$
-C_{0}= \sum_{j=0}^{k}\alpha_{j} =0 \iff p(1) = 0
+C_{0}= \sum_{j=0}^{k}\alpha_{j} =0 \iff \rho(1) = 0
 
 $$
 $$
-C_{1}=\sum_{j=0{}
+C_{1}=\sum_{j=0}^{k}j\alpha_{j}-\sum_{j=0}^{k}\beta_{j} = 0 \iff \rho'(1) - \sigma (1) = 0
 $$
