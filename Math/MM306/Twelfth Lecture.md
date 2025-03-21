@@ -54,5 +54,19 @@ Since $y_{n+j} \to y(t^{*})$ then $f_{n+j} \to y'(t^{*})$. $\implies f(t_{n+j},y
 
 If we take $h \to 0$:
 $$
-\sum j\alpha_{j}-\sum \beta_{j} =0
+C_{1}=\sum j\alpha_{j}-\sum \beta_{j} =0
 $$
+Our initial problem:
+$$
+y' = f(t,y)
+$$
+**Theorem:** A linear method is consistent if and only if $$
+C_{0} =\sum_{j=0}^{k} \alpha_{j} = 0
+$$
+and
+$$
+C_{1} = \sum_{j=1}^{k} j \alpha_{j} - \sum_{j=0}^{k}\beta_{j} =0
+$$
+**Corollary** A linear multi step method that is at least of first order is consistent.
+
+**Remark** A necessary condition for a multi-step method to be convergent is consistency.
