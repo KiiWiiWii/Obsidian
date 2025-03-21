@@ -160,3 +160,18 @@ $$
 $$
 C_{1}=\sum_{j=0}^{k}j\alpha_{j}-\sum_{j=0}^{k}\beta_{j} = 0 \iff \rho'(1) - \sigma (1) = 0
 $$
+![[Pasted image 20250321152831.png]]
+
+#### Example
+
+Study the zero stability of:
+$$
+y_{n+1} - \frac{3}{2}y_{n}+\frac{1}{2}y_{n-1} = \frac{h}{2}(f_{n}+f_{n-1})
+$$
+**Step 0:** Is this written in standard form? Not in standard form. $$
+n \to n+1
+$$
+$$
+y_{n+3} - \frac{3}{2} y_{n+1} + \frac{1}{2}y_{n} = h\left( \frac{1}{2}f_{n+1}+\frac{1}{2}f_{n} \right)
+$$
+
