@@ -42,5 +42,17 @@ $$
 Where $\phi_{j}(h) \to 0$ when $h \to 0$.
 
 $$
-\sum_{}^{}\alpha_{j}y_{n+j}-\sum\alpha_{j}y_{n} = hy'(t^{*})\sum
+\sum_{}^{}\alpha_{j}y_{n+j}-\sum\alpha_{j}y_{n} = hy'(t^{*})\sum j\alpha_{j} + h\sum j\alpha_{j}\phi (h)
+$$
+$$
+h\sum\beta_{j}f_{n+j} - h y'(t^{*})\sum j \alpha_{j} = h \sum j \alpha_{i}\phi (h)
+$$
+$$
+\sum\beta_{j}f_{n+j} -  y'(t^{*})\sum j \alpha_{j} =  \sum j \alpha_{i}\phi (h)
+$$
+Since $y_{n+j} \to y(t^{*})$ then $f_{n+j} \to y'(t^{*})$. $\implies f(t_{n+j},y_{n+j}) \to f(t^{*},y(t^{*}))$.
+
+If we take $h \to 0$:
+$$
+\sum j\alpha_{j}-\sum \beta_{j} =0
 $$
