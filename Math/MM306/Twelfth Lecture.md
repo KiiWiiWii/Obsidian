@@ -148,4 +148,15 @@ This function is also plotted in Figure 7.5 (with a dashed line) and we can inde
 #### Zero Stability
 
 
-**Intuition:** 
+**Intuition:** We will say that a method is zero stable if the solutions do not grow unrealistically as $t$ grows.
+
+![[Pasted image 20250321151832.png]]
+
+**Remark:** The consistency conditions of a method can be stated in terms of these polynomials $p, \sigma$.
+$$
+C_{0}= \sum_{j=0}^{k}\alpha_{j} =0 \iff p(1) = 0
+
+$$
+$$
+C_{1}=\sum_{j=0{}
+$$
