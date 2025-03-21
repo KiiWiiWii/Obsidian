@@ -172,6 +172,30 @@ $$
 n \to n+1
 $$
 $$
-y_{n+3} - \frac{3}{2} y_{n+1} + \frac{1}{2}y_{n} = h\left( \frac{1}{2}f_{n+1}+\frac{1}{2}f_{n} \right)
+y_{n+2} - \frac{3}{2} y_{n+1} + \frac{1}{2}y_{n} = h\left( \frac{1}{2}f_{n+1}+\frac{1}{2}f_{n} \right)
+$$
+**Step 1:**
+
+
+
+| $\alpha_{0}=\frac{1}{2}$  | $\beta_{0}=\frac{1}{2}$ |
+| ------------------------- | ----------------------- |
+| $\alpha_{1}=-\frac{3}{2}$ | $\beta_{1}=\frac{1}{2}$ |
+| $\alpha_{2}=1$            | $\beta_{2}=0$           |
+
+**Step 2:** Assemble the first characteristic polynomial.
+
+$$
+\rho (\xi) = \frac{1}{2}-\frac{3}{2}\xi + \xi^{2}
 $$
 
+**Step 3:** Study the roots of the polynomial:
+
+$$
+\xi = \frac{\frac{3}{2} \pm \sqrt{ \frac{3}{4}-2 }}{2}
+$$
+$$
+\xi_{1} = 1 \ \ \ \ \ \ \ \xi_{2} = \frac{1}{2}
+$$
+
+Both roots have modulus < 1 and $|\xi_{1}|=1$ is simple then the method is zero stable
