@@ -274,7 +274,7 @@ $$
 \leq \frac{h^{2}C}{2}(1 + ( 1 + hL) + ( 1 + hL) ^{2} + \dots + ( a + hL) ^{ n - 1})
 $$
 This is a geometric series $$
-0 \leq|e_{n+1}| \leq \frac{Ch^{2}}{2}\left( \frac{1- (1 + hL)^{n+1}}{1 - ( 1 + hL)} \right)
+0 \leq|e_{n+1}| \leq \frac{Ch^{2}}{2}\left( \frac{1- (1 + hL)^{n+1}}{1 - ( 1 + hL)C}C \right)
 $$
 $$
 = \frac{Ch}{2L} ((1 + hL)^{ n+1} - 1)

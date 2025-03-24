@@ -283,12 +283,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Eighth Lecure.md",
+                "file": "Math/MM306/Ninth Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eighth Lecure"
+              "title": "Ninth Lecture"
             }
           }
         ],
@@ -411,13 +411,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Eighth Lecure.md",
+                "file": "Math/MM306/Ninth Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eighth Lecure"
+              "title": "Outline of Ninth Lecture"
             }
           }
         ],
@@ -440,23 +440,28 @@
   },
   "active": "153196196a3fb801",
   "lastOpenFiles": [
-    "Math/MM306/Twelfth Lecture.md",
-    "Pasted image 20250321152831.png",
-    "Pasted image 20250321151832.png",
-    "Pasted image 20250321151333.png",
-    "Pasted image 20250321145330.png",
-    "Pasted image 20250321142142.png",
-    "Math/MM306/Eleventh Lecture.md",
-    "Math/MM306/Images/Pasted image 20250317152249.png",
-    "Math/MM306/Images/Pasted image 20250317145215.png",
+    "Math/MM306/Intro Lecture.md",
     "Math/MM306/Tenth Lecture.md",
-    "Math/MM306/Images/Pasted image 20250310142205.png",
-    "Math/MM306/Images/Pasted image 20250314152928.png",
-    "Math/MM306/Images/Pasted image 20250314151956.png",
-    "Math/MM306/Ninth Lecture.md",
-    "Math/MM306/Eighth Lecure.md",
-    "CompSci/CS208 Algos Notes.md",
+    "Math/MM306/Eleventh Lecture.md",
+    "Math/MM306/Twelfth Lecture.md",
+    "Math/MM306/Third Lecture.md",
     "CompSci/Algorithms/tldr.md",
+    "CompSci/cs208 logic notes.md",
+    "CompSci/Pasted image 20240408131801.png",
+    "Math/MM306/Images/Pasted image 20250203142859.png",
+    "Math/MM306/Images/Pasted image 20250203143847.png",
+    "Math/MM306/Images/Pasted image 20250203154415.png",
+    "Math/MM306/Images/Pasted image 20250321142142.png",
+    "Math/MM306/Fifth Lecture.md",
+    "Math/MM306/Ninth Lecture.md",
+    "Math/MM306/Second Lecture.md",
+    "Math/MM306/Eighth Lecure.md",
+    "Math/MM306/Images/Pasted image 20250321152831.png",
+    "Math/MM306/Images/Pasted image 20250321151832.png",
+    "Math/MM306/Images/Pasted image 20250321151333.png",
+    "Math/MM306/Images/Pasted image 20250321145330.png",
+    "Math/MM306/Images/Pasted image 20250317152249.png",
+    "CompSci/CS208 Algos Notes.md",
     "CompSci/Algorithms/Examples.md",
     "CompSci/Algorithms/CS208 Algorithms.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
@@ -469,13 +474,9 @@
     "Math/MM302/New lecturer yaayayyayya.md",
     "Math/MM306/Sixth Lecture.md",
     "Math/MM306/Seventh Lecture.md",
-    "Math/MM306/Fifth Lecture.md",
     "CompSci/CS317/Next lecture i attended.md",
-    "Math/MM306/Intro Lecture.md",
-    "Math/MM306/Third Lecture.md",
     "Math/MM306/Fourth Lecture.md",
     "Math/MM302/Will need to rewrite.md",
-    "Math/MM302/Normalized Form.md",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
     "Math/MM306",
