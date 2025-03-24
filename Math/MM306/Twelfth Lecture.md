@@ -229,3 +229,4 @@ The roots are $\xi_{0} = 1$, $\xi_{1} = 1$ and $\xi_{2}= -\frac{1}{2}$. So we ha
 **Remark:** Zero stability is necessary for convergence.
 
 **Theorem:** A linear multi step method is convergent if and only if it is consistent and zero stable.
+

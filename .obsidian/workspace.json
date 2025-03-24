@@ -283,12 +283,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Twelfth Lecture.md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Twelfth Lecture"
+              "title": "Eighth Lecure"
             }
           }
         ],
@@ -411,13 +411,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Twelfth Lecture.md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Twelfth Lecture"
+              "title": "Outline of Eighth Lecure"
             }
           }
         ],
@@ -440,13 +440,13 @@
   },
   "active": "153196196a3fb801",
   "lastOpenFiles": [
+    "Math/MM306/Twelfth Lecture.md",
     "Pasted image 20250321152831.png",
     "Pasted image 20250321151832.png",
     "Pasted image 20250321151333.png",
     "Pasted image 20250321145330.png",
     "Pasted image 20250321142142.png",
     "Math/MM306/Eleventh Lecture.md",
-    "Math/MM306/Twelfth Lecture.md",
     "Math/MM306/Images/Pasted image 20250317152249.png",
     "Math/MM306/Images/Pasted image 20250317145215.png",
     "Math/MM306/Tenth Lecture.md",
@@ -454,7 +454,6 @@
     "Math/MM306/Images/Pasted image 20250314152928.png",
     "Math/MM306/Images/Pasted image 20250314151956.png",
     "Math/MM306/Ninth Lecture.md",
-    "Math/MM306/Images/Pasted image 20250310153150.png",
     "Math/MM306/Eighth Lecure.md",
     "CompSci/CS208 Algos Notes.md",
     "CompSci/Algorithms/tldr.md",
