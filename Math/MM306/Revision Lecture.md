@@ -82,4 +82,4 @@ $$
 $$
 R(\bar{h}) = 1 + \bar{h}\underline{b}^{T}(I- \bar{h}A)^{-1}\underline{e}
 $$
-    
+
