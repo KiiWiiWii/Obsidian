@@ -98,3 +98,26 @@ Using $K_{1} - K_{4}$, we can obtain the butcher array for this method. The bott
 
 ![[Pasted image 20250328151214.png]]
 
+## Example
+
+![[Pasted image 20250328151607.png]]
+
+## Example
+
+![[Pasted image 20250328151847.png]]
+
+$$
+y_{n+1} = y_n + \frac{h}{6} (k_1 + 2k_2 + 2k_3 + k_4),
+$$
+
+where
+
+$$
+k_1 = f(t_n, y_n), \quad
+k_2 = f\left(t_n + \frac{h}{2}, y_n + \frac{h}{2}k_1\right),
+$$
+
+$$
+k_3 = f\left(t_n + \frac{h}{2}, y_n + \frac{h}{2}k_2\right), \quad \text{and} \quad
+k_4 = f(t_n + h, y_n + hk_3).
+$$
