@@ -87,5 +87,6 @@ $$
 ## Example
 
 ![[Pasted image 20250328150522.png]]
+Using $K_{1} - K_{4}$, we can obtain the butcher array for this method. The bottom row is obtained from the coefficients of $K_{1}-K_{4}$ in the original question, the left row is taken from the $t_{n} + a$, where $a$ is the row.
 
-
+![[Pasted image 20250328150732.png]]
