@@ -72,3 +72,9 @@ $$
 $$
 ![[Pasted image 20250328144000.png]]
 
+## Absolute Stability
+
+
+
+![[Pasted image 20250328144130.png]]
+
