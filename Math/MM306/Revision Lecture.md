@@ -31,5 +31,22 @@ $$
 K_{1}=f(t_{n},y_{n}) = f_{n}
 $$
 $$
-K_{2}=f\left( t_{n}+\frac{h}{2},y_{n}+ \right)
+K_{2}=f\left( t_{n}+\frac{h}{2},y_{n}+\frac{h}{2}K_{1} \right)
+$$
+So we get:
+$$
+y_{n+1} = y_{n} + hK_{2}
+$$
+**Remark:** This method is no longer linear in $f$.
+
+- Trapezoidal rule
+$$
+y(t_{n+1}) - y(t_{n}) \approx \frac{h}{2} ( f(t_{n},y(t_{n})) + f(t_{n+1}),y(t_{n+1}))
+$$
+$$
+y(t_{n+1}) \approx y(t_{n}) + hf(t_{n},y(t_{n}))
+$$
+Improved Eulers Method
+$$
+y_{n+1} = y_{n} + \frac{h}{2} (f(t_{n},y_{n}) + f(t_{n} + h))
 $$
