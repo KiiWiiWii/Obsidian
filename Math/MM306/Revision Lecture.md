@@ -77,4 +77,9 @@ $$
 
 
 ![[Pasted image 20250328144130.png]]
+![[Pasted image 20250328144655.png]]
 
+$$
+R(\bar{h}) = 1 + \bar{h}b^{T}(I- \bar{h}A)^{-1}e
+$$
+Using the RK-method b
