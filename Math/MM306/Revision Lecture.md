@@ -61,3 +61,14 @@ $$
 K_{2} = f(t_{n} + h, y_{n} + hK_{1})
 $$
 ![[Pasted image 20250328142942.png]]
+
+## Analyis of RK - Methods
+
+**Theorem**: The RK - Method is convergent if and only if it is consistent and zero stable.
+
+**Theorem:** Rk Method is consistent if:
+$$
+\sum_{i = 1}^{s} b_{i} = 1
+$$
+![[Pasted image 20250328144000.png]]
+
