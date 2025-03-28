@@ -135,7 +135,7 @@ $$
 -\hbar (C_{3}-a_{32}) & -\hbar a_{32} & 1
 \end{bmatrix}
 $$
-**Step 2 compute $d = (I- \hbar A)^{-1}\underline{e}$
+**Step 2: compute $d = (I- \hbar A)^{-1}\underline{e}$
 
 Solve the linear system $$
 (I-\hbar A)d = \underline{e}
@@ -151,4 +151,29 @@ $$
 $$
 $$
 = 1 + \hbar (c_{3})+ \hbar^{2}a_{32}c_{2}
+$$
+$$
+d = \begin{bmatrix}
+1 \\
+1+\hbar c_{2} \\
+1 + \hbar c_{3}+\hbar^{2}a_{32}c_{2}
+\end{bmatrix}
+$$
+**Step 3:**
+
+$$
+R(\hbar) = 1 + \hbar b^{T}d
+$$
+$$
+=1 + \hbar (b_{1},b_{2},b_{3})\begin{bmatrix}
+1 \\
+1+\hbar c_{2} \\
+1 + \hbar c_{3}+\hbar^{2}a_{32}c_{2}
+\end{bmatrix}
+$$
+$$
+= 1 + \hbar \{ b_{1} + b_{2} + \hbar b_{2}c_{2} + b_{3} + \hbar b_{3}c_{3}+\hbar^{2}a_{32}c_{2}b_{3} \}
+$$
+$$
+= 1 + \hbar \{ b_{1} + b_{2} + b_{3} \} + \hbar^{2}(b_{2}c_{2} +b_{3}c_{3}) + \hbar^{3}a_{32}c_{2}b_{3}
 $$
