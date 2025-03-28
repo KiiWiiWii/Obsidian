@@ -121,3 +121,8 @@ $$
 k_3 = f\left(t_n + \frac{h}{2}, y_n + \frac{h}{2}k_2\right), \quad \text{and} \quad
 k_4 = f(t_n + h, y_n + hk_3).
 $$
+![[Pasted image 20250328152527.png]]
+
+$$
+R(\hbar r)
+$$
