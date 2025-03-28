@@ -124,5 +124,31 @@ $$
 ![[Pasted image 20250328152527.png]]
 
 $$
-R(\hbar r)
+R(\hbar) = 1 + \hbar r\underline{b}^{T}(I - \hbar A)^{-1}e
+$$
+**Step 1: Build the matrix $I - \hbar A$
+
+$$
+\begin{bmatrix}
+1 & 0 & 0  \\
+-\hbar C_{2} & 1 & 0 \\
+-\hbar (C_{3}-a_{32}) & -\hbar a_{32} & 1
+\end{bmatrix}
+$$
+**Step 2 compute $d = (I- \hbar A)^{-1}\underline{e}$
+
+Solve the linear system $$
+(I-\hbar A)d = \underline{e}
+$$
+$$
+(1) d_{1} = 1
+$$
+$$
+(2) \ \ \ \ \ - \hbar c_{2}d_{1}+d_{2}= 1 \iff d_{2} = 1 - \hbar c_{2}
+$$
+$$
+(3) \ \ \ \ \ - \hbar (c_{3}-a_{32})d_{1} 1 - \hbar a_{32}d_{2} + d_{3} = 1 \iff d_{3} = 1 + \hbar (c_{3}-a_{32}) + \hbar a_{32}(1 + \hbar c_{2})
+$$
+$$
+= 1 + \hbar (c_{3})+ \hbar^{2}a_{32}c_{2}
 $$
