@@ -46,7 +46,19 @@ $$
 $$
 y(t_{n+1}) \approx y(t_{n}) + hf(t_{n},y(t_{n}))
 $$
-Improved Eulers Method
+Improved Euler's Method
 $$
-y_{n+1} = y_{n} + \frac{h}{2} (f(t_{n},y_{n}) + f(t_{n} + h))
+y_{n+1} = y_{n} + \frac{h}{2} (f(t_{n},y_{n}) + f(t_{n} + h,y_{n} + hf(t_{n},y_{n})))
 $$
+Using our $K$ notation, 
+$$
+y_{n+1} = y_{n} + \frac{h}{2} ( K_{1}+K_{2})
+$$
+$$
+K_{1} = f_{n}
+$$
+$$
+K_{2} = f(t_{n} + h, y_{n} + hK_{1})
+$$
+![[Pasted image 20250328142942.png]]
+
