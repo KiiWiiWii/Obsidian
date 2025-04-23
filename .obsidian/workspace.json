@@ -38,13 +38,14 @@
             "id": "019d69360b72b322",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "CompSci/CS208 Algos Notes.md",
-                "staged": false
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (CS208 Algos Notes)"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -80,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "head",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,8 +195,8 @@
   },
   "active": "019d69360b72b322",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Math/MM306/Eighth Lecure.md",
+    "conflict-files-obsidian-git.md",
     "Math/MM306/Study/Quick review before the exam..md",
     "Math/MM306/Study",
     "Math/MM302/Examples/Example 1.5.md",
