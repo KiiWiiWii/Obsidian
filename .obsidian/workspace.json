@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Eighth Lecure.md",
+                "file": "Math/MM306/Tenth Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eighth Lecure"
+              "title": "Tenth Lecture"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM306/Eighth Lecure.md",
+                "file": "Math/MM306/Tenth Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eighth Lecure"
+              "title": "Backlinks for Tenth Lecture"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM306/Eighth Lecure.md",
+                "file": "Math/MM306/Tenth Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eighth Lecure"
+              "title": "Outgoing links from Tenth Lecture"
             }
           },
           {
@@ -166,15 +166,18 @@
   },
   "active": "76ae1b34cbb989b5",
   "lastOpenFiles": [
-    "Math/MM306/Eleventh Lecture.md",
     "Math/MM306/Sixth Lecture.md",
     "Math/MM306/Seventh Lecture.md",
+    "Math/MM306/Second Lecture.md",
+    "Math/MM306/Revision Lecture.md",
+    "Math/MM306/Ninth Lecture.md",
+    "Math/MM306/Eighth Lecure.md",
+    "Math/MM306/Eleventh Lecture.md",
     "Math/MM306/Tenth Lecture.md",
     "Math/MM306/Third Lecture.md",
     "Math/MM306/Twelfth Lecture.md",
     "Math/MM306/Study/Quick review before the exam..md",
     "conflict-files-obsidian-git.md",
-    "Math/MM306/Eighth Lecure.md",
     "Math/MM306/Study",
     "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/- Master Sheet MM302 -.md",
@@ -193,8 +196,6 @@
     "Pasted image 20250328150522.png",
     "Pasted image 20250328144655.png",
     "Pasted image 20250328144635.png",
-    "Math/MM306/Revision Lecture.md",
-    "Math/MM306/Ninth Lecture.md",
     "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "Math/MM302/Partial Sums.md",
     "Math/MM302/SIR Model.canvas",
@@ -205,7 +206,6 @@
     "Math/MM302/Will need to rewrite.md",
     "Untitled.md",
     "Untitled 1.md",
-    "CompSci/CS317/Second Lecture.md",
     "CompSci/CS317/Project.canvas",
     "CompSci/CS209/Card Sorting.canvas",
     "Personal/Solitare/Solitare UML.canvas",
