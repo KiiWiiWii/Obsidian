@@ -20,36 +20,8 @@
               "icon": "lucide-file",
               "title": "Quick review before the exam."
             }
-          },
-          {
-            "id": "f641233bc3de23f8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-latex-suite/data.json",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
-            }
-          },
-          {
-            "id": "019d69360b72b322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Will need to rewrite this too.md",
+                "file": "Math/MM306/Study/Quick review before the exam..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Will need to rewrite this too"
+              "title": "Backlinks for Quick review before the exam."
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Will need to rewrite this too.md",
+                "file": "Math/MM306/Study/Quick review before the exam..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Will need to rewrite this too"
+              "title": "Outgoing links from Quick review before the exam."
             }
           },
           {
@@ -176,11 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 703.5
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019d69360b72b322",
+  "active": "4d345b8e4369bc8a",
   "lastOpenFiles": [
-    "Math/MM306/Eighth Lecure.md",
     "conflict-files-obsidian-git.md",
+    "Math/MM306/Eighth Lecure.md",
     "Math/MM306/Study/Quick review before the exam..md",
     "Math/MM306/Study",
     "Math/MM302/Examples/Example 1.5.md",
