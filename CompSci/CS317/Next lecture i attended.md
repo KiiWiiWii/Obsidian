@@ -4,4 +4,3 @@ Hes going over local storage today, which is literally what it sounds like and y
 ```javascript
 let var1 = localStroage.item1 // This Stores the local storage `item1` as var1
 ```
-
