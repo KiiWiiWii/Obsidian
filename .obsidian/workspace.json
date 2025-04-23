@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Study/Quick review before the exam..md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick review before the exam."
+              "title": "Eighth Lecure"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MM306/Study/Quick review before the exam..md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quick review before the exam."
+              "title": "Backlinks for Eighth Lecure"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MM306/Study/Quick review before the exam..md",
+                "file": "Math/MM306/Eighth Lecure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quick review before the exam."
+              "title": "Outgoing links from Eighth Lecure"
             }
           },
           {
@@ -164,23 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d345b8e4369bc8a",
+  "active": "76ae1b34cbb989b5",
   "lastOpenFiles": [
+    "Math/MM306/Eleventh Lecture.md",
+    "Math/MM306/Sixth Lecture.md",
+    "Math/MM306/Seventh Lecture.md",
+    "Math/MM306/Tenth Lecture.md",
+    "Math/MM306/Third Lecture.md",
+    "Math/MM306/Twelfth Lecture.md",
+    "Math/MM306/Study/Quick review before the exam..md",
     "conflict-files-obsidian-git.md",
     "Math/MM306/Eighth Lecure.md",
-    "Math/MM306/Study/Quick review before the exam..md",
     "Math/MM306/Study",
     "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM302/Images/Pasted image 20241107141102.png",
     "Math/MM302/Analytic Functions.md",
-    "Math/MM306/Third Lecture.md",
     "Math/MM306/Fourth Lecture.md",
-    "Math/MM306/Sixth Lecture.md",
     "Math/MM302/New lecturer yaayayyayya.md",
     "CompSci/CS208 Algos Notes.md",
     "Math/MM302/MM302_Week5_notes.pdf",
-    "Math/MM306/Seventh Lecture.md",
     "Pasted image 20250328152527.png",
     "Pasted image 20250328151847.png",
     "Pasted image 20250328151607.png",
@@ -190,11 +193,8 @@
     "Pasted image 20250328150522.png",
     "Pasted image 20250328144655.png",
     "Pasted image 20250328144635.png",
-    "Math/MM306/Twelfth Lecture.md",
-    "Math/MM306/Tenth Lecture.md",
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Ninth Lecture.md",
-    "Math/MM306/Eleventh Lecture.md",
     "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "Math/MM302/Partial Sums.md",
     "Math/MM302/SIR Model.canvas",
