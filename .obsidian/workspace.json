@@ -4,281 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "12e6a2eeccb800e1",
+        "id": "aa231622d594446d",
         "type": "tabs",
         "children": [
           {
-            "id": "5474cc3c0d05d5af",
+            "id": "76ae1b34cbb989b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.5.md",
+                "file": "Math/MM306/Study/Quick review before the exam..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example 1.5"
+              "title": "Quick review before the exam."
             }
           },
           {
-            "id": "b8045b99fdd37bec",
+            "id": "f641233bc3de23f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-latex-suite/data.json",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
             }
           },
           {
-            "id": "bd716a430133763d",
+            "id": "019d69360b72b322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "- Master Sheet MM302 -"
-            }
-          },
-          {
-            "id": "3dc91eadbeb9da3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Will need to rewrite this too.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Will need to rewrite this too"
-            }
-          },
-          {
-            "id": "0f9d781e129b2d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Another rewrite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Another rewrite"
-            }
-          },
-          {
-            "id": "fcecb28d5c1d70ba",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "302_slides_chap5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "302_slides_chap5"
-            }
-          },
-          {
-            "id": "ee68915cf81ba205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7 part 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7 part 2"
-            }
-          },
-          {
-            "id": "05dabfb3c0db896e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7 part 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7 part 2"
-            }
-          },
-          {
-            "id": "be9aab273d276c1a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math/MM302/Images/Pasted image 20241107141102.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241107141102"
-            }
-          },
-          {
-            "id": "4738c67b10a007d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/Analytic Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Analytic Functions"
-            }
-          },
-          {
-            "id": "3e98b03a636392b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "8553cd30b007cd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 9"
-            }
-          },
-          {
-            "id": "23fdc4088466395d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "ce96d25f471be07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision Lecture PDE's.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revision Lecture PDE's"
-            }
-          },
-          {
-            "id": "e7bcf4bde89425b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Third Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Third Lecture"
-            }
-          },
-          {
-            "id": "89a536882aeba451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Fourth Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fourth Lecture"
-            }
-          },
-          {
-            "id": "e54cd7d8d3bfe190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Sixth Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sixth Lecture"
-            }
-          },
-          {
-            "id": "76dd1654b3854072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/New lecturer yaayayyayya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New lecturer yaayayyayya"
-            }
-          },
-          {
-            "id": "07e135939f0d15d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "CompSci/CS208 Algos Notes.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "CS208 Algos Notes"
-            }
-          },
-          {
-            "id": "9a401905a5e95052",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math/MM302/MM302_Week5_notes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "MM302_Week5_notes"
+              "icon": "git-pull-request",
+              "title": "Diff View (CS208 Algos Notes)"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -385,25 +155,22 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "b873773eaac09366",
+            "id": "5900fe3c076a814c",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Math/MM302/MM302_Week5_notes.pdf",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of MM302_Week5_notes"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -411,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 703.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,8 +191,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a401905a5e95052",
+  "active": "019d69360b72b322",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Math/MM306/Eighth Lecure.md",
+    "Math/MM306/Study/Quick review before the exam..md",
+    "Math/MM306/Study",
+    "Math/MM302/Examples/Example 1.5.md",
+    "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Images/Pasted image 20241107141102.png",
+    "Math/MM302/Analytic Functions.md",
+    "Math/MM306/Third Lecture.md",
+    "Math/MM306/Fourth Lecture.md",
+    "Math/MM306/Sixth Lecture.md",
+    "Math/MM302/New lecturer yaayayyayya.md",
+    "CompSci/CS208 Algos Notes.md",
+    "Math/MM302/MM302_Week5_notes.pdf",
+    "Math/MM306/Seventh Lecture.md",
+    "Pasted image 20250328152527.png",
+    "Pasted image 20250328151847.png",
+    "Pasted image 20250328151607.png",
+    "Pasted image 20250328151214.png",
+    "Pasted image 20250328151103.png",
+    "Pasted image 20250328150732.png",
+    "Pasted image 20250328150522.png",
+    "Pasted image 20250328144655.png",
+    "Pasted image 20250328144635.png",
+    "Math/MM306/Twelfth Lecture.md",
+    "Math/MM306/Tenth Lecture.md",
+    "Math/MM306/Revision Lecture.md",
+    "Math/MM306/Ninth Lecture.md",
+    "Math/MM306/Eleventh Lecture.md",
     "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
     "Math/MM302/Partial Sums.md",
     "Math/MM302/SIR Model.canvas",
@@ -433,7 +229,6 @@
     "Math/MM302/Theorem 5.md",
     "Math/MM302/Untitled.md",
     "Math/MM302/Untitled.canvas",
-    "Math/MM306/Eighth Lecure.md",
     "Math/MM302/Will need to rewrite.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -441,32 +236,6 @@
     "CompSci/CS317/Project.canvas",
     "CompSci/CS209/Card Sorting.canvas",
     "Personal/Solitare/Solitare UML.canvas",
-    "Personal/Solitare/Additional Notes for Solitaire.md",
-    "Personal/Solitare/Database for solitare.md",
-    "Math/MM302/Will need to rewrite this too.md",
-    "Math/MM306/Sixth Lecture.md",
-    "Math/MM202/MM202 06-03-2024.md",
-    "Math/MM302/New lecturer yaayayyayya.md",
-    "Math/MM302/Exam from last year - part 1.md",
-    "Math/MM302/Legendres Equation.md",
-    "Math/MM302/Changing Notation for odd and even function.md",
-    "Math/MM302/Another rewrite.md",
-    "Math/MM302/Analytic Functions.md",
-    "Math/MM302/Advection Equation.md",
-    "Math/MM306/Second Lecture.md",
-    "CompSci/CS208 Algos Notes.md",
-    "CompSci/CS317/First Lecture.md",
-    "Math/MM306/Images/Pasted image 20250120152947.png",
-    "Math/MM306/Images/Pasted image 20250120153052.png",
-    "Math/MM306/Images/Pasted image 20250120153322.png",
-    "Math/MM306/Images/Pasted image 20250120151949.png",
-    "Math/MM306/Images/Pasted image 20250228154134.png",
-    "Math/MM306/Images/Pasted image 20250303152905.png",
-    "CompSci/CS317/Next lecture i attended.md",
-    "Math/MM306/Images/Pasted image 20250303150912.png",
-    "Math/MM306/Images/Pasted image 20250303144344.png",
-    "Math/MM306/Images/Pasted image 20250303144204.png",
-    "Math/MM306/Images/Pasted image 20250303144031.png",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
     "Math/MM306",
@@ -474,9 +243,7 @@
     "Math/MM302/4_MM302_phase-plane.pdf",
     "Math/MM302/5.3.pdf",
     "Math/MM302/302_slides_chap4_ex.pdf",
-    "Math/MM302/MM302_Week5_notes.pdf",
     "cd",
-    "Math/MM302/Images",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas"
   ]
