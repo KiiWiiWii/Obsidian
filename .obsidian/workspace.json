@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Quick review before the exam."
             }
+          },
+          {
+            "id": "2fcf46e8f9e74879",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,6 +158,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e66501fd85e01e7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
         "currentTab": 2
@@ -164,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ae1b34cbb989b5",
+  "active": "2fcf46e8f9e74879",
   "lastOpenFiles": [
     "Math/MM306/Tenth Lecture.md",
     "Math/MM306/Sixth Lecture.md",
