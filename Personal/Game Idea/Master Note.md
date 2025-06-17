@@ -1,0 +1,1 @@
+Like Phasmophobia, but for Doctor shit. Instead of finding ghosts, the player is given a patient who shows symptoms. They need to run tests and stuff to find out what's wrong, like in house.
