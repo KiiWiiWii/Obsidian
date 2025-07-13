@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d899d5653d36d0f3","type":"text","text":"# Running","x":-1120,"y":-280,"width":649,"height":1080},
+		{"id":"da627455cd5d8321","type":"text","text":"# Forums","x":-444,"y":-280,"width":336,"height":1080},
+		{"id":"ade15cdd3122e5dd","type":"text","text":"# Profile","x":-68,"y":-280,"width":336,"height":1080},
+		{"id":"b83d97ffb5397193","type":"text","text":"# Social","x":308,"y":-280,"width":336,"height":1080},
+		{"id":"c876b13aa6d25025","type":"text","text":"# Messages","x":684,"y":-280,"width":376,"height":1080},
+		{"id":"be148194b1641110","type":"text","text":"# Database","x":-59,"y":-480,"width":318,"height":60},
+		{"id":"f72fb57a9658c879","type":"text","text":"# Login / Signup","x":620,"y":-485,"width":440,"height":70},
+		{"id":"5904c8a6ad958245","type":"text","text":"# Navbar","x":-25,"y":1000,"width":250,"height":60},
+		{"id":"11109cc765657f27","type":"text","text":"Ui for starting a run","x":-780,"y":-180,"width":280,"height":120,"color":"2"},
+		{"id":"1f033d7c26edcfe2","type":"text","text":"Track users ran path","x":-780,"y":160,"width":280,"height":120,"color":"2"},
+		{"id":"4abdd4bca5e19f48","type":"text","text":"Stop run and display","x":-780,"y":320,"width":280,"height":120,"color":"2"},
+		{"id":"8fdf44a308dd6be4","type":"text","text":"Display map on users location","x":-780,"y":0,"width":280,"height":120,"color":"2"},
+		{"id":"08315995eccd08c6","type":"text","text":"Ui for displaying routes","x":-1430,"y":-180,"width":280,"height":120,"color":"2"},
+		{"id":"5d06b9e03c93a3fd","type":"text","text":"Ui creating routes","x":-1754,"y":-180,"width":280,"height":120,"color":"2"},
+		{"id":"8cf0da3543802217","type":"text","text":"# Routes","x":-1799,"y":-280,"width":649,"height":1080},
+		{"id":"7f1b7904e945aa4f","type":"text","text":"Track users data","x":-1075,"y":160,"width":280,"height":120,"color":"2"}
+	],
+	"edges":[
+		{"id":"7f8aa9a64ae72a3c","fromNode":"d899d5653d36d0f3","fromSide":"bottom","toNode":"5904c8a6ad958245","toSide":"top"},
+		{"id":"55ef43bdfed40807","fromNode":"da627455cd5d8321","fromSide":"bottom","toNode":"5904c8a6ad958245","toSide":"top"},
+		{"id":"babe2b13eb0e80db","fromNode":"ade15cdd3122e5dd","fromSide":"bottom","toNode":"5904c8a6ad958245","toSide":"top"},
+		{"id":"af9fb8271043ab3a","fromNode":"b83d97ffb5397193","fromSide":"bottom","toNode":"5904c8a6ad958245","toSide":"top"},
+		{"id":"7e394a05710a0f11","fromNode":"c876b13aa6d25025","fromSide":"bottom","toNode":"5904c8a6ad958245","toSide":"top"},
+		{"id":"eaf55c8c1eb3391d","fromNode":"da627455cd5d8321","fromSide":"top","toNode":"be148194b1641110","toSide":"bottom"},
+		{"id":"67e8ea2d59c2ebb3","fromNode":"ade15cdd3122e5dd","fromSide":"top","toNode":"be148194b1641110","toSide":"bottom"},
+		{"id":"b1b2dfef5916beb2","fromNode":"b83d97ffb5397193","fromSide":"top","toNode":"be148194b1641110","toSide":"bottom"},
+		{"id":"e1e994c81024b2a2","fromNode":"f72fb57a9658c879","fromSide":"left","toNode":"be148194b1641110","toSide":"right"},
+		{"id":"82150a9dc5c0da77","fromNode":"11109cc765657f27","fromSide":"bottom","toNode":"8fdf44a308dd6be4","toSide":"bottom"},
+		{"id":"2e23182b70df325f","fromNode":"11109cc765657f27","fromSide":"bottom","toNode":"8fdf44a308dd6be4","toSide":"top"}
+	]
+}

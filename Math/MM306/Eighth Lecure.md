@@ -279,6 +279,10 @@ $$
 = \frac{f(x) \times f''(x)}{(f'(x))^{2}}
 $$
 $$
+g'(x_{n}) = 1 -\frac{f'(x)^{2}- f(x) \times f''(x)}{(f'(x))^{2}}
+$$
+
+$$
 g'(\alpha) = \frac{\cancel{ f(\alpha) } f''(\alpha)}{(f'(\alpha))^{2}} = 0
 $$
 $$
@@ -293,6 +297,5 @@ $$
 $$
 \implies \text{F.P.M has order of conv 2}
 $$
-
 
 
