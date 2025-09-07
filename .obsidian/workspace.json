@@ -11,14 +11,17 @@
             "id": "5474cc3c0d05d5af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Math/MM302/Examples/Example 1.5.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/MM302/SIR Model.canvas",
+                "viewState": {
+                  "x": -49.5,
+                  "y": 290,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Example 1.5"
+              "icon": "lucide-layout-dashboard",
+              "title": "SIR Model"
             }
           },
           {
@@ -325,16 +328,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM306/Fourth Lecture.md",
+                "file": "Math/MM302/- Master Sheet MM302 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fourth Lecture"
+              "title": "- Master Sheet MM302 -"
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -453,13 +455,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Fourth Lecture.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "Math/MM302/SIR Model.canvas",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fourth Lecture"
+              "title": "Outline of SIR Model"
             }
           }
         ],
@@ -480,8 +482,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f20684df36a6519",
+  "active": "5474cc3c0d05d5af",
   "lastOpenFiles": [
+    "Math/MM302/Untitled.canvas",
+    "Personal/Solitare/Solitare UML.canvas",
+    "Personal/Solitare/Database for solitare.md",
+    "Personal/Solitare/Additional Notes for Solitaire.md",
+    "Math/MM302/SIR Model.canvas",
+    "CompSci/Pasted image 20240408131801.png",
+    "Math/MM302/Examples/Example 1.5.md",
+    "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM306/Fourth Lecture.md",
     "Math/MM302/Another rewrite.md",
     "Math/MM302/Advection Equation.md",
     "TEST.md",
@@ -507,7 +518,6 @@
     "Math/MM306/Images/Pasted image 20250328150732.png",
     "Math/MM306/Images/Pasted image 20250328150522.png",
     "Math/MM306/Images/Pasted image 20250328144655.png",
-    "Math/MM306/Images/Pasted image 20250328144635.png",
     "Math/MM306/Ninth Lecture.md",
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Intro Lecture.md",
@@ -521,17 +531,8 @@
     "Math/MM306/Eighth Lecure.md",
     "CompSci/CS208 Algos Notes.md",
     "CompSci/Algorithms/Examples.md",
-    "CompSci/Algorithms/CS208 Algorithms.md",
-    "Personal/Solitare/Additional Notes for Solitaire.md",
-    "Personal/Solitare/Database for solitare.md",
-    "Personal/Solitare/Solitare UML.canvas",
-    "Math/MM302/Exam from last year - part 1.md",
-    "Math/MM302/Definition 4.md",
-    "Math/MM302/Bessels Equation.md",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
-    "Math/MM302/Untitled.canvas",
-    "Math/MM302/SIR Model.canvas",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS209/Card Sorting.canvas"
