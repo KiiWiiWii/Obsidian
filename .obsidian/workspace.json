@@ -325,12 +325,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST.md",
+                "file": "Math/MM306/Fourth Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEST"
+              "title": "Fourth Lecture"
             }
           }
         ],
@@ -453,13 +453,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST.md",
+                "file": "Math/MM306/Fourth Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TEST"
+              "title": "Outline of Fourth Lecture"
             }
           }
         ],
@@ -482,8 +482,10 @@
   },
   "active": "1f20684df36a6519",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Math/MM302/Another rewrite.md",
+    "Math/MM302/Advection Equation.md",
     "TEST.md",
+    "Untitled.md",
     "Math/MM306/Eleventh Lecture.md",
     "CompSci/CS411",
     "Math/MM420",
@@ -526,8 +528,6 @@
     "Math/MM302/Exam from last year - part 1.md",
     "Math/MM302/Definition 4.md",
     "Math/MM302/Bessels Equation.md",
-    "Math/MM302/New lecturer yaayayyayya.md",
-    "Math/MM306/Sixth Lecture.md",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
     "Math/MM302/Untitled.canvas",
