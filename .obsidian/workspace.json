@@ -295,12 +295,14 @@
             "id": "0f260d485556dae9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Math/MM306/Eleventh Lecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Eleventh Lecture"
             }
           }
         ],
@@ -423,12 +425,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Math/MM306/Eleventh Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Eleventh Lecture"
             }
           }
         ],
@@ -451,21 +454,22 @@
   },
   "active": "0f260d485556dae9",
   "lastOpenFiles": [
+    "Math/MM306/Images/Pasted image 20250328142926.png",
     "Personal/Game Idea/Master Note.md",
     "Personal/Game Idea",
     "Math/MM306/Study/Quick review before the exam..md",
     "Math/MM306/Study",
     "CompSci/CS317/Project.canvas",
-    "Pasted image 20250328152527.png",
-    "Pasted image 20250328151847.png",
-    "Pasted image 20250328151607.png",
-    "Pasted image 20250328151214.png",
-    "Pasted image 20250328151103.png",
-    "Pasted image 20250328150732.png",
-    "Pasted image 20250328150522.png",
-    "Pasted image 20250328144655.png",
-    "Pasted image 20250328144635.png",
-    "Pasted image 20250328144130.png",
+    "Math/MM306/Images/Pasted image 20250328152527.png",
+    "Math/MM306/Images/Pasted image 20250328151847.png",
+    "Math/MM306/Images/Pasted image 20250328151607.png",
+    "Math/MM306/Images/Pasted image 20250328151214.png",
+    "Math/MM306/Images/Pasted image 20250328151103.png",
+    "Math/MM306/Images/Pasted image 20250328150732.png",
+    "Math/MM306/Images/Pasted image 20250328150522.png",
+    "Math/MM306/Images/Pasted image 20250328144655.png",
+    "Math/MM306/Images/Pasted image 20250328144635.png",
+    "Math/MM306/Images/Pasted image 20250328144130.png",
     "Math/MM306/Ninth Lecture.md",
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Intro Lecture.md",
@@ -490,7 +494,6 @@
     "Untitled.md",
     "Math/MM302/New lecturer yaayayyayya.md",
     "Math/MM306/Sixth Lecture.md",
-    "Math/MM306/Seventh Lecture.md",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
     "Math/MM306",
