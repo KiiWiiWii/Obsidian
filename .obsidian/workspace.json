@@ -304,9 +304,37 @@
               "icon": "lucide-file",
               "title": "Eleventh Lecture"
             }
+          },
+          {
+            "id": "7bb47da20235e99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "1f20684df36a6519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEST"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -425,13 +453,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM306/Eleventh Lecture.md",
+                "file": "TEST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eleventh Lecture"
+              "title": "Outline of TEST"
             }
           }
         ],
@@ -452,8 +480,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f260d485556dae9",
+  "active": "1f20684df36a6519",
   "lastOpenFiles": [
+    "Untitled.md",
+    "TEST.md",
+    "Math/MM306/Eleventh Lecture.md",
+    "CompSci/CS411",
+    "Math/MM420",
+    "Math/MM409",
+    "Math/MM406",
+    "CompSci/CS409",
+    "CompSci/CS408",
     "Math/MM306/Images/Pasted image 20250328142926.png",
     "Personal/Game Idea/Master Note.md",
     "Personal/Game Idea",
@@ -469,12 +506,10 @@
     "Math/MM306/Images/Pasted image 20250328150522.png",
     "Math/MM306/Images/Pasted image 20250328144655.png",
     "Math/MM306/Images/Pasted image 20250328144635.png",
-    "Math/MM306/Images/Pasted image 20250328144130.png",
     "Math/MM306/Ninth Lecture.md",
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Tenth Lecture.md",
-    "Math/MM306/Eleventh Lecture.md",
     "Math/MM306/Twelfth Lecture.md",
     "Math/MM306/Third Lecture.md",
     "CompSci/Algorithms/tldr.md",
@@ -491,18 +526,11 @@
     "Math/MM302/Exam from last year - part 1.md",
     "Math/MM302/Definition 4.md",
     "Math/MM302/Bessels Equation.md",
-    "Untitled.md",
     "Math/MM302/New lecturer yaayayyayya.md",
     "Math/MM306/Sixth Lecture.md",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
-    "Math/MM306",
-    "CompSci/CS317",
     "Math/MM302/Untitled.canvas",
-    "Math/MM302/4_MM302_phase-plane.pdf",
-    "Math/MM302/5.3.pdf",
-    "Math/MM302/302_slides_chap4_ex.pdf",
-    "Math/MM302/MM302_Week5_notes.pdf",
     "Math/MM302/SIR Model.canvas",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
