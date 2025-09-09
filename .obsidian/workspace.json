@@ -28,12 +28,14 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Math/MM306/Twelfth Lecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Twelfth Lecture"
             }
           },
           {
@@ -468,12 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Math/MM306/Twelfth Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Twelfth Lecture"
             }
           }
         ],
@@ -497,6 +500,13 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "Math/MM306/Sixth Lecture.md",
+    "Math/MM306/Seventh Lecture.md",
+    "Math/MM306/Intro Lecture.md",
+    "Math/MM306/Eleventh Lecture.md",
+    "Math/MM306/Fifth Lecture.md",
+    "TEST.md",
+    "CompSci/CS317/First Lecture.md",
     "Math/MM302/Untitled.canvas",
     "Personal/Solitare/Solitare UML.canvas",
     "Personal/Solitare/Database for solitare.md",
@@ -508,9 +518,7 @@
     "Math/MM306/Fourth Lecture.md",
     "Math/MM302/Another rewrite.md",
     "Math/MM302/Advection Equation.md",
-    "TEST.md",
     "Untitled.md",
-    "Math/MM306/Eleventh Lecture.md",
     "CompSci/CS411",
     "Math/MM420",
     "Math/MM409",
@@ -533,17 +541,13 @@
     "Math/MM306/Images/Pasted image 20250328144655.png",
     "Math/MM306/Ninth Lecture.md",
     "Math/MM306/Revision Lecture.md",
-    "Math/MM306/Intro Lecture.md",
     "Math/MM306/Tenth Lecture.md",
     "Math/MM306/Twelfth Lecture.md",
     "Math/MM306/Third Lecture.md",
     "CompSci/Algorithms/tldr.md",
     "CompSci/cs208 logic notes.md",
-    "Math/MM306/Fifth Lecture.md",
     "Math/MM306/Second Lecture.md",
     "Math/MM306/Eighth Lecure.md",
-    "CompSci/CS208 Algos Notes.md",
-    "CompSci/Algorithms/Examples.md",
     "Math/MM302/302_slides_chap5.pdf",
     "Math/MM306/Images",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
