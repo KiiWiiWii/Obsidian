@@ -25,6 +25,18 @@
             }
           },
           {
+            "id": "2c1cd2083df3aba7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "b8045b99fdd37bec",
             "type": "leaf",
             "state": {
@@ -336,7 +348,8 @@
               "title": "- Master Sheet MM302 -"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -455,13 +468,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM302/SIR Model.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SIR Model"
+              "title": "Outline"
             }
           }
         ],
@@ -473,6 +485,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -482,7 +495,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5474cc3c0d05d5af",
+  "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
     "Math/MM302/Untitled.canvas",
     "Personal/Solitare/Solitare UML.canvas",
