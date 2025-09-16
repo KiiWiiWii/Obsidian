@@ -28,12 +28,14 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CompSci/IndividualProjectGuidelines.pdf"
+                "file": "personalProjects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "IndividualProjectGuidelines"
+              "icon": "lucide-file",
+              "title": "personalProjects"
             }
           },
           {
@@ -468,13 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/IndividualProjectGuidelines.pdf",
+                "file": "personalProjects.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IndividualProjectGuidelines"
+              "title": "Outline of personalProjects"
             }
           }
         ],
@@ -498,8 +500,10 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
-    "CompSci/CS Year 4 Induciton.md",
     "CompSci/CS year 4 Preliminaries.md",
+    "CompSci/CS Year 4 Induciton.md",
+    "CompSci/IndividualProjectGuidelines.pdf",
+    "personalProjects.md",
     "Pasted image 20250916133207.png",
     "4",
     "Pasted image 20250916132112.png",
@@ -545,9 +549,6 @@
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Tenth Lecture.md",
     "Math/MM306/Third Lecture.md",
-    "CompSci/Algorithms/tldr.md",
-    "CompSci/cs208 logic notes.md",
-    "Math/MM302/302_slides_chap5.pdf",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS209/Card Sorting.canvas"
