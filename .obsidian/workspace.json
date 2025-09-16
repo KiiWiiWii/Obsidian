@@ -28,14 +28,12 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CompSci/CS year 4 Preliminaries.md",
-                "mode": "source",
-                "source": false
+                "file": "CompSci/IndividualProjectGuidelines.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CS year 4 Preliminaries"
+              "icon": "lucide-file-text",
+              "title": "IndividualProjectGuidelines"
             }
           },
           {
@@ -470,13 +468,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS year 4 Preliminaries.md",
+                "file": "CompSci/IndividualProjectGuidelines.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CS year 4 Preliminaries"
+              "title": "Outline of IndividualProjectGuidelines"
             }
           }
         ],
@@ -500,9 +498,9 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "CompSci/CS year 4 Preliminaries.md",
     "CompSci/IndividualProjectGuidelines.pdf",
     "personalProjects.md",
-    "CompSci/CS year 4 Preliminaries.md",
     "CompSci/CS Year 4 Induciton.md",
     "Pasted image 20250916133207.png",
     "4",
