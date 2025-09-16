@@ -9,11 +9,13 @@ Degree 25% first year 25% project 50% other 4th year classes
 - Submit in numerical order ie 1 is what i want most and 6 is what i dont really care about.
 - if you dont do ts then given one at random.
 - Once chosen you cannot change
+- Allocation based on graph theory
 
 # Marking scheme
 
 ![[Pasted image 20250916133207.png]]
 
+The mark does not include the progress report but they take it into account with the student performance- 10%. 
 # Project management is about risk (?)
 
 - basically dump a trillion hours into this in sem 1
@@ -35,3 +37,13 @@ sand serif 11 point
 a4 2.5 edge spacing
 TODO: Fill from slides
 
+
+---
+
+# National Student Survey
+
+Bro is Andrew
+
+At the end of the year they want us to do it, we don't need to but they will borderline harass you until you do.
+
+Tell bro problems before the NSS. 
