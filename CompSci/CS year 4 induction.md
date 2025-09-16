@@ -17,4 +17,9 @@ Degree 25% first year 25% project 50% other 4th year classes
 # Project management is about risk (?)
 
 - basically dump a trillion hours into this in sem 1
+- Just do all of it before December actually
 
+# Things to do 
+
+Attend the stuff because you get marks
+Write as you go fromm the start- dont bother with polish just do that later
