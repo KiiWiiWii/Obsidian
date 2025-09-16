@@ -28,12 +28,14 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CompSci/IndividualProjectGuidelines.pdf"
+                "file": "personalProjects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "IndividualProjectGuidelines"
+              "icon": "lucide-file",
+              "title": "personalProjects"
             }
           },
           {
@@ -468,13 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/IndividualProjectGuidelines.pdf",
+                "file": "personalProjects.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IndividualProjectGuidelines"
+              "title": "Outline of personalProjects"
             }
           }
         ],
@@ -482,7 +484,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -498,6 +500,7 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "Math/MM306/Fifth Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
     "CompSci/IndividualProjectGuidelines.pdf",
     "personalProjects.md",
@@ -510,7 +513,6 @@
     "Math/MM306/Seventh Lecture.md",
     "Math/MM306/Intro Lecture.md",
     "Math/MM306/Eleventh Lecture.md",
-    "Math/MM306/Fifth Lecture.md",
     "TEST.md",
     "CompSci/CS317/First Lecture.md",
     "Math/MM302/Untitled.canvas",
