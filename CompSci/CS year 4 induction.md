@@ -22,4 +22,16 @@ Degree 25% first year 25% project 50% other 4th year classes
 # Things to do 
 
 Attend the stuff because you get marks
-Write as you go fromm the start- dont bother with polish just do that later
+
+Write as you go from the start- dont bother with polish just do that later
+
+Do things in short bursts rather than all at once 
+
+# Structure
+
+30 pages max
+1.5 spacing
+sand serif 11 point
+a4 2.5 edge spacing
+TODO: Fill from slides
+
