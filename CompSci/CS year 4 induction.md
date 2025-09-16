@@ -14,5 +14,7 @@ Degree 25% first year 25% project 50% other 4th year classes
 
 ![[Pasted image 20250916133207.png]]
 
+# Project management is about risk (?)
 
+- basically dump a trillion hours into this in sem 1
 
