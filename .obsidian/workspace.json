@@ -28,14 +28,12 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "personalProjects.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/4th year UG handbook_2025-2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "personalProjects"
+              "icon": "lucide-file-text",
+              "title": "4th year UG handbook_2025-2026"
             }
           },
           {
@@ -470,13 +468,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personalProjects.md",
+                "file": "Math/4th year UG handbook_2025-2026.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of personalProjects"
+              "title": "Outline of 4th year UG handbook_2025-2026"
             }
           }
         ],
@@ -500,10 +498,12 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "Math/MM Year 4 Induction.md",
+    "Math/4th year UG handbook_2025-2026.pdf",
+    "personalProjects.md",
     "Math/MM306/Fifth Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
     "CompSci/IndividualProjectGuidelines.pdf",
-    "personalProjects.md",
     "CompSci/CS Year 4 Induciton.md",
     "Pasted image 20250916133207.png",
     "4",
@@ -537,7 +537,6 @@
     "Personal/Game Idea/Master Note.md",
     "Personal/Game Idea",
     "Math/MM306/Study/Quick review before the exam..md",
-    "Math/MM306/Study",
     "CompSci/CS317/Project.canvas",
     "Math/MM306/Images/Pasted image 20250328152527.png",
     "Math/MM306/Images/Pasted image 20250328151847.png",
@@ -548,7 +547,6 @@
     "Math/MM306/Ninth Lecture.md",
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Tenth Lecture.md",
-    "Math/MM306/Third Lecture.md",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS209/Card Sorting.canvas"
