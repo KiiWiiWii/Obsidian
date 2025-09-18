@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM Year 4 Induction.md",
+                "file": "CompSci/CS year 4 Preliminaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MM Year 4 Induction"
+              "title": "CS year 4 Preliminaries"
             }
           },
           {
@@ -470,13 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM Year 4 Induction.md",
+                "file": "CompSci/CS year 4 Preliminaries.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MM Year 4 Induction"
+              "title": "Outline of CS year 4 Preliminaries"
             }
           }
         ],
@@ -500,9 +500,9 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "Math/MM Year 4 Induction.md",
     "Pasted image 20250918140601.png",
     "Math/4th year UG handbook_2025-2026.pdf",
-    "Math/MM Year 4 Induction.md",
     "CompSci/personalProjects.md",
     "Math/MM306/Fifth Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
@@ -546,7 +546,6 @@
     "Math/MM306/Images/Pasted image 20250328151607.png",
     "Math/MM306/Images/Pasted image 20250328151214.png",
     "Math/MM306/Images/Pasted image 20250328151103.png",
-    "Math/MM306/Images/Pasted image 20250328150732.png",
     "Math/MM306/Ninth Lecture.md",
     "Math/MM306/Revision Lecture.md",
     "Math/MM306/Tenth Lecture.md",
