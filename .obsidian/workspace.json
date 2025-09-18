@@ -28,12 +28,14 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math/4th year UG handbook_2025-2026.pdf"
+                "file": "Math/MM Year 4 Induction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4th year UG handbook_2025-2026"
+              "icon": "lucide-file",
+              "title": "MM Year 4 Induction"
             }
           },
           {
@@ -468,13 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/4th year UG handbook_2025-2026.pdf",
+                "file": "Math/MM Year 4 Induction.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4th year UG handbook_2025-2026"
+              "title": "Outline of MM Year 4 Induction"
             }
           }
         ],
@@ -498,9 +500,10 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
-    "Math/MM Year 4 Induction.md",
+    "Pasted image 20250918140601.png",
     "Math/4th year UG handbook_2025-2026.pdf",
-    "personalProjects.md",
+    "Math/MM Year 4 Induction.md",
+    "CompSci/personalProjects.md",
     "Math/MM306/Fifth Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
     "CompSci/IndividualProjectGuidelines.pdf",
