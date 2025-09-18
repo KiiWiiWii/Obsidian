@@ -24,7 +24,7 @@ If you wanna transfer then you need 120 credits and the 401 project which is wor
 # outreach
 # mental 
 # careers activities
-# student activites
+# student activities
 
-### Royal Statistical Socciety
-This doesnt apply to cs students 
+### Royal Statistical Society
+This doesn't apply to cs students 
