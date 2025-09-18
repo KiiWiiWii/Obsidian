@@ -20,7 +20,7 @@ The same kinda thing as the CS project in structure.
 # communication
 For degree based issues email barry.miller@strath.ac.uk
 # Transfer
-If you wanna transfer then you need 120 credits and the 401 project which is worth 20 credits and then the transfer will be done at the stert of semester 2
+If you wanna transfer then you need 120 credits and the 401 project which is worth 20 credits and then the transfer will be done at the start of semester 2
 # outreach
 # mental 
 # careers activities
