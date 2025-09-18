@@ -23,8 +23,11 @@ For degree based issues email barry.miller@strath.ac.uk
 If you wanna transfer then you need 120 credits and the 401 project which is worth 20 credits and then the transfer will be done at the start of semester 2
 # outreach
 ### Allan Glens tutoring program
-
+Tutor a group of 3 pupils in higher math once a week from jan-feb to april, about 10 weeks. Only 3 schools atm, spring burn, st andrews, st rocks. Tutors will be paid 200£ at the end of the program. (Kinda fucking shit, but its a little extra dough).
+### Stem ambassadors
+Volunteer program to become a stem ambassador to go to school to talk or workshop something, and it gives you your PVG which allows you to do talks at schools and things. To stay on it you need to do at least 1 activity a year.
 # mental 
+
 # careers activities
 # student activities
 
