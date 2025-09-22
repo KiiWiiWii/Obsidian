@@ -28,14 +28,17 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CompSci/CS409/1st Lecture.md",
-                "mode": "source",
-                "source": false
+                "file": "CompSci/CS409/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 315.37171875000024,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "1st Lecture"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -470,13 +473,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS409/1st Lecture.md",
+                "file": "CompSci/CS409/Untitled.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1st Lecture"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -500,10 +503,11 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "CompSci/CS409/1st Lecture.md",
+    "CompSci/CS409/Untitled.canvas",
     "CompSci/CS409/1st Lecture Code.java",
     "CompSci/CS409/1st Lecture Code.py",
     "Math/MM Year 4 Induction.md",
-    "CompSci/CS409/1st Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
     "Pasted image 20250918140601.png",
     "Math/4th year UG handbook_2025-2026.pdf",
@@ -538,7 +542,6 @@
     "Math/MM409",
     "Math/MM406",
     "CompSci/CS409",
-    "CompSci/CS408",
     "Math/MM306/Images/Pasted image 20250328142926.png",
     "Personal/Game Idea/Master Note.md",
     "Math/MM306/Study/Quick review before the exam..md",

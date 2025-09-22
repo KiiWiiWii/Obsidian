@@ -55,8 +55,6 @@ related patterns
 I've probably used it already.
 
 ##### Example:
-
-
 Mike is working as a librarian
 
 He needs a way to iterate through all these different collections of books regardless of the structure to display the contents inside
@@ -65,4 +63,9 @@ This may seem easy but some things you can simply iterate through like a list bu
 
 Mike could just make numerous implementations on for each type but that becomes messy quickly with many different interfaces
 
-The solution is to use an iterator pattern. This is a behavioural pat
+---
+
+The solution is to use an iterator pattern. This is a behavioral pattern which provides a way to access elements of a collection sequentially without exposing internal structure via one interface, it doesn't care about if its a list, stack, etc.
+
+The goal is to decouple traversal logic from collection implementation.
+
