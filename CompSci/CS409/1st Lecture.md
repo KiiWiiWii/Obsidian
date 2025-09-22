@@ -75,3 +75,4 @@ But this would not be that useful in cases such has having a simple collection w
 
 Pros are that its uniform and supports multiple simultaneous traversals, and simplifies client code, however it adds extra classes, may be less efficient than direct traversal and has limited access, usually forward only.
 
+Examples of iterators is with the python compiler, which just does it for everything.
