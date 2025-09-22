@@ -12,3 +12,21 @@ Don't implement anything yourself basically, just reuse stuff from people who kn
 
 Patterns originate from architecture, the idea that a window is a window and a door is a door, introduced to compsci by the "gang of 4" fucking reddit mods
 
+#### The gang of four patterns
+
+|    Creational    | Structural |       Behavioural       |
+| :--------------: | :--------: | :---------------------: |
+|  Factory method  |  adapter   |       interpreter       |
+| abstract factory |   bridge   |     templete metho      |
+|     builder      | composite  | chain of responsibility |
+|    prototype     | decorator  |         command         |
+|    singleton     |   facade   |        iterator         |
+|                  | flyweight  |        mediator         |
+|                  |   proxy    |         memento         |
+|                  |            |        observerr        |
+|                  |            |          state          |
+|                  |            |        strategy         |
+|                  |            |         visitor         |
+These all have pretty self explanatory names
+
+Lees fav is the observer pattern which describes how 2 things will interact with each other
