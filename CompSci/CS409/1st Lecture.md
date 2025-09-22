@@ -69,3 +69,9 @@ The solution is to use an iterator pattern. This is a behavioral pattern which p
 
 The goal is to decouple traversal logic from collection implementation.
 
+You use this when you need to traverse different collection in a uniform way, you need multiple traversal at once, or need to hide collections internal representations
+
+But this would not be that useful in cases such has having a simple collection where the built in iteration is sufficient, or you have performance critical cases
+
+Pros are that its uniform and supports multiple simultaneous traversals, and simplifies client code, however it adds extra classes, may be less efficient than direct traversal and has limited access, usually forward only.
+

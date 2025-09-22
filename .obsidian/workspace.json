@@ -28,17 +28,14 @@
             "id": "2c1cd2083df3aba7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CompSci/CS409/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 315.37171875000024,
-                  "zoom": 0
-                }
+                "file": "CompSci/CS409/1st Lecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "1st Lecture"
             }
           },
           {
@@ -473,13 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS409/Untitled.canvas",
+                "file": "CompSci/CS409/1st Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 1st Lecture"
             }
           }
         ],
@@ -503,8 +500,8 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
-    "CompSci/CS409/1st Lecture.md",
     "CompSci/CS409/Untitled.canvas",
+    "CompSci/CS409/1st Lecture.md",
     "CompSci/CS409/1st Lecture Code.java",
     "CompSci/CS409/1st Lecture Code.py",
     "Math/MM Year 4 Induction.md",
