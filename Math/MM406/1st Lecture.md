@@ -143,3 +143,12 @@ $$
 u(x) = u_{0}v_{1} + u_{1}v_{2} + u_{2}v_{3}
 $$
 So we can write any $u(x) \in \mathbb{R}$ as a linear combination of $v_{1},v_{2},v_{3}$.
+
+$$
+u_{0} + u_{1}x + u_{2}x^{2}
+$$
+in terms of $\alpha_{i}$. We can use a shortcut:
+
+We found a basis with 3 elements $(1,x,x^{2})$. (result that says any LI set with same number of elements will be a basis)
+
+So yes, ${\phi_{1},\phi_{2},\phi_{3}}$ is LI.
