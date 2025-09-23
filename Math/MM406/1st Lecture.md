@@ -161,3 +161,17 @@ So yes, ${\phi_{1},\phi_{2},\phi_{3}}$ is LI.
 The norm of some element $v \in V$ : write as $|| v ||$.
 ![[Pasted image 20250923102446.png]]
 
+#### Example 1.4
+![[Pasted image 20250923102804.png]]
+##### 1.
+Show satisfies $(N_{2})$. i.e. $$
+|| \alpha \underline{v} || _{l_{\infty}} = |\alpha| || \underline{v} || _{l_{\infty}}
+$$
+Lets say $\underline{v} = ( 1,0,-2,3,-4)$, so $|| \underline{v} ||_{l_{\infty}} = 4$.
+
+$$
+\max\limits_{1\leq i\leq n}|v_{i}| = |v_{j}|
+$$
+$$
+|| \alpha \underline{v} || = \max\limits_{1\leq ile}
+$$
