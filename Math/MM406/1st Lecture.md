@@ -185,4 +185,18 @@ $$
 || u || _{l_{1}} = \int _{0}^{1}  (u(x))\, dx
 $$
 Show that $|| u ||_{l_{1}} \leq 0$. $|u(x)| \leq 0$ for all x.
-Show that $|| 0 ||_{l_{1}} = 0$.
+Show that $|| 0 ||_{l_{1}} = 0$. Well, of course it is because integrating 0 makes 0.
+If $|| u ||_{l_{1}} =0$ then $u = \underline{0}$.
+
+Suppose $|| u ||_{l_{1}} =0$ i.e. $\int _{0}^{1}|u(x)| \, dx = 0$. Suppose there exists $x_{0} \in (0,1)$ with $u(x_{0}) \neq 0$.
+$$
+|u(x_{0})| = a > 0
+$$
+(picture in the notes)
+
+So can find $\epsilon$ $$
+|u(x)| \geq \frac{a}{2}
+$$
+But $$
+\int _{0}^{1}|u(x)| \, dx qe 
+$$
