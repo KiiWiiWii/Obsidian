@@ -198,5 +198,9 @@ So can find $\epsilon$ $$
 |u(x)| \geq \frac{a}{2}
 $$
 But $$
-\int _{0}^{1}|u(x)| \, dx qe 
+\int _{0}^{1}|u(x)| \, dx \geq \int _{x-\epsilon}^{x_{0}+\epsilon}|u(x)| \, dx  \geq \frac{a}{2} \times \epsilon = a\epsilon
 $$
+$$
+\int _{0}^{1}|u(x)| \, dx \geq a\epsilon > 0
+$$
+But it cant be because it must be less than 0. So cant find $x_{0}$ with $u(x_{0})\neq 0$. i.e. $u = \underline{0}$.
