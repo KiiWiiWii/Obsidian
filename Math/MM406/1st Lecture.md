@@ -115,5 +115,6 @@ c_{3} = 0
 $$
 So we get by subbing 3 into 1 
 $$
-c_{1}=0
+c_{1}=0, c_{2} =0
 $$
+So it is LI.
