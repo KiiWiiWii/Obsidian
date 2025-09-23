@@ -118,3 +118,10 @@ $$
 c_{1}=0, c_{2} =0
 $$
 So it is LI.
+##### b)
+
+There's another example in the handwritten notes but my stupid fucking computer locked me out so i didn't get to copy it
+
+# Basis
+
+A basis for a linear space $V$ is a LI set of functions in V such that nay element of V can be written as a linear combination of the $v_{i}$
