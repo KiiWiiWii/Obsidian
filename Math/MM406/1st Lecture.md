@@ -56,3 +56,28 @@ Since this is the product of real numbers this is also in our vector space, same
 Finally we need to prove there exists a zero element, this is literally just 0 ($\underline{0} = (0_{1},0_{2},\dots,0_{n})$) so it is satisfied.
 ##### 2.
 Let $C[a,b]$ be a set of continuous functions on $[a,b]$, (sketch in the written notes)
+
+##### 3.
+Show that the set $p_{n}$ of all polynomials of degree less than or equal to $n$.
+
+$$
+V = P_{n}[x] = {a_{0} + a_{1}x + a_{2}x^{2} +\dots + a_{n}x^{n}}
+$$
+$a_{i} \in \mathbb{R}$
+
+$$
+u,v \in P_{n} \ \ \ \ \ , \alpha \in \mathbb{R}
+$$
+$$
+u(x) = u_{0} + u_{1}x +\dots u_{n}x^{n}
+$$
+(same thing for v as n)
+
+$$
+(u + v)(x) = u(x) + v(x) = u_{0} + v_{0} + (u_{1}+v_{1})x + \dots + (u_{n}+v_{n})x^{n}
+$$
+Since the sum of all u and v is a real number then this exists in our vector space $P_{n}$.
+
+$$
+(\alpha v)
+$$
