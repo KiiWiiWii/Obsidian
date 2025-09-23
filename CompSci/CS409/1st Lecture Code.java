@@ -3,7 +3,9 @@ public static void main(String args[]){
     playlist = buildPlaylist();
 
     SimplePlayListIterator = simpleIterator = playlist.createIterator("simple");
-    
+    while(simpleIterator.hasNext()){
+        // TODO: make it acutally do something
+    }
     // Would do the same hting with the "shiffled" option if you wanted a shiffled playlist
 }
 
