@@ -152,3 +152,12 @@ in terms of $\alpha_{i}$. We can use a shortcut:
 We found a basis with 3 elements $(1,x,x^{2})$. (result that says any LI set with same number of elements will be a basis)
 
 So yes, ${\phi_{1},\phi_{2},\phi_{3}}$ is LI.
+
+
+-- I kinda zoned out for a while so im missing the notes on dimension of a space --
+
+# Norms
+
+The norm of some element $v \in V$ : write as $|| v ||$.
+![[Pasted image 20250923102446.png]]
+
