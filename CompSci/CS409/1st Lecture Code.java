@@ -1,5 +1,10 @@
 public static void main(String args[]){
+    MediaPlaylist playlist;
+    playlist = buildPlaylist();
 
+    SimplePlayListIterator = simpleIterator = playlist.createIterator("simple");
+    
+    // Would do the same hting with the "shiffled" option if you wanted a shiffled playlist
 }
 
 // This is the inrerface for the iterator
@@ -33,11 +38,35 @@ public class SimplePlayListIterator implements playListIterator{
 }
 
 public class Playlist implements MediaPlaylist{
-    
+    private ArrayList<String> songs;
+    public Playlist() {
+        songs new ArrayList<>();
+    }
+    public void addSong(String song) {
+        songs.add(song);
+    }
+    public PlaylistIterator crestelterator(String type) (
+            switch (type) {
+        case "simple":
+            return new SimplePlaylistIterator(this);
+        case "shuffled":
+            return new ShuffledPlaylistIterator(this);
+        case "favorites":
+            return new Favorites PlaylistIterator(this);
+        default:
+            return null;
+    }
+
+    public ArrayList<String> getSongs() {
+        return songs;
+    }
 }
+
 
 /**
  * The benefit of using interfaces is so we can toss different data
  * types at it and it'll still work. They can also be manipulated and
  * changeed. I cant fucking hear the lecturer!!!
+ *
+ * Gonna just do this myself cause this is scuffed but this is the basic idea of it
  */
