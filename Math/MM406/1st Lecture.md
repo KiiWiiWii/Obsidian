@@ -91,3 +91,29 @@ i.e. $u(x) + \underline{0}(x) = u(x)$, clearly this is just a up-to-n degree pol
 
 # Linear Independence
 
+#### Example 1.2
+###### a)
+Suppose $c_{1}\phi_{1}+c_{2}\phi_{2}+c_{3}\phi_{3}= \underline{0}$, where
+ $$
+\phi_{1}(x) = x + 1, \phi_{2}(x) = x - 1, \phi_{2}(x)=x^{2}+1
+$$
+
+So we need 
+$$
+c_{1} -c_{2} + c_{3} + (c_{1}+c_{2})x + c_{3}x^{2} \equiv_{0}
+$$
+This is a quadratic so at most there are 2 roots.
+So must have:
+$$
+c_{1} - c_{2} + c_{3} =0
+$$
+$$
+c_{1}+c_{2} =0
+$$
+$$
+c_{3} = 0
+$$
+So we get by subbing 3 into 1 
+$$
+c_{1}=0
+$$
