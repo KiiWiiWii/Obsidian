@@ -173,5 +173,16 @@ $$
 \max\limits_{1\leq i\leq n}|v_{i}| = |v_{j}|
 $$
 $$
-|| \alpha \underline{v} || = \max\limits_{1\leq ile}
+|| \alpha \underline{v} || = \max\limits_{1\leq i\leq n}|\alpha v_{i}| = \max\limits_{1\leq i\leq n}|\alpha|\times|v_{i}| = |\alpha| \max\limits_{1 \leq i\leq n}|v_{i}
 $$
+$$
+= |\alpha| || \underline{v} || _{l_{\infty}}
+$$
+##### 2.
+Show $|| . ||_{l_{1}}$ defines a norm on $[0,1]$
+
+$$
+|| u || _{l_{1}} = \int _{0}^{1}  (u(x))\, dx
+$$
+Show that $|| u ||_{l_{1}} \leq 0$. $|u(x)| \leq 0$ for all x.
+Show that $|| 0 ||_{l_{1}} = 0$.
