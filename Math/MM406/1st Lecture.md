@@ -43,8 +43,16 @@ $$
 $$
 \underline{v} = (v_{1},v_{2},\dots,v_{n})
 $$
-We need to show that $u + v$ and $Nu, Nv$ are in the space.
+We need to show that $u + v$ and $\alpha u, \alpha v$ are in the space.
 $$
 \underline{u} + \underline{v} = (u_{1}+v_{1}, u_{2}+v_{2},\dots,u_{n}+v_{n})
 $$
-Since $u_{i},v_{i} \in \mathbb{R}$
+Since $u_{i},v_{i} \in \mathbb{R}$, the addition of u and v is also in our vector space.
+$$
+\alpha \underline{v}=(\alpha v_{1},\alpha v_{2},\dots,\alpha v_{n})
+$$
+Since this is the product of real numbers this is also in our vector space, same goes for u.
+
+Finally we need to prove there exists a zero element, this is literally just 0 ($\underline{0} = (0_{1},0_{2},\dots,0_{n})$) so it is satisfied.
+##### 2.
+Let $C[a,b]$ be a set of continuous functions on $[a,b]$, (sketch in the written notes)
