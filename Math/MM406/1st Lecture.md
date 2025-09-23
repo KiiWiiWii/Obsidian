@@ -124,4 +124,22 @@ There's another example in the handwritten notes but my stupid fucking computer 
 
 # Basis
 
-A basis for a linear space $V$ is a LI set of functions in V such that nay element of V can be written as a linear combination of the $v_{i}$
+A basis for a linear space $V$ is a LI set of functions in V such that nay element of V can be written as a linear combination of the $v_{i}$.
+
+#### Example 1.3.
+
+$$
+v_{1} = 1, v_{2} = x, v_{3} = x^{2}
+$$
+Show it is LI
+
+$$
+c_{1} + c_{2}x + c_{3}x^{2} \equiv 0 
+$$
+so $c_{1},c_{2},c_{3} = 0$ hence it is LI
+
+Let $u(x) \in \mathbb{R} \implies u(x)=u_{0}+u_{1}x +u_{2}x^{2}$ where $u_{i} \in \mathbb{R}$.
+$$
+u(x) = u_{0}v_{1} + u_{1}v_{2} + u_{2}v_{3}
+$$
+So we can write any $u(x) \in \mathbb{R}$ as a linear combination of $v_{1},v_{2},v_{3}$.
