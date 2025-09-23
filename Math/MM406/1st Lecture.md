@@ -55,7 +55,7 @@ Since this is the product of real numbers this is also in our vector space, same
 
 Finally we need to prove there exists a zero element, this is literally just 0 ($\underline{0} = (0_{1},0_{2},\dots,0_{n})$) so it is satisfied.
 ##### 2.
-Let $C[a,b]$ be a set of continuous functions on $[a,b]$, (sketch in the written notes)
+Let $C[a,b]$ be a set of continuous functions on $[a,b]$, (sketch in the written notes) (this example isn't actually done however)
 
 ##### 3.
 Show that the set $p_{n}$ of all polynomials of degree less than or equal to $n$.
@@ -79,5 +79,15 @@ $$
 Since the sum of all u and v is a real number then this exists in our vector space $P_{n}$.
 
 $$
-(\alpha v)
+(\alpha v)(x) = \alpha v(x) = \alpha (v_{0} + v_{1}x +\dots + v_{n}x^{n})
 $$
+Since $\alpha$ is a real number the product of these will also be a real number in our vector space.
+
+Now to show that a zero element exists:
+$$
+u + \underline{0} = u
+$$
+i.e. $u(x) + \underline{0}(x) = u(x)$, clearly this is just a up-to-n degree polynomial with all coefficients being 0, hence exists a zero element in this space.
+
+# Linear Independence
+
