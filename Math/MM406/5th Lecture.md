@@ -111,3 +111,12 @@ Assume that it holds for some $n = k$
 Prove for $n = k+1$
 
 
+## Gram - Schmidt
+
+Suppose we have a "standard" basis $\phi_{0},\phi_{1},\dots,\phi_{n}$ for some $\mathcal{A}$
+
+We'll construct an orthogonal basis $\phi_{0},\phi_{1},\phi_{2}\dots \phi_{n}$
+
+$$
+Let\ \ \ \  \mathcal{A}0 = S_{p}[\phi_{0}],
+$$
