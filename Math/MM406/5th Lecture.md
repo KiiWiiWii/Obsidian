@@ -127,7 +127,21 @@ Inductive hypothesis:
 $$
 (IH)_{i} : \{ \phi_{j} \}_{j=0}^{1} \text{   is an othogonal basis for } \mathcal{A}_{i-1}
 $$
-Show its true for $i=1$
+Show its true for $(IH)_{1}$
 $$
+\{ \phi_{0} \} \text{ is an orthogonal basis for } \mathcal{A}_{0}
+$$
+$$
+\phi_{0} = \psi_{0} \text{ and } \mathcal{A}_{0} = sp[\psi_{0}]
+$$
+So $\{ \phi_{0} \}$ is a basis, and its satisfies the orthogonal definition.
 
+Show that if $(IH)_{i}$ is true for some $i \geq 1$ then $(IH)_{i+1}$ is also true.
+
+Show that if $\{ \phi_{j} \}_{j=0}^{i-1}$ (1) us an orthogonal basis for $\mathcal{A}_{i-1}$ then $\{ \phi_{j} \}_{j=0}^{i}$ is an orthogonal basis for $\mathcal{A}_{i}$
+
+To show that (1) is orthogonal:
+
+$$
+\langle \phi_{j},\phi_{al} \rangle 
 $$
