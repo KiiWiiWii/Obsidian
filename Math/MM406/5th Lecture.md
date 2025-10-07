@@ -98,5 +98,16 @@ $$
 \implies || u - a ^{\star} || ^{2} = || u || ^{2} - \sum_{i=0}^{n} \langle u,\phi_{i} \rangle ^{2}
 $$
 $$
-q=
+\boxed{Q\mathbf{E}D \square}
 $$
+## Proof by induction (<3)
+
+Try to prove some property $$
+p(n) = \sum_{i=1}^{n}i = \frac{1}{2}n(n+1)
+$$
+
+Prove the base case, most often with $n=1$
+Assume that it holds for some $n = k$
+Prove for $n = k+1$
+
+
