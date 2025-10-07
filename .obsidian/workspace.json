@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS409/2nd Lecture.md",
+                "file": "Math/MM406/5th Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2nd Lecture"
+              "title": "5th Lecture"
             }
           },
           {
@@ -470,13 +470,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS409/2nd Lecture.md",
+                "file": "Math/MM406/5th Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2nd Lecture"
+              "title": "Outline of 5th Lecture"
             }
           }
         ],
@@ -500,9 +500,10 @@
   },
   "active": "2c1cd2083df3aba7",
   "lastOpenFiles": [
+    "CompSci/CS409/2nd Lecture.md",
+    "Math/MM406/5th Lecture.md",
     "CompSci/CS409/1st Lecture Code.java~",
     "Math/MM406/1st Lecture.md",
-    "CompSci/CS409/2nd Lecture.md",
     "Pasted image 20250923102804.png",
     "Pasted image 20250923102446.png",
     "CompSci/CS409/1st Lecture.md",
@@ -543,7 +544,6 @@
     "Math/MM420",
     "Math/MM409",
     "Math/MM406",
-    "CompSci/CS409",
     "Math/MM306/Images/Pasted image 20250328142926.png",
     "Personal/Game Idea/Master Note.md",
     "Math/MM306/Study/Quick review before the exam..md",
