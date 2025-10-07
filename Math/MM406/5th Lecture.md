@@ -49,5 +49,26 @@ $$
 || \phi_{1} ||^{2} = \langle \phi_{1},\phi_{1} \rangle = \int _{-1}^{1} \phi_{1}^{2} \, dx
 $$
 $$
-= \frac{3}{2}\int _{f-1}^{1} \, dx 
+= \frac{3}{2}\int _{-1}^{1} x^{2} \, dx
+$$
+$$
+= \frac{3}{2} \left[ \frac{x^{3}}{3} \right]_{-1}^{1} = \frac{1}{2}(1 - - 1) = 1  \ \ \ \ \ \ \square
+$$
+Hence all conditions are met, therefore it is a orthogonal basis.
+
+## Example 2.6
+
+![[Pasted image 20251007093417.png]]
+
+$$
+|| u-a^{\star} ||^{2} = \langle u-a^{\star}, u - a ^{ \star} \rangle
+$$
+$$
+= \langle u, u - a ^{ \star} \rangle  - \langle a^{\star}, u - a ^{ \star} \rangle
+$$
+$$
+= \langle u,u \rangle - \langle u, a ^{ \star} \rangle - \langle a^{\star},a \rangle + \langle a^{\star},a^{\star} \rangle
+$$
+$$
+= || u || ^{2} - 2 \langle u,a^{\star} \rangle + \langle a ^{ \star}, a ^{ \star} \rangle
 $$
