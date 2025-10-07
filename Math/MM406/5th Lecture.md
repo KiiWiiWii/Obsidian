@@ -234,6 +234,13 @@ $$
 \psi_{2}^{\star}=\frac{\frac{2}{3}}{2} + 0 = \frac{1}{3}
 $$
 So now $$
-
+\phi_{2} = \psi_{2} - \psi_{2}^{\star} = x^{2} - \frac{1}{3}
 $$
+Since now the next step would be $i = 3 > n$ then we stop.
+
+So our basis is $\left\{  1,x,x^{2}-\frac{1}{3}  \right\}$.
+
+This process fucking sucks because we need to do i inner prods per step so like $\frac{1}{2}n(n+1)$ inner products and no one got time for that.
+
+
 
