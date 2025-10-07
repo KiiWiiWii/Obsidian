@@ -165,6 +165,25 @@ We have orthogonal basis for $\mathcal{A}_{i-1} : \phi_{0},\phi_{1},\dots,\phi_{
 
 ![[Pasted image 20251007102641.png]]
 
-From car to pyectian (???) $$
-\langle u- \rangle 
+From car to projection theory: $$
+\langle u-a^{\star},\phi_{j} \rangle =0
 $$
+$$
+\langle \psi_{i}-\psi_{i}^{\star}, \phi_{j} \rangle = 0
+$$
+for $j =0 : i-1$.
+
+Automatically orthogonal if we choose the first part of the last inner prod to be $\phi_{i}$.
+
+have shown that $\{ \phi_{0}\dots \phi_{i-1},\phi_{i} \}$ is a orthogonal basis.
+
+
+So have shown that if $(IH)_{i}$ is true, then $(IH)_{i+1}$ is also true. 
+
+So by induction, given that $(IH)_{i}$ is true for all $i \geq 1$ up to $i = n$, as it is the max size possible, the algorithm works.
+
+$$
+\boxed{QED}
+$$
+---
+
