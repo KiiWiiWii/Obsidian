@@ -187,3 +187,30 @@ $$
 $$
 ---
 
+## Example 2.7
+
+![[Pasted image 20251007103243.png]]
+
+$$
+\langle u,v \rangle = \int _{-1}^{1}u(x)v(x) \, dx
+$$
+$$
+\psi_{0}=1, \ \ \ \psi_{2}=x,  \ \ \ \psi_{1} = x^{2}
+$$
+$$
+\phi_{0}=\psi_{0} = 1
+$$
+$$
+\psi_{1}^{\star} = \frac{\langle \psi_{1},\phi_{0} \rangle }{\langle \phi_{0},\phi_{0} \rangle } \phi_{0}
+$$
+
+$$
+ \langle \phi_{0},\phi_{0} \rangle  = \int _{-1}^{1} \, dx = 2
+$$
+$$
+\langle \psi_{1},\phi_{0} \rangle = \int _{-1}^{1} x \, dx = 0
+$$
+Hence $$
+\psi_{1}^{\star} = 0
+$$
+Now we need $\phi_{1}$ which is $= \psi$
