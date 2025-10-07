@@ -72,3 +72,15 @@ $$
 $$
 = || u || ^{2} - 2 \langle u,a^{\star} \rangle + \langle a ^{ \star}, a ^{ \star} \rangle
 $$
+Basis is orthogonal, so $a^{\star} = \sum_{i=0}^{n}\langle u,\phi _{i} \rangle \phi_{i}$
+
+ - $\langle u,a^{\star} \rangle = \sum_{i = 0}^{n} \langle u, \phi_{i} \rangle \langle u,\phi_{i} \rangle = \sum_{i=0}^{n}\langle u,\phi_{i} \rangle^{2}$
+
+
+ - $\langle a^{\star},a^{\star} \rangle = \left\langle  \sum_{i=o}^{n} \langle u, \phi_{i} \rangle \phi_{i},\sum_{j=o}^{n}\langle u,\phi_{j} \rangle\phi_{j}  \right\rangle$
+  $$
+=\sum_{i=0}^{n}\langle u,\phi_{i} \rangle \langle \phi)i \rangle , \sum_{j=0} ^{n} \langle u,\phi_{j}\phi_{j} \rangle 
+$$
+$$
+= \sum_{u=0}^{n}\langle u,\phi_{i} \rangle \sum_{j=0}^{1} 
+$$
