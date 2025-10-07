@@ -12,6 +12,10 @@ This is just like my "Fast latex" addon in obisidian, and i have a lot of experi
 
 This sounds cool, like all of the ones i listed but this is literally just making an advanced macro, a bot to play any video game (factorio!?!?!), so this would be a cool contendor for me.
 
+### SHAF03 Adaptive coding challenges
+
+While this would probably be my 6th choice, i quite like it honestly, and i dont imagine it would be too hard to make, basically procedually generated leet code, with hints and things.
+
 ## Very Interesting
 
 ### CLIF03 - Boardgames, Wargames and AI
