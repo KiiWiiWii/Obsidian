@@ -157,4 +157,14 @@ $$
 $$
 There are $i+1$ $\psi$.
 
-Look at steps 2 and 3 in the process
+Look at steps 2 and 3 in the process to show that $\langle \phi_{i}, \phi_{\alpha} \rangle = 0$ for $k = 0: i-1$.
+
+Step 2: $\psi _{i}^{\star}$ is the best approx of $\psi_{i}$ from $\mathcal{A}_{i-1}$.
+
+We have orthogonal basis for $\mathcal{A}_{i-1} : \phi_{0},\phi_{1},\dots,\phi_{i-1}$, which gives formula for $\psi_{i}^{\star}$
+
+![[Pasted image 20251007102641.png]]
+
+From car to pyectian (???) $$
+\langle u- \rangle 
+$$
