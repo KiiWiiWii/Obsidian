@@ -143,5 +143,18 @@ Show that if $\{ \phi_{j} \}_{j=0}^{i-1}$ (1) us an orthogonal basis for $\mathc
 To show that (1) is orthogonal:
 
 $$
-\langle \phi_{j},\phi_{al} \rangle 
+\langle \phi_{j},\phi_{\alpha} \rangle = 0
 $$
+For $j\neq k$ when $j,k \leq i-1$.
+
+Need to show that $\langle \phi_{i},\phi_{j} \rangle = 0$ for $j=0: i -1$.
+
+Then if the set is orthogonal then it is Linearly independent and has the correct amount of elements to be a basis.
+
+Know:
+$$
+\{ \psi_{0}, \psi_{1}\dots \psi_{n} \} \text{is a basis for } \mathcal{A}_{i}
+$$
+There are $i+1$ $\psi$.
+
+Look at steps 2 and 3 in the process
