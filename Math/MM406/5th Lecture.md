@@ -82,5 +82,21 @@ Basis is orthogonal, so $a^{\star} = \sum_{i=0}^{n}\langle u,\phi _{i} \rangle \
 =\sum_{i=0}^{n}\langle u,\phi_{i} \rangle \langle \phi)i \rangle , \sum_{j=0} ^{n} \langle u,\phi_{j}\phi_{j} \rangle 
 $$
 $$
-= \sum_{u=0}^{n}\langle u,\phi_{i} \rangle \sum_{j=0}^{1} 
+= \sum_{u=0}^{n}\langle u,\phi_{i} \rangle \sum_{j=0}^{1}\langle u,\phi_{j} \rangle \langle \phi_{i},\phi_{j} \rangle  
+$$
+But our basis is orthogonal hence $\langle \phi_{i,\phi_{j}} \rangle =0$ unless $j=i$.
+
+$$
+\implies \langle a^{\star},a^{\star} \rangle = \sum_{i=0}^{n} \langle u,\phi_{i} \rangle \langle u,\phi_{i} \rangle \langle \phi_{i},\phi_{i} \rangle 
+$$
+Basis is orthonormal, so $\langle \phi_{i},\phi_{i} \rangle =1$.
+$$
+\implies \langle a^{\star},a^{\star} \rangle = \sum_{i=0}^{1} \langle u,\phi_{i} \rangle ^{2}
+$$
+Had : $|| u-a^{\star} ||^{2}=|| u ||^{2}-2\langle du,a^{\star} \rangle + \langle a^{\star}, a^{\star} \rangle$ and $\langle u,a^{\star} \rangle = \sum_{i=0}^{n}\langle u,\phi_{i} \rangle^{2}$
+$$
+\implies || u - a ^{\star} || ^{2} = || u || ^{2} - \sum_{i=0}^{n} \langle u,\phi_{i} \rangle ^{2}
+$$
+$$
+q=
 $$
