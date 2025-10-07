@@ -26,5 +26,28 @@ $$
 $$
 If we can show that $\phi_{0},\phi_{1},\phi_{2}$ is orthogonal then they are linearly independent. There are 3 of them which would math the dimension of the space of $P_{2}$ so it must be a basis.
 
+Need to show
+$$
+\text{(1) Orthogonal:  } \langle \phi_{0},\phi_{1} \rangle =0, \ \  \langle \phi_{0},\phi_{2} \rangle = 0 \text{ and } \langle \phi_{1},\phi_{2} \rangle =0
+$$
+$$
+\text{(2) Each has Norm 1 } || \phi_{0} || = || \phi_{1} || = || \phi_{2} || = 1 
+$$
+We will only do some of these and the rest are left as exercise.
 
-
+$$
+\langle \phi_{0},\phi_{2} \rangle = \int_{-1}^{1} \phi_{0}(x)\phi_{2}(x) \, dx 
+$$
+$$
+= \frac{1}{\sqrt{ 2 }} \sqrt{ \frac{5}{8} }\int_{-1}^{1}(3x^{2}-1)  \, dx 
+$$
+$$
+= \frac{\sqrt{ 5 }}{4}[(x^{3}-x)]_{-1}^{1} = 0 \ \ \ \ \ \ \ \square
+$$
+Now to show the norm is 1:
+$$
+|| \phi_{1} ||^{2} = \langle \phi_{1},\phi_{1} \rangle = \int _{-1}^{1} \phi_{1}^{2} \, dx
+$$
+$$
+= \frac{3}{2}\int _{f-1}^{1} \, dx 
+$$
