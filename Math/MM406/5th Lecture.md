@@ -113,10 +113,21 @@ Prove for $n = k+1$
 
 ## Gram - Schmidt
 
+![[Pasted image 20251007101031.png]]
+
 Suppose we have a "standard" basis $\phi_{0},\phi_{1},\dots,\phi_{n}$ for some $\mathcal{A}$
 
 We'll construct an orthogonal basis $\phi_{0},\phi_{1},\phi_{2}\dots \phi_{n}$
 
 $$
-Let\ \ \ \  \mathcal{A}0 = S_{p}[\phi_{0}],
+Let\ \ \ \  \mathcal{A}0 = sp[\phi_{0}], \mathcal{A}1 = sp[\phi_{0},\phi_{1}]\dots
+$$
+Inductive hypothesis:
+
+$$
+(IH)_{i} : \{ \phi_{j} \}_{j=0}^{1} \text{   is an othogonal basis for } \mathcal{A}_{i-1}
+$$
+Show its true for $i=1$
+$$
+
 $$
