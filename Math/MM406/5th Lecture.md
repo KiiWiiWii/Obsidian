@@ -213,4 +213,27 @@ $$
 Hence $$
 \psi_{1}^{\star} = 0
 $$
-Now we need $\phi_{1}$ which is $= \psi$
+Now we need $\phi_{1}$ which is $= \psi_{1} - \psi_{1}^{\star}$ so it is $x$.
+
+Set $i=2$.
+
+Doing the same stuff again to find $\psi_{2}^{\star}$.
+
+$$
+\psi_{2}^{\star} = \frac{\langle \psi_{2}, \phi_{0} \rangle }{\langle \phi_{0},\phi_{0} \rangle } \phi_{0} + \frac{\langle \psi_{2},\phi_{1} \rangle }{\langle \phi_{1},\phi_{1} \rangle } \phi_{1}
+$$
+
+$$
+\langle \psi_{2},\phi_{0} \rangle = \int _{-1}^{1}x^{2} \, dx  = \frac{2}{3}
+$$
+$$
+\langle \psi_{2},\phi_{1} \rangle = \int _{-1}^{1} x^{2}\times x \, dx = 0
+$$
+
+$$
+\psi_{2}^{\star}=\frac{\frac{2}{3}}{2} + 0 = \frac{1}{3}
+$$
+So now $$
+
+$$
+
