@@ -39,6 +39,18 @@
             }
           },
           {
+            "id": "75723af9d7127cfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "b8045b99fdd37bec",
             "type": "leaf",
             "state": {
@@ -351,7 +363,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -470,13 +482,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM406/5th Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5th Lecture"
+              "title": "Outline"
             }
           }
         ],
@@ -498,8 +509,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1cd2083df3aba7",
+  "active": "75723af9d7127cfd",
   "lastOpenFiles": [
+    "Pasted image 20251007104739.png",
     "Pasted image 20251007103243.png",
     "Pasted image 20251007102641.png",
     "Pasted image 20251007101031.png",
@@ -538,7 +550,6 @@
     "Personal/Solitare/Database for solitare.md",
     "Personal/Solitare/Additional Notes for Solitaire.md",
     "Math/MM302/SIR Model.canvas",
-    "CompSci/Pasted image 20240408131801.png",
     "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM306/Fourth Lecture.md",

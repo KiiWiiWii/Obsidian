@@ -244,3 +244,5 @@ This process fucking sucks because we need to do i inner prods per step so like 
 
 
 
+![[Pasted image 20251007104739.png]]
+
