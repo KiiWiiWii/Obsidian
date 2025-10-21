@@ -78,4 +78,8 @@ Think about this grid of points, and split it up by thinking about these red tri
 
 ![[Pasted image 20251021100436.png]]
 
-We'll find the linear interpolant of the data on each triangle se
+We'll find the linear interpolant of the data on each triangle separately.
+
+Want to find affine function $I_{k}(\xi,\eta)$ for $k=1,2,3$ with $I_{k} =1$ at $Kth$ corner and zero at other 2 corners.
+
+Set $(\xi_{1},\eta_{1})=0,0$ $(\xi_{2},\eta_{2})=(1,0)$ and $(\xi_{3},\eta_{3})=(0,1)$. Then $I_{k}(\xi_{j},\eta_{j}) = 1 \text{if }$
