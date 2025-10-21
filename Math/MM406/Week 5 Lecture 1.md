@@ -165,6 +165,22 @@ $$
 =(\xi h,\eta h)
 $$
 So $\underline{F}(\xi,\eta)= (x,y)$ with $(x,y) = (\xi h,\eta h)$
-i.e. $x= \xi h$, $y=\eta h$.solve thse equations to find $\xi$ and $\eta$ in terms of $x$ and $y$.
+i.e. $x= \xi h$, $y=\eta h$.
 
-To find $\underline{F}^{-1}$ 
+To find $\underline{F}^{-1}$ solve these equations to find $\xi$ and $\eta$ in terms of $x$ and $y$.
+
+$\xi = \frac{x}{h}$ and $\eta = \frac{y}{h}$.
+
+$$
+\underline{F}^{-1}(x,y)= (\xi,\eta)= \frac{x}{h}, \frac{y}{h}
+$$
+
+![[Pasted image 20251021104130.png]]
+
+$$
+\underline{F}(\xi,\eta)= \sum_{k=1}^{3}\Phi _{k}(\xi,\eta)\underline{\Gamma}_{k} = (1 - \xi - \eta)(1,1) + \xi (0,1) + \eta (1,0)
+$$
+$$
+=(1 - \xi - \eta + \eta, 1 - \xi - \eta + \xi) =(1 - \xi, 1 - \eta).
+$$
+Let $(x,y)=\underline{F}$
