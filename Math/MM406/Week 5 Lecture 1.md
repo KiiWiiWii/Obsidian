@@ -133,5 +133,26 @@ $$
 $$
 as
 $$
-\underline{F}(\xi _{j},\eta _{j}) = \sum_{k = 1}^{3} \Phi
+\underline{F}(\xi _{j},\eta _{j}) = \sum_{k = 1}^{3} \Phi _{k}(\xi _{j},\eta _{j}) \times \underline{\Gamma}_{k} = \Phi _{j}(\xi _{j},\eta _{j}) \underline{\Gamma}_{j} = \underline{\Gamma}_{j}
 $$
+`this notation is giving me a fucking aneyurism`
+
+Mapping:
+
+$$
+\underline{F}: \mathcal{T} \to T
+$$
+i.e $\underline{F}:(\xi,\eta) \to (x,y)$.
+$$
+(x,y) = \underline{F}(\xi,\eta)
+$$
+and solve to find $\xi,\eta$ in terms of $x$ and $y$.
+
+Inverse map:
+
+$$
+\underline{F}^{-1}(x,y) \to (\xi,\eta)
+$$
+## Example 3.7
+![[Pasted image 20251021103431.png]]
+
