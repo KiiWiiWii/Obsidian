@@ -69,3 +69,13 @@ $$
 s(x)= 1 + 3x - x^{3} \text{  for } x \in [0,1)
 $$
 then $s_{2},s_{3}$ in the other intervals.
+
+## 2D Interpolation
+
+Given values $u_{k}$ at the points $(x_{k},y_{k})$, find a function that might interpolate the data at these points.
+
+Think about this grid of points, and split it up by thinking about these red triangles which have corners with 3 neighboring $(x_{k},y_{k})$.
+
+![[Pasted image 20251021100436.png]]
+
+We'll find the linear interpolant of the data on each triangle se
