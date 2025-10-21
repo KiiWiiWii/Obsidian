@@ -53,5 +53,19 @@ Throwing all ts into the formula 3.10:
 $k=1$:
 
 $$
-s_{1}(x)= \left( \frac{y_{0}}{h_{1}}-\frac{z_{0}h_{1}}{6} \right)(x_{1}-x) + \frac{\left( \frac{y_{1}}{h_{1}}-z_{1}h_{1} \right)}{6}
+s_{1}(x)= \left( \frac{y_{0}}{h_{1}}-\frac{z_{0}h_{1}}{6} \right)(x_{1}-x) + \left( \frac{y_{1}}{h_{1}}-\frac{z_{1}h_{1}}{6} \right)(x-x_{0}) + \frac{z_{0}}{6h_{1}}(x_{1}-x)^{3} + \frac{1}{6h_{1}}(x-x_{0})^{3}
 $$
+$$
+= \frac{1}{1} \times (1-x) + \frac{2}{1}- \frac{-6 \times 1}{6}(x-0) - \frac{6}{6\times 1}(x-0)^{3}
+$$
+$$
+\implies s_{1}(x) = 1 - x + 3x - x^{3}
+$$
+$s_{2}$ and $s_{3}$ are left as exercise.
+
+Final step is to find $s(x)$:
+
+$$
+s(x)= 1 + 3x - x^{3} \text{  for } x \in [0,1)
+$$
+then $s_{2},s_{3}$ in the other intervals.
