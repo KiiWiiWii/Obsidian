@@ -95,4 +95,21 @@ $$
 \Phi_{3}(\xi,\eta)= \eta
 $$
 
-Linear interpoland on $\mathcal{T}$
+Linear interpolant on $\mathcal{T}$ of data values $u_{k}$ at $(\xi_{k} \eta_{k})$ is $U_{L}(\xi,\eta)$ which is 
+1) an affine function of $\xi$ and $\eta$
+2) $u_{L}(\xi_{k},\eta_{k})=u_{k}$ for $k=1,2,3$.
+
+Formula:
+$$
+u_{L}(\xi,\eta)= \sum_{k=1}^{3}u_{k}\Phi _{k}(\xi,\eta)
+$$
+To verify this: 
+
+At point $(\xi _{j},\eta _{j})$
+$$
+RHS = \sum_{k=1}^{3}u_{k}\Phi _{k}(\xi _{j},m_{j}) = u_{j}\Phi _{j}(\xi _{j}, \eta _{j}) = u_{j}
+$$
+## Example 3.6
+![[Pasted image 20251021101923.png]]
+
+$u$ is an affine function on $\mathcal{T}$, find linear interpolant for corner values of $u$.
