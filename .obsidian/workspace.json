@@ -42,12 +42,14 @@
             "id": "75723af9d7127cfd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "CompSci/CS year 4 Preliminaries.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "CS year 4 Preliminaries"
             }
           },
           {
@@ -482,12 +484,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CompSci/CS year 4 Preliminaries.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CS year 4 Preliminaries"
             }
           }
         ],
@@ -511,6 +514,7 @@
   },
   "active": "75723af9d7127cfd",
   "lastOpenFiles": [
+    "CompSci/CS Year 4 Induciton.md",
     "Pasted image 20251007104739.png",
     "Pasted image 20251007103243.png",
     "Pasted image 20251007102641.png",
@@ -534,10 +538,8 @@
     "CompSci/personalProjects.md",
     "Math/MM306/Fifth Lecture.md",
     "CompSci/IndividualProjectGuidelines.pdf",
-    "CompSci/CS Year 4 Induciton.md",
     "Pasted image 20250916133207.png",
     "4",
-    "Pasted image 20250916132112.png",
     "Math/MM306/Twelfth Lecture.md",
     "Math/MM306/Sixth Lecture.md",
     "Math/MM306/Seventh Lecture.md",
