@@ -156,3 +156,15 @@ $$
 ## Example 3.7
 ![[Pasted image 20251021103431.png]]
 
+-- Sketch in the notes --
+
+$$
+\underline{F}(\xi,\eta)= \sum_{k=1}^{3}\Phi _{k}(\xi,\eta)\underline{\Gamma}_{k}= (1 - \xi - \eta)(0,0) + \xi (h,0) + \eta (0,h)
+$$
+$$
+=(\xi h,\eta h)
+$$
+So $\underline{F}(\xi,\eta)= (x,y)$ with $(x,y) = (\xi h,\eta h)$
+i.e. $x= \xi h$, $y=\eta h$.solve thse equations to find $\xi$ and $\eta$ in terms of $x$ and $y$.
+
+To find $\underline{F}^{-1}$ 
