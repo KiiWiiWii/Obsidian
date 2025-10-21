@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSci/CS year 4 Preliminaries.md",
+                "file": "Math/MM406/Week 5 Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS year 4 Preliminaries"
+              "title": "Week 5 Lecture 1"
             }
           },
           {
@@ -366,6 +366,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "d492a6c67fb6773b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60528d366ba46992",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Math/MM406/notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "notes"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -484,13 +502,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS year 4 Preliminaries.md",
+                "file": "Math/MM406/Week 5 Lecture 1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CS year 4 Preliminaries"
+              "title": "Outline of Week 5 Lecture 1"
             }
           }
         ],
@@ -514,6 +532,10 @@
   },
   "active": "75723af9d7127cfd",
   "lastOpenFiles": [
+    "Math/MM406/5th Lecture.md",
+    "Math/MM406/notes.pdf",
+    "Math/MM406/Week 5 Lecture 1.md",
+    "CompSci/CS year 4 Preliminaries.md",
     "CompSci/CS Year 4 Induciton.md",
     "Pasted image 20251007104739.png",
     "Pasted image 20251007103243.png",
@@ -522,7 +544,6 @@
     "Pasted image 20251007093417.png",
     "Pasted image 20251007092456.png",
     "CompSci/CS409/2nd Lecture.md",
-    "Math/MM406/5th Lecture.md",
     "CompSci/CS409/1st Lecture Code.java~",
     "Math/MM406/1st Lecture.md",
     "Pasted image 20250923102804.png",
@@ -532,7 +553,6 @@
     "CompSci/CS409/1st Lecture Code.java",
     "CompSci/CS409/1st Lecture Code.py",
     "Math/MM Year 4 Induction.md",
-    "CompSci/CS year 4 Preliminaries.md",
     "Pasted image 20250918140601.png",
     "Math/4th year UG handbook_2025-2026.pdf",
     "CompSci/personalProjects.md",
@@ -561,8 +581,6 @@
     "CompSci/CS411",
     "Math/MM420",
     "Math/MM409",
-    "Math/MM406",
-    "Personal/Game Idea/Master Note.md",
     "CompSci/CS317/Project.canvas",
     "Obsidian-main/CompSci/CS209/Card Sorting.canvas",
     "Obsidian-main/Personal/Solitare/Solitare UML.canvas",
