@@ -112,4 +112,14 @@ $$
 ## Example 3.6
 ![[Pasted image 20251021101923.png]]
 
-$u$ is an affine function on $\mathcal{T}$, find linear interpolant for corner values of $u$.
+$u$ is an affine function on $\mathcal{T}$, find linear interpolant for corner values of $u$, show $u_{L}=\hat{u}$.
+
+$u$ is affine. SO $u(\xi,\eta)= a\xi +\beta +c$ for some real coefficients.
+$\implies$ corner values: $u_{1}=u(0,0)=c$, $u_{2}=u(1,0)= a +c$ and $u_{3}=u(1,1) = b + c$.
+
+$$
+\implies u_{L}(\xi,\eta)= \sum_{k=1}^{3}u_{k}\Phi _{k}(\xi,\eta) = c\times (1 - \xi - \eta) + ( a + c)\xi + (b +c)\eta
+$$
+$$
+=c + a \xi + b \eta = u(\xi,\eta)
+$$
