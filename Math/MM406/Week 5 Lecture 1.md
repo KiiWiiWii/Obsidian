@@ -123,3 +123,15 @@ $$
 $$
 =c + a \xi + b \eta = u(\xi,\eta)
 $$
+
+![[Pasted image 20251021102528.png]]
+
+We want an affine map $\underline{F}: \mathcal{T} \to T$ that maps corner $(\xi _{k},\eta _{k}) \to \underline{\Gamma}_{k}(x_{k},y_{k})$, we need to show:
+
+$$
+\underline{F}(\xi,\eta) = \sum_{k=1}^{3}\Phi _{k}(\xi,\eta)\underline{\Gamma}_{k}
+$$
+as
+$$
+\underline{F}(\xi _{j},\eta _{j}) = \sum_{k = 1}^{3} \Phi
+$$
