@@ -80,6 +80,19 @@ Think about this grid of points, and split it up by thinking about these red tri
 
 We'll find the linear interpolant of the data on each triangle separately.
 
+-- Note that $I_{k}$ is meant to be $\Phi_{k}$. --
+
 Want to find affine function $I_{k}(\xi,\eta)$ for $k=1,2,3$ with $I_{k} =1$ at $Kth$ corner and zero at other 2 corners.
 
-Set $(\xi_{1},\eta_{1})=0,0$ $(\xi_{2},\eta_{2})=(1,0)$ and $(\xi_{3},\eta_{3})=(0,1)$. Then $I_{k}(\xi_{j},\eta_{j}) = 1 \text{if }$
+Set $(\xi_{1},\eta_{1})=0,0$ $(\xi_{2},\eta_{2})=(1,0)$ and $(\xi_{3},\eta_{3})=(0,1)$. Then $I_{k}(\xi_{j},\eta_{j}) = 1 \text{ if } j= k \text{ 0 otherwise}$.
+$$
+\Phi_{1}(\xi,\eta)=1-\xi -\eta
+$$
+$$
+\Phi_{2}(\xi,\eta) = \xi
+$$
+$$
+\Phi_{3}(\xi,\eta)= \eta
+$$
+
+Linear interpoland on $\mathcal{T}$
