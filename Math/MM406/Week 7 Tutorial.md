@@ -97,4 +97,22 @@ a_{i, i+1} = a ( \phi _{i + 1} \phi _{i}) = -\frac{1}{h} + \frac{h}{6}
 $$
 as before.
 
+Computing $a(\phi _{n}, \phi _{n+1})$ is the same as computing $a(\phi_{0},\phi_{1})$ and $a(\phi _{n+1}, \phi _{n+1})$ is the same as $a(\phi_{0}\phi_{0})$. So
 
+$$
+a_{n,n+1} = -\frac{1}{h} + \frac{h}{6}
+$$
+ and
+
+$$
+a_{n+1,n+1} = \frac{1}{h} + \frac{h}{3}
+$$
+Hence
+
+$$
+\mathcal{A} = \begin{bmatrix}
+\frac{1}{h}+\frac{h}{3} & -\frac{1}{h}+\frac{h}{6} & 0 & \dots  & &  0 \\
+-\frac{1}{h}+\frac{h}{6} & \frac{2}{h} + \frac{2h}{3} & -\frac{1}{h} + \frac{h}{6} & 0 & \dots & 0 \\
+0 &  &  &  &  \dots & 0
+\end{bmatrix}
+$$
