@@ -22,5 +22,20 @@ $$
 And now we will do
 
 $$
-a_{01}= a (\phi_{1}\phi_{0}) = \int _{} \, dx 
+a_{01}= a (\phi_{1}\phi_{0}) = \int _{0}^{1}\phi_{1}^{1}\phi_{0}^{1}+ \phi_{1}\phi_{0} \, dx 
 $$
+$$
+=\int _{0}^{x_{1}}\phi_{1}^{1}\phi_{0}^{1} \, dx + \int _{0}^{x_{1}} \phi_{1}\phi_{0} \, dx  
+$$
+$$
+=\int _{0}^{x_{1}}\left( \frac{1}{h} \right)\times \frac{-1}{h} \, dx  + \int _{0}^{x_{1}}\phi_{1}\phi_{0} \, dx 
+$$
+$$
+= -\frac{1}{h^{2}} \int_{0}^{h}1 \, dx  + \int _{0}^{x_{1}}\phi_{1}\phi_{0} \, dx
+$$
+Now then, to integerate $\phi_{0}\phi_{1}$, we know its a quadratic, so by simpsons rule we can do this:
+
+$$
+\int _{0}^{x_{1}} \phi_{0}\phi_{1} \, dx = \frac{x_{1}-0}{6}(\phi_{0}(0)\phi_{1}(1)) + 4\phi_{0}\left( \frac{x_{1}}{2} \right)\phi_{1}\left( \frac{x}{2} \right) + \phi_{0}(x_{1})\phi_{1}(x_{1})
+$$
+
