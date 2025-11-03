@@ -113,6 +113,42 @@ $$
 \mathcal{A} = \begin{bmatrix}
 \frac{1}{h}+\frac{h}{3} & -\frac{1}{h}+\frac{h}{6} & 0 & \dots  & &  0 \\
 -\frac{1}{h}+\frac{h}{6} & \frac{2}{h} + \frac{2h}{3} & -\frac{1}{h} + \frac{h}{6} & 0 & \dots & 0 \\
-0 &  &  &  &  \dots & 0
+0 &  &  &  &  \dots & 0 \\
+\dots & \dots & \dots & \dots & \dots & \dots \\
+0 & \dots &  &  &  -\frac{1}{h} + \frac{h}{6} & \frac{1}{h} + \frac{h}{3}
+\end{bmatrix}
+$$
+
+Then for the right hand side we will use the trapezoidal rule and get
+
+$$
+f_{0}= \int  _{0}^{1} f(\phi_{0}) \, dx = \int _{o}^{x_{1}} f\phi_{0} \, dx \approx \frac{h}{2} ( f(0)\phi_{0}(0) + f(x_{1})\phi_{0}x_{1})
+$$
+$$
+= \frac{h}{2}f(0)
+$$
+Then from $i =1,2,\dots,n$:
+
+$$
+f_{i} = \int _{0}^{1}f\phi_{1} \, dx  = \int  _{ x _{ i - 1}} ^{ x _{ i+1 }} f\phi _{i} \, dx  + \int  _{ x_{i}}^{x_{i+1}} f \phi _{i} \, dx
+$$
+$$
+\approx \dots
+
+$$
+$$
+= h f(x_{i})
+$$
+and
+
+$$
+f_{n+1} = \frac{h}{2} f(1)
+$$
+as before, hence we get that the right hand side is
+
+
+$$
+f = h \begin{bmatrix}
+\left( \frac{1}{2}\right)\times f(0) 
 \end{bmatrix}
 $$
