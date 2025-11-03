@@ -183,4 +183,17 @@ $$
 $$
 =(1 - \xi - \eta + \eta, 1 - \xi - \eta + \xi) =(1 - \xi, 1 - \eta).
 $$
-Let $(x,y)=\underline{F}$
+Let $(x,y)=\underline{F}(\xi,\eta) \implies (x,y) = (1-\xi,1 - \eta)$.
+
+$x = 1 - \xi$
+$y = 1 - \eta$
+
+To find $\underline{F}^{-1}$ solve to get $\xi$ and $\eta$ in terms of $x$ and $y$.
+
+
+$\xi = 1 - x$
+$\eta = 1 - y$
+
+$$
+\underline{F}^{-1}(x,y) = (1 -x, 1 -y)
+$$
