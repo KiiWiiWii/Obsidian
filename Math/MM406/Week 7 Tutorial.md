@@ -56,8 +56,29 @@ $$
 a_{i,i-1} = a ( \phi_{i+1}, \phi_{1}) = \int _{0}^{1}\phi _{i-1}' \phi _{i}' + \phi _{i-1} \phi _{i} \, dx 
 $$
 $$
-= \int _{x_{i-_{1}}}^{x_{i}} \phi _{i-} \, dx 
+= \int _{x_{i-_{1}}}^{x_{i}} \phi _{i-1}'\phi _{i}' \, dx  + \int _{x_{i-1}}^{x_{i}} \phi _{i-1}\phi _{i} \, dx
+$$
+$$
+ = \int  _{ x - 1}^{x_{i}} \frac{-1}{h} \times \frac{1}{h} \, dx + \int  _{ x - i} ^{ x_{i}} \phi _{ i - 1} \phi _{i} \, dx  
+$$
+The rightmost part of this will simplify to $\frac{h}{6}$, hence wee get 
+
+$$
+= - \frac{1}{h} + \frac{h}{6}
+$$
+$$
+a_{i,i} = a (\phi_{i},\phi_{i}) = \int  _{ 0} ^{ 1} ( \phi _{i}')^{2}+ (\phi _{i}')^{2} \, dx
 $$
 
----
+$$
+= \int  _{ x _{ i - 1}} ^{ x _{i + 1}} ( \phi_{1}')' \, dx  + \int  _{ x_{i -1}} ^{ x_{\xi + 1}} \phi _{i}^{2} \, dx = (1) + (2)
+$$
+We already know 
+$$
+(1) = \frac{2}{h}
 
+$$
+Now 
+$$
+    \int x_{i-1}^{ x _{i}} \phi _{i}^{2} \, dx 
+$$
