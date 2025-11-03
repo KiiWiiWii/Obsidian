@@ -33,9 +33,31 @@ $$
 $$
 = -\frac{1}{h^{2}} \int_{0}^{h}1 \, dx  + \int _{0}^{x_{1}}\phi_{1}\phi_{0} \, dx
 $$
-Now then, to integerate $\phi_{0}\phi_{1}$, we know its a quadratic, so by simpsons rule we can do this:
+Now then, to integrate $\phi_{0}\phi_{1}$, we know its a quadratic, so by Simpsons rule we can do this:
 
 $$
-\int _{0}^{x_{1}} \phi_{0}\phi_{1} \, dx = \frac{x_{1}-0}{6}(\phi_{0}(0)\phi_{1}(1)) + 4\phi_{0}\left( \frac{x_{1}}{2} \right)\phi_{1}\left( \frac{x}{2} \right) + \phi_{0}(x_{1})\phi_{1}(x_{1})
+\int _{0}^{x_{1}} \phi_{0}\phi_{1} \, dx = \frac{x_{1}-0}{6}(\cancel{ \phi_{0}(0)\phi_{1}(1) }) + 4\phi_{0}\left( \frac{x_{1}}{2} \right)\phi_{1}\left( \frac{x}{2} \right) + \cancel{ \phi_{0}(x_{1})\phi_{1}(x_{1} })
 $$
+
+The remainder of these terms are $-\frac{1}{2}$ and $\frac{1}{2}$
+
+$$
+=\frac{h}{6} \left( 0 + 4 \times \frac{1}{4} + 0  \right) = \frac{h}{6}
+$$
+And then we get 
+$$
+\boxed{a_{01} = - \frac{1}{h} + \frac{h}{6}}
+$$
+
+
+Now let $1 \in [1,..,a]$ then
+
+$$
+a_{i,i-1} = a ( \phi_{i+1}, \phi_{1}) = \int _{0}^{1}\phi _{i-1}' \phi _{i}' + \phi _{i-1} \phi _{i} \, dx 
+$$
+$$
+= \int _{x_{i-_{1}}}^{x_{i}} \phi _{i-} \, dx 
+$$
+
+---
 
