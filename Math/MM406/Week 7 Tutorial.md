@@ -80,5 +80,21 @@ $$
 $$
 Now 
 $$
-    \int x_{i-1}^{ x _{i}} \phi _{i}^{2} \, dx 
+\int x_{i-1}^{ x _{i}} \phi _{i}^{2} \, dx + \int x_{i}^{x_{i + 1}} \phi_{1}^{2} \, dx  
 $$
+$$
+= \frac{x_{i} - x _{i -1}}{6} \left( \phi_{1}^{2}(x _{i-1}) + 4 \phi_{1}^{2}\left( \frac{x_{i-1}+x_{i}}{2} \right) + \phi_{1}^{2} ( x_{i}) \right) + \frac{x_{i + 1} - x}{6}(\phi_{1}^{2}) + 4 \phi_{1}^{2}\left( \frac{x_{i} + x_{i+1}}{2} + \phi_{1}^{2}(x_{i+1}) \right)
+$$
+
+Simplifying this abomination we get 
+$$
+\boxed{a_{i,i}  = \frac{2}{h} + \frac{2h}{3}}
+$$
+
+and 
+$$
+a_{i, i+1} = a ( \phi _{i + 1} \phi _{i}) = -\frac{1}{h} + \frac{h}{6}
+$$
+as before.
+
+
