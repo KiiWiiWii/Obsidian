@@ -172,3 +172,6 @@ Algorithm; to build $\mathcal{A}$ we need to lop over the elements and build the
 ### local numbering
 
 just a way of standardising the notation, i.e. a triangle $k$ with edges $x_{4},x_{6},x_{2}$ can be just made into local points called $l_{1},l_{2},l_{3}$.
+
+Local numbering is always counted clockwise.
+![[Pasted image 20251118115237.png]]
