@@ -145,5 +145,24 @@ $$
 This integral will be denoted by $a_{ij}^{K}$
 
 $$
-\mathcal{A} = \sum_{k\\int  \, dx }
+\boxed{\mathcal{A} = \sum_{k\in \tau} \mathcal{A}^{K}}
 $$
+## Big remark!!!
+
+its a drawing so i cant note it lol
+
+Here, 
+$$
+a_{ij}^{k} \neq 0
+$$
+$$
+a_{jk}^{k} \neq 0
+
+$$
+$$
+a_{il}^{k} \neq 0
+$$
+$$
+a_{jz}^{k} = \int  _{K} ( D \nabla \phi _{z}) . \nabla \phi _{j} \, dx = 0 
+$$
+So the only non zero elements are those associated to the nodes $x_{i}, x_{j}, x_{l}$ that belong to K. Hence $\mathcal{A}^{K}$ is a 3x3 matrix in disguise.
