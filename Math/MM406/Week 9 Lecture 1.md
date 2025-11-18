@@ -77,8 +77,18 @@ We want to pass at least one derivative to the test function so we can weaken th
 ![[Pasted image 20251118104151.png]]
 `Seriously what the fuck is this`
 
-our integral turns into
+using greens formula our integral turns into
 
 $$
-= - \int _{\Omega} ( D \nabla u) . \nabla v \, dx + \int _{\Gamma} ( D \nabla u) .  \, dx 
+= - \int _{\Omega} ( D \nabla u) . \nabla v \, dx + \int _{\Gamma} ( D \nabla u) . \underline{n}dv \, ds
 $$
+$$
+\implies \int  _{\Omega} (D \nabla u). \nabla v \, dx - \int _{\Gamma} (D \nabla u) . \underline{n}v \, ds = \int _{\Omega} fv \, dx 
+$$
+Because we get that v is $=0$, our $\Gamma$ integral turns to 0
+
+So the weak from is Find $u \in H^{1}_{0}(\Omega)$ such that
+$$
+\boxed{\int _{\Omega} (D \nabla u). \nabla v \, dx = \int _{ \Omega} fv \, dx \text{ }\ \ \  \ \forall v \in H^{1}_{0}(\Omega)}
+$$
+
