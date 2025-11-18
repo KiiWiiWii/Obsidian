@@ -127,4 +127,5 @@ The FEM for 2D is the exact same process that it is in 1D
 
 ![[Pasted image 20251118112200.png]]
 
+Each node can only see its neighbors, hence for points that are far away we get that $a_{ij} = 0$, if they are not part of the same element, i.e. they have an edge between each other.
 
