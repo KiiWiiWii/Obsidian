@@ -121,3 +121,10 @@ $\square$
 
 ![[Pasted image 20251118111420.png]]
 
+The basis $\phi_{i}$ will be the $x_{i}$ that are not on the edge, $\notin \Gamma$
+
+The FEM for 2D is the exact same process that it is in 1D
+
+![[Pasted image 20251118112200.png]]
+
+
