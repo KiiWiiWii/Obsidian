@@ -148,7 +148,14 @@ as before, hence we get that the right hand side is
 
 
 $$
-f = h \begin{bmatrix}
-\left( \frac{1}{2}\right)\times f(0) 
+\underline{f} = h \begin{bmatrix}
+\left( \frac{1}{2}\right)\times f(0) \\
+f(x_{1}) \\
+f(x_{2}) \\
+\dots \\
+f(x_{n}) \\
+\left( \frac{1}{2} \right) \times f(1) 
 \end{bmatrix}
 $$
+
+
