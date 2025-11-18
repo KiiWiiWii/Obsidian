@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM406/Week 7 Tutorial.md",
+                "file": "Math/MM406/Week 9 Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 7 Tutorial"
+              "title": "Week 9 Lecture 1"
             }
           },
           {
@@ -502,13 +502,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM406/Week 7 Tutorial.md",
+                "file": "Math/MM406/Week 9 Lecture 1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 7 Tutorial"
+              "title": "Outline of Week 9 Lecture 1"
             }
           }
         ],
@@ -516,7 +516,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -532,9 +532,11 @@
   },
   "active": "75723af9d7127cfd",
   "lastOpenFiles": [
-    "Pasted image 20251103160330.png",
+    "Pasted image 20251118100850.png",
     "Math/MM406/Finite-Elements-MM406.pdf",
+    "Math/MM406/Week 9 Lecture 1.md",
     "Math/MM406/Week 7 Tutorial.md",
+    "Pasted image 20251103160330.png",
     "Math/MM406/Week 5 Lecture 1.md",
     "Pasted image 20251021104130.png",
     "Math/MM406/notes.pdf",
@@ -549,7 +551,6 @@
     "Pasted image 20251007104739.png",
     "Pasted image 20251007103243.png",
     "Pasted image 20251007102641.png",
-    "Pasted image 20251007101031.png",
     "CompSci/CS409/2nd Lecture.md",
     "CompSci/CS409/1st Lecture Code.java~",
     "Math/MM406/1st Lecture.md",
@@ -579,7 +580,6 @@
     "Math/MM302/- Master Sheet MM302 -.md",
     "Math/MM306/Fourth Lecture.md",
     "Math/MM302/Another rewrite.md",
-    "Math/MM302/Advection Equation.md",
     "CompSci/CS411",
     "Math/MM420",
     "CompSci/CS317/Project.canvas",
