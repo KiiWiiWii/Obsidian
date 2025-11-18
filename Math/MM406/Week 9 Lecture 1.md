@@ -4,6 +4,8 @@
 The PDE we will be looking at is as follows:
 ![[Pasted image 20251118100850.png]]
 
+The most used boundary condition is $u(\underline{x}) =0$ where $\underline{x} \in \Gamma$.
+
 $$
 D = \begin{pmatrix}
 d_{11} & d_{12} \\
@@ -45,5 +47,19 @@ D = \begin{pmatrix}
 \end{pmatrix}
 $$
 $$
-D\nabla u = ( 1 - M^{2})
+D\nabla u = ( 1 - M^{2})\partial xu+\partial yu
 $$
+$$
+\implies div(D\nabla u) = (1 - M^{2}) \partial x x u + \partial y y u
+$$
+Note that $(1-M^{2})>0$.
+
+### Boundary Value Problem
+
+$$
+- dv(D\nabla u) = f \text{ in } \Omega
+$$
+$$
+u =0 \text{ on } \Gamma
+$$
+
