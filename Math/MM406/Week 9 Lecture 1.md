@@ -117,3 +117,5 @@ $$
 $$
 $\square$
 
+![[Pasted image 20251118105822.png]]
+
