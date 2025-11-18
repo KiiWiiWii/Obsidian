@@ -85,10 +85,35 @@ $$
 $$
 \implies \int  _{\Omega} (D \nabla u). \nabla v \, dx - \int _{\Gamma} (D \nabla u) . \underline{n}v \, ds = \int _{\Omega} fv \, dx 
 $$
-Because we get that v is $=0$, our $\Gamma$ integral turns to 0
+Because we get that v is $=0$, our $\Gamma$ integral turns to 0 since $v|_{\Gamma} = 0$.
 
 So the weak from is Find $u \in H^{1}_{0}(\Omega)$ such that
 $$
 \boxed{\int _{\Omega} (D \nabla u). \nabla v \, dx = \int _{ \Omega} fv \, dx \text{ }\ \ \  \ \forall v \in H^{1}_{0}(\Omega)}
 $$
+
+### Example 15
+![[Pasted image 20251118105105.png]]
+
+$$
+D = \begin{pmatrix}
+k & 0 \\
+0 & k
+\end{pmatrix}
+$$
+Here
+$$
+(D \nabla u) = \begin{pmatrix}
+k & 0 \\
+0 & k
+\end{pmatrix} \begin{pmatrix}
+\partial x & u \\
+\partial x & v
+\end{pmatrix} = k \nabla u
+$$
+So the weak form is, find $u \in H_{0}^{1}(\Omega)$ such that
+$$
+\int _{\Omega} k(x) \nabla u \times \nabla v \, dx = \int _{\Omega} fv \, dx  \forall  v \in H_{0}^{1}(\Omega)
+$$
+$\square$
 
