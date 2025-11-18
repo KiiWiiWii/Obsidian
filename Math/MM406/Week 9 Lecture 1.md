@@ -166,3 +166,9 @@ $$
 a_{jz}^{k} = \int  _{K} ( D \nabla \phi _{z}) . \nabla \phi _{j} \, dx = 0 
 $$
 So the only non zero elements are those associated to the nodes $x_{i}, x_{j}, x_{l}$ that belong to K. Hence $\mathcal{A}^{K}$ is a 3x3 matrix in disguise.
+
+Algorithm; to build $\mathcal{A}$ we need to lop over the elements and build their local matrix.
+
+### local numbering
+
+just a way of standardising the notation, i.e. a triangle $k$ with edges $x_{4},x_{6},x_{2}$ can be just made into local points called $l_{1},l_{2},l_{3}$.
