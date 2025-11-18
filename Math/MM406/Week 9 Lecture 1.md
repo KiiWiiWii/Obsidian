@@ -68,4 +68,8 @@ We will assume that $\Omega$ is open, bounded, and with a polynomial Boundary.
 
 The main quality is that we can define a unique boundary norm.
 
-To find the weak form, we will multiply out BVP by $v \in V$ and then integrate over
+To find the weak form, we will multiply out BVP by $v \in H^{1}_{0}(\Omega)$ and then integrate over $\Omega$ to get:
+$$
+- \int _{\Omega}dv ( D\nabla u)v \, dx = \int _{\Omega} fv \, dx 
+$$
+
