@@ -62,4 +62,7 @@ $$
 $$
 u =0 \text{ on } \Gamma
 $$
+We will first define conditions on $\Omega$:
+
+We will assume that $\Omega$ is open, bounded, and with a polynomial Boundary.
 
