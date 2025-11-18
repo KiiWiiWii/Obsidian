@@ -72,4 +72,13 @@ To find the weak form, we will multiply out BVP by $v \in H^{1}_{0}(\Omega)$ and
 $$
 - \int _{\Omega}dv ( D\nabla u)v \, dx = \int _{\Omega} fv \, dx 
 $$
+We want to pass at least one derivative to the test function so we can weaken the conditions on u.
 
+![[Pasted image 20251118104151.png]]
+`Seriously what the fuck is this`
+
+our integral turns into
+
+$$
+= - \int _{\Omega} ( D \nabla u) . \nabla v \, dx + \int _{\Gamma} ( D \nabla u) .  \, dx 
+$$
