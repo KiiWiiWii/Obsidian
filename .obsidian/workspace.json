@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "b1b1384ef23a402a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "b8045b99fdd37bec",
             "type": "leaf",
             "state": {
@@ -365,7 +377,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "896c1608b5763620",
@@ -502,13 +514,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM406/Week 9 Lecture 1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 9 Lecture 1"
+              "title": "Outline"
             }
           }
         ],
@@ -530,7 +541,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75723af9d7127cfd",
+  "active": "b1b1384ef23a402a",
   "lastOpenFiles": [
     "Pasted image 20251118115237.png",
     "Math/MM406/Finite-Elements-MM406.pdf",
