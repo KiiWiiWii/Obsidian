@@ -56,12 +56,14 @@
             "id": "b1b1384ef23a402a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "CompSci/CS409/Week 10 - Mediator Pattern.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Week 10 - Mediator Pattern"
             }
           },
           {
@@ -378,24 +380,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "896c1608b5763620",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eefdc5eea6fc6982",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math/MM406/Finite-Elements-MM406.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Finite-Elements-MM406"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -514,12 +498,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CompSci/CS409/Week 10 - Mediator Pattern.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Week 10 - Mediator Pattern"
             }
           }
         ],
@@ -543,6 +528,7 @@
   },
   "active": "b1b1384ef23a402a",
   "lastOpenFiles": [
+    "CompSci/CS409/Week 10 - Mediator Pattern.md",
     "Pasted image 20251118115237.png",
     "Math/MM406/Finite-Elements-MM406.pdf",
     "Math/MM406/Week 9 Lecture 1.md",
@@ -558,7 +544,6 @@
     "Pasted image 20251021104130.png",
     "Math/MM406/notes.pdf",
     "Pasted image 20251021103431.png",
-    "Pasted image 20251021102528.png",
     "Math/MM406/5th Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
     "CompSci/CS Year 4 Induciton.md",
