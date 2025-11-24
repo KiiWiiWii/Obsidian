@@ -56,14 +56,12 @@
             "id": "b1b1384ef23a402a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CompSci/CS409/Week 10 - Mediator Pattern.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/MM406/Finite-Elements-MM406.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Week 10 - Mediator Pattern"
+              "icon": "lucide-file-text",
+              "title": "Finite-Elements-MM406"
             }
           },
           {
@@ -498,13 +496,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS409/Week 10 - Mediator Pattern.md",
+                "file": "Math/MM406/Finite-Elements-MM406.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 10 - Mediator Pattern"
+              "title": "Outline of Finite-Elements-MM406"
             }
           }
         ],
@@ -528,6 +526,7 @@
   },
   "active": "b1b1384ef23a402a",
   "lastOpenFiles": [
+    "Math/MM Year 4 Induction.md",
     "CompSci/CS409/Week 10 - Mediator Pattern.md",
     "Pasted image 20251118115237.png",
     "Math/MM406/Finite-Elements-MM406.pdf",
@@ -554,7 +553,6 @@
     "CompSci/CS409/Untitled.canvas",
     "CompSci/CS409/1st Lecture Code.java",
     "CompSci/CS409/1st Lecture Code.py",
-    "Math/MM Year 4 Induction.md",
     "Math/4th year UG handbook_2025-2026.pdf",
     "CompSci/personalProjects.md",
     "Math/MM306/Fifth Lecture.md",
