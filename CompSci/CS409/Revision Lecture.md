@@ -13,3 +13,8 @@ What category does the iterator design pattern belong to and what is its goal - 
     - Looking for 2 sentences.
 
 What are the essential steps in the implementation of the singleton pattern - 2 marks
+
+What is the key characteristic of the "Bill Pugh" singleton implementation approach and how does it achieve its goal? - 2 marks 
+    Note literally what the fuck is bill pugh
+
+Briefly define the concepts of the single responsibility principle and how the singleton pattern follows or breaches it - 2 marks
