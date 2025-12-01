@@ -11,14 +11,12 @@
             "id": "e2cdca6abf3cfbc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math/MM406/Study on laptop.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/MM406/Finite-Elements-MM406.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Study on laptop"
+              "icon": "lucide-file-text",
+              "title": "Finite-Elements-MM406"
             }
           }
         ]
@@ -158,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM406/Study on laptop.md",
+                "file": "Math/MM406/Finite-Elements-MM406.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study on laptop"
+              "title": "Outline of Finite-Elements-MM406"
             }
           }
         ],
@@ -188,8 +186,8 @@
   },
   "active": "e2cdca6abf3cfbc9",
   "lastOpenFiles": [
-    "Math/MM406/notes.pdf",
     "Math/MM406/Study on laptop.md",
+    "Math/MM406/notes.pdf",
     "Math/MM406/Week 5 Lecture 1.md",
     "Math/MM406/Week 9 Lecture 1.md",
     "Math/MM302/SIR Model.canvas",
