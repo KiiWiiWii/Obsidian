@@ -67,6 +67,18 @@
             }
           },
           {
+            "id": "edb06a1ee4c6655c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "b8045b99fdd37bec",
             "type": "leaf",
             "state": {
@@ -379,7 +391,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -498,13 +510,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS409/Revision Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Revision Lecture"
+              "title": "Outline"
             }
           }
         ],
@@ -526,7 +537,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1b1384ef23a402a",
+  "active": "edb06a1ee4c6655c",
   "lastOpenFiles": [
     "Math/MM406/Finite-Elements-MM406.pdf",
     "CompSci/CS409/Revision Lecture.md",
