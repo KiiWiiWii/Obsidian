@@ -4,394 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "12e6a2eeccb800e1",
+        "id": "a0763e4bbc18c68a",
         "type": "tabs",
         "children": [
           {
-            "id": "5474cc3c0d05d5af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Math/MM302/SIR Model.canvas",
-                "viewState": {
-                  "x": -49.5,
-                  "y": 290,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "SIR Model"
-            }
-          },
-          {
-            "id": "2c1cd2083df3aba7",
+            "id": "e2cdca6abf3cfbc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM406/5th Lecture.md",
+                "file": "Math/MM406/Study on laptop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5th Lecture"
+              "title": "Study on laptop"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5cce805d203faa39",
+        "type": "tabs",
+        "children": [
           {
-            "id": "75723af9d7127cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM406/Week 9 Lecture 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 9 Lecture 1"
-            }
-          },
-          {
-            "id": "b1b1384ef23a402a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSci/CS409/Revision Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revision Lecture"
-            }
-          },
-          {
-            "id": "edb06a1ee4c6655c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "b8045b99fdd37bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "bd716a430133763d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "- Master Sheet MM302 -"
-            }
-          },
-          {
-            "id": "3dc91eadbeb9da3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Will need to rewrite this too.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Will need to rewrite this too"
-            }
-          },
-          {
-            "id": "0f9d781e129b2d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Another rewrite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Another rewrite"
-            }
-          },
-          {
-            "id": "fcecb28d5c1d70ba",
+            "id": "6293f28e048de1b8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "302_slides_chap5.pdf"
+                "file": "Math/MM406/notes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "302_slides_chap5"
-            }
-          },
-          {
-            "id": "ee68915cf81ba205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7 part 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7 part 2"
-            }
-          },
-          {
-            "id": "05dabfb3c0db896e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7 part 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7 part 2"
-            }
-          },
-          {
-            "id": "be9aab273d276c1a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math/MM302/Images/Pasted image 20241107141102.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241107141102"
-            }
-          },
-          {
-            "id": "4738c67b10a007d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/Analytic Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Analytic Functions"
-            }
-          },
-          {
-            "id": "3e98b03a636392b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "8553cd30b007cd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 9"
-            }
-          },
-          {
-            "id": "23fdc4088466395d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "ce96d25f471be07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision Lecture PDE's.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revision Lecture PDE's"
-            }
-          },
-          {
-            "id": "e7bcf4bde89425b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Third Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Third Lecture"
-            }
-          },
-          {
-            "id": "89a536882aeba451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Fourth Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fourth Lecture"
-            }
-          },
-          {
-            "id": "e54cd7d8d3bfe190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Sixth Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sixth Lecture"
-            }
-          },
-          {
-            "id": "76dd1654b3854072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/New lecturer yaayayyayya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New lecturer yaayayyayya"
-            }
-          },
-          {
-            "id": "07e135939f0d15d5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math/MM306/Images/Pasted image 20250303152905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250303152905"
-            }
-          },
-          {
-            "id": "ab5700f50512a49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Ninth Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ninth Lecture"
-            }
-          },
-          {
-            "id": "153196196a3fb801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Revision Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revision Lecture"
-            }
-          },
-          {
-            "id": "0f260d485556dae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM306/Eleventh Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eleventh Lecture"
-            }
-          },
-          {
-            "id": "7bb47da20235e99f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "1f20684df36a6519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/MM302/- Master Sheet MM302 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "- Master Sheet MM302 -"
+              "title": "notes"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -510,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Math/MM406/Study on laptop.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Study on laptop"
             }
           }
         ],
@@ -537,27 +186,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb06a1ee4c6655c",
+  "active": "e2cdca6abf3cfbc9",
   "lastOpenFiles": [
+    "Math/MM406/notes.pdf",
+    "Math/MM406/Study on laptop.md",
+    "Math/MM406/Week 5 Lecture 1.md",
+    "Math/MM406/Week 9 Lecture 1.md",
+    "Math/MM302/SIR Model.canvas",
+    "Math/MM406/5th Lecture.md",
+    "Untitled.md",
+    "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Images/Pasted image 20241107141102.png",
+    "Math/MM302/Analytic Functions.md",
+    "Math/MM306/Third Lecture.md",
+    "Math/MM306/Fourth Lecture.md",
+    "Math/MM306/Sixth Lecture.md",
+    "Math/MM302/New lecturer yaayayyayya.md",
+    "Math/MM306/Images/Pasted image 20250303152905.png",
+    "Math/MM306/Ninth Lecture.md",
+    "Math/MM306/Revision Lecture.md",
+    "Math/MM306/Eleventh Lecture.md",
     "Math/MM406/Finite-Elements-MM406.pdf",
     "CompSci/CS409/Revision Lecture.md",
     "Math/MM Year 4 Induction.md",
     "CompSci/CS409/Week 10 - Mediator Pattern.md",
     "Pasted image 20251118115237.png",
-    "Math/MM406/Week 9 Lecture 1.md",
     "Pasted image 20251118112200.png",
     "Pasted image 20251118111420.png",
     "Pasted image 20251118105822.png",
     "Pasted image 20251118105105.png",
     "Pasted image 20251118104151.png",
-    "Math/MM406/Week 5 Lecture 1.md",
     "Pasted image 20251118100850.png",
     "Math/MM406/Week 7 Tutorial.md",
     "Pasted image 20251103160330.png",
-    "Pasted image 20251021104130.png",
-    "Math/MM406/notes.pdf",
-    "Pasted image 20251021103431.png",
-    "Math/MM406/5th Lecture.md",
     "CompSci/CS year 4 Preliminaries.md",
     "CompSci/CS Year 4 Induciton.md",
     "CompSci/CS409/2nd Lecture.md",
@@ -572,20 +233,8 @@
     "Math/MM306/Fifth Lecture.md",
     "CompSci/IndividualProjectGuidelines.pdf",
     "4",
-    "Math/MM306/Twelfth Lecture.md",
-    "Math/MM306/Sixth Lecture.md",
-    "Math/MM306/Seventh Lecture.md",
-    "Math/MM306/Intro Lecture.md",
-    "Math/MM306/Eleventh Lecture.md",
-    "TEST.md",
-    "CompSci/CS317/First Lecture.md",
     "Math/MM302/Untitled.canvas",
     "Personal/Solitare/Solitare UML.canvas",
-    "Personal/Solitare/Database for solitare.md",
-    "Personal/Solitare/Additional Notes for Solitaire.md",
-    "Math/MM302/SIR Model.canvas",
-    "Math/MM302/Examples/Example 1.5.md",
-    "Math/MM302/- Master Sheet MM302 -.md",
     "CompSci/CS411",
     "Math/MM420",
     "CompSci/CS317/Project.canvas",
