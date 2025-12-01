@@ -5,3 +5,4 @@ Made up of three types of questions - multiple choice, short form answer (senten
 
 Need to compare and contrast similar patterns so the devil is in the details when studying i.e. builder and factory are quite similar
 
+Need to know the UML classes to know what classes are part of each pattern.
