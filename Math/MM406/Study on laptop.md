@@ -5,4 +5,5 @@ For some space $\mathcal{A}$, which is finite dimensional subspace of some space
 $$
 ## Example 2.1
 
-Finding the best approximations of $v$ from $\mathcal{A}$ in both $l_{2}$ and $l_{\infty}$ norms when $\mathcal{A} = (x,y)^{T} : x =0$.
+Finding the best approximations of $v=(1,1)^{T}$ from $\mathcal{A}$ in both $l_{2}$ and $l_{\infty}$ norms when $\mathcal{A} = (x,y)^{T} : x =0$.
+
