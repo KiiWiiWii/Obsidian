@@ -56,12 +56,14 @@
             "id": "b1b1384ef23a402a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math/MM406/Finite-Elements-MM406.pdf"
+                "file": "CompSci/CS409/Revision Lecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Finite-Elements-MM406"
+              "icon": "lucide-file",
+              "title": "Revision Lecture"
             }
           },
           {
@@ -496,13 +498,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM406/Finite-Elements-MM406.pdf",
+                "file": "CompSci/CS409/Revision Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Finite-Elements-MM406"
+              "title": "Outline of Revision Lecture"
             }
           }
         ],
@@ -526,10 +528,11 @@
   },
   "active": "b1b1384ef23a402a",
   "lastOpenFiles": [
+    "Math/MM406/Finite-Elements-MM406.pdf",
+    "CompSci/CS409/Revision Lecture.md",
     "Math/MM Year 4 Induction.md",
     "CompSci/CS409/Week 10 - Mediator Pattern.md",
     "Pasted image 20251118115237.png",
-    "Math/MM406/Finite-Elements-MM406.pdf",
     "Math/MM406/Week 9 Lecture 1.md",
     "Pasted image 20251118112200.png",
     "Pasted image 20251118111420.png",
@@ -572,8 +575,6 @@
     "Math/MM302/SIR Model.canvas",
     "Math/MM302/Examples/Example 1.5.md",
     "Math/MM302/- Master Sheet MM302 -.md",
-    "Math/MM306/Fourth Lecture.md",
-    "Math/MM302/Another rewrite.md",
     "CompSci/CS411",
     "Math/MM420",
     "CompSci/CS317/Project.canvas",
