@@ -27,4 +27,8 @@ Throughout the class we want to take some problem $X$ and encode it as something
 
 ![[Pasted image 20260120113818.png]]
 
-The question is what language is accepted by this automata? The answer is ($\sum$) and so on
+The question is what language is accepted by this automata? The answer is that it accepts any word with an even amount of b's. Formally:
+![[Pasted image 20260120114311.png]]
+
+This can be read like recursion as if it were haskell or some other related language.
+$\hat{\delta}(q, \epsilon): = q$ is the base case, the next is the recursive case.
