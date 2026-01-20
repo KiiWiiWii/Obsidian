@@ -57,3 +57,4 @@ Left as exercise.
 
 # Closure properties
 
+Given a DFA, $(Q, \sum, del)$
