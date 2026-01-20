@@ -41,3 +41,8 @@ Write a language such that: $$
 L = \{ w \in \{ a,b \} | \text{number of a's is odd} \}
 $$
 Here we have $\sum=\{ a,b \}$.
+![[Pasted image 20260120115150.png]]
+
+## Example 2
+
+$L = \{ w \in \{ a,b \}^{\star}| \text{w contains abb} \}$
