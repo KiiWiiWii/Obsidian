@@ -32,3 +32,12 @@ The question is what language is accepted by this automata? The answer is that i
 
 This can be read like recursion as if it were haskell or some other related language.
 $\hat{\delta}(q, \epsilon): = q$ is the base case, the next is the recursive case.
+
+Any language is regular if there exists a definite finite automata (DFA) that accepts it.
+
+## Example 1
+
+Write a language such that: $$
+L = \{ w \in \{ a,b \} | \text{number of a's is odd} \}
+$$
+Here we have $\sum=\{ a,b \}$.
