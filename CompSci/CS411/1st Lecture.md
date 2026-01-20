@@ -15,4 +15,16 @@ The arrow that has no notation is the starting arrow which denotes the initial s
 
 #### Sequence:
 
-Just a collection of objects, usually written as a list. Finite sequences are called tuples. $k-$tuples are tuples of k length, and finally words or strings are just the sum of some alphabet $\sum$.
+Just a collection of objects, usually written as a list. Finite sequences are called tuples. $k-$tuples are tuples of k length, and finally words or strings are just the sum of some alphabet $\sum$. The empty word is $\epsilon$ and every word in some alphabet is $\sum^{\star}$.
+
+#### Problem -> language
+
+Throughout the class we want to take some problem $X$ and encode it as something in the form $L_{X}$. Solving the problem boils down to checking the membership in the language $L_{X}$.
+
+#### Deterministic automata
+
+![[Pasted image 20260120113524.png]]
+
+![[Pasted image 20260120113818.png]]
+
+The question is what language is accepted by this automata? The answer is ($\sum$) and so on
