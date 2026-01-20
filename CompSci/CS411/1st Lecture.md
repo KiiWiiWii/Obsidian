@@ -57,4 +57,10 @@ Left as exercise.
 
 # Closure properties
 
-Given a DFA, $(Q, \sum, del)$
+Given a DFA, $(Q, \sum, \delta, F)$ accepting $L \underline{\subset} \sum^{\star}$ Let $\bar{L}: = \sum^{\star} - L$ To show that $\bar{L}$ is regular we need to provide a DFA accepting $L$. We define this DFA as follows:
+$$
+\left( Q,\sum, \delta, Q - F \right)
+$$
+
+Languages are closed under union: ![[Pasted image 20260120121623.png]]
+
