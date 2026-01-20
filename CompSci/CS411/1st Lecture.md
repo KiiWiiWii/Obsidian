@@ -69,4 +69,7 @@ They are also closed under intersection and composition.
 
 ## Non-deterministic finite automata#
 
-The next step is not determined by the current state. They can be much smaller than DFA's.
+The next step is not determined by the current state. They can be much smaller than DFA's. 
+
+![[Pasted image 20260120122900.png]]
+
