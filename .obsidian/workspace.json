@@ -24,19 +24,19 @@
         ]
       },
       {
-        "id": "5cce805d203faa39",
+        "id": "69760c5d6b9a4fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "6293f28e048de1b8",
+            "id": "445bc76fefbe109f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math/MM406/notes.pdf"
+                "file": "CompSci/CS411/Lecture1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "notes"
+              "title": "Lecture1"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "e2cdca6abf3cfbc9",
   "lastOpenFiles": [
-    "Math/MM406/Finite-Elements-MM406.pdf",
+    "CompSci/CS411/Lecture1.pdf",
     "CompSci/CS411/1st Lecture.md",
+    "Math/MM406/Finite-Elements-MM406.pdf",
     "CompSci/Untitled",
     "Math/MM406/Study/notes.pdf",
     "Math/MM406/Study/blank",
@@ -234,7 +235,6 @@
     "CompSci/CS409/1st Lecture Code.java~",
     "CompSci/CS409/Untitled.canvas",
     "CompSci/CS409/1st Lecture Code.java",
-    "CompSci/CS409/1st Lecture Code.py",
     "Math/MM302/Untitled.canvas",
     "Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS317/Project.canvas",
