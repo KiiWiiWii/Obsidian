@@ -85,3 +85,10 @@ Clearly this is ok as we are necessitated to get 'bb' to get to the acceptance s
 
 #### Example 2
 
+![[Pasted image 20260120124156.png]]
+
+The language is the union of the top and the bottom paths are both are allowed.
+
+$$
+L = \{ w \in \{ 0,1 \}^{\star} | \text{w consists of at least 1 0 and only 0's} \} \cup \{ w\in\{ 0,1 \}^{\star}| \text{} \}
+$$
