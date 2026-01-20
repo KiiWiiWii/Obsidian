@@ -63,4 +63,4 @@ $$
 $$
 
 Languages are closed under union: ![[Pasted image 20260120121623.png]]
-
+$$
