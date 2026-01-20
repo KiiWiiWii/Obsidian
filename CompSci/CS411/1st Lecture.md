@@ -63,4 +63,10 @@ $$
 $$
 
 Languages are closed under union: ![[Pasted image 20260120121623.png]]
-$$
+They are also closed under intersection and composition.
+
+![[Pasted image 20260120122422.png]]
+
+## Non-deterministic finite automata#
+
+The next step is not determined by the current state. They can be much smaller than DFA's.
