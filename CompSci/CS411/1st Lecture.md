@@ -73,3 +73,6 @@ The next step is not determined by the current state. They can be much smaller t
 
 ![[Pasted image 20260120122900.png]]
 
+DFA's also have $\epsilon$ transitions, which basically just are jumps with no specific input from the user.
+
+The way we check if a NFA run is allowed we basically just do a DFS on it.
