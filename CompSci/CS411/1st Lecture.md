@@ -46,3 +46,11 @@ Here we have $\sum=\{ a,b \}$.
 ## Example 2
 
 $L = \{ w \in \{ a,b \}^{\star}| \text{w contains abb} \}$
+
+![[Pasted image 20260120115801.png]]
+
+## Example 3
+
+![[Pasted image 20260120115857.png]]
+
+Left as exercise.
