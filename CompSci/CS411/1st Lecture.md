@@ -90,5 +90,13 @@ Clearly this is ok as we are necessitated to get 'bb' to get to the acceptance s
 The language is the union of the top and the bottom paths are both are allowed.
 
 $$
-L = \{ w \in \{ 0,1 \}^{\star} | \text{w consists of at least 1 0 and only 0's} \} \cup \{ w\in\{ 0,1 \}^{\star}| \text{} \}
+L = \begin{cases}
+
+\{ w \in \{ 0,1 \}^{\star} | \text{w consists of 1 or more 0's} \} \\
+\{ w\in\{ 0,1 \}^{\star}| \text{w ends in 1} \}
+\end{cases}
 $$
+Note that **NFA's are not more powerful than DFA's**
+
+![[Pasted image 20260120124937.png]]
+
