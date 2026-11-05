@@ -186,3 +186,7 @@ We have $e^{1.5} = 4.482\dots$ so this is OK.
 |  +  | 0.846 |      3.167       |      11.22       |      45.88      |
 
 We have that $e^{4} = 54.60\dots$ So this is rubbish. This happens because $1.5$ is inside of our data set, $4$ however is an outsider and we have a 0 tolerance policy for immigrants.
+
+This is an equation $1 + 1\lambda = 2$.
+
+$c_{1}\pi _{1}$.

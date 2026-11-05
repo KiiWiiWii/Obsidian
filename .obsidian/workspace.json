@@ -25,12 +25,14 @@
             "id": "ddc4d6e6692b909c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "Math/MM406/5th Lecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "5th Lecture"
             }
           }
         ],
@@ -171,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Math/MM406/5th Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 5th Lecture"
             }
           }
         ],
@@ -200,6 +203,9 @@
   },
   "active": "ddc4d6e6692b909c",
   "lastOpenFiles": [
+    "Math/MM406/Finite-Elements-MM406.pdf",
+    "Math/MM306/Second Lecture.md",
+    "Math/MM306/Seventh Lecture.md",
     "Pasted image 20260120124937.png",
     "Pasted image 20260120124156.png",
     "Pasted image 20260120123722.png",
@@ -212,8 +218,6 @@
     "Pasted image 20260120115801.png",
     "Pasted image 20260120115150.png",
     "Pasted image 20260120114311.png",
-    "Pasted image 20260120113818.png",
-    "Math/MM406/Finite-Elements-MM406.pdf",
     "CompSci/Untitled",
     "Math/MM406/Study/notes.pdf",
     "Math/MM406/Study/blank",
@@ -243,8 +247,6 @@
     "Math/MM Year 4 Induction.md",
     "CompSci/CS409/Week 10 - Mediator Pattern.md",
     "Math/MM406/Week 7 Tutorial.md",
-    "CompSci/CS year 4 Preliminaries.md",
-    "CompSci/CS Year 4 Induciton.md",
     "CompSci/CS409/1st Lecture Code.java~",
     "CompSci/CS409/Untitled.canvas",
     "CompSci/CS409/1st Lecture Code.java",
