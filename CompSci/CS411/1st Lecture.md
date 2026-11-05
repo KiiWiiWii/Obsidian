@@ -100,3 +100,4 @@ Note that **NFA's are not more powerful than DFA's**
 
 ![[Pasted image 20260120124937.png]]
 
+note that the closure of U is also unioned with $U$.

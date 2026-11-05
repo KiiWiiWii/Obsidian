@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1st Lecture"
             }
+          },
+          {
+            "id": "ddc4d6e6692b909c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "69760c5d6b9a4fa5",
@@ -158,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSci/CS411/1st Lecture.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1st Lecture"
+              "title": "Outline"
             }
           }
         ],
@@ -186,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2cdca6abf3cfbc9",
+  "active": "ddc4d6e6692b909c",
   "lastOpenFiles": [
     "Pasted image 20260120124937.png",
     "Pasted image 20260120124156.png",
