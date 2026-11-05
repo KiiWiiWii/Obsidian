@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MM406/5th Lecture.md",
+                "file": "Math/MM302/Ratio Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5th Lecture"
+              "title": "Ratio Test"
             }
           }
         ],
@@ -53,8 +53,19 @@
               "icon": "lucide-file-text",
               "title": "Lecture1"
             }
+          },
+          {
+            "id": "e94ddc99e9fd52b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MM406/5th Lecture.md",
+                "file": "Math/MM302/Ratio Test.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5th Lecture"
+              "title": "Outline of Ratio Test"
             }
           }
         ],
@@ -203,6 +214,18 @@
   },
   "active": "ddc4d6e6692b909c",
   "lastOpenFiles": [
+    "Pasted image 20260120113524.png",
+    "CompSci/CS year 4 Preliminaries.md",
+    "CompSci/IndividualProjectGuidelines.pdf",
+    "Math/MM302/Legendres Equation.md",
+    "Math/MM302/- Master Sheet MM302 -.md",
+    "Math/MM302/Extending ODE solutions of 2nd order to variable coefficients.md",
+    "Math/MM302/Epic notes week 7.md",
+    "Math/MM302/ConvergenceAndDivergence.md",
+    "Math/MM302/Bessels Equation.md",
+    "Math/MM302/Analytic Functions.md",
+    "Math/MM406/1st Lecture.md",
+    "Math/MM406/5th Lecture.md",
     "Math/MM406/Finite-Elements-MM406.pdf",
     "Math/MM306/Second Lecture.md",
     "Math/MM306/Seventh Lecture.md",
@@ -232,24 +255,13 @@
     "Math/MM406/Week 5 Lecture 1.md",
     "Math/MM406/Week 9 Lecture 1.md",
     "Math/MM302/SIR Model.canvas",
-    "Math/MM406/5th Lecture.md",
     "Untitled.md",
-    "Math/MM302/- Master Sheet MM302 -.md",
-    "Math/MM302/Analytic Functions.md",
     "Math/MM306/Third Lecture.md",
     "Math/MM306/Fourth Lecture.md",
     "Math/MM306/Sixth Lecture.md",
     "Math/MM302/New lecturer yaayayyayya.md",
-    "Math/MM306/Ninth Lecture.md",
-    "Math/MM306/Revision Lecture.md",
-    "Math/MM306/Eleventh Lecture.md",
-    "CompSci/CS409/Revision Lecture.md",
-    "Math/MM Year 4 Induction.md",
-    "CompSci/CS409/Week 10 - Mediator Pattern.md",
-    "Math/MM406/Week 7 Tutorial.md",
     "CompSci/CS409/1st Lecture Code.java~",
     "CompSci/CS409/Untitled.canvas",
-    "CompSci/CS409/1st Lecture Code.java",
     "Math/MM302/Untitled.canvas",
     "Personal/Solitare/Solitare UML.canvas",
     "CompSci/CS317/Project.canvas",
